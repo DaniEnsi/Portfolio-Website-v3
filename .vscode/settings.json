@@ -1,0 +1,17 @@
+{
+  "favorites.resources": [
+    {
+      "filePath": "src/components/Icon/Dev.vue",
+      "group": "Default"
+    },
+    {
+      "filePath": "src/components/Icon/Brand.vue",
+      "group": "Default"
+    },
+    {
+      "filePath": "src/pages/projects/webstax/mdcreator.vue",
+      "group": "Default"
+    }
+  ],
+  "git.ignoreLimitWarning": true
+}

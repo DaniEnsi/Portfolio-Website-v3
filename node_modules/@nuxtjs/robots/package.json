@@ -1,0 +1,42 @@
+{
+  "name": "@nuxtjs/robots",
+  "version": "2.5.0",
+  "description": "A Nuxt.js module thats inject a middleware to generate a robots.txt file",
+  "repository": "nuxt-community/robots-module",
+  "license": "MIT",
+  "contributors": [
+    "Ricardo Gobbo de Souza <ricardogobbosouza@yahoo.com.br>",
+    "Robert Reinhard",
+    "William DA SILVA <william.da.silva@outlook.com>"
+  ],
+  "main": "./dist/module.js",
+  "types": "./dist/module.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "siroc build",
+    "prepublishOnly": "yarn build",
+    "dev": "nuxt dev test/fixture/basic",
+    "lint": "eslint --ext .js,.ts,.vue .",
+    "release": "yarn test && yarn build && standard-version && git push --follow-tags && npm publish",
+    "test": "yarn lint && yarn jest"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "latest",
+    "@nuxt/test-utils": "latest",
+    "@nuxt/types": "latest",
+    "@nuxtjs/eslint-config-typescript": "latest",
+    "@types/jest": "latest",
+    "@types/node": "latest",
+    "del": "latest",
+    "eslint": "latest",
+    "jest": "latest",
+    "nuxt": "latest",
+    "siroc": "latest",
+    "standard-version": "latest"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
