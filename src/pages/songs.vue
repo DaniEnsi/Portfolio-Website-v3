@@ -73,7 +73,7 @@ export default Vue.extend({
       <h1 class="text-gray-900 text-4xl dark:text-neutral-300">Songs</h1>
       <p>
         My latest activity on Last FM. Don't forget to check out my
-        <SmartLink href="/daily" class="underline"
+        <SmartLink href="/daily-song" class="underline"
           >daily song suggestions</SmartLink
         >
         page as well!

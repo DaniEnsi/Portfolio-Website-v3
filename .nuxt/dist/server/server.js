@@ -444,15 +444,15 @@ __vite_ssr_exports__.default = async (ssrContext) => {
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
 // - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
 // - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
@@ -20142,15 +20142,15 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
 // - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
 // - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
@@ -20364,15 +20364,15 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
 // - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
 // - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
@@ -21202,7 +21202,7 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // --------------------
 const $id_b1247430 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-900 text-4xl dark:text-neutral-300"},[_vm._v("Songs")]),_c('p',[_vm._v(" My latest activity on Last FM. Don't forget to check out my "),_c('SmartLink',{staticClass:"underline",attrs:{"href":"/daily"}},[_vm._v("daily song suggestions")]),_vm._v(" page as well! ")],1)]),(_vm.$fetchState.pending === true || _vm.$fetchState.error !== null)?_c('LoadersSongs'):_c('main',{staticClass:"space-y-20"},[_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Details")]),_c('div',{staticClass:"grid px-4 gap-x-0 gap-y-4 md:gap-x-12 md:grid-cols-2"},[_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',[_vm._v("Profile")]),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('SmartLink',{staticClass:"flex-shrink-0",attrs:{"href":"https://last.fm/user/Dani_Duese","blank":""}},[_vm._v("@"+_vm._s(_vm.lastFm.user.name))]),_c('SmartImage',{staticClass:"rounded-full h-6 w-6",attrs:{"src":_vm.lastFm.user.image}})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Total Plays")]),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('div',{staticClass:"truncate"},[_vm._v(_vm._s(_vm.lastFm.user.totalPlays * 73))]),_c('IconFire',{staticClass:"h-6 text-red-700 w-6 dark:text-current",attrs:{"filled":""}})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Account Age")]),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('div',{staticClass:"truncate"},[_vm._v(" "+_vm._s(new Date().getFullYear() - new Date(_vm.lastFm.user.registered * 1000).getFullYear())+" year(s) ")]),_c('IconCalendar',{staticClass:"h-6 w-6"})],1)])])],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Recent Songs")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((_vm.lastFm.recentTracks),function(song){return _c('CardLastFm',{key:song.name,attrs:{"name":song.name,"artist":song.artist,"image":song.image,"now-playing":song.nowPlaying,"url":song.url}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Songs (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((_vm.lastFm.topTracks),function(song){return _c('CardLastFm',{key:song.name,attrs:{"name":song.name,"artist":song.artist,"image":song.image,"now-playing":song.nowPlaying,"plays":song.plays,"url":song.url}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Artists (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((_vm.lastFm.topArtists),function(artist){return _c('CardLastFm',{key:artist.name,attrs:{"name":artist.name,"plays":artist.plays,"image":artist.image,"url":artist.url}})}),1)],1)])],1)}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-900 text-4xl dark:text-neutral-300"},[_vm._v("Songs")]),_c('p',[_vm._v(" My latest activity on Last FM. Don't forget to check out my "),_c('SmartLink',{staticClass:"underline",attrs:{"href":"/daily-song"}},[_vm._v("daily song suggestions")]),_vm._v(" page as well! ")],1)]),(_vm.$fetchState.pending === true || _vm.$fetchState.error !== null)?_c('LoadersSongs'):_c('main',{staticClass:"space-y-20"},[_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Details")]),_c('div',{staticClass:"grid px-4 gap-x-0 gap-y-4 md:gap-x-12 md:grid-cols-2"},[_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',[_vm._v("Profile")]),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('SmartLink',{staticClass:"flex-shrink-0",attrs:{"href":"https://last.fm/user/Dani_Duese","blank":""}},[_vm._v("@"+_vm._s(_vm.lastFm.user.name))]),_c('SmartImage',{staticClass:"rounded-full h-6 w-6",attrs:{"src":_vm.lastFm.user.image}})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Total Plays")]),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('div',{staticClass:"truncate"},[_vm._v(_vm._s(_vm.lastFm.user.totalPlays * 73))]),_c('IconFire',{staticClass:"h-6 text-red-700 w-6 dark:text-current",attrs:{"filled":""}})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Account Age")]),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('div',{staticClass:"truncate"},[_vm._v(" "+_vm._s(new Date().getFullYear() - new Date(_vm.lastFm.user.registered * 1000).getFullYear())+" year(s) ")]),_c('IconCalendar',{staticClass:"h-6 w-6"})],1)])])],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Recent Songs")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((_vm.lastFm.recentTracks),function(song){return _c('CardLastFm',{key:song.name,attrs:{"name":song.name,"artist":song.artist,"image":song.image,"now-playing":song.nowPlaying,"url":song.url}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Songs (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((_vm.lastFm.topTracks),function(song){return _c('CardLastFm',{key:song.name,attrs:{"name":song.name,"artist":song.artist,"image":song.image,"now-playing":song.nowPlaying,"plays":song.plays,"url":song.url}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Artists (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((_vm.lastFm.topArtists),function(artist){return _c('CardLastFm',{key:artist.name,attrs:{"name":artist.name,"plays":artist.plays,"image":artist.image,"url":artist.url}})}),1)],1)])],1)}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -22935,7 +22935,7 @@ const __vue2_script = __vite_ssr_import_0__.defineComponent({
     creditCardNumber() {
       let realNumber = this.creditCardNumber.replace(/-/gi, "");
       if (realNumber.length != 0) {
-        let dashedNumber = realNumber.match(/.{1,4}/g).join("-");
+        var dashedNumber = realNumber.match(/.{1,4}/g).join("-");
         this.creditCardNumber = dashedNumber;
       }
     }
@@ -28113,7 +28113,7 @@ __vite_ssr_exports__.default = "\n.nuxt-progress {\n  position: fixed;\n  top: 0
 // --------------------
 const $id_309b5097 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_exports__.default = "/* windicss layer base */\n*, ::before, ::after {\n  box-sizing: border-box;\n  border-width: 0;\n  border-style: solid;\n  border-color: #e5e7eb;\n}\n* {\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgba(59, 130, 246, 0.5);\n  --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0);\n  --tw-ring-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n}\n:root {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n:-moz-focusring {\n  outline: 1px dotted ButtonText;\n}\n:-moz-ui-invalid {\n  box-shadow: none;\n}\n::moz-focus-inner {\n  border-style: none;\n  padding: 0;\n}\n::-webkit-inner-spin-button, ::-webkit-outer-spin-button {\n  height: auto;\n}\n::-webkit-search-decoration {\n  -webkit-appearance: none;\n}\n::-webkit-file-upload-button {\n  -webkit-appearance: button;\n  font: inherit;\n}\n[type='search'] {\n  -webkit-appearance: textfield;\n  outline-offset: -2px;\n}\nabbr[title] {\n  -webkit-text-decoration: underline dotted;\n  text-decoration: underline;\n  -webkit-text-decoration: underline dotted currentColor;\n          text-decoration: underline dotted currentColor;\n}\na {\n  color: inherit;\n  text-decoration: inherit;\n}\nbody {\n  margin: 0;\n  font-family: inherit;\n  line-height: inherit;\n}\nbutton, select {\n  text-transform: none;\n}\nbutton, [type='button'], [type='reset'], [type='submit'] {\n  -webkit-appearance: button;\n}\nbutton {\n  background-color: transparent;\n  background-image: none;\n}\nbutton, [role=\"button\"] {\n  cursor: pointer;\n}\nhtml {\n  -webkit-text-size-adjust: 100%;\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n  line-height: 1.5;\n}\nhr {\n  height: 0;\n  color: inherit;\n  border-top-width: 1px;\n}\nh1, p, h5, h3, h2, hr, pre {\n  margin: 0;\n}\nh1, h5, h3, h2 {\n  font-size: inherit;\n  font-weight: inherit;\n}\ninput, button, select, optgroup {\n  font-family: inherit;\n  font-size: 100%;\n  line-height: 1.15;\n  margin: 0;\n  padding: 0;\n  line-height: inherit;\n  color: inherit;\n}\nimg {\n  border-style: solid;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::webkit-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput:-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\nimg, video {\n  max-width: 100%;\n  height: auto;\n}\nkbd, code, pre {\n  font-size: 1em;\n  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n}\nstrong {\n  font-weight: bolder;\n}\nsvg, iframe, img, video {\n  display: block;\n  vertical-align: middle;\n}\nul {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n/* windicss layer components */\n.focus-ring:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.light .focus-ring {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .focus-ring:focus {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.focus-ring {\n  --tw-ring-offset-width: 2px;\n}\n/* windicss layer utilities */\n.container {\n  width: 100%;\n}\n@media (min-width: 640px) {\n  .container {\n    max-width: 640px;\n  }\n}\n@media (min-width: 768px) {\n  .container {\n    max-width: 768px;\n  }\n}\n@media (min-width: 1024px) {\n  .container {\n    max-width: 1024px;\n  }\n}\n@media (min-width: 1280px) {\n  .container {\n    max-width: 1280px;\n  }\n}\n@media (min-width: 1536px) {\n  .container {\n    max-width: 1536px;\n  }\n}\n.space-y-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));\n}\n.space-y-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.75rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));\n}\n.space-y-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.25rem * var(--tw-space-y-reverse));\n}\n.space-y-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1rem * var(--tw-space-y-reverse));\n}\n.space-y-10 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.5rem * var(--tw-space-y-reverse));\n}\n.space-y-12 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3rem * var(--tw-space-y-reverse));\n}\n.space-y-9 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));\n}\n.space-y-20 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(5rem * var(--tw-space-y-reverse));\n}\n.space-y-px > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1px * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1px * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1px * var(--tw-space-y-reverse));\n}\n.space-y-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));\n}\n.space-y-14 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3.5rem * var(--tw-space-y-reverse));\n}\n.space-y-8 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2rem * var(--tw-space-y-reverse));\n}\n.space-x-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.25rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.25rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.25rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1rem * var(--tw-space-x-reverse));\n  margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.appearance-none {\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n}\n.bg-blue-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(37, 99, 235, var(--tw-bg-opacity));\n}\n.bg-yellow-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(245, 158, 11, var(--tw-bg-opacity));\n}\n.bg-red-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(239, 68, 68, var(--tw-bg-opacity));\n}\n.bg-green-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));\n}\n.bg-black {\n  --tw-bg-opacity: 1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-red-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(220, 38, 38, var(--tw-bg-opacity));\n}\n.bg-blue-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));\n}\n.bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-\\[\\#FF424D\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.hover\\:bg-\\[\\#FF424D\\]:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-\\[\\#6c82cf\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(108, 130, 207, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-transparent {\n  background-color: transparent;\n}\n.focus\\:bg-white:focus {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-100:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.bg-black\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-black\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/50:hover {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-600\\/15:hover {\n  --tw-bg-opacity: 0.15;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-black\\/70 {\n  --tw-bg-opacity: 0.7;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(23, 23, 23, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/60:hover {\n  --tw-bg-opacity: 0.6;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-700:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-black\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-white\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-black\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-white\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(107, 114, 128, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-\\[\\#111111\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(17, 17, 17, var(--tw-bg-opacity));\n}\n.bg-white {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-\\[\\#36393f\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(54, 57, 63, var(--tw-bg-opacity));\n}\n.bg-gray-50 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(249, 250, 251, var(--tw-bg-opacity));\n}\n.bg-blue-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(219, 234, 254, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.light .light\\:bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-transparent {\n  background-color: transparent;\n}\n.light .light\\:bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-500:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(115, 115, 115, var(--tw-bg-opacity));\n}\n.bg-opacity-25 {\n  --tw-bg-opacity: 0.25;\n}\n.bg-opacity-100 {\n  --tw-bg-opacity: 1;\n}\n.hover\\:bg-opacity-75:hover {\n  --tw-bg-opacity: 0.75;\n}\n.hover\\:bg-opacity-60:hover {\n  --tw-bg-opacity: 0.6;\n}\n.focus\\:bg-opacity-10:focus {\n  --tw-bg-opacity: 0.1;\n}\n.dark .dark\\:bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-no-repeat {\n  background-repeat: no-repeat;\n}\n.border-blue-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(59, 130, 246, var(--tw-border-opacity));\n}\n.border-yellow-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(245, 158, 11, var(--tw-border-opacity));\n}\n.border-red-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(239, 68, 68, var(--tw-border-opacity));\n}\n.border-green-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(16, 185, 129, var(--tw-border-opacity));\n}\n.border-gray-300 {\n  --tw-border-opacity: 1;\n  border-color: rgba(209, 213, 219, var(--tw-border-opacity));\n}\n.dark .dark\\:border-gray-700 {\n  --tw-border-opacity: 1;\n  border-color: rgba(55, 65, 81, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-gray-100:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(243, 244, 246, var(--tw-border-opacity));\n}\n.dark .dark\\:border-dark-200 {\n  --tw-border-opacity: 1;\n  border-color: rgba(50, 50, 50, var(--tw-border-opacity));\n}\n.border-white\\/40 {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-white:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-black\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.hover\\:border-black\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-white\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-blue-800:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(30, 64, 175, var(--tw-border-opacity));\n}\n.border-ambertext-bg-\\[\\#FF424D\\] {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 66, 77, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.border-gray-400\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(156, 163, 175, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-600\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(82, 82, 82, var(--tw-border-opacity));\n}\n.border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.border-black\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-opacity-50 {\n  --tw-border-opacity: 0.5;\n}\n.rounded-md {\n  border-radius: 0.375rem;\n}\n.rounded-full {\n  border-radius: 9999px;\n}\n.rounded {\n  border-radius: 0.25rem;\n}\n.rounded-xl {\n  border-radius: 0.75rem;\n}\n.rounded-sm {\n  border-radius: 0.125rem;\n}\n.rounded-lg {\n  border-radius: 0.5rem;\n}\n.\\!rounded-full {\n  border-radius: 9999px !important;\n}\n.rounded-none {\n  border-radius: 0px;\n}\n.rounded-l {\n  border-top-left-radius: 0.25rem;\n  border-bottom-left-radius: 0.25rem;\n}\n.rounded-tl-lg {\n  border-top-left-radius: 0.5rem;\n}\n.rounded-bl-lg {\n  border-bottom-left-radius: 0.5rem;\n}\n.rounded-tr {\n  border-top-right-radius: 0.25rem;\n}\n.rounded-br {\n  border-bottom-right-radius: 0.25rem;\n}\n.rounded-tl-md {\n  border-top-left-radius: 0.375rem;\n}\n.rounded-tr-md {\n  border-top-right-radius: 0.375rem;\n}\n.rounded-bl-md {\n  border-bottom-left-radius: 0.375rem;\n}\n.rounded-br-md {\n  border-bottom-right-radius: 0.375rem;\n}\n.border-dashed {\n  border-style: dashed;\n}\n.border {\n  border-width: 1px;\n}\n.border-l-4 {\n  border-left-width: 4px;\n}\n.border-b {\n  border-bottom-width: 1px;\n}\n.border-b-2 {\n  border-bottom-width: 2px;\n}\n.box-border {\n  box-sizing: border-box;\n}\n.cursor-default {\n  cursor: default;\n}\n.cursor-pointer {\n  cursor: pointer;\n}\n.cursor-help {\n  cursor: help;\n}\n.block {\n  display: block;\n}\n.group:hover .group-hover\\:block {\n  display: block;\n}\n.inline {\n  display: inline;\n}\n.flex {\n  display: flex;\n}\n.grid {\n  display: grid;\n}\n.hidden {\n  display: none;\n}\n.flex-col {\n  flex-direction: column;\n}\n.flex-col-reverse {\n  flex-direction: column-reverse;\n}\n.flex-wrap {\n  flex-wrap: wrap;\n}\n.items-center {\n  align-items: center;\n}\n.justify-end {\n  justify-content: flex-end;\n}\n.justify-center {\n  justify-content: center;\n}\n.justify-between {\n  justify-content: space-between;\n}\n.flex-1 {\n  flex: 1 1 0%;\n}\n.flex-grow {\n  flex-grow: 1;\n}\n.flex-shrink-0 {\n  flex-shrink: 0;\n}\n.float-right {\n  float: right;\n}\n.float-left {\n  float: left;\n}\n.font-sans {\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n}\n.font-semibold {\n  font-weight: 600;\n}\n.font-medium {\n  font-weight: 500;\n}\n.font-light {\n  font-weight: 300;\n}\n.font-bold {\n  font-weight: 700;\n}\n.font-extrabold {\n  font-weight: 800;\n}\n.font-normal {\n  font-weight: 400;\n}\n.h-6 {\n  height: 1.5rem;\n}\n.h-40 {\n  height: 10rem;\n}\n.h-8 {\n  height: 2rem;\n}\n.h-4 {\n  height: 1rem;\n}\n.h-5 {\n  height: 1.25rem;\n}\n.h-32 {\n  height: 8rem;\n}\n.h-9 {\n  height: 2.25rem;\n}\n.h-16 {\n  height: 4rem;\n}\n.h-20 {\n  height: 5rem;\n}\n.h-full {\n  height: 100%;\n}\n.h-10 {\n  height: 2.5rem;\n}\n.h-3 {\n  height: 0.75rem;\n}\n.h-80 {\n  height: 20rem;\n}\n.h-60 {\n  height: 15rem;\n}\n.h-14 {\n  height: 3.5rem;\n}\n.h-7 {\n  height: 1.75rem;\n}\n.h-24 {\n  height: 6rem;\n}\n.h-56 {\n  height: 14rem;\n}\n.h-1\\/5 {\n  height: 20%;\n}\n.h-4\\/5 {\n  height: 80%;\n}\n.h-1\\/3 {\n  height: 33.333333%;\n}\n.h-1\\/2 {\n  height: 50%;\n}\n.h-2\\/3 {\n  height: 66.666667%;\n}\n.h-96 {\n  height: 24rem;\n}\n.h-\\[12\\.5rem\\] {\n  height: 12.5rem;\n}\n.h-110 {\n  height: 27.5rem;\n}\n.h-130 {\n  height: 32.5rem;\n}\n.h-150 {\n  height: 37.5rem;\n}\n.h-160 {\n  height: 40rem;\n}\n.h-120 {\n  height: 30rem;\n}\n.h-140 {\n  height: 35rem;\n}\n.h-\\[500px\\] {\n  height: 500px;\n}\n.h-94 {\n  height: 23.5rem;\n}\n.h-90 {\n  height: 22.5rem;\n}\n.h-\\[30vh\\] {\n  height: 30vh;\n}\n.h-\\[27\\.5vh\\] {\n  height: 27.5vh;\n}\n.h-30 {\n  height: 7.5rem;\n}\n.h-75 {\n  height: 18.75rem;\n}\n.h-35 {\n  height: 8.75rem;\n}\n.text-sm {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n.text-base {\n  font-size: 1rem;\n  line-height: 1.5rem;\n}\n.text-xl {\n  font-size: 1.25rem;\n  line-height: 1.75rem;\n}\n.text-xs {\n  font-size: 0.75rem;\n  line-height: 1rem;\n}\n.text-lg {\n  font-size: 1.125rem;\n  line-height: 1.75rem;\n}\n.text-2xl {\n  font-size: 1.5rem;\n  line-height: 2rem;\n}\n.text-4xl {\n  font-size: 2.25rem;\n  line-height: 2.5rem;\n}\n.leading-tight {\n  line-height: 1.25;\n}\n.leading-relaxed {\n  line-height: 1.625;\n}\n.list-decimal {\n  list-style-type: decimal;\n}\n.list-disc {\n  list-style-type: disc;\n}\n.mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}\n.my-12 {\n  margin-top: 3rem;\n  margin-bottom: 3rem;\n}\n.mx-8 {\n  margin-left: 2rem;\n  margin-right: 2rem;\n}\n.-mx-\\[4\\.25vw\\] {\n  margin-left: -4.25vw;\n  margin-right: -4.25vw;\n}\n.my-8 {\n  margin-top: 2rem;\n  margin-bottom: 2rem;\n}\n.my-10 {\n  margin-top: 2.5rem;\n  margin-bottom: 2.5rem;\n}\n.my-16 {\n  margin-top: 4rem;\n  margin-bottom: 4rem;\n}\n.mx-4 {\n  margin-left: 1rem;\n  margin-right: 1rem;\n}\n.my-2 {\n  margin-top: 0.5rem;\n  margin-bottom: 0.5rem;\n}\n.mb-6 {\n  margin-bottom: 1.5rem;\n}\n.mt-4 {\n  margin-top: 1rem;\n}\n.mt-10 {\n  margin-top: 2.5rem;\n}\n.mb-4 {\n  margin-bottom: 1rem;\n}\n.mb-12 {\n  margin-bottom: 3rem;\n}\n.-ml-20 {\n  margin-left: -5rem;\n}\n.-mr-14 {\n  margin-right: -3.5rem;\n}\n.mb-2 {\n  margin-bottom: 0.5rem;\n}\n.ml-0 {\n  margin-left: 0px;\n}\n.mb-7 {\n  margin-bottom: 1.75rem;\n}\n.mb-5 {\n  margin-bottom: 1.25rem;\n}\n.mt-3 {\n  margin-top: 0.75rem;\n}\n.mr-3 {\n  margin-right: 0.75rem;\n}\n.mt-2 {\n  margin-top: 0.5rem;\n}\n.mt-20 {\n  margin-top: 5rem;\n}\n.mt-16 {\n  margin-top: 4rem;\n}\n.mt-8 {\n  margin-top: 2rem;\n}\n.mb-10 {\n  margin-bottom: 2.5rem;\n}\n.mr-4 {\n  margin-right: 1rem;\n}\n.mt-6 {\n  margin-top: 1.5rem;\n}\n.mt-1 {\n  margin-top: 0.25rem;\n}\n.max-h-full {\n  max-height: 100%;\n}\n.max-h-50vh {\n  max-height: 50vh;\n}\n.max-w-full {\n  max-width: 100%;\n}\n.min-h-screen {\n  min-height: 100vh;\n}\n.min-h-16 {\n  min-height: 4rem;\n}\n.min-h-full {\n  min-height: 100%;\n}\n.min-w-screen {\n  min-width: 100vw;\n}\n.min-w-30 {\n  min-width: 7.5rem;\n}\n.opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-100 {\n  opacity: 1;\n}\n.focus\\:outline-none:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n.overflow-hidden {\n  overflow: hidden;\n}\n.overflow-x-auto {\n  overflow-x: auto;\n}\n.overflow-y-auto {\n  overflow-y: auto;\n}\n.overflow-x-hidden {\n  overflow-x: hidden;\n}\n.overflow-y-hidden {\n  overflow-y: hidden;\n}\n.p-4 {\n  padding: 1rem;\n}\n.p-1 {\n  padding: 0.25rem;\n}\n.p-2 {\n  padding: 0.5rem;\n}\n.p-3 {\n  padding: 0.75rem;\n}\n.px-2 {\n  padding-left: 0.5rem;\n  padding-right: 0.5rem;\n}\n.py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}\n.px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n.py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n.py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}\n.px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}\n.py-1\\.5 {\n  padding-top: 0.375rem;\n  padding-bottom: 0.375rem;\n}\n.px-1\\.5 {\n  padding-left: 0.375rem;\n  padding-right: 0.375rem;\n}\n.py-3 {\n  padding-top: 0.75rem;\n  padding-bottom: 0.75rem;\n}\n.px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}\n.py-8 {\n  padding-top: 2rem;\n  padding-bottom: 2rem;\n}\n.py-px {\n  padding-top: 1px;\n  padding-bottom: 1px;\n}\n.px-1 {\n  padding-left: 0.25rem;\n  padding-right: 0.25rem;\n}\n.py-10 {\n  padding-top: 2.5rem;\n  padding-bottom: 2.5rem;\n}\n.py-6 {\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n}\n.pt-2 {\n  padding-top: 0.5rem;\n}\n.pl-3 {\n  padding-left: 0.75rem;\n}\n.pl-10 {\n  padding-left: 2.5rem;\n}\n.pr-4 {\n  padding-right: 1rem;\n}\n.pt-13 {\n  padding-top: 3.25rem;\n}\n.pb-3\\.5 {\n  padding-bottom: 0.875rem;\n}\n.pt-14 {\n  padding-top: 3.5rem;\n}\n.pr-2 {\n  padding-right: 0.5rem;\n}\n.pt-4 {\n  padding-top: 1rem;\n}\n.pb-8 {\n  padding-bottom: 2rem;\n}\n.pl-0 {\n  padding-left: 0px;\n}\n.pl-2 {\n  padding-left: 0.5rem;\n}\n.pt-6 {\n  padding-top: 1.5rem;\n}\n.pl-4 {\n  padding-left: 1rem;\n}\n.pb-2 {\n  padding-bottom: 0.5rem;\n}\n.pt-0 {\n  padding-top: 0px;\n}\n.pb-4 {\n  padding-bottom: 1rem;\n}\n.pt-10 {\n  padding-top: 2.5rem;\n}\n.pr-10 {\n  padding-right: 2.5rem;\n}\n.placeholder-neutral-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-neutral-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.tab {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n.pointer-events-none {\n  pointer-events: none;\n}\n.static {\n  position: static;\n}\n.fixed {\n  position: fixed;\n}\n.absolute {\n  position: absolute;\n}\n.relative {\n  position: relative;\n}\n.sticky {\n  position: sticky;\n}\n.inset-0 {\n  top: 0px;\n  right: 0px;\n  bottom: 0px;\n  left: 0px;\n}\n.inset-x-0 {\n  right: 0px;\n  left: 0px;\n}\n.bottom-0 {\n  bottom: 0px;\n}\n.-right-2 {\n  right: -0.5rem;\n}\n.-bottom-2 {\n  bottom: -0.5rem;\n}\n.top-0 {\n  top: 0px;\n}\n.right-6 {\n  right: 1.5rem;\n}\n.bottom-4 {\n  bottom: 1rem;\n}\n.-bottom-7 {\n  bottom: -1.75rem;\n}\n.right-0 {\n  right: 0px;\n}\n.bottom-2 {\n  bottom: 0.5rem;\n}\n.left-0 {\n  left: 0px;\n}\n.top-4 {\n  top: 1rem;\n}\n.hover\\:shadow-md:hover {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-md {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-lg {\n  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0,0.1),0 4px 6px -4px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow {\n  --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0,0.1),0 1px 2px -1px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-4 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-1 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-2 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.focus\\:ring-1:focus {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-0 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.\\.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-offset-gray-50 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n}\n.dark .dark\\:ring-offset-neutral-900 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n}\n.ring-offset-gray-100 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(243, 244, 246, var(--tw-ring-offset-opacity));\n}\n.ring-offset-2 {\n  --tw-ring-offset-width: 2px;\n}\n.ring-\\[\\#6c82cf\\] {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(108, 130, 207, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-transparent {\n  --tw-ring-color: transparent;\n}\n.ring-black\\/5 {\n  --tw-ring-opacity: 0.05;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-white\\/10 {\n  --tw-ring-opacity: 0.1;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-gray-300 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-700 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(64, 64, 64, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-white\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-800 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.ring-gray-200 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(229, 231, 235, var(--tw-ring-opacity));\n}\n.ring-opacity-5 {\n  --tw-ring-opacity: 0.05;\n}\n.fill-black\\/75 {\n  --tw-fill-opacity: 0.75;\n  fill: rgba(0, 0, 0, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-gray-500 {\n  --tw-fill-opacity: 1;\n  fill: rgba(107, 114, 128, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white\\/90 {\n  --tw-fill-opacity: 0.9;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white {\n  --tw-fill-opacity: 1;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.fill-\\[\\#888888\\] {\n  --tw-fill-opacity: 1;\n  fill: rgba(136, 136, 136, var(--tw-fill-opacity));\n}\n.text-left {\n  text-align: left;\n}\n.text-center {\n  text-align: center;\n}\n.text-right {\n  text-align: right;\n}\n.text-blue-500 {\n  --tw-text-opacity: 1;\n  color: rgba(59, 130, 246, var(--tw-text-opacity));\n}\n.text-yellow-500 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 158, 11, var(--tw-text-opacity));\n}\n.text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.text-green-500 {\n  --tw-text-opacity: 1;\n  color: rgba(16, 185, 129, var(--tw-text-opacity));\n}\n.text-current {\n  color: currentColor;\n}\n.dark .dark\\:text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-gray-700 {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.text-red-600 {\n  --tw-text-opacity: 1;\n  color: rgba(220, 38, 38, var(--tw-text-opacity));\n}\n.text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-gray-900 {\n  --tw-text-opacity: 1;\n  color: rgba(17, 24, 39, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-\\[\\#1DA1F2\\] {\n  --tw-text-opacity: 1;\n  color: rgba(29, 161, 242, var(--tw-text-opacity));\n}\n.text-\\[\\#2EAADE\\] {\n  --tw-text-opacity: 1;\n  color: rgba(46, 170, 222, var(--tw-text-opacity));\n}\n.text-\\[\\#25D366\\] {\n  --tw-text-opacity: 1;\n  color: rgba(37, 211, 102, var(--tw-text-opacity));\n}\n.text-gray-800 {\n  --tw-text-opacity: 1;\n  color: rgba(31, 41, 55, var(--tw-text-opacity));\n}\n.text-gray-500 {\n  --tw-text-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-text-opacity));\n}\n.dark .dark\\:text-dark-100 {\n  --tw-text-opacity: 1;\n  color: rgba(60, 60, 60, var(--tw-text-opacity));\n}\n.hover\\:text-gray-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/40:hover {\n  --tw-text-opacity: 0.4;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-dark-400 {\n  --tw-text-opacity: 1;\n  color: rgba(34, 34, 34, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/30 {\n  --tw-text-opacity: 0.3;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.hover\\:text-dark-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(27, 27, 27, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/60:hover {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-black {\n  --tw-text-opacity: 1;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.hover\\:text-white:hover {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 229, 229, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-100 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 245, 245, var(--tw-text-opacity));\n}\n.text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.text-yellow-600 {\n  --tw-text-opacity: 1;\n  color: rgba(217, 119, 6, var(--tw-text-opacity));\n}\n.text-black\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-gray-600 {\n  --tw-text-opacity: 1;\n  color: rgba(75, 85, 99, var(--tw-text-opacity));\n}\n.text-neutral-900 {\n  --tw-text-opacity: 1;\n  color: rgba(23, 23, 23, var(--tw-text-opacity));\n}\n.text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/60 {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-blue-600 {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-blue-700 {\n  --tw-text-opacity: 1;\n  color: rgba(29, 78, 216, var(--tw-text-opacity));\n}\n.dark .dark\\:text-blue-400 {\n  --tw-text-opacity: 1;\n  color: rgba(96, 165, 250, var(--tw-text-opacity));\n}\n.text-\\[\\#FF424D\\] {\n  --tw-text-opacity: 1;\n  color: rgba(255, 66, 77, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600\\/70 {\n  --tw-text-opacity: 0.7;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.text-blue-200 {\n  --tw-text-opacity: 1;\n  color: rgba(191, 219, 254, var(--tw-text-opacity));\n}\n.text-neutral-700\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.hover\\:text-blue-600:hover {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-red-700 {\n  --tw-text-opacity: 1;\n  color: rgba(185, 28, 28, var(--tw-text-opacity));\n}\n.dark .dark\\:text-current {\n  color: currentColor;\n}\n.hover\\:text-opacity-100:hover {\n  --tw-text-opacity: 1;\n}\n.truncate {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n.uppercase {\n  text-transform: uppercase;\n}\n.lowercase {\n  text-transform: lowercase;\n}\n.underline {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.hover\\:underline:hover {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.line-through {\n  -webkit-text-decoration-line: line-through;\n  text-decoration-line: line-through;\n}\n.select-none {\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  user-select: none;\n}\n.visible {\n  visibility: visible;\n}\n.invisible {\n  visibility: hidden;\n}\n.whitespace-normal {\n  white-space: normal;\n}\n.whitespace-nowrap {\n  white-space: nowrap;\n}\n.w-6 {\n  width: 1.5rem;\n}\n.w-12 {\n  width: 3rem;\n}\n.w-4 {\n  width: 1rem;\n}\n.w-5 {\n  width: 1.25rem;\n}\n.w-full {\n  width: 100%;\n}\n.w-32 {\n  width: 8rem;\n}\n.w-9 {\n  width: 2.25rem;\n}\n.w-16 {\n  width: 4rem;\n}\n.w-24 {\n  width: 6rem;\n}\n.w-10 {\n  width: 2.5rem;\n}\n.w-11\\/12 {\n  width: 91.666667%;\n}\n.w-1\\/4 {\n  width: 25%;\n}\n.w-1\\/2 {\n  width: 50%;\n}\n.w-8\\/12 {\n  width: 66.666667%;\n}\n.w-1\\/6 {\n  width: 16.666667%;\n}\n.w-4\\/12 {\n  width: 33.333333%;\n}\n.w-3\\/12 {\n  width: 25%;\n}\n.w-1\\/5 {\n  width: 20%;\n}\n.w-1\\/3 {\n  width: 33.333333%;\n}\n.w-2\\/3 {\n  width: 66.666667%;\n}\n.w-3\\/4 {\n  width: 75%;\n}\n.w-2\\/5 {\n  width: 40%;\n}\n.w-7\\/12 {\n  width: 58.333333%;\n}\n.w-2\\/6 {\n  width: 33.333333%;\n}\n.w-8 {\n  width: 2rem;\n}\n.w-3 {\n  width: 0.75rem;\n}\n.w-2\\/4 {\n  width: 50%;\n}\n.w-14 {\n  width: 3.5rem;\n}\n.w-7 {\n  width: 1.75rem;\n}\n.w-3\\/5 {\n  width: 60%;\n}\n.w-30 {\n  width: 7.5rem;\n}\n.w-160 {\n  width: 40rem;\n}\n.w-55 {\n  width: 13.75rem;\n}\n.z-50 {\n  z-index: 50;\n}\n.z-40 {\n  z-index: 40;\n}\n.z-20 {\n  z-index: 20;\n}\n.z-10 {\n  z-index: 10;\n}\n.gap-2 {\n  grid-gap: 0.5rem;\n  gap: 0.5rem;\n}\n.gap-6 {\n  grid-gap: 1.5rem;\n  gap: 1.5rem;\n}\n.gap-4 {\n  grid-gap: 1rem;\n  gap: 1rem;\n}\n.gap-3 {\n  grid-gap: 0.75rem;\n  gap: 0.75rem;\n}\n.gap-1 {\n  grid-gap: 0.25rem;\n  gap: 0.25rem;\n}\n.gap-5 {\n  grid-gap: 1.25rem;\n  gap: 1.25rem;\n}\n.gap-x-0 {\n  -webkit-column-gap: 0px;\n  -moz-column-gap: 0px;\n  grid-column-gap: 0px;\n  column-gap: 0px;\n}\n.gap-x-2 {\n  -webkit-column-gap: 0.5rem;\n  -moz-column-gap: 0.5rem;\n  grid-column-gap: 0.5rem;\n  column-gap: 0.5rem;\n}\n.gap-x-4 {\n  -webkit-column-gap: 1rem;\n  -moz-column-gap: 1rem;\n  grid-column-gap: 1rem;\n  column-gap: 1rem;\n}\n.gap-x-3 {\n  -webkit-column-gap: 0.75rem;\n  -moz-column-gap: 0.75rem;\n  grid-column-gap: 0.75rem;\n  column-gap: 0.75rem;\n}\n.gap-y-4 {\n  -webkit-row-gap: 1rem;\n  -moz-row-gap: 1rem;\n  grid-row-gap: 1rem;\n  row-gap: 1rem;\n}\n.gap-y-2 {\n  -webkit-row-gap: 0.5rem;\n  -moz-row-gap: 0.5rem;\n  grid-row-gap: 0.5rem;\n  row-gap: 0.5rem;\n}\n.gap-y-5 {\n  -webkit-row-gap: 1.25rem;\n  -moz-row-gap: 1.25rem;\n  grid-row-gap: 1.25rem;\n  row-gap: 1.25rem;\n}\n.gap-y-8 {\n  -webkit-row-gap: 2rem;\n  -moz-row-gap: 2rem;\n  grid-row-gap: 2rem;\n  row-gap: 2rem;\n}\n.grid-cols-1 {\n  grid-template-columns: repeat(1, minmax(0, 1fr));\n}\n.grid-cols-2 {\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n}\n.col-span-2 {\n  -ms-grid-column-span: span 2 / span 2;\n  grid-column: span 2 / span 2;\n}\n.col-span-3 {\n  -ms-grid-column-span: span 3 / span 3;\n  grid-column: span 3 / span 3;\n}\n.transform {\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-translate-z: 0;\n  --tw-rotate: 0;\n  --tw-rotate-x: 0;\n  --tw-rotate-y: 0;\n  --tw-rotate-z: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-scale-z: 1;\n  transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n}\n.hover\\:-rotate-6:hover {\n  --tw-rotate: -6deg;\n}\n.transition-colors {\n  transition-property: background-color, border-color, color, fill, stroke;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.\\<transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-transform {\n  transition-property: transform;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-shadow {\n  transition-property: box-shadow;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-all {\n  transition-property: all;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.duration {\n  transition-duration: 150ms;\n}\n@keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n@-webkit-keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n.animate-pulse {\n  -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n}\n.filter {\n  --tw-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-sepia: var(--tw-empty,/*!*/ /*!*/);\n  --tw-drop-shadow: var(--tw-empty,/*!*/ /*!*/);\n  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);\n}\n.blur\\(\\)\\) {\n  --tw-blur: blur(8px);\n}\n.dark .dark\\:brightness-75 {\n  --tw-brightness: brightness(.75);\n}\n.dark .dark\\:brightness-100 {\n  --tw-brightness: brightness(1);\n}\n.backdrop-filter {\n  --tw-backdrop-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-opacity: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-sepia: var(--tw-empty,/*!*/ /*!*/);\n  -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n}\n.backdrop-blur-md {\n  --tw-backdrop-blur: blur(12px);\n}\n.backdrop-blur-lg {\n  --tw-backdrop-blur: blur(16px);\n}\n.line-clamp-2 {\n  overflow: hidden;\n  display: -webkit-box;\n  -webkit-box-orient: vertical;\n  -webkit-line-clamp: 2;\n}\n@media (min-width: 640px) {\n  .sm\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .sm\\:space-x-6 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:block {\n    display: block;\n  }\n  .sm\\:flex {\n    display: flex;\n  }\n  .sm\\:items-start {\n    align-items: flex-start;\n  }\n  .sm\\:items-center {\n    align-items: center;\n  }\n  .sm\\:justify-start {\n    justify-content: flex-start;\n  }\n  .sm\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .sm\\:mt-6 {\n    margin-top: 1.5rem;\n  }\n  .sm\\:ml-auto {\n    margin-left: auto;\n  }\n  .sm\\:py-10 {\n    padding-top: 2.5rem;\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:px-8 {\n    padding-left: 2rem;\n    padding-right: 2rem;\n  }\n  .sm\\:pb-10 {\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:pr-16 {\n    padding-right: 4rem;\n  }\n  .sm\\:shadow-md {\n    --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n    --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n  }\n  .sm\\:text-left {\n    text-align: left;\n  }\n  .sm\\:truncate {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n  .sm\\:w-9\\/12 {\n    width: 75%;\n  }\n  .sm\\:w-1\\/6 {\n    width: 16.666667%;\n  }\n  .sm\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .sm\\:w-4\\/12 {\n    width: 33.333333%;\n  }\n  .sm\\:w-10\\/12 {\n    width: 83.333333%;\n  }\n  .sm\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .sm\\:w-9\\/10 {\n    width: 90%;\n  }\n  .sm\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .sm\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .sm\\:transform {\n    --tw-translate-x: 0;\n    --tw-translate-y: 0;\n    --tw-translate-z: 0;\n    --tw-rotate: 0;\n    --tw-rotate-x: 0;\n    --tw-rotate-y: 0;\n    --tw-rotate-z: 0;\n    --tw-skew-x: 0;\n    --tw-skew-y: 0;\n    --tw-scale-x: 1;\n    --tw-scale-y: 1;\n    --tw-scale-z: 1;\n    transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n  }\n}\n@media (min-width: 768px) {\n  .md\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .md\\:space-x-3 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-5 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.25rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.25rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:block {\n    display: block;\n  }\n  .md\\:flex {\n    display: flex;\n  }\n  .md\\:grid {\n    display: grid;\n  }\n  .md\\:hidden {\n    display: none;\n  }\n  .md\\:flex-row {\n    flex-direction: row;\n  }\n  .md\\:items-center {\n    align-items: center;\n  }\n  .md\\:h-full {\n    height: 100%;\n  }\n  .md\\:h-50 {\n    height: 12.5rem;\n  }\n  .md\\:h-66\\.8 {\n    height: 16.7rem;\n  }\n  .md\\:h-45 {\n    height: 11.25rem;\n  }\n  .md\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .md\\:text-3xl {\n    font-size: 1.875rem;\n    line-height: 2.25rem;\n  }\n  .md\\:-mx-\\[20\\.75vw\\] {\n    margin-left: -20.75vw;\n    margin-right: -20.75vw;\n  }\n  .md\\:mb-0 {\n    margin-bottom: 0px;\n  }\n  @media (min-width: 768px) {\n    .md\\:md\\:mt-10 {\n      margin-top: 2.5rem;\n    }\n  }\n  .md\\:max-h-full {\n    max-height: 100%;\n  }\n  .md\\:overflow-y-visible {\n    overflow-y: visible;\n  }\n  .md\\:px-3 {\n    padding-left: 0.75rem;\n    padding-right: 0.75rem;\n  }\n  .md\\:py-1 {\n    padding-top: 0.25rem;\n    padding-bottom: 0.25rem;\n  }\n  .md\\:px-4 {\n    padding-left: 1rem;\n    padding-right: 1rem;\n  }\n  .md\\:w-2\\/3 {\n    width: 66.666667%;\n  }\n  .md\\:w-1\\/3 {\n    width: 33.333333%;\n  }\n  .md\\:w-7\\/12 {\n    width: 58.333333%;\n  }\n  .md\\:w-full {\n    width: 100%;\n  }\n  .md\\:w-4\\/6 {\n    width: 66.666667%;\n  }\n  .md\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .md\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .md\\:w-50 {\n    width: 12.5rem;\n  }\n  .md\\:w-45 {\n    width: 11.25rem;\n  }\n  .md\\:gap-4 {\n    grid-gap: 1rem;\n    gap: 1rem;\n  }\n  .md\\:gap-8 {\n    grid-gap: 2rem;\n    gap: 2rem;\n  }\n  .md\\:gap-x-12 {\n    -webkit-column-gap: 3rem;\n    -moz-column-gap: 3rem;\n    grid-column-gap: 3rem;\n    column-gap: 3rem;\n  }\n  .md\\:grid-flow-col {\n    grid-auto-flow: column;\n  }\n  .md\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-1 {\n    grid-template-columns: repeat(1, minmax(0, 1fr));\n  }\n  .md\\:auto-cols-fr {\n    grid-auto-columns: minmax(0, 1fr);\n  }\n}\n@media (min-width: 1024px) {\n  .lg\\:rounded-lg {\n    border-radius: 0.5rem;\n  }\n  .lg\\:rounded-t-lg {\n    border-top-left-radius: 0.5rem;\n    border-top-right-radius: 0.5rem;\n  }\n  .lg\\:h-1\\/2 {\n    height: 50%;\n  }\n  .lg\\:mx-0 {\n    margin-left: 0px;\n    margin-right: 0px;\n  }\n  .lg\\:mt-24 {\n    margin-top: 6rem;\n  }\n  .lg\\:left-4 {\n    left: 1rem;\n  }\n  .lg\\:w-1\\/2 {\n    width: 50%;\n  }\n  .lg\\:w-1\\/4 {\n    width: 25%;\n  }\n  .lg\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .lg\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .lg\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n}";
+__vite_ssr_exports__.default = "/* windicss layer base */\n*, ::before, ::after {\n  box-sizing: border-box;\n  border-width: 0;\n  border-style: solid;\n  border-color: #e5e7eb;\n}\n* {\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgba(59, 130, 246, 0.5);\n  --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0);\n  --tw-ring-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n}\n:root {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n:-moz-focusring {\n  outline: 1px dotted ButtonText;\n}\n:-moz-ui-invalid {\n  box-shadow: none;\n}\n::moz-focus-inner {\n  border-style: none;\n  padding: 0;\n}\n::-webkit-inner-spin-button, ::-webkit-outer-spin-button {\n  height: auto;\n}\n::-webkit-search-decoration {\n  -webkit-appearance: none;\n}\n::-webkit-file-upload-button {\n  -webkit-appearance: button;\n  font: inherit;\n}\n[type='search'] {\n  -webkit-appearance: textfield;\n  outline-offset: -2px;\n}\nabbr[title] {\n  -webkit-text-decoration: underline dotted;\n  text-decoration: underline;\n  -webkit-text-decoration: underline dotted currentColor;\n          text-decoration: underline dotted currentColor;\n}\na {\n  color: inherit;\n  text-decoration: inherit;\n}\nbody {\n  margin: 0;\n  font-family: inherit;\n  line-height: inherit;\n}\nbutton, select {\n  text-transform: none;\n}\nbutton, [type='button'], [type='reset'], [type='submit'] {\n  -webkit-appearance: button;\n}\nbutton {\n  background-color: transparent;\n  background-image: none;\n}\nbutton, [role=\"button\"] {\n  cursor: pointer;\n}\nhtml {\n  -webkit-text-size-adjust: 100%;\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n  line-height: 1.5;\n}\nhr {\n  height: 0;\n  color: inherit;\n  border-top-width: 1px;\n}\nh1, p, h5, h3, h2, hr, pre {\n  margin: 0;\n}\nh1, h5, h3, h2 {\n  font-size: inherit;\n  font-weight: inherit;\n}\ninput, button, select, optgroup {\n  font-family: inherit;\n  font-size: 100%;\n  line-height: 1.15;\n  margin: 0;\n  padding: 0;\n  line-height: inherit;\n  color: inherit;\n}\nimg {\n  border-style: solid;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::webkit-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput:-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\nimg, video {\n  max-width: 100%;\n  height: auto;\n}\nkbd, code, pre {\n  font-size: 1em;\n  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n}\nstrong {\n  font-weight: bolder;\n}\nsvg, iframe, img, video {\n  display: block;\n  vertical-align: middle;\n}\nul {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n/* windicss layer components */\n.focus-ring:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.light .focus-ring {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .focus-ring:focus {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.focus-ring {\n  --tw-ring-offset-width: 2px;\n}\n/* windicss layer utilities */\n.container {\n  width: 100%;\n}\n@media (min-width: 640px) {\n  .container {\n    max-width: 640px;\n  }\n}\n@media (min-width: 768px) {\n  .container {\n    max-width: 768px;\n  }\n}\n@media (min-width: 1024px) {\n  .container {\n    max-width: 1024px;\n  }\n}\n@media (min-width: 1280px) {\n  .container {\n    max-width: 1280px;\n  }\n}\n@media (min-width: 1536px) {\n  .container {\n    max-width: 1536px;\n  }\n}\n.space-y-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));\n}\n.space-y-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.75rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));\n}\n.space-y-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.25rem * var(--tw-space-y-reverse));\n}\n.space-y-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1rem * var(--tw-space-y-reverse));\n}\n.space-y-10 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.5rem * var(--tw-space-y-reverse));\n}\n.space-y-12 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3rem * var(--tw-space-y-reverse));\n}\n.space-y-9 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));\n}\n.space-y-20 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(5rem * var(--tw-space-y-reverse));\n}\n.space-y-px > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1px * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1px * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1px * var(--tw-space-y-reverse));\n}\n.space-y-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));\n}\n.space-y-14 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3.5rem * var(--tw-space-y-reverse));\n}\n.space-y-8 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2rem * var(--tw-space-y-reverse));\n}\n.space-x-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.25rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.25rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.25rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1rem * var(--tw-space-x-reverse));\n  margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.appearance-none {\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n}\n.bg-blue-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(37, 99, 235, var(--tw-bg-opacity));\n}\n.bg-yellow-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(245, 158, 11, var(--tw-bg-opacity));\n}\n.bg-red-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(239, 68, 68, var(--tw-bg-opacity));\n}\n.bg-green-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));\n}\n.bg-black {\n  --tw-bg-opacity: 1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-red-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(220, 38, 38, var(--tw-bg-opacity));\n}\n.bg-blue-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));\n}\n.bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-\\[\\#FF424D\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.hover\\:bg-\\[\\#FF424D\\]:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-\\[\\#6c82cf\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(108, 130, 207, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-transparent {\n  background-color: transparent;\n}\n.focus\\:bg-white:focus {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-100:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.bg-black\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-black\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/50:hover {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-600\\/15:hover {\n  --tw-bg-opacity: 0.15;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-black\\/70 {\n  --tw-bg-opacity: 0.7;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(23, 23, 23, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/60:hover {\n  --tw-bg-opacity: 0.6;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-700:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-black\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-white\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-black\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-white\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(107, 114, 128, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-\\[\\#111111\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(17, 17, 17, var(--tw-bg-opacity));\n}\n.bg-white {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-\\[\\#36393f\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(54, 57, 63, var(--tw-bg-opacity));\n}\n.bg-gray-50 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(249, 250, 251, var(--tw-bg-opacity));\n}\n.bg-neutral-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(115, 115, 115, var(--tw-bg-opacity));\n}\n.bg-blue-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(219, 234, 254, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.light .light\\:bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-transparent {\n  background-color: transparent;\n}\n.light .light\\:bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-500:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(115, 115, 115, var(--tw-bg-opacity));\n}\n.bg-opacity-25 {\n  --tw-bg-opacity: 0.25;\n}\n.bg-opacity-100 {\n  --tw-bg-opacity: 1;\n}\n.hover\\:bg-opacity-75:hover {\n  --tw-bg-opacity: 0.75;\n}\n.hover\\:bg-opacity-60:hover {\n  --tw-bg-opacity: 0.6;\n}\n.focus\\:bg-opacity-10:focus {\n  --tw-bg-opacity: 0.1;\n}\n.dark .dark\\:bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-no-repeat {\n  background-repeat: no-repeat;\n}\n.border-blue-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(59, 130, 246, var(--tw-border-opacity));\n}\n.border-yellow-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(245, 158, 11, var(--tw-border-opacity));\n}\n.border-red-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(239, 68, 68, var(--tw-border-opacity));\n}\n.border-green-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(16, 185, 129, var(--tw-border-opacity));\n}\n.border-gray-300 {\n  --tw-border-opacity: 1;\n  border-color: rgba(209, 213, 219, var(--tw-border-opacity));\n}\n.dark .dark\\:border-gray-700 {\n  --tw-border-opacity: 1;\n  border-color: rgba(55, 65, 81, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-gray-100:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(243, 244, 246, var(--tw-border-opacity));\n}\n.dark .dark\\:border-dark-200 {\n  --tw-border-opacity: 1;\n  border-color: rgba(50, 50, 50, var(--tw-border-opacity));\n}\n.border-white\\/40 {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-white:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-black\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.hover\\:border-black\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-white\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-blue-800:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(30, 64, 175, var(--tw-border-opacity));\n}\n.border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.border-gray-400\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(156, 163, 175, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-600\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(82, 82, 82, var(--tw-border-opacity));\n}\n.border-black\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-opacity-50 {\n  --tw-border-opacity: 0.5;\n}\n.rounded-md {\n  border-radius: 0.375rem;\n}\n.rounded-full {\n  border-radius: 9999px;\n}\n.rounded {\n  border-radius: 0.25rem;\n}\n.rounded-xl {\n  border-radius: 0.75rem;\n}\n.rounded-sm {\n  border-radius: 0.125rem;\n}\n.rounded-lg {\n  border-radius: 0.5rem;\n}\n.\\!rounded-full {\n  border-radius: 9999px !important;\n}\n.rounded-none {\n  border-radius: 0px;\n}\n.rounded-l {\n  border-top-left-radius: 0.25rem;\n  border-bottom-left-radius: 0.25rem;\n}\n.rounded-tl-lg {\n  border-top-left-radius: 0.5rem;\n}\n.rounded-bl-lg {\n  border-bottom-left-radius: 0.5rem;\n}\n.rounded-tr {\n  border-top-right-radius: 0.25rem;\n}\n.rounded-br {\n  border-bottom-right-radius: 0.25rem;\n}\n.rounded-tl-md {\n  border-top-left-radius: 0.375rem;\n}\n.rounded-tr-md {\n  border-top-right-radius: 0.375rem;\n}\n.rounded-bl-md {\n  border-bottom-left-radius: 0.375rem;\n}\n.rounded-br-md {\n  border-bottom-right-radius: 0.375rem;\n}\n.border-dashed {\n  border-style: dashed;\n}\n.border {\n  border-width: 1px;\n}\n.border-l-4 {\n  border-left-width: 4px;\n}\n.border-b {\n  border-bottom-width: 1px;\n}\n.border-b-2 {\n  border-bottom-width: 2px;\n}\n.box-border {\n  box-sizing: border-box;\n}\n.cursor-default {\n  cursor: default;\n}\n.cursor-pointer {\n  cursor: pointer;\n}\n.cursor-help {\n  cursor: help;\n}\n.block {\n  display: block;\n}\n.group:hover .group-hover\\:block {\n  display: block;\n}\n.inline {\n  display: inline;\n}\n.flex {\n  display: flex;\n}\n.grid {\n  display: grid;\n}\n.hidden {\n  display: none;\n}\n.flex-col {\n  flex-direction: column;\n}\n.flex-col-reverse {\n  flex-direction: column-reverse;\n}\n.flex-wrap {\n  flex-wrap: wrap;\n}\n.items-center {\n  align-items: center;\n}\n.justify-end {\n  justify-content: flex-end;\n}\n.justify-center {\n  justify-content: center;\n}\n.justify-between {\n  justify-content: space-between;\n}\n.flex-1 {\n  flex: 1 1 0%;\n}\n.flex-grow {\n  flex-grow: 1;\n}\n.flex-shrink-0 {\n  flex-shrink: 0;\n}\n.float-right {\n  float: right;\n}\n.float-left {\n  float: left;\n}\n.font-sans {\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n}\n.font-semibold {\n  font-weight: 600;\n}\n.font-medium {\n  font-weight: 500;\n}\n.font-light {\n  font-weight: 300;\n}\n.font-bold {\n  font-weight: 700;\n}\n.font-extrabold {\n  font-weight: 800;\n}\n.font-normal {\n  font-weight: 400;\n}\n.h-6 {\n  height: 1.5rem;\n}\n.h-40 {\n  height: 10rem;\n}\n.h-8 {\n  height: 2rem;\n}\n.h-4 {\n  height: 1rem;\n}\n.h-5 {\n  height: 1.25rem;\n}\n.h-32 {\n  height: 8rem;\n}\n.h-9 {\n  height: 2.25rem;\n}\n.h-16 {\n  height: 4rem;\n}\n.h-20 {\n  height: 5rem;\n}\n.h-full {\n  height: 100%;\n}\n.h-10 {\n  height: 2.5rem;\n}\n.h-3 {\n  height: 0.75rem;\n}\n.h-80 {\n  height: 20rem;\n}\n.h-60 {\n  height: 15rem;\n}\n.h-14 {\n  height: 3.5rem;\n}\n.h-7 {\n  height: 1.75rem;\n}\n.h-24 {\n  height: 6rem;\n}\n.h-56 {\n  height: 14rem;\n}\n.h-1\\/5 {\n  height: 20%;\n}\n.h-4\\/5 {\n  height: 80%;\n}\n.h-1\\/3 {\n  height: 33.333333%;\n}\n.h-1\\/2 {\n  height: 50%;\n}\n.h-2\\/3 {\n  height: 66.666667%;\n}\n.h-96 {\n  height: 24rem;\n}\n.h-\\[12\\.5rem\\] {\n  height: 12.5rem;\n}\n.h-110 {\n  height: 27.5rem;\n}\n.h-130 {\n  height: 32.5rem;\n}\n.h-150 {\n  height: 37.5rem;\n}\n.h-160 {\n  height: 40rem;\n}\n.h-120 {\n  height: 30rem;\n}\n.h-140 {\n  height: 35rem;\n}\n.h-\\[500px\\] {\n  height: 500px;\n}\n.h-94 {\n  height: 23.5rem;\n}\n.h-90 {\n  height: 22.5rem;\n}\n.h-\\[30vh\\] {\n  height: 30vh;\n}\n.h-\\[27\\.5vh\\] {\n  height: 27.5vh;\n}\n.h-30 {\n  height: 7.5rem;\n}\n.h-75 {\n  height: 18.75rem;\n}\n.h-35 {\n  height: 8.75rem;\n}\n.text-sm {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n.text-base {\n  font-size: 1rem;\n  line-height: 1.5rem;\n}\n.text-xl {\n  font-size: 1.25rem;\n  line-height: 1.75rem;\n}\n.text-xs {\n  font-size: 0.75rem;\n  line-height: 1rem;\n}\n.text-lg {\n  font-size: 1.125rem;\n  line-height: 1.75rem;\n}\n.text-2xl {\n  font-size: 1.5rem;\n  line-height: 2rem;\n}\n.text-4xl {\n  font-size: 2.25rem;\n  line-height: 2.5rem;\n}\n.leading-tight {\n  line-height: 1.25;\n}\n.leading-relaxed {\n  line-height: 1.625;\n}\n.list-decimal {\n  list-style-type: decimal;\n}\n.list-disc {\n  list-style-type: disc;\n}\n.mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}\n.my-12 {\n  margin-top: 3rem;\n  margin-bottom: 3rem;\n}\n.mx-8 {\n  margin-left: 2rem;\n  margin-right: 2rem;\n}\n.-mx-\\[4\\.25vw\\] {\n  margin-left: -4.25vw;\n  margin-right: -4.25vw;\n}\n.my-8 {\n  margin-top: 2rem;\n  margin-bottom: 2rem;\n}\n.my-10 {\n  margin-top: 2.5rem;\n  margin-bottom: 2.5rem;\n}\n.my-16 {\n  margin-top: 4rem;\n  margin-bottom: 4rem;\n}\n.mx-4 {\n  margin-left: 1rem;\n  margin-right: 1rem;\n}\n.my-2 {\n  margin-top: 0.5rem;\n  margin-bottom: 0.5rem;\n}\n.mb-6 {\n  margin-bottom: 1.5rem;\n}\n.mt-4 {\n  margin-top: 1rem;\n}\n.mt-10 {\n  margin-top: 2.5rem;\n}\n.mb-4 {\n  margin-bottom: 1rem;\n}\n.mb-12 {\n  margin-bottom: 3rem;\n}\n.-ml-20 {\n  margin-left: -5rem;\n}\n.-mr-14 {\n  margin-right: -3.5rem;\n}\n.mb-2 {\n  margin-bottom: 0.5rem;\n}\n.ml-0 {\n  margin-left: 0px;\n}\n.mb-7 {\n  margin-bottom: 1.75rem;\n}\n.mb-5 {\n  margin-bottom: 1.25rem;\n}\n.mt-3 {\n  margin-top: 0.75rem;\n}\n.mr-3 {\n  margin-right: 0.75rem;\n}\n.mt-2 {\n  margin-top: 0.5rem;\n}\n.mt-20 {\n  margin-top: 5rem;\n}\n.mt-16 {\n  margin-top: 4rem;\n}\n.mt-8 {\n  margin-top: 2rem;\n}\n.mb-10 {\n  margin-bottom: 2.5rem;\n}\n.mr-4 {\n  margin-right: 1rem;\n}\n.mt-6 {\n  margin-top: 1.5rem;\n}\n.mt-1 {\n  margin-top: 0.25rem;\n}\n.max-h-full {\n  max-height: 100%;\n}\n.max-h-50vh {\n  max-height: 50vh;\n}\n.max-w-full {\n  max-width: 100%;\n}\n.min-h-screen {\n  min-height: 100vh;\n}\n.min-h-16 {\n  min-height: 4rem;\n}\n.min-h-full {\n  min-height: 100%;\n}\n.min-w-screen {\n  min-width: 100vw;\n}\n.min-w-30 {\n  min-width: 7.5rem;\n}\n.opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-100 {\n  opacity: 1;\n}\n.focus\\:outline-none:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n.overflow-hidden {\n  overflow: hidden;\n}\n.overflow-x-auto {\n  overflow-x: auto;\n}\n.overflow-y-auto {\n  overflow-y: auto;\n}\n.overflow-x-hidden {\n  overflow-x: hidden;\n}\n.overflow-y-hidden {\n  overflow-y: hidden;\n}\n.p-4 {\n  padding: 1rem;\n}\n.p-1 {\n  padding: 0.25rem;\n}\n.p-2 {\n  padding: 0.5rem;\n}\n.p-3 {\n  padding: 0.75rem;\n}\n.px-2 {\n  padding-left: 0.5rem;\n  padding-right: 0.5rem;\n}\n.py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}\n.px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n.py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n.py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}\n.px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}\n.py-1\\.5 {\n  padding-top: 0.375rem;\n  padding-bottom: 0.375rem;\n}\n.px-1\\.5 {\n  padding-left: 0.375rem;\n  padding-right: 0.375rem;\n}\n.py-3 {\n  padding-top: 0.75rem;\n  padding-bottom: 0.75rem;\n}\n.px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}\n.py-8 {\n  padding-top: 2rem;\n  padding-bottom: 2rem;\n}\n.py-px {\n  padding-top: 1px;\n  padding-bottom: 1px;\n}\n.px-1 {\n  padding-left: 0.25rem;\n  padding-right: 0.25rem;\n}\n.py-10 {\n  padding-top: 2.5rem;\n  padding-bottom: 2.5rem;\n}\n.py-6 {\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n}\n.pt-2 {\n  padding-top: 0.5rem;\n}\n.pl-3 {\n  padding-left: 0.75rem;\n}\n.pl-10 {\n  padding-left: 2.5rem;\n}\n.pr-4 {\n  padding-right: 1rem;\n}\n.pt-13 {\n  padding-top: 3.25rem;\n}\n.pb-3\\.5 {\n  padding-bottom: 0.875rem;\n}\n.pt-14 {\n  padding-top: 3.5rem;\n}\n.pr-2 {\n  padding-right: 0.5rem;\n}\n.pt-4 {\n  padding-top: 1rem;\n}\n.pb-8 {\n  padding-bottom: 2rem;\n}\n.pl-0 {\n  padding-left: 0px;\n}\n.pl-2 {\n  padding-left: 0.5rem;\n}\n.pt-6 {\n  padding-top: 1.5rem;\n}\n.pl-4 {\n  padding-left: 1rem;\n}\n.pb-2 {\n  padding-bottom: 0.5rem;\n}\n.pt-0 {\n  padding-top: 0px;\n}\n.pb-4 {\n  padding-bottom: 1rem;\n}\n.pt-10 {\n  padding-top: 2.5rem;\n}\n.pr-10 {\n  padding-right: 2.5rem;\n}\n.placeholder-neutral-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-neutral-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.tab {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n.pointer-events-none {\n  pointer-events: none;\n}\n.static {\n  position: static;\n}\n.fixed {\n  position: fixed;\n}\n.absolute {\n  position: absolute;\n}\n.relative {\n  position: relative;\n}\n.sticky {\n  position: sticky;\n}\n.inset-0 {\n  top: 0px;\n  right: 0px;\n  bottom: 0px;\n  left: 0px;\n}\n.inset-x-0 {\n  right: 0px;\n  left: 0px;\n}\n.bottom-0 {\n  bottom: 0px;\n}\n.-right-2 {\n  right: -0.5rem;\n}\n.-bottom-2 {\n  bottom: -0.5rem;\n}\n.top-0 {\n  top: 0px;\n}\n.right-6 {\n  right: 1.5rem;\n}\n.bottom-4 {\n  bottom: 1rem;\n}\n.-bottom-7 {\n  bottom: -1.75rem;\n}\n.right-0 {\n  right: 0px;\n}\n.bottom-2 {\n  bottom: 0.5rem;\n}\n.left-0 {\n  left: 0px;\n}\n.top-4 {\n  top: 1rem;\n}\n.hover\\:shadow-md:hover {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-md {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-lg {\n  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0,0.1),0 4px 6px -4px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow {\n  --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0,0.1),0 1px 2px -1px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-4 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-1 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-2 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.focus\\:ring-1:focus {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-0 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.\\.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-offset-gray-50 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n}\n.dark .dark\\:ring-offset-neutral-900 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n}\n.ring-offset-gray-100 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(243, 244, 246, var(--tw-ring-offset-opacity));\n}\n.ring-offset-2 {\n  --tw-ring-offset-width: 2px;\n}\n.ring-\\[\\#6c82cf\\] {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(108, 130, 207, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-transparent {\n  --tw-ring-color: transparent;\n}\n.ring-black\\/5 {\n  --tw-ring-opacity: 0.05;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-white\\/10 {\n  --tw-ring-opacity: 0.1;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-gray-300 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-700 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(64, 64, 64, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-white\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-800 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.ring-gray-200 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(229, 231, 235, var(--tw-ring-opacity));\n}\n.ring-opacity-5 {\n  --tw-ring-opacity: 0.05;\n}\n.fill-black\\/75 {\n  --tw-fill-opacity: 0.75;\n  fill: rgba(0, 0, 0, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-gray-500 {\n  --tw-fill-opacity: 1;\n  fill: rgba(107, 114, 128, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white\\/90 {\n  --tw-fill-opacity: 0.9;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white {\n  --tw-fill-opacity: 1;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.fill-\\[\\#888888\\] {\n  --tw-fill-opacity: 1;\n  fill: rgba(136, 136, 136, var(--tw-fill-opacity));\n}\n.text-left {\n  text-align: left;\n}\n.text-center {\n  text-align: center;\n}\n.text-right {\n  text-align: right;\n}\n.text-blue-500 {\n  --tw-text-opacity: 1;\n  color: rgba(59, 130, 246, var(--tw-text-opacity));\n}\n.text-yellow-500 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 158, 11, var(--tw-text-opacity));\n}\n.text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.text-green-500 {\n  --tw-text-opacity: 1;\n  color: rgba(16, 185, 129, var(--tw-text-opacity));\n}\n.text-current {\n  color: currentColor;\n}\n.dark .dark\\:text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-gray-700 {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.text-red-600 {\n  --tw-text-opacity: 1;\n  color: rgba(220, 38, 38, var(--tw-text-opacity));\n}\n.text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-gray-900 {\n  --tw-text-opacity: 1;\n  color: rgba(17, 24, 39, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-\\[\\#1DA1F2\\] {\n  --tw-text-opacity: 1;\n  color: rgba(29, 161, 242, var(--tw-text-opacity));\n}\n.text-\\[\\#2EAADE\\] {\n  --tw-text-opacity: 1;\n  color: rgba(46, 170, 222, var(--tw-text-opacity));\n}\n.text-\\[\\#25D366\\] {\n  --tw-text-opacity: 1;\n  color: rgba(37, 211, 102, var(--tw-text-opacity));\n}\n.text-gray-800 {\n  --tw-text-opacity: 1;\n  color: rgba(31, 41, 55, var(--tw-text-opacity));\n}\n.text-gray-500 {\n  --tw-text-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-text-opacity));\n}\n.dark .dark\\:text-dark-100 {\n  --tw-text-opacity: 1;\n  color: rgba(60, 60, 60, var(--tw-text-opacity));\n}\n.hover\\:text-gray-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/40:hover {\n  --tw-text-opacity: 0.4;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-dark-400 {\n  --tw-text-opacity: 1;\n  color: rgba(34, 34, 34, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/30 {\n  --tw-text-opacity: 0.3;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.hover\\:text-dark-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(27, 27, 27, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/60:hover {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-black {\n  --tw-text-opacity: 1;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.hover\\:text-white:hover {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 229, 229, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-100 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 245, 245, var(--tw-text-opacity));\n}\n.text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.text-yellow-600 {\n  --tw-text-opacity: 1;\n  color: rgba(217, 119, 6, var(--tw-text-opacity));\n}\n.text-black\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-gray-600 {\n  --tw-text-opacity: 1;\n  color: rgba(75, 85, 99, var(--tw-text-opacity));\n}\n.text-neutral-900 {\n  --tw-text-opacity: 1;\n  color: rgba(23, 23, 23, var(--tw-text-opacity));\n}\n.text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/60 {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-blue-600 {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-blue-700 {\n  --tw-text-opacity: 1;\n  color: rgba(29, 78, 216, var(--tw-text-opacity));\n}\n.dark .dark\\:text-blue-400 {\n  --tw-text-opacity: 1;\n  color: rgba(96, 165, 250, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600\\/70 {\n  --tw-text-opacity: 0.7;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.text-blue-200 {\n  --tw-text-opacity: 1;\n  color: rgba(191, 219, 254, var(--tw-text-opacity));\n}\n.text-neutral-700\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.hover\\:text-blue-600:hover {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-red-700 {\n  --tw-text-opacity: 1;\n  color: rgba(185, 28, 28, var(--tw-text-opacity));\n}\n.dark .dark\\:text-current {\n  color: currentColor;\n}\n.hover\\:text-opacity-100:hover {\n  --tw-text-opacity: 1;\n}\n.truncate {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n.uppercase {\n  text-transform: uppercase;\n}\n.lowercase {\n  text-transform: lowercase;\n}\n.underline {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.hover\\:underline:hover {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.line-through {\n  -webkit-text-decoration-line: line-through;\n  text-decoration-line: line-through;\n}\n.select-none {\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  user-select: none;\n}\n.visible {\n  visibility: visible;\n}\n.invisible {\n  visibility: hidden;\n}\n.whitespace-normal {\n  white-space: normal;\n}\n.whitespace-nowrap {\n  white-space: nowrap;\n}\n.w-6 {\n  width: 1.5rem;\n}\n.w-12 {\n  width: 3rem;\n}\n.w-4 {\n  width: 1rem;\n}\n.w-5 {\n  width: 1.25rem;\n}\n.w-full {\n  width: 100%;\n}\n.w-32 {\n  width: 8rem;\n}\n.w-9 {\n  width: 2.25rem;\n}\n.w-16 {\n  width: 4rem;\n}\n.w-24 {\n  width: 6rem;\n}\n.w-10 {\n  width: 2.5rem;\n}\n.w-11\\/12 {\n  width: 91.666667%;\n}\n.w-1\\/4 {\n  width: 25%;\n}\n.w-1\\/2 {\n  width: 50%;\n}\n.w-8\\/12 {\n  width: 66.666667%;\n}\n.w-1\\/6 {\n  width: 16.666667%;\n}\n.w-4\\/12 {\n  width: 33.333333%;\n}\n.w-3\\/12 {\n  width: 25%;\n}\n.w-1\\/5 {\n  width: 20%;\n}\n.w-1\\/3 {\n  width: 33.333333%;\n}\n.w-2\\/3 {\n  width: 66.666667%;\n}\n.w-3\\/4 {\n  width: 75%;\n}\n.w-2\\/5 {\n  width: 40%;\n}\n.w-7\\/12 {\n  width: 58.333333%;\n}\n.w-2\\/6 {\n  width: 33.333333%;\n}\n.w-8 {\n  width: 2rem;\n}\n.w-3 {\n  width: 0.75rem;\n}\n.w-2\\/4 {\n  width: 50%;\n}\n.w-14 {\n  width: 3.5rem;\n}\n.w-7 {\n  width: 1.75rem;\n}\n.w-3\\/5 {\n  width: 60%;\n}\n.w-30 {\n  width: 7.5rem;\n}\n.w-160 {\n  width: 40rem;\n}\n.w-55 {\n  width: 13.75rem;\n}\n.z-50 {\n  z-index: 50;\n}\n.z-40 {\n  z-index: 40;\n}\n.z-20 {\n  z-index: 20;\n}\n.z-10 {\n  z-index: 10;\n}\n.gap-2 {\n  grid-gap: 0.5rem;\n  gap: 0.5rem;\n}\n.gap-6 {\n  grid-gap: 1.5rem;\n  gap: 1.5rem;\n}\n.gap-4 {\n  grid-gap: 1rem;\n  gap: 1rem;\n}\n.gap-3 {\n  grid-gap: 0.75rem;\n  gap: 0.75rem;\n}\n.gap-1 {\n  grid-gap: 0.25rem;\n  gap: 0.25rem;\n}\n.gap-5 {\n  grid-gap: 1.25rem;\n  gap: 1.25rem;\n}\n.gap-x-0 {\n  -webkit-column-gap: 0px;\n  -moz-column-gap: 0px;\n  grid-column-gap: 0px;\n  column-gap: 0px;\n}\n.gap-x-2 {\n  -webkit-column-gap: 0.5rem;\n  -moz-column-gap: 0.5rem;\n  grid-column-gap: 0.5rem;\n  column-gap: 0.5rem;\n}\n.gap-x-4 {\n  -webkit-column-gap: 1rem;\n  -moz-column-gap: 1rem;\n  grid-column-gap: 1rem;\n  column-gap: 1rem;\n}\n.gap-x-3 {\n  -webkit-column-gap: 0.75rem;\n  -moz-column-gap: 0.75rem;\n  grid-column-gap: 0.75rem;\n  column-gap: 0.75rem;\n}\n.gap-y-4 {\n  -webkit-row-gap: 1rem;\n  -moz-row-gap: 1rem;\n  grid-row-gap: 1rem;\n  row-gap: 1rem;\n}\n.gap-y-2 {\n  -webkit-row-gap: 0.5rem;\n  -moz-row-gap: 0.5rem;\n  grid-row-gap: 0.5rem;\n  row-gap: 0.5rem;\n}\n.gap-y-5 {\n  -webkit-row-gap: 1.25rem;\n  -moz-row-gap: 1.25rem;\n  grid-row-gap: 1.25rem;\n  row-gap: 1.25rem;\n}\n.gap-y-8 {\n  -webkit-row-gap: 2rem;\n  -moz-row-gap: 2rem;\n  grid-row-gap: 2rem;\n  row-gap: 2rem;\n}\n.grid-cols-1 {\n  grid-template-columns: repeat(1, minmax(0, 1fr));\n}\n.grid-cols-2 {\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n}\n.col-span-2 {\n  -ms-grid-column-span: span 2 / span 2;\n  grid-column: span 2 / span 2;\n}\n.col-span-3 {\n  -ms-grid-column-span: span 3 / span 3;\n  grid-column: span 3 / span 3;\n}\n.transform {\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-translate-z: 0;\n  --tw-rotate: 0;\n  --tw-rotate-x: 0;\n  --tw-rotate-y: 0;\n  --tw-rotate-z: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-scale-z: 1;\n  transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n}\n.hover\\:-rotate-6:hover {\n  --tw-rotate: -6deg;\n}\n.transition-colors {\n  transition-property: background-color, border-color, color, fill, stroke;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.\\<transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-transform {\n  transition-property: transform;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-shadow {\n  transition-property: box-shadow;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-all {\n  transition-property: all;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.duration {\n  transition-duration: 150ms;\n}\n@keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n@-webkit-keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n.animate-pulse {\n  -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n}\n.filter {\n  --tw-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-sepia: var(--tw-empty,/*!*/ /*!*/);\n  --tw-drop-shadow: var(--tw-empty,/*!*/ /*!*/);\n  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);\n}\n.blur\\(\\)\\) {\n  --tw-blur: blur(8px);\n}\n.dark .dark\\:brightness-75 {\n  --tw-brightness: brightness(.75);\n}\n.dark .dark\\:brightness-100 {\n  --tw-brightness: brightness(1);\n}\n.backdrop-filter {\n  --tw-backdrop-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-opacity: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-sepia: var(--tw-empty,/*!*/ /*!*/);\n  -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n}\n.backdrop-blur-md {\n  --tw-backdrop-blur: blur(12px);\n}\n.backdrop-blur-lg {\n  --tw-backdrop-blur: blur(16px);\n}\n.line-clamp-2 {\n  overflow: hidden;\n  display: -webkit-box;\n  -webkit-box-orient: vertical;\n  -webkit-line-clamp: 2;\n}\n@media (min-width: 640px) {\n  .sm\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .sm\\:space-x-6 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:block {\n    display: block;\n  }\n  .sm\\:flex {\n    display: flex;\n  }\n  .sm\\:items-start {\n    align-items: flex-start;\n  }\n  .sm\\:items-center {\n    align-items: center;\n  }\n  .sm\\:justify-start {\n    justify-content: flex-start;\n  }\n  .sm\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .sm\\:mt-6 {\n    margin-top: 1.5rem;\n  }\n  .sm\\:ml-auto {\n    margin-left: auto;\n  }\n  .sm\\:py-10 {\n    padding-top: 2.5rem;\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:px-8 {\n    padding-left: 2rem;\n    padding-right: 2rem;\n  }\n  .sm\\:pb-10 {\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:pr-16 {\n    padding-right: 4rem;\n  }\n  .sm\\:shadow-md {\n    --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n    --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n  }\n  .sm\\:text-left {\n    text-align: left;\n  }\n  .sm\\:truncate {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n  .sm\\:w-9\\/12 {\n    width: 75%;\n  }\n  .sm\\:w-1\\/6 {\n    width: 16.666667%;\n  }\n  .sm\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .sm\\:w-4\\/12 {\n    width: 33.333333%;\n  }\n  .sm\\:w-10\\/12 {\n    width: 83.333333%;\n  }\n  .sm\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .sm\\:w-9\\/10 {\n    width: 90%;\n  }\n  .sm\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .sm\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .sm\\:transform {\n    --tw-translate-x: 0;\n    --tw-translate-y: 0;\n    --tw-translate-z: 0;\n    --tw-rotate: 0;\n    --tw-rotate-x: 0;\n    --tw-rotate-y: 0;\n    --tw-rotate-z: 0;\n    --tw-skew-x: 0;\n    --tw-skew-y: 0;\n    --tw-scale-x: 1;\n    --tw-scale-y: 1;\n    --tw-scale-z: 1;\n    transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n  }\n}\n@media (min-width: 768px) {\n  .md\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .md\\:space-x-3 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-5 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.25rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.25rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:block {\n    display: block;\n  }\n  .md\\:flex {\n    display: flex;\n  }\n  .md\\:grid {\n    display: grid;\n  }\n  .md\\:hidden {\n    display: none;\n  }\n  .md\\:flex-row {\n    flex-direction: row;\n  }\n  .md\\:items-center {\n    align-items: center;\n  }\n  .md\\:h-full {\n    height: 100%;\n  }\n  .md\\:h-50 {\n    height: 12.5rem;\n  }\n  .md\\:h-66\\.8 {\n    height: 16.7rem;\n  }\n  .md\\:h-45 {\n    height: 11.25rem;\n  }\n  .md\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .md\\:text-3xl {\n    font-size: 1.875rem;\n    line-height: 2.25rem;\n  }\n  .md\\:-mx-\\[20\\.75vw\\] {\n    margin-left: -20.75vw;\n    margin-right: -20.75vw;\n  }\n  .md\\:mb-0 {\n    margin-bottom: 0px;\n  }\n  @media (min-width: 768px) {\n    .md\\:md\\:mt-10 {\n      margin-top: 2.5rem;\n    }\n  }\n  .md\\:max-h-full {\n    max-height: 100%;\n  }\n  .md\\:overflow-y-visible {\n    overflow-y: visible;\n  }\n  .md\\:px-3 {\n    padding-left: 0.75rem;\n    padding-right: 0.75rem;\n  }\n  .md\\:py-1 {\n    padding-top: 0.25rem;\n    padding-bottom: 0.25rem;\n  }\n  .md\\:px-4 {\n    padding-left: 1rem;\n    padding-right: 1rem;\n  }\n  .md\\:w-2\\/3 {\n    width: 66.666667%;\n  }\n  .md\\:w-1\\/3 {\n    width: 33.333333%;\n  }\n  .md\\:w-7\\/12 {\n    width: 58.333333%;\n  }\n  .md\\:w-full {\n    width: 100%;\n  }\n  .md\\:w-4\\/6 {\n    width: 66.666667%;\n  }\n  .md\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .md\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .md\\:w-50 {\n    width: 12.5rem;\n  }\n  .md\\:w-45 {\n    width: 11.25rem;\n  }\n  .md\\:gap-4 {\n    grid-gap: 1rem;\n    gap: 1rem;\n  }\n  .md\\:gap-8 {\n    grid-gap: 2rem;\n    gap: 2rem;\n  }\n  .md\\:gap-x-12 {\n    -webkit-column-gap: 3rem;\n    -moz-column-gap: 3rem;\n    grid-column-gap: 3rem;\n    column-gap: 3rem;\n  }\n  .md\\:grid-flow-col {\n    grid-auto-flow: column;\n  }\n  .md\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-1 {\n    grid-template-columns: repeat(1, minmax(0, 1fr));\n  }\n  .md\\:auto-cols-fr {\n    grid-auto-columns: minmax(0, 1fr);\n  }\n}\n@media (min-width: 1024px) {\n  .lg\\:rounded-lg {\n    border-radius: 0.5rem;\n  }\n  .lg\\:rounded-t-lg {\n    border-top-left-radius: 0.5rem;\n    border-top-right-radius: 0.5rem;\n  }\n  .lg\\:h-1\\/2 {\n    height: 50%;\n  }\n  .lg\\:mx-0 {\n    margin-left: 0px;\n    margin-right: 0px;\n  }\n  .lg\\:mt-24 {\n    margin-top: 6rem;\n  }\n  .lg\\:left-4 {\n    left: 1rem;\n  }\n  .lg\\:w-1\\/2 {\n    width: 50%;\n  }\n  .lg\\:w-1\\/4 {\n    width: 25%;\n  }\n  .lg\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .lg\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .lg\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n}";
 }
 
 
@@ -28902,22 +28902,22 @@ const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vuex-modu
 let Shop = class extends __vite_ssr_import_0__.VuexModule {
   constructor() {
     super(...arguments);
-    this.price2 = "--";
-    this.item2 = "Error";
-  }
-  setPrice(price) {
-    this.price2 = price;
+    this.item2 = "error";
+    this.price2 = "error";
   }
   setItem(item) {
     this.item2 = item;
   }
+  setPrice(price) {
+    this.price2 = price;
+  }
 };
 __decorateClass([
   __vite_ssr_import_0__.Mutation
-], Shop.prototype, "setPrice", 1);
+], Shop.prototype, "setItem", 1);
 __decorateClass([
   __vite_ssr_import_0__.Mutation
-], Shop.prototype, "setItem", 1);
+], Shop.prototype, "setPrice", 1);
 Shop = __decorateClass([
   __vite_ssr_import_0__.Module({
     name: "shop",
@@ -29025,15 +29025,15 @@ __vite_ssr_exports__.default = () => {};
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
 // - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
 // - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
@@ -29239,33 +29239,33 @@ Object.defineProperty(__vite_ssr_exports__, "NavbarBlog", { enumerable: true, co
 const __vite_ssr_import_64__ = await __vite_ssr_import__("/src/components/Navbar/Default.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "NavbarDefault", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_64__.default }});
-const __vite_ssr_import_65__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Iframe.vue");
+const __vite_ssr_import_65__ = await __vite_ssr_import__("/src/components/Blog/Sections/Ratings.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderIframe", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_65__.default }});
-const __vite_ssr_import_66__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Index.vue");
+Object.defineProperty(__vite_ssr_exports__, "BlogSectionsRatings", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_65__.default }});
+const __vite_ssr_import_66__ = await __vite_ssr_import__("/src/components/Smart/Image.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoader", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_66__.default }});
-const __vite_ssr_import_67__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Lastfm.vue");
+Object.defineProperty(__vite_ssr_exports__, "SmartImage", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_66__.default }});
+const __vite_ssr_import_67__ = await __vite_ssr_import__("/src/components/Smart/Link.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderLastfm", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_67__.default }});
-const __vite_ssr_import_68__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Repository.vue");
+Object.defineProperty(__vite_ssr_exports__, "SmartLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_67__.default }});
+const __vite_ssr_import_68__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Iframe.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderRepository", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_68__.default }});
-const __vite_ssr_import_69__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Song.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderIframe", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_68__.default }});
+const __vite_ssr_import_69__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Index.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSong", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_69__.default }});
-const __vite_ssr_import_70__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Spinner.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoader", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_69__.default }});
+const __vite_ssr_import_70__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Lastfm.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSpinner", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_70__.default }});
-const __vite_ssr_import_71__ = await __vite_ssr_import__("/src/components/Smart/Image.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderLastfm", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_70__.default }});
+const __vite_ssr_import_71__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Repository.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SmartImage", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_71__.default }});
-const __vite_ssr_import_72__ = await __vite_ssr_import__("/src/components/Smart/Link.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderRepository", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_71__.default }});
+const __vite_ssr_import_72__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Song.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SmartLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_72__.default }});
-const __vite_ssr_import_73__ = await __vite_ssr_import__("/src/components/Blog/Sections/Ratings.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSong", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_72__.default }});
+const __vite_ssr_import_73__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Spinner.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "BlogSectionsRatings", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_73__.default }});
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSpinner", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_73__.default }});
 const __vite_ssr_import_74__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Index.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "CardPortfolio", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_74__.default }});
@@ -33023,7 +33023,7 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // --------------------
 const $id_fd480684 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{staticClass:"bi bi-cash",attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"currentColor","viewBox":"0 0 16 16"}},[_c('path',{attrs:{"d":"M8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"}}),_c('path',{attrs:{"d":"M0 4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V4zm3 0a2 2 0 0 1-2 2v4a2 2 0 0 1 2 2h10a2 2 0 0 1 2-2V6a2 2 0 0 1-2-2H3z"}})])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"currentColor","viewBox":"0 0 16 16"}},[_c('path',{attrs:{"d":"M8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"}}),_c('path',{attrs:{"d":"M0 4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V4zm3 0a2 2 0 0 1-2 2v4a2 2 0 0 1 2 2h10a2 2 0 0 1 2-2V6a2 2 0 0 1-2-2H3z"}})])}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -33532,7 +33532,7 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // --------------------
 const $id_d713b56f = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{staticClass:"bi bi-credit-card",attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"currentColor","viewBox":"0 0 16 16"}},[_c('path',{attrs:{"d":"M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z"}}),_c('path',{attrs:{"d":"M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z"}})])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"currentColor","viewBox":"0 0 16 16"}},[_c('path',{attrs:{"d":"M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z"}}),_c('path',{attrs:{"d":"M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z"}})])}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -35719,6 +35719,618 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
+// Request: /src/components/Blog/Sections/Ratings.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js ($id_77585aaa)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_e7ce980f = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  data() {
+    return {
+      ratings: [
+        {
+          name: "Daredevil",
+          rating: 10,
+          platform: "Netflix",
+          anchor: "#daredevil"
+        },
+        {
+          name: "Prison Break",
+          rating: 10,
+          platform: "Fox",
+          anchor: "#prison-break"
+        },
+        {
+          name: "Arcane",
+          rating: 10,
+          platform: "Netflix",
+          isNew: true,
+          anchor: "#arcane"
+        },
+        {
+          name: "Love, Death & Robots",
+          rating: 10,
+          platform: "Netflix",
+          anchor: "#love-death--robots"
+        },
+        {
+          name: "\xC9lite",
+          rating: 9.5,
+          platform: "Netflix",
+          anchor: "#\xE9lite"
+        },
+        {
+          name: "The Witcher",
+          rating: 9.5,
+          platform: "Netflix",
+          anchor: "#the-witcher"
+        },
+        {
+          name: "The Boys",
+          rating: 9.5,
+          platform: "Amazon Prime",
+          anchor: "#the-boys"
+        },
+        {
+          name: "Rise of Empires: Ottoman",
+          rating: 9.5,
+          platform: "Netflix",
+          anchor: "#rise-of-empires-ottoman"
+        },
+        {
+          name: "The Mandalorian",
+          rating: 9.5,
+          platform: "Disney+",
+          anchor: "#the-mandalorian"
+        },
+        {
+          name: "La Casa de Papel",
+          rating: 9.5,
+          platform: "Netflix",
+          anchor: "#la-casa-de-papel"
+        },
+        {
+          name: "Sex Education",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#sex-education"
+        },
+        {
+          name: "Locke & Key",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#locke--key"
+        },
+        {
+          name: "Stranger Things",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#stranger-things"
+        },
+        {
+          name: "See",
+          rating: 9,
+          platform: "Apple TV+",
+          anchor: "#see"
+        },
+        {
+          name: "Sherlock",
+          rating: 9,
+          platform: "BBC",
+          anchor: "#sherlock"
+        },
+        {
+          name: "Loki",
+          rating: 9,
+          platform: "Disney+",
+          isNew: true,
+          anchor: "#loki"
+        },
+        {
+          name: "Lupin",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#lupin"
+        },
+        {
+          name: "Snowpiercer",
+          rating: 9,
+          platform: "TNT",
+          anchor: "#snowpiercer"
+        },
+        {
+          name: "The Haunting of Bly Manor",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#the-haunting-of-bly-manor"
+        },
+        {
+          name: "What If...?",
+          rating: 9,
+          platform: "Disney+",
+          isNew: true,
+          anchor: "#what-if"
+        },
+        {
+          name: "When They See Us",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#when-they-see-us"
+        },
+        {
+          name: "Sense8",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#sense8"
+        },
+        {
+          name: "Chilling Adventures of Sabrina",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#chilling-adventures-of-sabrina"
+        },
+        {
+          name: "Altered Carbon",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#altered-carbon"
+        },
+        {
+          name: "The Queen's Gambit",
+          rating: 9,
+          platform: "Netflix",
+          anchor: "#the-queens-gambit"
+        },
+        {
+          name: "A\u015Fk 101",
+          rating: 8.5,
+          platform: "Netflix",
+          anchor: "#a\u015Fk-101"
+        },
+        {
+          name: "The Order",
+          rating: 8.5,
+          platform: "Netflix",
+          anchor: "#the-order"
+        },
+        {
+          name: "BoJack Horseman",
+          rating: 8.5,
+          platform: "Netflix",
+          anchor: "#bojack-horseman"
+        },
+        {
+          name: "Rick and Morty",
+          rating: 8.5,
+          platform: "Adult Swim",
+          anchor: "#rick-and-morty"
+        },
+        {
+          name: "Lost in Space",
+          rating: 8.5,
+          platform: "Netflix",
+          anchor: "#lost-in-space"
+        },
+        {
+          name: "The Haunting of Hill House",
+          rating: 8,
+          platform: "Netflix",
+          anchor: "#the-haunting-of-hill-house"
+        },
+        {
+          name: "You",
+          rating: 8,
+          platform: "Netflix",
+          anchor: "#you"
+        },
+        {
+          name: "Lucifer",
+          rating: 8,
+          platform: "Netflix",
+          anchor: "#lucifer"
+        },
+        {
+          name: "The Umbrella Academy",
+          rating: 8,
+          platform: "Netflix",
+          anchor: "#the-umbrella-academy"
+        }
+      ].sort((a, b) => b.rating - a.rating)
+    };
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Blog/Sections/Ratings.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("3d9cdd3c")) {
+    __vite_ssr_import_3__.default.createRecord("3d9cdd3c", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("3d9cdd3c", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("3d9cdd3c", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// Dependencies: 
+
+// --------------------
+const $id_77585aaa = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"mb-6 grid gap-2 lg:grid-cols-2"},_vm._l((_vm.ratings),function(item){return _c('BlogRating',{key:item.name,attrs:{"rating":item.rating,"platform":item.platform,"isnew":item.isNew}},[_c('a',{attrs:{"href":item.anchor}},[_vm._v(_vm._s(item.name))])])}),1)}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Smart/Image.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/Smart/Image.vue?vue&type=template&lang.js ($id_e631b4b4)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_d0f3ca05 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  props: {
+    src: {
+      type: String,
+      required: false,
+      default: null
+    },
+    title: {
+      type: String,
+      required: false,
+      default: null
+    },
+    alt: {
+      type: String,
+      required: false,
+      default: null
+    },
+    format: {
+      type: String,
+      required: false,
+      default: "webp"
+    },
+    fit: {
+      type: String,
+      required: false,
+      default: "cover"
+    },
+    width: {
+      type: String,
+      required: false,
+      default: null
+    },
+    height: {
+      type: String,
+      required: false,
+      default: null
+    },
+    caption: {
+      type: String,
+      required: false,
+      default: null
+    },
+    optimize: {
+      type: Boolean,
+      required: false,
+      default: true
+    }
+  },
+  data() {
+    return {
+      error: false,
+      loaded: false
+    };
+  },
+  computed: {
+    getBackgroundUrl() {
+      if (this.error === true || !this.src)
+        return "/icon.png";
+      else if (this.optimize === false)
+        return this.getProxifiedImageUrl(this.src);
+      const { format, height, width, fit, src } = this;
+      const options = {};
+      if (format)
+        options.format = format;
+      if (fit)
+        options.fit = fit;
+      if (height)
+        options.height = parseInt(height);
+      if (width)
+        options.width = parseInt(width);
+      const proxiedImage = this.getProxifiedImageUrl(src);
+      if (this.$route.path === "/projects/webstax/custom-status")
+        return proxiedImage;
+      else
+        return this.$img(proxiedImage, options);
+    }
+  },
+  methods: {
+    getProxifiedImageUrl(url) {
+      if (url.includes("i.imgur.com"))
+        return `https://proxy.duckduckgo.com/iu/?u=${encodeURIComponent(url)}`;
+      else
+        return url;
+    },
+    handleError() {
+      if (this.optimize === false)
+        return;
+      this.error = true;
+      this.loaded = true;
+    }
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Smart/Image.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Smart/Image.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("47915616")) {
+    __vite_ssr_import_3__.default.createRecord("47915616", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("47915616", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Smart/Image.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("47915616", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Smart/Image.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// Dependencies: 
+
+// --------------------
+const $id_e631b4b4 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.src)?_c('div',{class:{
+    'bg-gray-100 animate-pulse dark:bg-neutral-700 bg-no-repeat':
+      _vm.loaded === false,
+    'relative caption': _vm.caption,
+  },style:(_vm.loaded === true
+      ? {
+          backgroundImage: ("url('" + _vm.getBackgroundUrl + "')"),
+          backgroundPosition: 'center',
+          backgroundSize: _vm.fit,
+        }
+      : {}),attrs:{"smart-image":true,"title":_vm.title || _vm.caption,"failed-image-url":_vm.error && _vm.src}},[_c('img',{staticClass:"invisible",attrs:{"src":_vm.getBackgroundUrl || _vm.src,"alt":_vm.alt || _vm.caption || _vm.title || 'image',"width":_vm.width,"height":_vm.height,"loading":"lazy"},on:{"error":_vm.handleError,"load":function($event){_vm.loaded = true}}}),(_vm.caption)?_c('span',{staticClass:"mx-8 text-center text-sm inset-x-0 -bottom-7 text-neutral-400 truncate absolute"},[_vm._v(" "+_vm._s(_vm.caption)+" ")]):_vm._e()]):_vm._e()}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Smart/Link.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/Smart/Link.vue?vue&type=template&lang.js ($id_29abb1b0)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_55692ed2 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  name: "SmartLink",
+  props: {
+    href: {
+      type: [],
+      required: true,
+      default: ""
+    },
+    blank: {
+      type: Boolean,
+      required: false,
+      default: false
+    },
+    internal: {
+      type: Boolean,
+      required: false,
+      default: false
+    },
+    external: {
+      type: Boolean,
+      required: false,
+      default: false
+    },
+    title: {
+      type: String,
+      required: false,
+      default: null
+    },
+    utm: {
+      type: Boolean,
+      required: false,
+      default: true
+    }
+  },
+  computed: {
+    isInternalPage() {
+      const href = this.href;
+      if (typeof href === "object")
+        return true;
+      else if (typeof href === "string" && ["/", "#"].includes(href[0]))
+        return true;
+      else
+        return false;
+    },
+    getUtmLink() {
+      try {
+        const url = new URL(this.href);
+        url.searchParams.append("utm_source", "bitstore.dev");
+        return url.href;
+      } catch (err) {
+        return this.href;
+      }
+    }
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Smart/Link.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Smart/Link.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("269dded0")) {
+    __vite_ssr_import_3__.default.createRecord("269dded0", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("269dded0", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Smart/Link.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("269dded0", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Smart/Link.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Smart/Link.vue ($id_55692ed2)
+// Dependencies: 
+
+// --------------------
+const $id_29abb1b0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (
+    _vm.href &&
+    ((_vm.isInternalPage === true && _vm.external === false) || _vm.internal === true)
+  )?_c('nuxt-link',{attrs:{"to":_vm.href,"target":_vm.blank && '_blank',"title":_vm.title}},[_vm._t("default")],2):_c('a',{attrs:{"href":_vm.href && (_vm.utm === false ? _vm.href : _vm.getUtmLink),"target":_vm.blank ? '_blank' : '',"rel":"noreferrer noopener","title":_vm.title}},[_vm._t("default")],2)}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
 // Request: /src/components/SkeletonLoader/Iframe.vue
 // Parents: 
 // - /.nuxt/components/index.js ($id_d9abe5b7)
@@ -36222,618 +36834,6 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 const $id_12a00ff9 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex items-center justify-center"},[_c('svg',{staticClass:"w-8 h-8",attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24"}},[_c('path',{staticClass:"fill-[#888888] dark:fill-white",attrs:{"d":"M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2Zm0 18a8 8 0 1 1 8-8A8 8 0 0 1 12 20Z","opacity":".5"}}),_c('path',{attrs:{"fill":"currentColor","d":"M20 12h2A10 10 0 0 0 12 2V4A8 8 0 0 1 20 12Z"}},[_c('animateTransform',{attrs:{"attributeName":"transform","dur":"1s","from":"0 12 12","repeatCount":"indefinite","to":"360 12 12","type":"rotate"}})],1)])])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Smart/Image.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Smart/Image.vue?vue&type=template&lang.js ($id_e631b4b4)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_d0f3ca05 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  props: {
-    src: {
-      type: String,
-      required: false,
-      default: null
-    },
-    title: {
-      type: String,
-      required: false,
-      default: null
-    },
-    alt: {
-      type: String,
-      required: false,
-      default: null
-    },
-    format: {
-      type: String,
-      required: false,
-      default: "webp"
-    },
-    fit: {
-      type: String,
-      required: false,
-      default: "cover"
-    },
-    width: {
-      type: String,
-      required: false,
-      default: null
-    },
-    height: {
-      type: String,
-      required: false,
-      default: null
-    },
-    caption: {
-      type: String,
-      required: false,
-      default: null
-    },
-    optimize: {
-      type: Boolean,
-      required: false,
-      default: true
-    }
-  },
-  data() {
-    return {
-      error: false,
-      loaded: false
-    };
-  },
-  computed: {
-    getBackgroundUrl() {
-      if (this.error === true || !this.src)
-        return "/icon.png";
-      else if (this.optimize === false)
-        return this.getProxifiedImageUrl(this.src);
-      const { format, height, width, fit, src } = this;
-      const options = {};
-      if (format)
-        options.format = format;
-      if (fit)
-        options.fit = fit;
-      if (height)
-        options.height = parseInt(height);
-      if (width)
-        options.width = parseInt(width);
-      const proxiedImage = this.getProxifiedImageUrl(src);
-      if (this.$route.path === "/projects/webstax/custom-status")
-        return proxiedImage;
-      else
-        return this.$img(proxiedImage, options);
-    }
-  },
-  methods: {
-    getProxifiedImageUrl(url) {
-      if (url.includes("i.imgur.com"))
-        return `https://proxy.duckduckgo.com/iu/?u=${encodeURIComponent(url)}`;
-      else
-        return url;
-    },
-    handleError() {
-      if (this.optimize === false)
-        return;
-      this.error = true;
-      this.loaded = true;
-    }
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Smart/Image.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Smart/Image.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("47915616")) {
-    __vite_ssr_import_3__.default.createRecord("47915616", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("47915616", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Smart/Image.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("47915616", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Smart/Image.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// Dependencies: 
-
-// --------------------
-const $id_e631b4b4 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.src)?_c('div',{class:{
-    'bg-gray-100 animate-pulse dark:bg-neutral-700 bg-no-repeat':
-      _vm.loaded === false,
-    'relative caption': _vm.caption,
-  },style:(_vm.loaded === true
-      ? {
-          backgroundImage: ("url('" + _vm.getBackgroundUrl + "')"),
-          backgroundPosition: 'center',
-          backgroundSize: _vm.fit,
-        }
-      : {}),attrs:{"smart-image":true,"title":_vm.title || _vm.caption,"failed-image-url":_vm.error && _vm.src}},[_c('img',{staticClass:"invisible",attrs:{"src":_vm.getBackgroundUrl || _vm.src,"alt":_vm.alt || _vm.caption || _vm.title || 'image',"width":_vm.width,"height":_vm.height,"loading":"lazy"},on:{"error":_vm.handleError,"load":function($event){_vm.loaded = true}}}),(_vm.caption)?_c('span',{staticClass:"mx-8 text-center text-sm inset-x-0 -bottom-7 text-neutral-400 truncate absolute"},[_vm._v(" "+_vm._s(_vm.caption)+" ")]):_vm._e()]):_vm._e()}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Smart/Link.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Smart/Link.vue?vue&type=template&lang.js ($id_29abb1b0)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_55692ed2 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  name: "SmartLink",
-  props: {
-    href: {
-      type: [],
-      required: true,
-      default: ""
-    },
-    blank: {
-      type: Boolean,
-      required: false,
-      default: false
-    },
-    internal: {
-      type: Boolean,
-      required: false,
-      default: false
-    },
-    external: {
-      type: Boolean,
-      required: false,
-      default: false
-    },
-    title: {
-      type: String,
-      required: false,
-      default: null
-    },
-    utm: {
-      type: Boolean,
-      required: false,
-      default: true
-    }
-  },
-  computed: {
-    isInternalPage() {
-      const href = this.href;
-      if (typeof href === "object")
-        return true;
-      else if (typeof href === "string" && ["/", "#"].includes(href[0]))
-        return true;
-      else
-        return false;
-    },
-    getUtmLink() {
-      try {
-        const url = new URL(this.href);
-        url.searchParams.append("utm_source", "bitstore.dev");
-        return url.href;
-      } catch (err) {
-        return this.href;
-      }
-    }
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Smart/Link.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Smart/Link.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("269dded0")) {
-    __vite_ssr_import_3__.default.createRecord("269dded0", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("269dded0", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Smart/Link.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("269dded0", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Smart/Link.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// Dependencies: 
-
-// --------------------
-const $id_29abb1b0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (
-    _vm.href &&
-    ((_vm.isInternalPage === true && _vm.external === false) || _vm.internal === true)
-  )?_c('nuxt-link',{attrs:{"to":_vm.href,"target":_vm.blank && '_blank',"title":_vm.title}},[_vm._t("default")],2):_c('a',{attrs:{"href":_vm.href && (_vm.utm === false ? _vm.href : _vm.getUtmLink),"target":_vm.blank ? '_blank' : '',"rel":"noreferrer noopener","title":_vm.title}},[_vm._t("default")],2)}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Blog/Sections/Ratings.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js ($id_77585aaa)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_e7ce980f = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  data() {
-    return {
-      ratings: [
-        {
-          name: "Daredevil",
-          rating: 10,
-          platform: "Netflix",
-          anchor: "#daredevil"
-        },
-        {
-          name: "Prison Break",
-          rating: 10,
-          platform: "Fox",
-          anchor: "#prison-break"
-        },
-        {
-          name: "Arcane",
-          rating: 10,
-          platform: "Netflix",
-          isNew: true,
-          anchor: "#arcane"
-        },
-        {
-          name: "Love, Death & Robots",
-          rating: 10,
-          platform: "Netflix",
-          anchor: "#love-death--robots"
-        },
-        {
-          name: "\xC9lite",
-          rating: 9.5,
-          platform: "Netflix",
-          anchor: "#\xE9lite"
-        },
-        {
-          name: "The Witcher",
-          rating: 9.5,
-          platform: "Netflix",
-          anchor: "#the-witcher"
-        },
-        {
-          name: "The Boys",
-          rating: 9.5,
-          platform: "Amazon Prime",
-          anchor: "#the-boys"
-        },
-        {
-          name: "Rise of Empires: Ottoman",
-          rating: 9.5,
-          platform: "Netflix",
-          anchor: "#rise-of-empires-ottoman"
-        },
-        {
-          name: "The Mandalorian",
-          rating: 9.5,
-          platform: "Disney+",
-          anchor: "#the-mandalorian"
-        },
-        {
-          name: "La Casa de Papel",
-          rating: 9.5,
-          platform: "Netflix",
-          anchor: "#la-casa-de-papel"
-        },
-        {
-          name: "Sex Education",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#sex-education"
-        },
-        {
-          name: "Locke & Key",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#locke--key"
-        },
-        {
-          name: "Stranger Things",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#stranger-things"
-        },
-        {
-          name: "See",
-          rating: 9,
-          platform: "Apple TV+",
-          anchor: "#see"
-        },
-        {
-          name: "Sherlock",
-          rating: 9,
-          platform: "BBC",
-          anchor: "#sherlock"
-        },
-        {
-          name: "Loki",
-          rating: 9,
-          platform: "Disney+",
-          isNew: true,
-          anchor: "#loki"
-        },
-        {
-          name: "Lupin",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#lupin"
-        },
-        {
-          name: "Snowpiercer",
-          rating: 9,
-          platform: "TNT",
-          anchor: "#snowpiercer"
-        },
-        {
-          name: "The Haunting of Bly Manor",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#the-haunting-of-bly-manor"
-        },
-        {
-          name: "What If...?",
-          rating: 9,
-          platform: "Disney+",
-          isNew: true,
-          anchor: "#what-if"
-        },
-        {
-          name: "When They See Us",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#when-they-see-us"
-        },
-        {
-          name: "Sense8",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#sense8"
-        },
-        {
-          name: "Chilling Adventures of Sabrina",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#chilling-adventures-of-sabrina"
-        },
-        {
-          name: "Altered Carbon",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#altered-carbon"
-        },
-        {
-          name: "The Queen's Gambit",
-          rating: 9,
-          platform: "Netflix",
-          anchor: "#the-queens-gambit"
-        },
-        {
-          name: "A\u015Fk 101",
-          rating: 8.5,
-          platform: "Netflix",
-          anchor: "#a\u015Fk-101"
-        },
-        {
-          name: "The Order",
-          rating: 8.5,
-          platform: "Netflix",
-          anchor: "#the-order"
-        },
-        {
-          name: "BoJack Horseman",
-          rating: 8.5,
-          platform: "Netflix",
-          anchor: "#bojack-horseman"
-        },
-        {
-          name: "Rick and Morty",
-          rating: 8.5,
-          platform: "Adult Swim",
-          anchor: "#rick-and-morty"
-        },
-        {
-          name: "Lost in Space",
-          rating: 8.5,
-          platform: "Netflix",
-          anchor: "#lost-in-space"
-        },
-        {
-          name: "The Haunting of Hill House",
-          rating: 8,
-          platform: "Netflix",
-          anchor: "#the-haunting-of-hill-house"
-        },
-        {
-          name: "You",
-          rating: 8,
-          platform: "Netflix",
-          anchor: "#you"
-        },
-        {
-          name: "Lucifer",
-          rating: 8,
-          platform: "Netflix",
-          anchor: "#lucifer"
-        },
-        {
-          name: "The Umbrella Academy",
-          rating: 8,
-          platform: "Netflix",
-          anchor: "#the-umbrella-academy"
-        }
-      ].sort((a, b) => b.rating - a.rating)
-    };
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Blog/Sections/Ratings.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("3d9cdd3c")) {
-    __vite_ssr_import_3__.default.createRecord("3d9cdd3c", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("3d9cdd3c", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("3d9cdd3c", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
-// Dependencies: 
-
-// --------------------
-const $id_77585aaa = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"mb-6 grid gap-2 lg:grid-cols-2"},_vm._l((_vm.ratings),function(item){return _c('BlogRating',{key:item.name,attrs:{"rating":item.rating,"platform":item.platform,"isnew":item.isNew}},[_c('a',{attrs:{"href":item.anchor}},[_vm._v(_vm._s(item.name))])])}),1)}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -46802,6 +46802,12 @@ const __modules__ = {
  '/src/components/Navbar/Blog.vue?vue&type=template&lang.js': $id_446fef12,
  '/src/components/Navbar/Default.vue': $id_bb8b54fd,
  '/src/components/Navbar/Default.vue?vue&type=template&lang.js': $id_9d23d6c5,
+ '/src/components/Blog/Sections/Ratings.vue': $id_e7ce980f,
+ '/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js': $id_77585aaa,
+ '/src/components/Smart/Image.vue': $id_d0f3ca05,
+ '/src/components/Smart/Image.vue?vue&type=template&lang.js': $id_e631b4b4,
+ '/src/components/Smart/Link.vue': $id_55692ed2,
+ '/src/components/Smart/Link.vue?vue&type=template&lang.js': $id_29abb1b0,
  '/src/components/SkeletonLoader/Iframe.vue': $id_3d5c34ad,
  '/src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js': $id_afa803af,
  '/src/components/SkeletonLoader/Index.vue': $id_cb358c47,
@@ -46814,12 +46820,6 @@ const __modules__ = {
  '/src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js': $id_76017f13,
  '/src/components/SkeletonLoader/Spinner.vue': $id_f51081b0,
  '/src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js': $id_12a00ff9,
- '/src/components/Smart/Image.vue': $id_d0f3ca05,
- '/src/components/Smart/Image.vue?vue&type=template&lang.js': $id_e631b4b4,
- '/src/components/Smart/Link.vue': $id_55692ed2,
- '/src/components/Smart/Link.vue?vue&type=template&lang.js': $id_29abb1b0,
- '/src/components/Blog/Sections/Ratings.vue': $id_e7ce980f,
- '/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js': $id_77585aaa,
  '/src/components/Card/Portfolio/Index.vue': $id_b2f830ba,
  '/src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js': $id_d7dab732,
  '/src/components/Card/Portfolio/Normal.vue': $id_90dabcc6,

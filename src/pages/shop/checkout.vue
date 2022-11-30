@@ -30,7 +30,7 @@ export default defineComponent({
 
       // Generate dashed number
       if (realNumber.length != 0) {
-        let dashedNumber = realNumber.match(/.{1,4}/g).join('-')
+        var dashedNumber = realNumber.match(/.{1,4}/g).join('-')
         this.creditCardNumber = dashedNumber
       }
     },
@@ -192,4 +192,5 @@ pre[class*="language-"] {
 .ring {
   @apply ring-1 ring-offset-2 ring-offset-gray-100 ring-gray-200 dark: (ring-neutral-800 ring-offset-neutral-900);
 }
-</style>´
+</style>
+

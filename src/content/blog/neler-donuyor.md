@@ -40,7 +40,7 @@ Bu yazıyı okurken bu inanılmaz değişimi sizin de farkettiğinizi umuyorum. 
 
 Node.js sunucusunun beni üzen en büyük tarafı, sunucu taraflı (gelen HTTP isteğine cevap verilmeden) kullanıcıyı başka bir yönlendirmeyi sağlamamın mümkün olmadığıydı. Daha önce sitemi bu şekilde tasarlamamın nedeni, blog yazılarını paylaşınca Discord ve diğer platformlar üzerinde ön izleme çıkmasını istememdi. Bunun mümkün olmadığını düşünüyordum ancak birtakım araştırmalardan sonra mümkün olduğunu, derlenirken tüm gönderilerin çekilip sayfanın oluşturulduğunu ve istediğim sonucu elde edebildiğimi öğrendikten sonra bu tür yönlendirmeyi Günlük Müzik sistemi için feda etmem fazla sürmedi...
 
-Yönlendirme yerine geçecek olan yeni bir sayfa tasarladım. Bu sayfada artık bugünün değil, bugün ve geçmiş 10 günün şarkılarına, isimleri ve resimleri ile görebiliyorsunuz. Bunun en büyük avantajı, artık ekleyeceğim her müziğin ismi ve resmi de eklenecek ve sayfada 10 adet sonuç göreceksiniz. Şarkılar yine Türkiye saatiyle 00:00'da yenilecek, önerideki son şarkı gidecek ve ilk sıraya bir gün önceki şarkı yerleşip yerini yeni günün önerisine bırakacaktır. Bu yeni sayfaya [buraya tıklayarak](/daily) ulaşabilir ve göz atabilirsiniz.
+Yönlendirme yerine geçecek olan yeni bir sayfa tasarladım. Bu sayfada artık bugünün değil, bugün ve geçmiş 10 günün şarkılarına, isimleri ve resimleri ile görebiliyorsunuz. Bunun en büyük avantajı, artık ekleyeceğim her müziğin ismi ve resmi de eklenecek ve sayfada 10 adet sonuç göreceksiniz. Şarkılar yine Türkiye saatiyle 00:00'da yenilecek, önerideki son şarkı gidecek ve ilk sıraya bir gün önceki şarkı yerleşip yerini yeni günün önerisine bırakacaktır. Bu yeni sayfaya ulaşabilir ve göz atabilirsiniz.
 
 ### Hepsi bu mu?
 
