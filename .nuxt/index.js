@@ -13,19 +13,19 @@ import { createStore } from './store.js'
 
 /* Plugins */
 
-import nuxt_plugin_plugin_303a744c from 'nuxt_plugin_plugin_303a744c' // Source: ./components/plugin.js (mode: 'all')
-import nuxt_plugin_webfontloader_2e7dbdf0 from 'nuxt_plugin_webfontloader_2e7dbdf0' // Source: ./webfontloader.js (mode: 'client')
-import nuxt_plugin_pluginclient_187a1456 from 'nuxt_plugin_pluginclient_187a1456' // Source: ./content/plugin.client.js (mode: 'client')
-import nuxt_plugin_pluginserver_7e3385de from 'nuxt_plugin_pluginserver_7e3385de' // Source: ./content/plugin.server.js (mode: 'server')
-import nuxt_plugin_workbox_1001a10c from 'nuxt_plugin_workbox_1001a10c' // Source: ./workbox.js (mode: 'client')
-import nuxt_plugin_metaplugin_3d5f1c1f from 'nuxt_plugin_metaplugin_3d5f1c1f' // Source: ./pwa/meta.plugin.js (mode: 'all')
-import nuxt_plugin_iconplugin_4206c193 from 'nuxt_plugin_iconplugin_4206c193' // Source: ./pwa/icon.plugin.js (mode: 'all')
-import nuxt_plugin_axios_89293020 from 'nuxt_plugin_axios_89293020' // Source: ./axios.js (mode: 'all')
-import nuxt_plugin_googleanalytics_f0decb94 from 'nuxt_plugin_googleanalytics_f0decb94' // Source: ./google-analytics.js (mode: 'client')
-import nuxt_plugin_pluginserver_611ae84c from 'nuxt_plugin_pluginserver_611ae84c' // Source: ./color-mode/plugin.server.js (mode: 'server')
-import nuxt_plugin_pluginclient_093d1278 from 'nuxt_plugin_pluginclient_093d1278' // Source: ./color-mode/plugin.client.js (mode: 'client')
-import nuxt_plugin_image_b31b362a from 'nuxt_plugin_image_b31b362a' // Source: ./image.js (mode: 'all')
-import nuxt_plugin_moment_7ea5b0b0 from 'nuxt_plugin_moment_7ea5b0b0' // Source: ./moment.js (mode: 'all')
+import nuxt_plugin_plugin_4e98658e from 'nuxt_plugin_plugin_4e98658e' // Source: ./components/plugin.js (mode: 'all')
+import nuxt_plugin_webfontloader_2a7f4ccf from 'nuxt_plugin_webfontloader_2a7f4ccf' // Source: ./webfontloader.js (mode: 'client')
+import nuxt_plugin_pluginclient_beab5796 from 'nuxt_plugin_pluginclient_beab5796' // Source: ./content/plugin.client.js (mode: 'client')
+import nuxt_plugin_pluginserver_0663c5bd from 'nuxt_plugin_pluginserver_0663c5bd' // Source: ./content/plugin.server.js (mode: 'server')
+import nuxt_plugin_workbox_56d8f9aa from 'nuxt_plugin_workbox_56d8f9aa' // Source: ./workbox.js (mode: 'client')
+import nuxt_plugin_metaplugin_3f386f3e from 'nuxt_plugin_metaplugin_3f386f3e' // Source: ./pwa/meta.plugin.js (mode: 'all')
+import nuxt_plugin_iconplugin_43e014b2 from 'nuxt_plugin_iconplugin_43e014b2' // Source: ./pwa/icon.plugin.js (mode: 'all')
+import nuxt_plugin_axios_c6057462 from 'nuxt_plugin_axios_c6057462' // Source: ./axios.js (mode: 'all')
+import nuxt_plugin_googleanalytics_7e3caa12 from 'nuxt_plugin_googleanalytics_7e3caa12' // Source: ./google-analytics.js (mode: 'client')
+import nuxt_plugin_pluginserver_7018afe6 from 'nuxt_plugin_pluginserver_7018afe6' // Source: ./color-mode/plugin.server.js (mode: 'server')
+import nuxt_plugin_pluginclient_623a3685 from 'nuxt_plugin_pluginclient_623a3685' // Source: ./color-mode/plugin.client.js (mode: 'client')
+import nuxt_plugin_image_eff77a6c from 'nuxt_plugin_image_eff77a6c' // Source: ./image.js (mode: 'all')
+import nuxt_plugin_moment_115705a9 from 'nuxt_plugin_moment_115705a9' // Source: ./moment.js (mode: 'all')
 import nuxt_plugin_Util_927bffd4 from 'nuxt_plugin_Util_927bffd4' // Source: ../src/plugins/Util (mode: 'all')
 import nuxt_plugin_Types_21724ae5 from 'nuxt_plugin_Types_21724ae5' // Source: ../src/plugins/Types (mode: 'all')
 import nuxt_plugin_MomentTimezone_7b9c352d from 'nuxt_plugin_MomentTimezone_7b9c352d' // Source: ../src/plugins/MomentTimezone (mode: 'all')
@@ -95,7 +95,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"DaniDuese","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1","property":"viewport"},{"hid":"description","name":"description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"description"},{"hid":"twitter:card","name":"twitter:card","content":"summary","property":"twitter:card"},{"hid":"twitter:site","name":"twitter:site","content":"@dani_duese","property":"twitter:site"},{"hid":"twitter:creator","name":"twitter:creator","content":"@dani_duese","property":"twitter:creator"},{"hid":"twitter:title","name":"twitter:title","content":"bitstore.dev","property":"twitter:title"},{"hid":"twitter:description","name":"twitter:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"twitter:description"},{"hid":"twitter:image","name":"twitter:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"twitter:image"},{"hid":"og:type","name":"og:type","content":"website","property":"og:type"},{"hid":"og:site_name","name":"og:site_name","content":"bitstore.dev","property":"og:site_name"},{"hid":"og:description","name":"og:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"og:description"},{"hid":"og:image","name":"og:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"og:image"},{"hid":"theme-color","name":"theme-color","content":"#171717","property":"theme-color"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","src":"src\u002Fstatic\u002Fassets\u002Ficons\u002Ficon.ico"}],"style":[],"script":[]},
+    head: {"title":"DaniDuese","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1","property":"viewport"},{"hid":"description","name":"description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"description"},{"hid":"twitter:card","name":"twitter:card","content":"summary","property":"twitter:card"},{"hid":"twitter:site","name":"twitter:site","content":"@dani_duese","property":"twitter:site"},{"hid":"twitter:creator","name":"twitter:creator","content":"@dani_duese","property":"twitter:creator"},{"hid":"twitter:title","name":"twitter:title","content":"bitstore.dev","property":"twitter:title"},{"hid":"twitter:description","name":"twitter:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"twitter:description"},{"hid":"twitter:image","name":"twitter:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"twitter:image"},{"hid":"og:type","name":"og:type","content":"website","property":"og:type"},{"hid":"og:site_name","name":"og:site_name","content":"bitstore.dev","property":"og:site_name"},{"hid":"og:description","name":"og:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"og:description"},{"hid":"og:image","name":"og:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"og:image"},{"hid":"theme-color","name":"theme-color","content":"#171717","property":"theme-color"},{"hid":"charset","charset":"utf-8"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"bitstore.dev"},{"hid":"author","name":"author","content":"DaniDuese"},{"hid":"og:title","name":"og:title","property":"og:title","content":"bitstore.dev"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","src":"src\u002Fstatic\u002Fassets\u002Ficons\u002Ficon.ico"},{"hid":"shortcut-icon","rel":"shortcut icon","href":"\u002F_nuxt\u002Ficons\u002Ficon_64x64.34cc01.png"},{"hid":"apple-touch-icon","rel":"apple-touch-icon","href":"\u002F_nuxt\u002Ficons\u002Ficon_512x512.34cc01.png","sizes":"512x512"},{"rel":"manifest","href":"\u002F_nuxt\u002Fmanifest.9b86f213.json","hid":"manifest"}],"style":[],"script":[],"htmlAttrs":{"lang":"en"}},
 
     store,
     router,
@@ -224,56 +224,56 @@ async function createApp(ssrContext, config = {}) {
   }
   // Plugin execution
 
-  if (typeof nuxt_plugin_plugin_303a744c === 'function') {
-    await nuxt_plugin_plugin_303a744c(app.context, inject)
+  if (typeof nuxt_plugin_plugin_4e98658e === 'function') {
+    await nuxt_plugin_plugin_4e98658e(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_webfontloader_2e7dbdf0 === 'function') {
-    await nuxt_plugin_webfontloader_2e7dbdf0(app.context, inject)
+  if (process.client && typeof nuxt_plugin_webfontloader_2a7f4ccf === 'function') {
+    await nuxt_plugin_webfontloader_2a7f4ccf(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_pluginclient_187a1456 === 'function') {
-    await nuxt_plugin_pluginclient_187a1456(app.context, inject)
+  if (process.client && typeof nuxt_plugin_pluginclient_beab5796 === 'function') {
+    await nuxt_plugin_pluginclient_beab5796(app.context, inject)
   }
 
-  if (process.server && typeof nuxt_plugin_pluginserver_7e3385de === 'function') {
-    await nuxt_plugin_pluginserver_7e3385de(app.context, inject)
+  if (process.server && typeof nuxt_plugin_pluginserver_0663c5bd === 'function') {
+    await nuxt_plugin_pluginserver_0663c5bd(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_workbox_1001a10c === 'function') {
-    await nuxt_plugin_workbox_1001a10c(app.context, inject)
+  if (process.client && typeof nuxt_plugin_workbox_56d8f9aa === 'function') {
+    await nuxt_plugin_workbox_56d8f9aa(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_metaplugin_3d5f1c1f === 'function') {
-    await nuxt_plugin_metaplugin_3d5f1c1f(app.context, inject)
+  if (typeof nuxt_plugin_metaplugin_3f386f3e === 'function') {
+    await nuxt_plugin_metaplugin_3f386f3e(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_iconplugin_4206c193 === 'function') {
-    await nuxt_plugin_iconplugin_4206c193(app.context, inject)
+  if (typeof nuxt_plugin_iconplugin_43e014b2 === 'function') {
+    await nuxt_plugin_iconplugin_43e014b2(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_axios_89293020 === 'function') {
-    await nuxt_plugin_axios_89293020(app.context, inject)
+  if (typeof nuxt_plugin_axios_c6057462 === 'function') {
+    await nuxt_plugin_axios_c6057462(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_googleanalytics_f0decb94 === 'function') {
-    await nuxt_plugin_googleanalytics_f0decb94(app.context, inject)
+  if (process.client && typeof nuxt_plugin_googleanalytics_7e3caa12 === 'function') {
+    await nuxt_plugin_googleanalytics_7e3caa12(app.context, inject)
   }
 
-  if (process.server && typeof nuxt_plugin_pluginserver_611ae84c === 'function') {
-    await nuxt_plugin_pluginserver_611ae84c(app.context, inject)
+  if (process.server && typeof nuxt_plugin_pluginserver_7018afe6 === 'function') {
+    await nuxt_plugin_pluginserver_7018afe6(app.context, inject)
   }
 
-  if (process.client && typeof nuxt_plugin_pluginclient_093d1278 === 'function') {
-    await nuxt_plugin_pluginclient_093d1278(app.context, inject)
+  if (process.client && typeof nuxt_plugin_pluginclient_623a3685 === 'function') {
+    await nuxt_plugin_pluginclient_623a3685(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_image_b31b362a === 'function') {
-    await nuxt_plugin_image_b31b362a(app.context, inject)
+  if (typeof nuxt_plugin_image_eff77a6c === 'function') {
+    await nuxt_plugin_image_eff77a6c(app.context, inject)
   }
 
-  if (typeof nuxt_plugin_moment_7ea5b0b0 === 'function') {
-    await nuxt_plugin_moment_7ea5b0b0(app.context, inject)
+  if (typeof nuxt_plugin_moment_115705a9 === 'function') {
+    await nuxt_plugin_moment_115705a9(app.context, inject)
   }
 
   if (typeof nuxt_plugin_Util_927bffd4 === 'function') {

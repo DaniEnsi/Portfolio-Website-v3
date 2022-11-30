@@ -1,13 +1,11 @@
 <script lang="ts">
 import Vue from "vue"
-import { StripeCheckout } from '@vue-stripe/vue-stripe';
 
 export default Vue.extend({
-  components: {
-    StripeCheckout,
-  },
   data() {
     return {
+      test: "test",
+      test2: "test2",
       services: [
         {
           image: "https://i.vgy.me/vtpWBl.png",
@@ -15,7 +13,6 @@ export default Vue.extend({
           describtion: "Discord Nitro Generator",
           price: "50€",
           href: "/shop/products/bitgen",
-          buy: "",
         },
         {
           image: "https://i.vgy.me/Qqlhuv.png",
@@ -23,34 +20,45 @@ export default Vue.extend({
           describtion: "Discord Nitro Generator",
           price: "100€",
           href: "/shop/products/bitboost",
-          buy: "",
         },
         {
           image: "https://i.vgy.me/LqnvOD.png",
           name: "BitRedeem Premium",
           describtion: "Discord Nitro Generator",
           price: "50€",
-          href: "/shop/bitredeem",
-          buy: "",
+          href: "/shop/products/bitredeem",
         },
         {
           image: "https://i.vgy.me/KthxwR.png",
           name: "BitTool Premium",
           describtion: "Discord Nitro Generator",
           price: "100€",
-          href: "/shop/bittool",
-          buy: "",
+          href: "/shop/products/bittool",
         },
         {
           image: "https://i.vgy.me/yqhsH6.png",
           name: "BitRaider Premium",
           describtion: "Discord Nitro Generator",
-          price: "25$",
-          href: "/shop/bitraider",
-          buy: "",
+          price: "25€",
+          href: "/shop/products/bitraider",
         },
       ],
     }
+  },
+  methods: {
+    setItem(item?: string) {
+      // use vuex storage to stor the string value for the item selected
+      this.$store.commit("shop/setItem", (item as string) || "")
+      this.test2 = this.$store.state?.shop?.price2
+      console.log("Saved: " + this.test2)
+      this.$router.push({ path: "/shop/checkout" }); // redirect to checkout page
+    },
+    setPrice(price?: string) {
+      // use vuex storage to stor the string value for the price selected
+      this.$store.commit("shop/setPrice", (price as string) || "")
+      this.test = this.$store.state?.shop?.item2  
+      console.log("Saved: " + this.test)
+    },
   },
   head() {
     const title = "Shop"
@@ -72,14 +80,6 @@ export default Vue.extend({
         },
       ],
     }
-  },
-  created() {
-    const sellix = document.createElement("script");
-    sellix.setAttribute(
-      "src",
-      "https://cdn.sellix.io/static/js/embed.js"
-    );
-    document.head.appendChild(sellix);
   },
 })
 </script>
@@ -117,11 +117,11 @@ export default Vue.extend({
                 </span>
               </div>
               <div class="w-full flex pr-10 gap-5 justify-end items-center">
-                <Button variant="github" class="my-2 hover:bg-neutral-500" :href="account.buy">
+                <Button variant="github" class="my-2  hover:bg-neutral-500" @click.native="setItem(account.name), setPrice(account.price)">
                   <template #icon>
-                    <IconShoppingCart class="h-5 text-black dark:text-white w-7" />
+                    <IconCash class="h-6 text-black dark:text-white w-7 " />
                   </template>
-
+                
                   Buy Now
                 </Button>
                 <Button variant="github" class="my-2  hover:bg-neutral-500" :href="account.href" >

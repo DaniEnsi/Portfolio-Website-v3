@@ -6,17 +6,10 @@
     "items": [
         {
             "url": "https://bitstore.dev/blog/aur-discord-yukleme",
-            "title": "AUR'dan Discord'u Yükleme",
-            "summary": "Bu gönderide Manjaro ve Arch tabanlı diğer Linux dağıtımlarının kullandığı AUR'dan Discord'un nasıl yükleyebileceğini öğrenebilirsiniz.",
+            "title": "Installing Discord from AUR",
+            "summary": "In this shipment, you can learn how Discord can install from AUR used by Manjaro and Arch -based Linux distributions.",
             "image": "https://bitstore.dev/assets/images/posts/aur-discord-yukleme.jpg",
             "date_modified": "2020-02-01T11:58:45.357Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/blogun-baslica-ozellikleri",
-            "title": "Blogun Başlıca Özellikleri",
-            "summary": "Tamamen sıfırdan hazırlanan, EGGSY'nin gönderilerini tutacağı ve paylaşımlar yapacağı yep yeni blogunun öne çıkan ilginç özellikleri ve blogun genel tanıtımı için bu gönderiyi okuyabilirsiniz.",
-            "image": "https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg",
-            "date_modified": "2020-01-09T03:26:00.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/blog-yenilendi",
@@ -47,6 +40,20 @@
             "date_modified": "2020-07-10T14:38:39.506Z"
         },
         {
+            "url": "https://bitstore.dev/blog/blogun-baslica-ozellikleri",
+            "title": "Blogun Başlıca Özellikleri",
+            "summary": "Tamamen sıfırdan hazırlanan, EGGSY'nin gönderilerini tutacağı ve paylaşımlar yapacağı yep yeni blogunun öne çıkan ilginç özellikleri ve blogun genel tanıtımı için bu gönderiyi okuyabilirsiniz.",
+            "image": "https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg",
+            "date_modified": "2020-01-09T03:26:00.000Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/iki-turk-uc-yabanci-bes-gun",
+            "title": "İki Türk, Üç Yabancı, Beş Gün: İstanbul",
+            "summary": "Erasmus+ sürecinde tanıştığımız üç yabancı arkadaşımızı Türkiye'de ağırlayıp, onlara İstanbul'u tanıtırken yaşadığımız maceralar ve deneyimler.",
+            "image": "https://bitstore.dev/assets/images/posts/iki-turk-uc-yabanci-bes-gun.jpg",
+            "date_modified": "2021-12-26T22:54:00.000Z"
+        },
+        {
             "url": "https://bitstore.dev/blog/dizi-onerilerim",
             "title": "Dizi Önerilerim",
             "summary": "Son 2 yılda izlediğim tüm yabancı dizileri, kısa açıklamaları ve 10 üzerinden puanlamalarıyla birlikte sizlerle paylaştığım gönderi. Ayrıca, her yeni dizi bitirdiğimde, bu listeyi de güncelleyeceğim.",
@@ -61,13 +68,6 @@
             "date_modified": "2021-04-09T17:54:57.008Z"
         },
         {
-            "url": "https://bitstore.dev/blog/iki-turk-uc-yabanci-bes-gun",
-            "title": "İki Türk, Üç Yabancı, Beş Gün: İstanbul",
-            "summary": "Erasmus+ sürecinde tanıştığımız üç yabancı arkadaşımızı Türkiye'de ağırlayıp, onlara İstanbul'u tanıtırken yaşadığımız maceralar ve deneyimler.",
-            "image": "https://bitstore.dev/assets/images/posts/iki-turk-uc-yabanci-bes-gun.jpg",
-            "date_modified": "2021-12-26T21:54:00.000Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/imgur-please-artik-unblock-please",
             "title": "Unblock Please'e Merhaba Deyin!",
             "summary": "Imgur Please projem, adı değişerek artık sadece Imgur engelini kaldırmaya değil, aynı zamanda Pastebin engelini de kaldırmaya yarıyor!",
@@ -75,18 +75,18 @@
             "date_modified": "2020-09-02T17:00:12.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/imgur-please-nedir",
-            "title": "Imgur Please Nedir?",
-            "summary": "EGGSY'nin yapmış olduğu, internet sayfalarındaki Imgur linklerini ve Imgur resimlerine giden direkt istekleri DuckDuckGo Proxy sunucularını kullanarak erişime açan Imgur Please eklentisi hakkında yazı.",
-            "image": "https://bitstore.dev/assets/images/posts/imgur-please-nedir.jpg",
-            "date_modified": "2020-01-29T20:18:39.078Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/is-inside-nasil-kullanilir",
             "title": "is-inside.me Nasıl Kullanılır?",
             "summary": "ShareX gibi kendi internet servisinize resim yüklemeyi destekleyen programlar için EGGSY ve Tresmos tarafından geliştirilen is-inside.me sitesi nedir ve nasıl kullanılır?",
             "image": "https://bitstore.dev/assets/images/posts/is-inside-nasil-kullanilir.jpg",
             "date_modified": "2020-01-09T02:23:59.638Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/imgur-please-nedir",
+            "title": "Imgur Please Nedir?",
+            "summary": "EGGSY'nin yapmış olduğu, internet sayfalarındaki Imgur linklerini ve Imgur resimlerine giden direkt istekleri DuckDuckGo Proxy sunucularını kullanarak erişime açan Imgur Please eklentisi hakkında yazı.",
+            "image": "https://bitstore.dev/assets/images/posts/imgur-please-nedir.jpg",
+            "date_modified": "2020-01-29T20:18:39.078Z"
         },
         {
             "url": "https://bitstore.dev/blog/manjaro-nedir",
@@ -104,10 +104,10 @@
         },
         {
             "url": "https://bitstore.dev/blog/musta-okumak",
-            "title": "Muş'ta Okumak",
+            "title": "Russian Attacks",
             "summary": "İstanbul'dan gelen birinin gözünden tamamen yabancı olduğu bir bölge ve şehirde geçirdiği üniversite hayatı ve başından geçen maceralar.",
             "image": "https://bitstore.dev/assets/images/posts/musta-okumak.jpg",
-            "date_modified": "2022-04-13T22:00:00.000Z"
+            "date_modified": "2022-04-13T23:00:00.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/nedir-bu-blog",
@@ -117,18 +117,60 @@
             "date_modified": "2020-01-09T00:28:41.545Z"
         },
         {
-            "url": "https://bitstore.dev/blog/neler-donuyor",
-            "title": "Neler Dönüyor?",
-            "summary": "Bu site ne? Neden yeni bir site yapıyorum? Sitemin geleceği için ne gibi kararlar alacağım? Hepsini bu yazıda açıklıyorum!",
-            "image": "https://bitstore.dev/assets/images/posts/neler-donuyor.jpg",
-            "date_modified": "2021-01-02T19:00:00.000Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/octopi-aur-destegi-nasil-aktiflestirilir",
             "title": "Octopi AUR Desteği Nasıl Aktifleştirilir?",
             "summary": "Bu gönderide Manjaro'nun grafiksel paket yöneticisi Octopi'de nasıl AUR (Arch User Repository) aktif edileceğini anlatacağım. Bu sayede aklınıza gelebilecek her türlü uygulamayı yükleyebileceksiniz!",
             "image": "https://bitstore.dev/assets/images/posts/octopi-aur-destegi-nasil-aktiflestirilir.jpg",
             "date_modified": "2020-01-09T01:57:28.803Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/raycast-uretkenlik-araci",
+            "title": "Raycast: Geliştiriciler İçin Üretkenlik Aracı",
+            "summary": "Mac kullanıcıları ve özellikle geliştiriciler için Spotlight'ınızın yerini alacak ve her işleminizi hızlandıracak bir alternatif olan Raycast ile işlerinizi kolaylaştırın.",
+            "image": "https://bitstore.dev/assets/images/posts/raycast-uretkenlik-araci.jpg",
+            "date_modified": "2022-01-19T00:00:00.000Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/on-gun-dort-farkli-ulke",
+            "title": "10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?",
+            "summary": "Geçen hafta çıktığımız Balkan turunda ziyaret ettiğimiz Arnavutluk, Karadağ, Kosova ve Makedonya'da yaşadığımız maceraları anlatıyor ve bunları birbiriyle karşılaştırıyorum.",
+            "image": "https://bitstore.dev/assets/images/posts/on-gun-dort-farkli-ulke.jpg",
+            "date_modified": "2021-12-13T21:52:00.000Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/slowly-yeni-koye-eski-adet",
+            "title": "SLOWLY: Yeni Köye Eski Adet?",
+            "summary": "Mektuplaşmayı kolay, zahmetsiz, eğlenceli ve heyecanlı yapan uygulama SLOWLY hakkında kendi görüşlerim ve fikirlerim!",
+            "image": "https://bitstore.dev/assets/images/posts/slowly-yeni-koye-eski-adet.jpg",
+            "date_modified": "2021-05-19T22:12:47.939Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/premid-nasil-kullanilir",
+            "title": "PreMiD Nasıl Kullanılır?",
+            "summary": "İnternet sitelerinde yaptığınız, izlediğiniz veya dinlediğiniz aktiviteleri Discord profilinize yansıtan PreMiD nasıl kullanılır?",
+            "image": "https://bitstore.dev/assets/images/posts/premid-nasil-kullanilir.jpg",
+            "date_modified": "2021-05-16T19:55:27.440Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/neler-donuyor",
+            "title": "Neler Dönüyor?",
+            "summary": "Bu site ne? Neden yeni bir site yapıyorum? Sitemin geleceği için ne gibi kararlar alacağım? Hepsini bu yazıda açıklıyorum!",
+            "image": "https://bitstore.dev/assets/images/posts/neler-donuyor.jpg",
+            "date_modified": "2021-01-02T20:00:00.000Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/site-artik-acik-kaynak",
+            "title": "Sitem Artık Açık Kaynak!",
+            "summary": "Yaklaşık bir buçuk yıldır yönettiğim ve içerik girdiğim, sürekli geliştirip bir süre önce Vue'ya geçirdiğim sitemi açık kaynak olarak GitHub üzerinde paylaştım!",
+            "image": "https://bitstore.dev/assets/images/posts/site-artik-acik-kaynak.jpg",
+            "date_modified": "2020-11-01T18:08:08.507Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/yeni-alan-adi",
+            "title": "Yeni Alan Adı!",
+            "summary": "Eski alan adının yenileme ücretinin aşırılığı dolayısıyla, yeni bir alan adı alarak sitenin tamamını oraya taşıma kararı aldım. Eski alan adı, kalan süresi boyunca otomatik olarak tüm istekleri yeni alan adına yönlendirecek, o yüzden endişe etmenize gerek yok.",
+            "image": "https://bitstore.dev/assets/images/posts/yeni-alan-adi.jpg",
+            "date_modified": "2020-07-22T14:03:24.368Z"
         },
         {
             "url": "https://bitstore.dev/blog/okul-gunlukleri-podcast",
@@ -140,51 +182,16 @@
         {
             "url": "https://bitstore.dev/blog/okul-gunlukleri",
             "title": "Okul Günlükleri: Giriş",
-            "summary": "Eğitim gördüğüm okulda aldığımız derslerde ilgimi çeken konuları, kullanılan yöntemleri detaylarıyla paylaşacağım serinin giriş bölümü.",
+            "summary": "Education gördüğüm okulda aldığımız derslerde ilgimi çeken konuları, kullanılan yöntemleri detaylarıyla paylaşacağım serinin giriş bölümü.",
             "image": "https://bitstore.dev/assets/images/posts/okul-gunlukleri.jpg",
             "date_modified": "2021-03-18T22:02:56.602Z"
         },
         {
-            "url": "https://bitstore.dev/blog/on-gun-dort-farkli-ulke",
-            "title": "10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?",
-            "summary": "Geçen hafta çıktığımız Balkan turunda ziyaret ettiğimiz Arnavutluk, Karadağ, Kosova ve Makedonya'da yaşadığımız maceraları anlatıyor ve bunları birbiriyle karşılaştırıyorum.",
-            "image": "https://bitstore.dev/assets/images/posts/on-gun-dort-farkli-ulke.jpg",
-            "date_modified": "2021-12-13T20:52:00.000Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/premid-nasil-kullanilir",
-            "title": "PreMiD Nasıl Kullanılır?",
-            "summary": "İnternet sitelerinde yaptığınız, izlediğiniz veya dinlediğiniz aktiviteleri Discord profilinize yansıtan PreMiD nasıl kullanılır?",
-            "image": "https://bitstore.dev/assets/images/posts/premid-nasil-kullanilir.jpg",
-            "date_modified": "2021-05-16T19:55:27.440Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/raycast-uretkenlik-araci",
-            "title": "Raycast: Geliştiriciler İçin Üretkenlik Aracı",
-            "summary": "Mac kullanıcıları ve özellikle geliştiriciler için Spotlight'ınızın yerini alacak ve her işleminizi hızlandıracak bir alternatif olan Raycast ile işlerinizi kolaylaştırın.",
-            "image": "https://bitstore.dev/assets/images/posts/raycast-uretkenlik-araci.jpg",
-            "date_modified": "2022-01-18T23:00:00.000Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak",
-            "title": "Sürekli Renk Değiştiren Roller Neden Yasak?",
-            "summary": "Bu gönderi ile Discord botlarında neden \"sürekli renk değiştiren\" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.",
-            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
-            "date_modified": "2020-01-09T00:59:03.605Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/site-artik-acik-kaynak",
-            "title": "Sitem Artık Açık Kaynak!",
-            "summary": "Yaklaşık bir buçuk yıldır yönettiğim ve içerik girdiğim, sürekli geliştirip bir süre önce Vue'ya geçirdiğim sitemi açık kaynak olarak GitHub üzerinde paylaştım!",
-            "image": "https://bitstore.dev/assets/images/posts/site-artik-acik-kaynak.jpg",
-            "date_modified": "2020-11-01T18:08:08.507Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/slowly-yeni-koye-eski-adet",
-            "title": "SLOWLY: Yeni Köye Eski Adet?",
-            "summary": "Mektuplaşmayı kolay, zahmetsiz, eğlenceli ve heyecanlı yapan uygulama SLOWLY hakkında kendi görüşlerim ve fikirlerim!",
-            "image": "https://bitstore.dev/assets/images/posts/slowly-yeni-koye-eski-adet.jpg",
-            "date_modified": "2021-05-19T22:12:47.939Z"
+            "url": "https://bitstore.dev/blog/spotify-baglantisindan-youtube-videosu-bulma",
+            "title": "Spotify Bağlantısından YouTube Videosu Bulma (Node)",
+            "summary": "Farklı bir müzik platformundan Spotify'a geçtiyseniz ama bir nedenden ötürü hâlâ öncesinde yapabildiğiniz gibi müziklerin YouTube bağlantılarına ulaşmak istiyorsanız, bu işlemi Node.js ile otomatikleştirebilirsiniz!",
+            "image": "https://bitstore.dev/assets/images/posts/spotify-baglantisindan-youtube-videosu-bulma.jpg",
+            "date_modified": "2021-11-22T00:00:00.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/sunucudaki-herkese-dm-atmak-neden-yasak",
@@ -201,18 +208,11 @@
             "date_modified": "2020-05-04T21:37:39.798Z"
         },
         {
-            "url": "https://bitstore.dev/blog/spotify-baglantisindan-youtube-videosu-bulma",
-            "title": "Spotify Bağlantısından YouTube Videosu Bulma (Node)",
-            "summary": "Farklı bir müzik platformundan Spotify'a geçtiyseniz ama bir nedenden ötürü hâlâ öncesinde yapabildiğiniz gibi müziklerin YouTube bağlantılarına ulaşmak istiyorsanız, bu işlemi Node.js ile otomatikleştirebilirsiniz!",
-            "image": "https://bitstore.dev/assets/images/posts/spotify-baglantisindan-youtube-videosu-bulma.jpg",
-            "date_modified": "2021-11-21T23:00:00.000Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/yeni-alan-adi",
-            "title": "Yeni Alan Adı!",
-            "summary": "Eski alan adının yenileme ücretinin aşırılığı dolayısıyla, yeni bir alan adı alarak sitenin tamamını oraya taşıma kararı aldım. Eski alan adı, kalan süresi boyunca otomatik olarak tüm istekleri yeni alan adına yönlendirecek, o yüzden endişe etmenize gerek yok.",
-            "image": "https://bitstore.dev/assets/images/posts/yeni-alan-adi.jpg",
-            "date_modified": "2020-07-22T14:03:24.368Z"
+            "url": "https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak",
+            "title": "Sürekli Renk Değiştiren Roller Neden Yasak?",
+            "summary": "Bu gönderi ile Discord botlarında neden \"sürekli renk değiştiren\" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.",
+            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
+            "date_modified": "2020-01-09T00:59:03.605Z"
         }
     ]
 }

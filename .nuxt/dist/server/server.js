@@ -378,7 +378,7 @@ __vite_ssr_exports__.default = async (ssrContext) => {
 // - /.nuxt/components/nuxt-loading.vue ($id_da7e247f)
 // - /src/layouts/default.vue ($id_18a1028e)
 // - /.nuxt/store.js ($id_ef05a845)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/components/plugin.js ($id_a11c6e71)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/components/plugin.js ($id_49d9fa0e)
 // - /src/components/Button.vue ($id_b04721bd)
 // - /src/components/ColorSwitcher.vue ($id_6ba21301)
 // - /src/components/Footer.vue ($id_adb5c124)
@@ -410,11 +410,13 @@ __vite_ssr_exports__.default = async (ssrContext) => {
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
 // - /src/components/Icon/Brand.vue ($id_67588ddc)
 // - /src/components/Icon/Calendar.vue ($id_edab98b0)
+// - /src/components/Icon/Cash.vue ($id_308eed36)
 // - /src/components/Icon/Channel.vue ($id_47045b0f)
 // - /src/components/Icon/Check.vue ($id_a6c38858)
 // - /src/components/Icon/Chevron.vue ($id_c1155e7e)
 // - /src/components/Icon/Clock.vue ($id_6045d666)
 // - /src/components/Icon/Cog.vue ($id_312658f3)
+// - /src/components/Icon/Creditcard.vue ($id_365173c5)
 // - /src/components/Icon/Dev.vue ($id_87d22b1e)
 // - /src/components/Icon/Document.vue ($id_6da4b6a5)
 // - /src/components/Icon/Dollar.vue ($id_6bdd4710)
@@ -437,30 +439,30 @@ __vite_ssr_exports__.default = async (ssrContext) => {
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Loaders/Content.vue ($id_9b9aa532)
 // - /src/components/Loaders/Goals.vue ($id_c361c855)
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
+// - /src/components/Navbar/Blog.vue ($id_e8935662)
+// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Navbar/Blog.vue ($id_e8935662)
-// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
+// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
+// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // - /src/components/Card/Post/Index.vue ($id_97d79fd7)
 // - /src/components/Card/Post/Normal.vue ($id_73191fe5)
 // - /src/components/Card/Post/Text.vue ($id_8df57aa7)
 // - /src/components/Card/Post/TextTitle.vue ($id_c37377d1)
-// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
-// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
-// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/content/plugin.server.js ($id_65289a8f)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/color-mode/plugin.server.js ($id_691c3ca3)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js ($id_6b78668a)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/content/plugin.server.js ($id_337a9e53)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/color-mode/plugin.server.js ($id_06e5ef66)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js ($id_0b9c235d)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-img.vue ($id_e7521e84)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-picture.vue ($id_99ffd925)
 // - /.nuxt/components/nuxt-link.server.js ($id_136473b2)
@@ -12362,18 +12364,18 @@ __vite_ssr_exports__.default = {
 // - /.nuxt/App.js ($id_cea9471e)
 // - /.nuxt/utils.js ($id_f22833e8)
 // - /.nuxt/store.js ($id_ef05a845)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/components/plugin.js ($id_a11c6e71)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js ($id_c3952f5e)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/content/plugin.server.js ($id_65289a8f)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/meta.plugin.js ($id_cd932039)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/icon.plugin.js ($id_894bc1e5)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/axios.js ($id_c9b1b777)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/color-mode/plugin.server.js ($id_691c3ca3)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js ($id_6b78668a)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/moment.js ($id_8e921b0f)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts ($id_88480871)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Types.ts ($id_8b437dc3)
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/MomentTimezone.ts ($id_344ae7b4)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/components/plugin.js ($id_49d9fa0e)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js ($id_1c84b102)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/content/plugin.server.js ($id_337a9e53)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/meta.plugin.js ($id_66e9dba7)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/icon.plugin.js ($id_12f6d708)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/axios.js ($id_40d84d0a)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/color-mode/plugin.server.js ($id_06e5ef66)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js ($id_0b9c235d)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/moment.js ($id_6fd1e986)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts ($id_e0999506)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Types.ts ($id_0d39fe18)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/MomentTimezone.ts ($id_f807e70b)
 // --------------------
 const $id_d8486045 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
@@ -12404,41 +12406,41 @@ const __vite_ssr_import_11__ = await __vite_ssr_import__("/.nuxt/store.js");
 
 /* Plugins */
 
-const __vite_ssr_import_12__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/components/plugin.js");
+const __vite_ssr_import_12__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/components/plugin.js");
  // Source: ./components/plugin.js (mode: 'all')
-const __vite_ssr_import_13__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js");
+const __vite_ssr_import_13__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js");
  // Source: ./webfontloader.js (mode: 'client')
-const __vite_ssr_import_14__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js");
+const __vite_ssr_import_14__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js");
  // Source: ./content/plugin.client.js (mode: 'client')
-const __vite_ssr_import_15__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/content/plugin.server.js");
+const __vite_ssr_import_15__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/content/plugin.server.js");
  // Source: ./content/plugin.server.js (mode: 'server')
-const __vite_ssr_import_16__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js");
+const __vite_ssr_import_16__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js");
  // Source: ./workbox.js (mode: 'client')
-const __vite_ssr_import_17__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/meta.plugin.js");
+const __vite_ssr_import_17__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/meta.plugin.js");
  // Source: ./pwa/meta.plugin.js (mode: 'all')
-const __vite_ssr_import_18__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/icon.plugin.js");
+const __vite_ssr_import_18__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/icon.plugin.js");
  // Source: ./pwa/icon.plugin.js (mode: 'all')
-const __vite_ssr_import_19__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/axios.js");
+const __vite_ssr_import_19__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/axios.js");
  // Source: ./axios.js (mode: 'all')
-const __vite_ssr_import_20__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js");
+const __vite_ssr_import_20__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js");
  // Source: ./google-analytics.js (mode: 'client')
-const __vite_ssr_import_21__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/color-mode/plugin.server.js");
+const __vite_ssr_import_21__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/color-mode/plugin.server.js");
  // Source: ./color-mode/plugin.server.js (mode: 'server')
-const __vite_ssr_import_22__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js");
+const __vite_ssr_import_22__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js");
  // Source: ./color-mode/plugin.client.js (mode: 'client')
-const __vite_ssr_import_23__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js");
+const __vite_ssr_import_23__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js");
  // Source: ./image.js (mode: 'all')
-const __vite_ssr_import_24__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/moment.js");
+const __vite_ssr_import_24__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/moment.js");
  // Source: ./moment.js (mode: 'all')
-const __vite_ssr_import_25__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts");
+const __vite_ssr_import_25__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts");
  // Source: ../src/plugins/Util (mode: 'all')
-const __vite_ssr_import_26__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Types.ts");
+const __vite_ssr_import_26__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Types.ts");
  // Source: ../src/plugins/Types (mode: 'all')
-const __vite_ssr_import_27__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/MomentTimezone.ts");
+const __vite_ssr_import_27__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/MomentTimezone.ts");
  // Source: ../src/plugins/MomentTimezone (mode: 'all')
-const __vite_ssr_import_28__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js");
+const __vite_ssr_import_28__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js");
  // Source: ../src/plugins/Lanyard (mode: 'client')
-const __vite_ssr_import_29__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js");
+const __vite_ssr_import_29__ = await __vite_ssr_import__("/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js");
  // Source: ../src/plugins/Tippy (mode: 'client')
 
 // Component: <ClientOnly>
@@ -12504,7 +12506,7 @@ async function createApp(ssrContext, config = {}) {
   // here we inject the router and store to all child components,
   // making them available everywhere as `this.$router` and `this.$store`.
   const app = {
-    head: {"title":"DaniDuese","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1","property":"viewport"},{"hid":"description","name":"description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"description"},{"hid":"twitter:card","name":"twitter:card","content":"summary","property":"twitter:card"},{"hid":"twitter:site","name":"twitter:site","content":"@dani_duese","property":"twitter:site"},{"hid":"twitter:creator","name":"twitter:creator","content":"@dani_duese","property":"twitter:creator"},{"hid":"twitter:title","name":"twitter:title","content":"bitstore.dev","property":"twitter:title"},{"hid":"twitter:description","name":"twitter:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"twitter:description"},{"hid":"twitter:image","name":"twitter:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"twitter:image"},{"hid":"og:type","name":"og:type","content":"website","property":"og:type"},{"hid":"og:site_name","name":"og:site_name","content":"bitstore.dev","property":"og:site_name"},{"hid":"og:description","name":"og:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"og:description"},{"hid":"og:image","name":"og:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"og:image"},{"hid":"theme-color","name":"theme-color","content":"#171717","property":"theme-color"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","src":"src\u002Fstatic\u002Fassets\u002Ficons\u002Ficon.ico"}],"style":[],"script":[]},
+    head: {"title":"DaniDuese","meta":[{"charset":"utf-8"},{"name":"viewport","content":"width=device-width, initial-scale=1","property":"viewport"},{"hid":"description","name":"description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"description"},{"hid":"twitter:card","name":"twitter:card","content":"summary","property":"twitter:card"},{"hid":"twitter:site","name":"twitter:site","content":"@dani_duese","property":"twitter:site"},{"hid":"twitter:creator","name":"twitter:creator","content":"@dani_duese","property":"twitter:creator"},{"hid":"twitter:title","name":"twitter:title","content":"bitstore.dev","property":"twitter:title"},{"hid":"twitter:description","name":"twitter:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"twitter:description"},{"hid":"twitter:image","name":"twitter:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"twitter:image"},{"hid":"og:type","name":"og:type","content":"website","property":"og:type"},{"hid":"og:site_name","name":"og:site_name","content":"bitstore.dev","property":"og:site_name"},{"hid":"og:description","name":"og:description","content":"Young Web developer from Germany, interested in languages, gaming, and programming, trying to improve his JavaScript skills!","property":"og:description"},{"hid":"og:image","name":"og:image","content":"https:\u002F\u002Fi.vgy.me\u002FnzEutm.png","property":"og:image"},{"hid":"theme-color","name":"theme-color","content":"#171717","property":"theme-color"},{"hid":"charset","charset":"utf-8"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"bitstore.dev"},{"hid":"author","name":"author","content":"DaniDuese"},{"hid":"og:title","name":"og:title","property":"og:title","content":"bitstore.dev"}],"link":[{"rel":"icon","type":"image\u002Fx-icon","src":"src\u002Fstatic\u002Fassets\u002Ficons\u002Ficon.ico"},{"hid":"shortcut-icon","rel":"shortcut icon","href":"\u002F_nuxt\u002Ficons\u002Ficon_64x64.34cc01.png"},{"hid":"apple-touch-icon","rel":"apple-touch-icon","href":"\u002F_nuxt\u002Ficons\u002Ficon_512x512.34cc01.png","sizes":"512x512"},{"rel":"manifest","href":"\u002F_nuxt\u002Fmanifest.9b86f213.json","hid":"manifest"}],"style":[],"script":[],"htmlAttrs":{"lang":"en"}},
 
     store,
     router,
@@ -16375,37 +16377,37 @@ const __vite_ssr_import_3__ = await __vite_ssr_import__("/.nuxt/utils.js");
 const __vite_ssr_import_4__ = await __vite_ssr_import__("/.nuxt/router.scrollBehavior.js");
 
 
-const _719c9e04 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
-const _2e289fb0 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/daily-song.vue' /* webpackChunkName: "pages/daily-song" */))
-const _42c0ccfc = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/index.vue' /* webpackChunkName: "pages/portfolio/index" */))
-const _19559f50 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/index.vue' /* webpackChunkName: "pages/shop/index" */))
-const _2de1c76f = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/songs.vue' /* webpackChunkName: "pages/songs" */))
-const _2537b688 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/contact.vue' /* webpackChunkName: "pages/me/contact" */))
-const _395403b7 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/donate.vue' /* webpackChunkName: "pages/me/donate" */))
-const _0fea3b58 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/hireme.vue' /* webpackChunkName: "pages/me/hireme" */))
-const _7fd1e129 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/repos.vue' /* webpackChunkName: "pages/me/repos" */))
-const _6d2c5d56 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/bitcord.vue' /* webpackChunkName: "pages/portfolio/bitcord" */))
-const _b3114162 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/bitmine-v2.vue' /* webpackChunkName: "pages/portfolio/bitmine-v2" */))
-const _b2f51260 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/bitmine-v3.vue' /* webpackChunkName: "pages/portfolio/bitmine-v3" */))
-const _7b0f93d1 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/graphics.vue' /* webpackChunkName: "pages/portfolio/graphics" */))
-const _f9e34aa2 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio1.vue' /* webpackChunkName: "pages/portfolio/portfolio1" */))
-const _f9c71ba0 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio2.vue' /* webpackChunkName: "pages/portfolio/portfolio2" */))
-const _f9aaec9e = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio3.vue' /* webpackChunkName: "pages/portfolio/portfolio3" */))
-const _f98ebd9c = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio4.vue' /* webpackChunkName: "pages/portfolio/portfolio4" */))
-const _1b2a074c = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/bitstore.vue' /* webpackChunkName: "pages/projects/bitstore" */))
-const _e790b2a0 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/discord-bot.vue' /* webpackChunkName: "pages/projects/discord-bot" */))
-const _5f2c30b9 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/webstax/index.vue' /* webpackChunkName: "pages/projects/webstax/index" */))
-const _2ceaf030 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/checkout.vue' /* webpackChunkName: "pages/shop/checkout" */))
-const _167cc240 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/shop.vue' /* webpackChunkName: "pages/shop/shop" */))
-const _2b5888b5 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/webstax/custom-status.vue' /* webpackChunkName: "pages/projects/webstax/custom-status" */))
-const _1540e99c = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/webstax/mdcreator.vue' /* webpackChunkName: "pages/projects/webstax/mdcreator" */))
-const _69228a07 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitboost.vue' /* webpackChunkName: "pages/shop/products/bitboost" */))
-const _b22b8b98 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitgen.vue' /* webpackChunkName: "pages/shop/products/bitgen" */))
-const _45480903 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitraider.vue' /* webpackChunkName: "pages/shop/products/bitraider" */))
-const _78d8ab30 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitredeem.vue' /* webpackChunkName: "pages/shop/products/bitredeem" */))
-const _da6f0d38 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bittool.vue' /* webpackChunkName: "pages/shop/products/bittool" */))
-const _6fe5fcbc = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/blog/_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
-const _319a8f7a = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _7375f123 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/blog/index.vue' /* webpackChunkName: "pages/blog/index" */))
+const _2a75f972 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/daily-song.vue' /* webpackChunkName: "pages/daily-song" */))
+const _57a9953d = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/index.vue' /* webpackChunkName: "pages/portfolio/index" */))
+const _15a2f912 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/index.vue' /* webpackChunkName: "pages/shop/index" */))
+const _3a7abcf0 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/songs.vue' /* webpackChunkName: "pages/songs" */))
+const _271109a7 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/contact.vue' /* webpackChunkName: "pages/me/contact" */))
+const _84f75e90 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/donate.vue' /* webpackChunkName: "pages/me/donate" */))
+const _7c3b2f55 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/hireme.vue' /* webpackChunkName: "pages/me/hireme" */))
+const _7bd37008 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/me/repos.vue' /* webpackChunkName: "pages/me/repos" */))
+const _47418d56 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/bitcord.vue' /* webpackChunkName: "pages/portfolio/bitcord" */))
+const _1ab697ae = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/bitmine-v2.vue' /* webpackChunkName: "pages/portfolio/bitmine-v2" */))
+const _1ac4af2f = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/bitmine-v3.vue' /* webpackChunkName: "pages/portfolio/bitmine-v3" */))
+const _8fa15020 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/graphics.vue' /* webpackChunkName: "pages/portfolio/graphics" */))
+const _1164d9e4 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio1.vue' /* webpackChunkName: "pages/portfolio/portfolio1" */))
+const _1148aae2 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio2.vue' /* webpackChunkName: "pages/portfolio/portfolio2" */))
+const _112c7be0 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio3.vue' /* webpackChunkName: "pages/portfolio/portfolio3" */))
+const _11104cde = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/portfolio/portfolio4.vue' /* webpackChunkName: "pages/portfolio/portfolio4" */))
+const _7042b85b = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/bitstore.vue' /* webpackChunkName: "pages/projects/bitstore" */))
+const _0076df0f = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/discord-bot.vue' /* webpackChunkName: "pages/projects/discord-bot" */))
+const _7f026550 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/webstax/index.vue' /* webpackChunkName: "pages/projects/webstax/index" */))
+const _563ad4b1 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/checkout.vue' /* webpackChunkName: "pages/shop/checkout" */))
+const _78f1ebe1 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/shop.vue' /* webpackChunkName: "pages/shop/shop" */))
+const _365fd358 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/webstax/custom-status.vue' /* webpackChunkName: "pages/projects/webstax/custom-status" */))
+const _1ca61ebb = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/projects/webstax/mdcreator.vue' /* webpackChunkName: "pages/projects/webstax/mdcreator" */))
+const _6b15b2b4 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitboost.vue' /* webpackChunkName: "pages/shop/products/bitboost" */))
+const _1b297293 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitgen.vue' /* webpackChunkName: "pages/shop/products/bitgen" */))
+const _0e490044 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitraider.vue' /* webpackChunkName: "pages/shop/products/bitraider" */))
+const _e6d6bcae = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bitredeem.vue' /* webpackChunkName: "pages/shop/products/bitredeem" */))
+const _b31f6636 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/shop/products/bittool.vue' /* webpackChunkName: "pages/shop/products/bittool" */))
+const _71bf4fdb = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/blog/_slug.vue' /* webpackChunkName: "pages/blog/_slug" */))
+const _1868a478 = () => __vite_ssr_import_3__.interopDefault(__vite_ssr_dynamic_import__('/src/pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -16420,127 +16422,127 @@ const routerOptions = {
 
   routes: [{
     path: "/blog",
-    component: _719c9e04,
+    component: _7375f123,
     name: "blog"
   }, {
     path: "/daily-song",
-    component: _2e289fb0,
+    component: _2a75f972,
     name: "daily-song"
   }, {
     path: "/portfolio",
-    component: _42c0ccfc,
+    component: _57a9953d,
     name: "portfolio"
   }, {
     path: "/shop",
-    component: _19559f50,
+    component: _15a2f912,
     name: "shop"
   }, {
     path: "/songs",
-    component: _2de1c76f,
+    component: _3a7abcf0,
     name: "songs"
   }, {
     path: "/me/contact",
-    component: _2537b688,
+    component: _271109a7,
     name: "me-contact"
   }, {
     path: "/me/donate",
-    component: _395403b7,
+    component: _84f75e90,
     name: "me-donate"
   }, {
     path: "/me/hireme",
-    component: _0fea3b58,
+    component: _7c3b2f55,
     name: "me-hireme"
   }, {
     path: "/me/repos",
-    component: _7fd1e129,
+    component: _7bd37008,
     name: "me-repos"
   }, {
     path: "/portfolio/bitcord",
-    component: _6d2c5d56,
+    component: _47418d56,
     name: "portfolio-bitcord"
   }, {
     path: "/portfolio/bitmine-v2",
-    component: _b3114162,
+    component: _1ab697ae,
     name: "portfolio-bitmine-v2"
   }, {
     path: "/portfolio/bitmine-v3",
-    component: _b2f51260,
+    component: _1ac4af2f,
     name: "portfolio-bitmine-v3"
   }, {
     path: "/portfolio/graphics",
-    component: _7b0f93d1,
+    component: _8fa15020,
     name: "portfolio-graphics"
   }, {
     path: "/portfolio/portfolio1",
-    component: _f9e34aa2,
+    component: _1164d9e4,
     name: "portfolio-portfolio1"
   }, {
     path: "/portfolio/portfolio2",
-    component: _f9c71ba0,
+    component: _1148aae2,
     name: "portfolio-portfolio2"
   }, {
     path: "/portfolio/portfolio3",
-    component: _f9aaec9e,
+    component: _112c7be0,
     name: "portfolio-portfolio3"
   }, {
     path: "/portfolio/portfolio4",
-    component: _f98ebd9c,
+    component: _11104cde,
     name: "portfolio-portfolio4"
   }, {
     path: "/projects/bitstore",
-    component: _1b2a074c,
+    component: _7042b85b,
     name: "projects-bitstore"
   }, {
     path: "/projects/discord-bot",
-    component: _e790b2a0,
+    component: _0076df0f,
     name: "projects-discord-bot"
   }, {
     path: "/projects/webstax",
-    component: _5f2c30b9,
+    component: _7f026550,
     name: "projects-webstax"
   }, {
     path: "/shop/checkout",
-    component: _2ceaf030,
+    component: _563ad4b1,
     name: "shop-checkout"
   }, {
     path: "/shop/shop",
-    component: _167cc240,
+    component: _78f1ebe1,
     name: "shop-shop"
   }, {
     path: "/projects/webstax/custom-status",
-    component: _2b5888b5,
+    component: _365fd358,
     name: "projects-webstax-custom-status"
   }, {
     path: "/projects/webstax/mdcreator",
-    component: _1540e99c,
+    component: _1ca61ebb,
     name: "projects-webstax-mdcreator"
   }, {
     path: "/shop/products/bitboost",
-    component: _69228a07,
+    component: _6b15b2b4,
     name: "shop-products-bitboost"
   }, {
     path: "/shop/products/bitgen",
-    component: _b22b8b98,
+    component: _1b297293,
     name: "shop-products-bitgen"
   }, {
     path: "/shop/products/bitraider",
-    component: _45480903,
+    component: _0e490044,
     name: "shop-products-bitraider"
   }, {
     path: "/shop/products/bitredeem",
-    component: _78d8ab30,
+    component: _e6d6bcae,
     name: "shop-products-bitredeem"
   }, {
     path: "/shop/products/bittool",
-    component: _da6f0d38,
+    component: _b31f6636,
     name: "shop-products-bittool"
   }, {
     path: "/blog/:slug",
-    component: _6fe5fcbc,
+    component: _71bf4fdb,
     name: "blog-slug"
   }, {
     path: "/",
-    component: _319a8f7a,
+    component: _1868a478,
     name: "index"
   }],
 
@@ -19867,14 +19869,14 @@ const __vue2_script = __vite_ssr_import_0__.default.extend({
         linux: [],
         rest: []
       },
-      categories: ["Discord", "Linux", "Education", "Frontend", "Site"],
-      selectedCategory: "Discord"
+      categories: ["Discord", "MacOS", "Artificial Intelligence", "Frontend", "Site"],
+      selectedCategory: "MacOS"
     };
   },
   async fetch() {
     const latestPosts = await this.$content("blog").sortBy("createdAt", "desc").limit(3).without(["body"]).fetch();
     const discordPosts = await this.$content("blog").where({ tags: { $contains: "discord" } }).sortBy("createdAt", "desc").limit(3).without(["body"]).fetch();
-    const linuxPosts = await this.$content("blog").where({ tags: { $contains: "linux" } }).sortBy("createdAt", "desc").limit(3).without(["body"]).fetch();
+    const linuxPosts = await this.$content("blog").where({ tags: { $contains: "MacOS" } }).sortBy("createdAt", "desc").limit(3).without(["body"]).fetch();
     let allPosts = await this.$content("blog").sortBy("createdAt", "desc").skip(3).without(["body"]).fetch();
     for (const post of allPosts) {
       const findFilter = (item) => item.slug === post.slug;
@@ -20106,11 +20108,13 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
 // - /src/components/Icon/Brand.vue ($id_67588ddc)
 // - /src/components/Icon/Calendar.vue ($id_edab98b0)
+// - /src/components/Icon/Cash.vue ($id_308eed36)
 // - /src/components/Icon/Channel.vue ($id_47045b0f)
 // - /src/components/Icon/Check.vue ($id_a6c38858)
 // - /src/components/Icon/Chevron.vue ($id_c1155e7e)
 // - /src/components/Icon/Clock.vue ($id_6045d666)
 // - /src/components/Icon/Cog.vue ($id_312658f3)
+// - /src/components/Icon/Creditcard.vue ($id_365173c5)
 // - /src/components/Icon/Dev.vue ($id_87d22b1e)
 // - /src/components/Icon/Document.vue ($id_6da4b6a5)
 // - /src/components/Icon/Dollar.vue ($id_6bdd4710)
@@ -20133,27 +20137,27 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Loaders/Content.vue ($id_9b9aa532)
 // - /src/components/Loaders/Goals.vue ($id_c361c855)
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
+// - /src/components/Navbar/Blog.vue ($id_e8935662)
+// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Navbar/Blog.vue ($id_e8935662)
-// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
+// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
+// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // - /src/components/Card/Post/Index.vue ($id_97d79fd7)
 // - /src/components/Card/Post/Normal.vue ($id_73191fe5)
 // - /src/components/Card/Post/Text.vue ($id_8df57aa7)
 // - /src/components/Card/Post/TextTitle.vue ($id_c37377d1)
-// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
-// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
-// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-img.vue ($id_e7521e84)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-picture.vue ($id_99ffd925)
 // Dependencies: 
@@ -20326,11 +20330,13 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
 // - /src/components/Icon/Brand.vue ($id_67588ddc)
 // - /src/components/Icon/Calendar.vue ($id_edab98b0)
+// - /src/components/Icon/Cash.vue ($id_308eed36)
 // - /src/components/Icon/Channel.vue ($id_47045b0f)
 // - /src/components/Icon/Check.vue ($id_a6c38858)
 // - /src/components/Icon/Chevron.vue ($id_c1155e7e)
 // - /src/components/Icon/Clock.vue ($id_6045d666)
 // - /src/components/Icon/Cog.vue ($id_312658f3)
+// - /src/components/Icon/Creditcard.vue ($id_365173c5)
 // - /src/components/Icon/Dev.vue ($id_87d22b1e)
 // - /src/components/Icon/Document.vue ($id_6da4b6a5)
 // - /src/components/Icon/Dollar.vue ($id_6bdd4710)
@@ -20353,27 +20359,27 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Loaders/Content.vue ($id_9b9aa532)
 // - /src/components/Loaders/Goals.vue ($id_c361c855)
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
+// - /src/components/Navbar/Blog.vue ($id_e8935662)
+// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Navbar/Blog.vue ($id_e8935662)
-// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
+// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
+// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // - /src/components/Card/Post/Index.vue ($id_97d79fd7)
 // - /src/components/Card/Post/Normal.vue ($id_73191fe5)
 // - /src/components/Card/Post/Text.vue ($id_8df57aa7)
 // - /src/components/Card/Post/TextTitle.vue ($id_c37377d1)
-// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
-// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
-// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-img.vue ($id_e7521e84)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-picture.vue ($id_99ffd925)
 // Dependencies: 
@@ -21000,19 +21006,19 @@ const __vue2_script = __vite_ssr_import_0__.default.extend({
           image: "https://i.vgy.me/vtpWBl.png",
           title: "BitGen Premium",
           description: "Discord Nitro Generator",
-          href: "/portfolio/portfolio1"
+          href: "/shop/products/bitgen"
         },
         {
           image: "https://i.vgy.me/Qqlhuv.png",
           title: "BitBoost Premium",
           description: "Server Boosting Script",
-          href: "/portfolio/portfolio2"
+          href: "/shop/products/bitboost"
         },
         {
           image: "https://i.vgy.me/LqnvOD.png",
           title: "BitRedeem Premium",
           description: "Nitro Token Generator",
-          href: "/portfolio/portfolio3"
+          href: "/shop/products/bitredeem"
         }
       ]
     };
@@ -21093,7 +21099,7 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // --------------------
 const $id_e9c56799 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300"},[_vm._v("BitStore™ Shop")]),_c('p',{staticClass:"sm:w-9/10"},[_vm._v(" This is the BitStore™ where you can buy my projects and tools. All of my projects are made using the latest technologies and are very easy to use. If you are looking for the free version of my projects, you can find them on my "),_c('SmartLink',{staticClass:"text-center sm:truncate hover:underline text-neutral-500",attrs:{"href":""}},[_vm._v("Portfolio")]),_vm._v(". ")],1),_c('SmartImage',{attrs:{"src":"https://i.vgy.me/xtTWgH.png","alt":"BitStore"}})],1),[_c('div',{staticClass:"pt-0"},[_c('Title',[_vm._v("Featured Products")]),_c('div',{staticClass:"mt-2 pt-4 grid px-4 gap-4 md:grid-cols-3"},[_vm._l((_vm.shop),function(account,index){return _c('CardPortfolio',{key:("new-" + index),attrs:{"type":"shop","portfolio":account}})})],2),_c('div',{staticClass:"flex flex-wrap gap-x-4 gap-y-2 mx-4 pt-10 items-center justify-center"},[_c('Button',{staticClass:"w-full lg:w-max",attrs:{"variant":"github","href":"/shop/shop"}},[_vm._v(" Show all Products ")]),_c('checkout')],1)],1)]],2)])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300"},[_vm._v("BitStore™ Shop")]),_c('p',{staticClass:"sm:w-9/10"},[_vm._v(" This is the BitStore™ where you can buy my projects and tools. All of my projects are made using the latest technologies and are very easy to use. If you are looking for the free version of my projects, you can find them on my "),_c('SmartLink',{staticClass:"text-center sm:truncate hover:underline text-neutral-500",attrs:{"href":"/portfolio"}},[_vm._v("Portfolio")]),_vm._v(". ")],1),_c('SmartImage',{attrs:{"src":"https://i.vgy.me/xtTWgH.png","alt":"BitStore"}})],1),[_c('div',{staticClass:"pt-0"},[_c('Title',[_vm._v("Featured Products")]),_c('div',{staticClass:"mt-2 pt-4 grid px-4 gap-4 md:grid-cols-3"},[_vm._l((_vm.shop),function(account,index){return _c('CardPortfolio',{key:("new-" + index),attrs:{"type":"shop","portfolio":account}})})],2),_c('div',{staticClass:"flex flex-wrap gap-x-4 gap-y-2 mx-4 pt-10 items-center justify-center"},[_c('Button',{staticClass:"w-full lg:w-max",attrs:{"variant":"github","href":"/shop/shop"},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconSearch',{staticClass:"h-6 text-black dark:text-white w-7"})]},proxy:true}])},[_vm._v(" Show all Products ")])],1)],1)]],2)])}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -21359,14 +21365,14 @@ const __vue2_script = __vite_ssr_import_0__.default.extend({
         {
           image: "https://i.vgy.me/Qez9an.png",
           name: "Bitcoin",
-          iban: "bc1qupstg2fur0am69h308f0eg6hz6203st9gj4uz4",
+          iban: "bc1qupstg2fur0am69h308 f0eg6hz6203st9gj4uz4",
           link: "#",
           revealed: false
         },
         {
           image: "https://i.vgy.me/qbi9rX.png",
           name: "Ethereum",
-          iban: "0xAf814E2F4263234BA8eF0B97028fB148d2c33626",
+          iban: "0xAf814E2F4263234BA8e F0B97028fB148d2c33626",
           link: "#",
           revealed: false
         },
@@ -21479,7 +21485,7 @@ const module = __createCJSModule__(__vite_ssr_exports__)
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_vm._m(0),_c('section',{staticClass:"space-y-4"},[_c('Title',[_vm._v("Support Me On")]),_c('div',{staticClass:"flex flex-wrap gap-x-4 gap-y-2 mx-4"},[_c('Button',{directives:[{name:"tippy",rawName:"v-tippy",value:({
             content: 'Preferred',
             placement: 'bottom',
-          }),expression:"{\n            content: 'Preferred',\n            placement: 'bottom',\n          }"}],staticClass:"w-full lg:w-max",attrs:{"variant":"github","href":_vm.getSponsorLinks.github,"blank":""},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconBrand',{staticClass:"h-7 text-black dark:text-white w-7",attrs:{"brand":"github"}})]},proxy:true}])},[_vm._v(" GitHub Sponsors ")]),_c('Button',{staticClass:"w-full lg:w-max",attrs:{"variant":"patreon","href":_vm.getSponsorLinks.patreon,"blank":""},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('SmartImage',{staticClass:"rounded h-7 w-7",attrs:{"src":"https://i.vgy.me/qxpY9T.png"}})]},proxy:true}])},[_vm._v(" Become a Patron ")])],1)],1),_c('section',{staticClass:"space-y-4"},[_c('Title',[_vm._v("Bank Accounts")]),_c('div',{staticClass:"grid px-4 gap-4 md:grid-cols-2"},_vm._l((_vm.accounts),function(account,index){return _c('div',{key:("account-" + index),staticClass:"flex h-full items-center"},[_c('div',{staticClass:"rounded-l bg-gray-200/75 dark:bg-neutral-800/50"},[_c('SmartImage',{staticClass:"light:bg-neutral-400 light:opacity-100 rounded-l opacity-50 h-24 w-24",attrs:{"src":account.image}})],1),_c('div',{staticClass:"rounded-tr rounded-br flex h-full bg-gray-200/50 w-full pl-4 items-center dark:bg-neutral-800/75"},[_c('div',[_c('h3',{staticClass:"font-medium text-lg text-gray-900 dark:text-neutral-300"},[_vm._v(" "+_vm._s(account.name)+" ")]),(account.revealed == true)?_c('SmartLink',{staticClass:"text-gray-800 dark:text-neutral-500",attrs:{"href":account.link}},[_vm._v(" "+_vm._s(account.iban)+" ")]):_c('span',{staticClass:"cursor-pointer text-gray-800 dark:text-neutral-500 hover:underline",on:{"click":function($event){account.revealed = true}}},[_vm._v(" Click to reveal ")])],1)])])}),0)],1)])])}
+          }),expression:"{\n            content: 'Preferred',\n            placement: 'bottom',\n          }"}],staticClass:"w-full lg:w-max",attrs:{"variant":"github","href":_vm.getSponsorLinks.github,"blank":""},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconBrand',{staticClass:"h-7 text-black dark:text-white w-7",attrs:{"brand":"github"}})]},proxy:true}])},[_vm._v(" GitHub Sponsors ")]),_c('Button',{staticClass:"w-full lg:w-max",attrs:{"variant":"patreon","href":_vm.getSponsorLinks.patreon,"blank":""},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('SmartImage',{staticClass:"rounded h-7 w-7",attrs:{"src":"https://i.vgy.me/w3N0Ef.png"}})]},proxy:true}])},[_vm._v(" Become a Patron ")])],1)],1),_c('section',{staticClass:"space-y-4"},[_c('Title',[_vm._v("Bank Accounts")]),_c('div',{staticClass:"grid px-4 gap-4 md:grid-cols-2"},_vm._l((_vm.accounts),function(account,index){return _c('div',{key:("account-" + index),staticClass:"flex h-full items-center"},[_c('div',{staticClass:"rounded-l bg-gray-200/75 dark:bg-neutral-800/50"},[_c('SmartImage',{staticClass:"light:bg-neutral-400 light:opacity-100 rounded-l opacity-50 h-24 w-24",attrs:{"src":account.image}})],1),_c('div',{staticClass:"rounded-tr rounded-br flex h-full bg-gray-200/50 w-full pl-4 items-center dark:bg-neutral-800/75"},[_c('div',[_c('h3',{staticClass:"font-medium text-lg text-gray-900 dark:text-neutral-300"},[_vm._v(" "+_vm._s(account.name)+" ")]),(account.revealed == true)?_c('SmartLink',{staticClass:"text-gray-800 dark:text-neutral-500 overflow-hidden",attrs:{"href":account.link}},[_vm._v(" "+_vm._s(account.iban)+" ")]):_c('span',{staticClass:"cursor-pointer text-gray-800 dark:text-neutral-500 hover:underline",on:{"click":function($event){account.revealed = true}}},[_vm._v(" Click to reveal ")])],1)])])}),0)],1)])])}
 var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('header',{staticClass:"space-y-2 my-12 px-4 sm:w-9/10"},[_c('h1',{staticClass:"text-gray-700 text-4xl dark:text-neutral-300"},[_vm._v("Donate")]),_c('p',[_vm._v(" If you like my projects and/or what I do and you want to contribute, make me happy, you can donate to me with the information on this page! Thank you ♥ ")]),_c('p',{staticClass:"text-xs"},[_vm._v(" P.S. Use \""),_c('span',{staticClass:"border-b border-black/10 dark:border-white/10"},[_vm._v("DaniDuese")]),_vm._v("\" as the name of your transactions. ")])])}]
 render._withStripped = true
 
@@ -22898,6 +22904,7 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // Dependencies: 
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // - /src/pages/shop/checkout.vue?vue&type=template&lang.js ($id_677d0362)
+// - /src/pages/shop/checkout.vue?vue&type=style&index=0&scoped=true&lang.scss ($id_61d54b4c)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
 // --------------------
@@ -22905,27 +22912,227 @@ const $id_9eab4447 = async function (global, __vite_ssr_exports__, __vite_ssr_im
 const module = __createCJSModule__(__vite_ssr_exports__)
 __vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
-const __vue2_script = __vite_ssr_import_0__.default.extend({
+const __vue2_script = __vite_ssr_import_0__.defineComponent({
   data() {
     return {
-      payment: {
-        name: "",
-        email: "",
-        address: "",
-        amount: 0,
-        city: "",
-        state: "",
-        zip: "",
-        country: "",
-        card: "",
-        exp: "",
-        cvc: ""
+      price: "error",
+      item: "Error",
+      creditCardNumber: "",
+      expireMonth: "",
+      expireYear: "",
+      firstname: "",
+      lastname: "",
+      email: "",
+      cvv: "",
+      currentYear: new Date().getFullYear()
+    };
+  },
+  mounted() {
+    this.price = this.$store.state?.shop?.price2;
+    this.item = this.$store.state?.shop?.item2;
+  },
+  watch: {
+    creditCardNumber() {
+      let realNumber = this.creditCardNumber.replace(/-/gi, "");
+      if (realNumber.length != 0) {
+        let dashedNumber = realNumber.match(/.{1,4}/g).join("-");
+        this.creditCardNumber = dashedNumber;
       }
+    }
+  },
+  head() {
+    const title = "Checkout";
+    const description = "Buy Premium Tools on bitsore.dev/shop";
+    return {
+      title,
+      meta: this.$prepareMeta({
+        title,
+        description,
+        keywords: "shop, products",
+        url: "https://bitstore.dev/shop/shop/checkout"
+      }),
+      link: [
+        {
+          rel: "canonical",
+          href: "https://bitstore.dev/shop/shop/checkout"
+        }
+      ]
     };
   }
 });
 
 const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/pages/shop/checkout.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/src/pages/shop/checkout.vue?vue&type=style&index=0&scoped=true&lang.scss");
+
+/* normalize component */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_3__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  "2e9e04eb",
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/pages/shop/checkout.vue"
+/* hot reload */
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_4__.default.install(__vite_ssr_import_5__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_4__.default.compatible){
+  if (!__vite_ssr_import_4__.default.isRecorded("2e9e04eb")) {
+    __vite_ssr_import_4__.default.createRecord("2e9e04eb", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_4__.default.reload("2e9e04eb", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/pages/shop/checkout.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_4__.default.rerender("2e9e04eb", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/pages/shop/checkout.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/pages/shop/checkout.vue ($id_9eab4447)
+// Dependencies: 
+
+// --------------------
+const $id_677d0362 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300 mb-4"},[_vm._v("Checkout: "+_vm._s(_vm.item))]),_c('p',[_vm._v(" Checkout to buy the the Premium version of BitBoost. You will get access to all of the features of BitBoost, including the ability to use the BitBoost API. You will also get access to the BitBoost Discord server, where you can get support for BitBoost. ")])]),_c('div',{staticClass:"space-y-12 mt-2"},[_c('div',{staticClass:"px-4"},[_c('Title',{attrs:{"padding":false}},[_vm._v("Contact Data")]),_c('div',{staticClass:"mt-1 grid gap-3 sm:grid-cols-2"},[_c('input',{staticClass:"input",attrs:{"placeholder":"First Name"},domProps:{"value":_vm.firstname}}),_c('input',{staticClass:"input",attrs:{"placeholder":"Last Name"},domProps:{"value":_vm.lastname}}),_c('input',{staticClass:"input col-span-2",attrs:{"type":"email","placeholder":"Email address"},domProps:{"value":_vm.email}})])],1),_c('div',{staticClass:"px-4"},[_c('Title',{attrs:{"padding":false}},[_vm._v("Payment Data")]),_c('div',{staticClass:"mt-1 grid gap-3 sm:grid-cols-3"},[_c('div',{staticClass:"col-span-3 input space-x-3"},[_c('IconCreditcard',{staticClass:"text-black dark:text-white w-6 float-left flex"}),_c('input',{directives:[{name:"model",rawName:"v-model",value:(_vm.creditCardNumber),expression:"creditCardNumber"}],staticClass:"h-full bg-transparent",attrs:{"placeholder":"Card Number","maxlength":"19","pattern":"[0-9]*","inputmode":"numeric","type":"text"},domProps:{"value":(_vm.creditCardNumber)},on:{"input":function($event){if($event.target.composing){ return; }_vm.creditCardNumber=$event.target.value}}})],1),_c('input',{staticClass:"input",attrs:{"placeholder":"CVV","oninput":"javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);","type":"number","maxlength":"3"},domProps:{"value":_vm.cvv}}),_c('select',{directives:[{name:"model",rawName:"v-model",value:(_vm.expireMonth),expression:"expireMonth"}],staticClass:"select",on:{"change":function($event){var $$selectedVal = Array.prototype.filter.call($event.target.options,function(o){return o.selected}).map(function(o){var val = "_value" in o ? o._value : o.value;return val}); _vm.expireMonth=$event.target.multiple ? $$selectedVal : $$selectedVal[0]}}},[_c('option',{attrs:{"value":"","disabled":"","selected":""}},[_vm._v("Month")]),_vm._l((12),function(n){return _c('option',{key:n,domProps:{"value":n < 10 ? '0' + n : n}},[_vm._v(" "+_vm._s(10 > n ? "0" + n : n)+" ")])})],2),_c('select',{directives:[{name:"model",rawName:"v-model",value:(_vm.expireYear),expression:"expireYear"}],staticClass:"select",on:{"change":function($event){var $$selectedVal = Array.prototype.filter.call($event.target.options,function(o){return o.selected}).map(function(o){var val = "_value" in o ? o._value : o.value;return val}); _vm.expireYear=$event.target.multiple ? $$selectedVal : $$selectedVal[0]}}},[_c('option',{attrs:{"value":"","disabled":"","selected":""}},[_vm._v("Year")]),_vm._l((12),function(n,$index){return _c('option',{key:n,domProps:{"value":$index + _vm.currentYear}},[_vm._v(" "+_vm._s($index + _vm.currentYear)+" ")])})],2)])],1),_c('div',{staticClass:"px-4"},[_c('Title',{staticClass:"pb-4",attrs:{"padding":false}},[_vm._v("Complete Purchase")]),_c('div',{staticClass:"gap-3 flex"},[_c('Button',{attrs:{"variant":"github","type":"button","href":"/shop/shop"},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconX',{staticClass:"h-6 text-black dark:text-white w-6"})]},proxy:true}])},[_vm._v(" Cancel Payment ")]),_c('Button',{attrs:{"variant":"github","type":"button"},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconCash',{staticClass:"h-6 text-black dark:text-white w-6"})]},proxy:true}])},[_vm._v(" Pay "+_vm._s(_vm.price)+" with Stripe ")])],1)],1)])])])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/pages/shop/checkout.vue?vue&type=style&index=0&scoped=true&lang.scss
+// Parents: 
+// - /src/pages/shop/checkout.vue ($id_9eab4447)
+// Dependencies: 
+
+// --------------------
+const $id_61d54b4c = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_exports__.default = "p[data-v-2e9e04eb], .control-button[data-v-2e9e04eb] {\n  border-radius: 0.25rem;\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  padding-left: 1rem;\n  padding-right: 1rem;\n  --tw-text-opacity: 1;\n  color: rgba(17, 24, 39, var(--tw-text-opacity));\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  user-select: none;\n  transition-property: background-color, border-color, color, fill, stroke;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.dark p[data-v-2e9e04eb], .dark .control-button[data-v-2e9e04eb] {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\np[data-v-2e9e04eb]:not(.no-background), .control-button[data-v-2e9e04eb]:not(.no-background) {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.dark p[data-v-2e9e04eb]:not(.no-background), .dark .control-button[data-v-2e9e04eb]:not(.no-background) {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.dark p[data-v-2e9e04eb]:not(.no-background):hover, .dark .control-button[data-v-2e9e04eb]:not(.no-background):hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\np[data-v-2e9e04eb]:not(.no-background):hover, .control-button[data-v-2e9e04eb]:not(.no-background):hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\np[data-v-2e9e04eb]:not(.cursor-not-allowed), .control-button[data-v-2e9e04eb]:not(.cursor-not-allowed) {\n  cursor: pointer;\n}\n.select[data-v-2e9e04eb] {\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  padding-left: 1rem;\n  padding-right: 1rem;\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .select[data-v-2e9e04eb] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.select[data-v-2e9e04eb]:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n.input[data-v-2e9e04eb]:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n.input[data-v-2e9e04eb] {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n.dark .input[data-v-2e9e04eb] {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.input[data-v-2e9e04eb]:not(.no-bg) {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .input[data-v-2e9e04eb]:not(.no-bg) {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.input[data-v-2e9e04eb]:not(.rounded-none) {\n  border-radius: 0.375rem;\n}\n.input[data-v-2e9e04eb]:not(.ring-0):focus {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0, 0, 0, 0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0, 0, 0, 0));\n}\n.input[data-v-2e9e04eb]:not(.ring-0) {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(243, 244, 246, var(--tw-ring-offset-opacity));\n  --tw-ring-offset-width: 2px;\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(229, 231, 235, var(--tw-ring-opacity));\n}\n.dark .input[data-v-2e9e04eb]:not(.ring-0) {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\npre[class*=language-][data-v-2e9e04eb] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(23, 23, 23, var(--tw-bg-opacity));\n}\n.ring[data-v-2e9e04eb] {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0, 0, 0, 0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0, 0, 0, 0));\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(243, 244, 246, var(--tw-ring-offset-opacity));\n  --tw-ring-offset-width: 2px;\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(229, 231, 235, var(--tw-ring-opacity));\n}\n.dark .ring[data-v-2e9e04eb] {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}";
+}
+
+
+// --------------------
+// Request: /src/pages/shop/shop.vue
+// Parents: 
+// - /.nuxt/router.js ($id_9f5e4b4f)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/pages/shop/shop.vue?vue&type=template&lang.js ($id_ca1f6238)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_78b5d8ec = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  data() {
+    return {
+      test: "test",
+      test2: "test2",
+      services: [
+        {
+          image: "https://i.vgy.me/vtpWBl.png",
+          name: "BitGen Premium",
+          describtion: "Discord Nitro Generator",
+          price: "50\u20AC",
+          href: "/shop/products/bitgen"
+        },
+        {
+          image: "https://i.vgy.me/Qqlhuv.png",
+          name: "BitBoost Premium",
+          describtion: "Discord Nitro Generator",
+          price: "100\u20AC",
+          href: "/shop/products/bitboost"
+        },
+        {
+          image: "https://i.vgy.me/LqnvOD.png",
+          name: "BitRedeem Premium",
+          describtion: "Discord Nitro Generator",
+          price: "50\u20AC",
+          href: "/shop/products/bitredeem"
+        },
+        {
+          image: "https://i.vgy.me/KthxwR.png",
+          name: "BitTool Premium",
+          describtion: "Discord Nitro Generator",
+          price: "100\u20AC",
+          href: "/shop/products/bittool"
+        },
+        {
+          image: "https://i.vgy.me/yqhsH6.png",
+          name: "BitRaider Premium",
+          describtion: "Discord Nitro Generator",
+          price: "25\u20AC",
+          href: "/shop/products/bitraider"
+        }
+      ]
+    };
+  },
+  methods: {
+    setItem(item) {
+      this.$store.commit("shop/setItem", item || "");
+      this.test2 = this.$store.state?.shop?.price2;
+      console.log("Saved: " + this.test2);
+      this.$router.push({ path: "/shop/checkout" });
+    },
+    setPrice(price) {
+      this.$store.commit("shop/setPrice", price || "");
+      this.test = this.$store.state?.shop?.item2;
+      console.log("Saved: " + this.test);
+    }
+  },
+  head() {
+    const title = "Shop";
+    const description = "BitStore is a website that contains a bunch of tools and projects created by me, Webstax. It's a place where you can find all of my projects in one place.";
+    return {
+      title,
+      meta: this.$prepareMeta({
+        title,
+        description,
+        keywords: "shop, products",
+        url: "https://bitstore.dev/shop/shop"
+      }),
+      link: [
+        {
+          rel: "canonical",
+          href: "https://bitstore.dev/shop/shop"
+        }
+      ]
+    };
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/pages/shop/shop.vue?vue&type=template&lang.js");
 
 const __cssModules = {}
 
@@ -22949,7 +23156,7 @@ function __vue2_injectStyles (context) {
   }
 }
 
-__component__.options.__file = "src/pages/shop/checkout.vue"
+__component__.options.__file = "src/pages/shop/shop.vue"
 /* hot reload */
 const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
@@ -22957,197 +23164,17 @@ const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/
 
 __vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
 if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("2e9e04eb")) {
-    __vite_ssr_import_3__.default.createRecord("2e9e04eb", __component__.options)
+  if (!__vite_ssr_import_3__.default.isRecorded("78cb6dca")) {
+    __vite_ssr_import_3__.default.createRecord("78cb6dca", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("2e9e04eb", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/pages/shop/checkout.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("2e9e04eb", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/pages/shop/checkout.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/pages/shop/checkout.vue ($id_9eab4447)
-// Dependencies: 
-
-// --------------------
-const $id_677d0362 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"pt-6"},[_c('div',{staticClass:"space-y-8"},[_c('div',{staticClass:"py-8 px-4"},[_c('Title',{attrs:{"size":"2","padding":false}},[_vm._v("Presence Metadata Creator")]),_c('p',[_vm._v(" Create a metadata.json file for your amazing and new PreMiD service with an easy to use and free graphical user interface! Worry. You will still need to code the presence to get it working! Machines can't do everything 😅 (yet) ")])],1),_c('div',{staticClass:"space-y-12 mt-2"},[_c('div',{staticClass:"px-4"},[_c('Title',{attrs:{"padding":false}},[_vm._v("Author Information")]),_c('div',{staticClass:"mt-1 grid gap-3 sm:grid-cols-2"},[_c('input',{directives:[{name:"model",rawName:"v-model",value:(_vm.payment.name),expression:"payment.name"}],staticClass:"input",attrs:{"placeholder":"Your Discord username, without the #tag"},domProps:{"value":(_vm.payment.name)},on:{"input":function($event){if($event.target.composing){ return; }_vm.$set(_vm.payment, "name", $event.target.value)}}}),_c('input',{directives:[{name:"model",rawName:"v-model",value:(_vm.payment.card),expression:"payment.card"}],staticClass:"input",attrs:{"placeholder":"Your Discord ID"},domProps:{"value":(_vm.payment.card)},on:{"input":function($event){if($event.target.composing){ return; }_vm.$set(_vm.payment, "card", $event.target.value)}}})])],1),_c('div',{staticClass:"px-4"},[_c('Title',{attrs:{"padding":false}},[_vm._v("Service Information")]),_c('div',{staticClass:"mt-1 grid gap-3 sm:grid-cols-2"},[_c('input',{directives:[{name:"model",rawName:"v-model",value:(_vm.payment.amount),expression:"payment.amount"}],staticClass:"input",attrs:{"placeholder":"Name of the service"},domProps:{"value":(_vm.payment.amount)},on:{"input":function($event){if($event.target.composing){ return; }_vm.$set(_vm.payment, "amount", $event.target.value)}}})])],1)])])])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/pages/shop/shop.vue
-// Parents: 
-// - /.nuxt/router.js ($id_9f5e4b4f)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /node_modules/@vue-stripe/vue-stripe/dist/index.js ($id_9ac82bea)
-// - /src/pages/shop/shop.vue?vue&type=template&lang.js ($id_ca1f6238)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_78b5d8ec = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/@vue-stripe/vue-stripe/dist/index.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  components: {
-    StripeCheckout: __vite_ssr_import_1__.StripeCheckout
-  },
-  data() {
-    return {
-      services: [
-        {
-          image: "https://i.vgy.me/vtpWBl.png",
-          name: "BitGen Premium",
-          describtion: "Discord Nitro Generator",
-          price: "50\u20AC",
-          href: "/shop/products/bitgen",
-          buy: ""
-        },
-        {
-          image: "https://i.vgy.me/Qqlhuv.png",
-          name: "BitBoost Premium",
-          describtion: "Discord Nitro Generator",
-          price: "100\u20AC",
-          href: "/shop/products/bitboost",
-          buy: ""
-        },
-        {
-          image: "https://i.vgy.me/LqnvOD.png",
-          name: "BitRedeem Premium",
-          describtion: "Discord Nitro Generator",
-          price: "50\u20AC",
-          href: "/shop/bitredeem",
-          buy: ""
-        },
-        {
-          image: "https://i.vgy.me/KthxwR.png",
-          name: "BitTool Premium",
-          describtion: "Discord Nitro Generator",
-          price: "100\u20AC",
-          href: "/shop/bittool",
-          buy: ""
-        },
-        {
-          image: "https://i.vgy.me/yqhsH6.png",
-          name: "BitRaider Premium",
-          describtion: "Discord Nitro Generator",
-          price: "25$",
-          href: "/shop/bitraider",
-          buy: ""
-        }
-      ]
-    };
-  },
-  head() {
-    const title = "Shop";
-    const description = "BitStore is a website that contains a bunch of tools and projects created by me, Webstax. It's a place where you can find all of my projects in one place.";
-    return {
-      title,
-      meta: this.$prepareMeta({
-        title,
-        description,
-        keywords: "shop, products",
-        url: "https://bitstore.dev/shop/shop"
-      }),
-      link: [
-        {
-          rel: "canonical",
-          href: "https://bitstore.dev/shop/shop"
-        }
-      ]
-    };
-  },
-  created() {
-    const sellix = document.createElement("script");
-    sellix.setAttribute(
-      "src",
-      "https://cdn.sellix.io/static/js/embed.js"
-    );
-    document.head.appendChild(sellix);
-  }
-});
-
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/src/pages/shop/shop.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_3__.default(
-  __vue2_script,
-  __vite_ssr_import_2__.render,
-  __vite_ssr_import_2__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/pages/shop/shop.vue"
-/* hot reload */
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_5__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_4__.default.install(__vite_ssr_import_5__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_4__.default.compatible){
-  if (!__vite_ssr_import_4__.default.isRecorded("78cb6dca")) {
-    __vite_ssr_import_4__.default.createRecord("78cb6dca", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_4__.default.reload("78cb6dca", update.default)
+      __vite_ssr_import_3__.default.reload("78cb6dca", update.default)
    })
    __vite_ssr_import_meta__.hot.accept("/src/pages/shop/shop.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_4__.default.rerender("78cb6dca", update)
+      __vite_ssr_import_3__.default.rerender("78cb6dca", update)
    })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /node_modules/@vue-stripe/vue-stripe/dist/index.js
-// Parents: 
-// - /src/pages/shop/shop.vue ($id_78b5d8ec)
-// Dependencies: 
-
-// --------------------
-const $id_9ac82bea = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var DEFAULT_LOCALE="auto",SUPPORTED_LOCALES=["auto","bg","cs","da","de","el","en","en-GB","es","es-419","et","fi","fr","fr-CA","hu","id","it","ja","lt","lv","ms","mt","nb","nl","pl","pt","pt-BR","ro","ru","sk","sl","sv","tr","zh","zh-HK","zh-TW"],SUPPORTED_SUBMIT_TYPES=["auto","book","donate","pay"],BILLING_ADDRESS_COLLECTION_TYPES=["required","auto"],DEFAULT_ELEMENT_STYLE={base:{color:"#32325d",fontFamily:'"Helvetica Neue", Helvetica, sans-serif',fontSmoothing:"antialiased",fontSize:"16px","::placeholder":{color:"#aab7c4"}},invalid:{color:"#fa755a",iconColor:"#fa755a"}},VUE_STRIPE_VERSION=require("../package.json").version,STRIPE_PARTNER_DETAILS={name:"vue-stripe",version:VUE_STRIPE_VERSION,url:"https://vuestripe.com",partner_id:"pp_partner_IqtOXpBSuz0IE2"},index={install:function(e,n){var t=n.pk,r=n.stripeAccount,i=n.apiVersion,o=n.locale,s=window.Stripe(t,{stripeAccount:r,apiVersion:i,locale:o});s.registerAppInfo(STRIPE_PARTNER_DETAILS),e.prototype.$stripe=s}};function createCommonjsModule(e,n){return e(n={exports:{}},n.exports),n.exports}var runtime_1=createCommonjsModule((function(e){var n=function(e){var n,t=Object.prototype,r=t.hasOwnProperty,i="function"==typeof Symbol?Symbol:{},o=i.iterator||"@@iterator",s=i.asyncIterator||"@@asyncIterator",a=i.toStringTag||"@@toStringTag";function l(e,n,t,r){var i=n&&n.prototype instanceof f?n:f,o=Object.create(i.prototype),s=new T(r||[]);return o._invoke=function(e,n,t){var r=d;return function(i,o){if(r===u)throw new Error("Generator is already running");if(r===m){if("throw"===i)throw o;return O()}for(t.method=i,t.arg=o;;){var s=t.delegate;if(s){var a=w(s,t);if(a){if(a===h)continue;return a}}if("next"===t.method)t.sent=t._sent=t.arg;else if("throw"===t.method){if(r===d)throw r=m,t.arg;t.dispatchException(t.arg)}else"return"===t.method&&t.abrupt("return",t.arg);r=u;var l=c(e,n,t);if("normal"===l.type){if(r=t.done?m:p,l.arg===h)continue;return{value:l.arg,done:t.done}}"throw"===l.type&&(r=m,t.method="throw",t.arg=l.arg)}}}(e,t,s),o}function c(e,n,t){try{return{type:"normal",arg:e.call(n,t)}}catch(e){return{type:"throw",arg:e}}}e.wrap=l;var d="suspendedStart",p="suspendedYield",u="executing",m="completed",h={};function f(){}function y(){}function v(){}var g={};g[o]=function(){return this};var E=Object.getPrototypeOf,_=E&&E(E(x([])));_&&_!==t&&r.call(_,o)&&(g=_);var S=v.prototype=f.prototype=Object.create(g);function b(e){["next","throw","return"].forEach((function(n){e[n]=function(e){return this._invoke(n,e)}}))}function A(e){var n;this._invoke=function(t,i){function o(){return new Promise((function(n,o){!function n(t,i,o,s){var a=c(e[t],e,i);if("throw"!==a.type){var l=a.arg,d=l.value;return d&&"object"==typeof d&&r.call(d,"__await")?Promise.resolve(d.__await).then((function(e){n("next",e,o,s)}),(function(e){n("throw",e,o,s)})):Promise.resolve(d).then((function(e){l.value=e,o(l)}),(function(e){return n("throw",e,o,s)}))}s(a.arg)}(t,i,n,o)}))}return n=n?n.then(o,o):o()}}function w(e,t){var r=e.iterator[t.method];if(r===n){if(t.delegate=null,"throw"===t.method){if(e.iterator.return&&(t.method="return",t.arg=n,w(e,t),"throw"===t.method))return h;t.method="throw",t.arg=new TypeError("The iterator does not provide a 'throw' method")}return h}var i=c(r,e.iterator,t.arg);if("throw"===i.type)return t.method="throw",t.arg=i.arg,t.delegate=null,h;var o=i.arg;return o?o.done?(t[e.resultName]=o.value,t.next=e.nextLoc,"return"!==t.method&&(t.method="next",t.arg=n),t.delegate=null,h):o:(t.method="throw",t.arg=new TypeError("iterator result is not an object"),t.delegate=null,h)}function C(e){var n={tryLoc:e[0]};1 in e&&(n.catchLoc=e[1]),2 in e&&(n.finallyLoc=e[2],n.afterLoc=e[3]),this.tryEntries.push(n)}function P(e){var n=e.completion||{};n.type="normal",delete n.arg,e.completion=n}function T(e){this.tryEntries=[{tryLoc:"root"}],e.forEach(C,this),this.reset(!0)}function x(e){if(e){var t=e[o];if(t)return t.call(e);if("function"==typeof e.next)return e;if(!isNaN(e.length)){var i=-1,s=function t(){for(;++i<e.length;)if(r.call(e,i))return t.value=e[i],t.done=!1,t;return t.value=n,t.done=!0,t};return s.next=s}}return{next:O}}function O(){return{value:n,done:!0}}return y.prototype=S.constructor=v,v.constructor=y,v[a]=y.displayName="GeneratorFunction",e.isGeneratorFunction=function(e){var n="function"==typeof e&&e.constructor;return!!n&&(n===y||"GeneratorFunction"===(n.displayName||n.name))},e.mark=function(e){return Object.setPrototypeOf?Object.setPrototypeOf(e,v):(e.__proto__=v,a in e||(e[a]="GeneratorFunction")),e.prototype=Object.create(S),e},e.awrap=function(e){return{__await:e}},b(A.prototype),A.prototype[s]=function(){return this},e.AsyncIterator=A,e.async=function(n,t,r,i){var o=new A(l(n,t,r,i));return e.isGeneratorFunction(t)?o:o.next().then((function(e){return e.done?e.value:o.next()}))},b(S),S[a]="Generator",S[o]=function(){return this},S.toString=function(){return"[object Generator]"},e.keys=function(e){var n=[];for(var t in e)n.push(t);return n.reverse(),function t(){for(;n.length;){var r=n.pop();if(r in e)return t.value=r,t.done=!1,t}return t.done=!0,t}},e.values=x,T.prototype={constructor:T,reset:function(e){if(this.prev=0,this.next=0,this.sent=this._sent=n,this.done=!1,this.delegate=null,this.method="next",this.arg=n,this.tryEntries.forEach(P),!e)for(var t in this)"t"===t.charAt(0)&&r.call(this,t)&&!isNaN(+t.slice(1))&&(this[t]=n)},stop:function(){this.done=!0;var e=this.tryEntries[0].completion;if("throw"===e.type)throw e.arg;return this.rval},dispatchException:function(e){if(this.done)throw e;var t=this;function i(r,i){return a.type="throw",a.arg=e,t.next=r,i&&(t.method="next",t.arg=n),!!i}for(var o=this.tryEntries.length-1;o>=0;--o){var s=this.tryEntries[o],a=s.completion;if("root"===s.tryLoc)return i("end");if(s.tryLoc<=this.prev){var l=r.call(s,"catchLoc"),c=r.call(s,"finallyLoc");if(l&&c){if(this.prev<s.catchLoc)return i(s.catchLoc,!0);if(this.prev<s.finallyLoc)return i(s.finallyLoc)}else if(l){if(this.prev<s.catchLoc)return i(s.catchLoc,!0)}else{if(!c)throw new Error("try statement without catch or finally");if(this.prev<s.finallyLoc)return i(s.finallyLoc)}}}},abrupt:function(e,n){for(var t=this.tryEntries.length-1;t>=0;--t){var i=this.tryEntries[t];if(i.tryLoc<=this.prev&&r.call(i,"finallyLoc")&&this.prev<i.finallyLoc){var o=i;break}}o&&("break"===e||"continue"===e)&&o.tryLoc<=n&&n<=o.finallyLoc&&(o=null);var s=o?o.completion:{};return s.type=e,s.arg=n,o?(this.method="next",this.next=o.finallyLoc,h):this.complete(s)},complete:function(e,n){if("throw"===e.type)throw e.arg;return"break"===e.type||"continue"===e.type?this.next=e.arg:"return"===e.type?(this.rval=this.arg=e.arg,this.method="return",this.next="end"):"normal"===e.type&&n&&(this.next=n),h},finish:function(e){for(var n=this.tryEntries.length-1;n>=0;--n){var t=this.tryEntries[n];if(t.finallyLoc===e)return this.complete(t.completion,t.afterLoc),P(t),h}},catch:function(e){for(var n=this.tryEntries.length-1;n>=0;--n){var t=this.tryEntries[n];if(t.tryLoc===e){var r=t.completion;if("throw"===r.type){var i=r.arg;P(t)}return i}}throw new Error("illegal catch attempt")},delegateYield:function(e,t,r){return this.delegate={iterator:x(e),resultName:t,nextLoc:r},"next"===this.method&&(this.arg=n),h}},e}(e.exports);try{regeneratorRuntime=n}catch(e){Function("r","regeneratorRuntime = r")(n)}})),regenerator=runtime_1;function _typeof(e){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e})(e)}var loadParams,V3_URL="https://js.stripe.com/v3",V3_URL_REGEX=/^https:\/\/js\.stripe\.com\/v3\/?(\?.*)?$/,EXISTING_SCRIPT_MESSAGE="loadStripe.setLoadParameters was called but an existing Stripe.js script already exists in the document; existing script parameters will be used",findScript=function(){for(var e=document.querySelectorAll('script[src^="'.concat(V3_URL,'"]')),n=0;n<e.length;n++){var t=e[n];if(V3_URL_REGEX.test(t.src))return t}return null},injectScript=function(e){var n=e&&!e.advancedFraudSignals?"?advancedFraudSignals=false":"",t=document.createElement("script");t.src="".concat(V3_URL).concat(n);var r=document.head||document.body;if(!r)throw new Error("Expected document.body not to be null. Stripe.js requires a <body> element.");return r.appendChild(t),t},registerWrapper=function(e,n){e&&e._registerWrapper&&e._registerWrapper({name:"stripe-js",version:"1.13.2",startTime:n})},stripePromise=null,loadScript=function(e){return null!==stripePromise?stripePromise:stripePromise=new Promise((function(n,t){if("undefined"!="undefined")if(window.Stripe&&e&&console.warn(EXISTING_SCRIPT_MESSAGE),window.Stripe)n(window.Stripe);else try{var r=findScript();r&&e?console.warn(EXISTING_SCRIPT_MESSAGE):r||(r=injectScript(e)),r.addEventListener("load",(function(){window.Stripe?n(window.Stripe):t(new Error("Stripe.js not available"))})),r.addEventListener("error",(function(){t(new Error("Failed to load Stripe.js"))}))}catch(e){return void t(e)}else n(null)}))},initStripe=function(e,n,t){if(null===e)return null;var r=e.apply(void 0,n);return registerWrapper(r,t),r},validateLoadParams=function(e){var n="invalid load parameters; expected object of shape\n\n    {advancedFraudSignals: boolean}\n\nbut received\n\n    ".concat(JSON.stringify(e),"\n");if(null===e||"object"!==_typeof(e))throw new Error(n);if(1===Object.keys(e).length&&"boolean"==typeof e.advancedFraudSignals)return e;throw new Error(n)},loadStripeCalled=!1,loadStripe=function(){for(var e=arguments.length,n=new Array(e),t=0;t<e;t++)n[t]=arguments[t];loadStripeCalled=!0;var r=Date.now();return loadScript(loadParams).then((function(e){return initStripe(e,n,r)}))};loadStripe.setLoadParameters=function(e){if(loadStripeCalled)throw new Error("You cannot change load parameters after calling loadStripe");loadParams=validateLoadParams(e)};
-/**
- * vue-coerce-props v1.0.0
- * (c) 2018 Eduardo San Martin Morote <posva13@gmail.com>
- * @license MIT
- */
-var index$1={beforeCreate:function(){var e=this.$options.props;e&&(this._$coertions=Object.keys(e).filter((function(n){return e[n].coerce})).map((function(n){return[n,e[n].coerce]})))},computed:{$coerced:function(){var e=this;return this._$coertions.reduce((function(n,t){var r=t[0],i=t[1];return n[r]=i.call(e,e.$props[r]),n}),{})}}},props={pk:{type:String,required:!0},mode:{type:String,validator:function(e){return["payment","subscription"].includes(e)}},lineItems:{type:Array,default:void 0},items:{type:Array},successUrl:{type:String,default:window.location.href},cancelUrl:{type:String,default:window.location.href},submitType:{type:String,validator:function(e){return SUPPORTED_SUBMIT_TYPES.includes(e)}},billingAddressCollection:{type:String,default:"auto",validator:function(e){return BILLING_ADDRESS_COLLECTION_TYPES.includes(e)}},clientReferenceId:{type:String},customerEmail:{type:String},sessionId:{type:String},stripeAccount:{type:String,default:void 0},apiVersion:{type:String,default:void 0},locale:{type:String,default:DEFAULT_LOCALE,coerce:function(e){return SUPPORTED_LOCALES.includes(e)?e:(console.warn("VueStripe Warning: '".concat(e,"' is not supported by Stripe yet. Falling back to default '").concat(DEFAULT_LOCALE,"'.")),DEFAULT_LOCALE)}},shippingAddressCollection:{type:Object,validator:function(e){return Object.prototype.hasOwnProperty.call(e,"allowedCountries")}},disableAdvancedFraudDetection:{type:Boolean},stripeOptions:{type:Object,default:null}},index$2={props:props,mixins:[index$1],render:function(e){return e},methods:{redirectToCheckout:function(){var e,n,t;return regenerator.async((function(r){for(;;)switch(r.prev=r.next){case 0:return r.prev=0,this.$emit("loading",!0),this.disableAdvancedFraudDetection&&loadStripe.setLoadParameters({advancedFraudSignals:!1}),e={stripeAccount:this.stripeAccount,apiVersion:this.apiVersion,locale:this.locale},r.next=6,regenerator.awrap(loadStripe(this.pk,e));case 6:if((n=r.sent).registerAppInfo(STRIPE_PARTNER_DETAILS),!this.sessionId){r.next=11;break}return n.redirectToCheckout({sessionId:this.sessionId}),r.abrupt("return");case 11:if(!this.lineItems||!this.lineItems.length||this.mode){r.next=14;break}return console.error("Error: Property 'mode' is required when using 'lineItems'. See https://stripe.com/docs/js/checkout/redirect_to_checkout#stripe_checkout_redirect_to_checkout-options-mode"),r.abrupt("return");case 14:return t={billingAddressCollection:this.billingAddressCollection,cancelUrl:this.cancelUrl,clientReferenceId:this.clientReferenceId,customerEmail:this.customerEmail,items:this.items,lineItems:this.lineItems,locale:this.$coerced.locale,mode:this.mode,shippingAddressCollection:this.shippingAddressCollection,submitType:this.submitType,successUrl:this.successUrl},r.abrupt("return",n.redirectToCheckout(t));case 18:r.prev=18,r.t0=r.catch(0),console.error(r.t0),this.$emit("error",r.t0);case 22:case"end":return r.stop()}}),null,this,[[0,18]])}}};function _defineProperty(e,n,t){return n in e?Object.defineProperty(e,n,{value:t,enumerable:!0,configurable:!0,writable:!0}):e[n]=t,e}var defineProperty=_defineProperty;function ownKeys(e,n){var t=Object.keys(e);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(e);n&&(r=r.filter((function(n){return Object.getOwnPropertyDescriptor(e,n).enumerable}))),t.push.apply(t,r)}return t}function _objectSpread(e){for(var n=1;n<arguments.length;n++){var t=null!=arguments[n]?arguments[n]:{};n%2?ownKeys(Object(t),!0).forEach((function(n){defineProperty(e,n,t[n])})):Object.getOwnPropertyDescriptors?Object.defineProperties(e,Object.getOwnPropertyDescriptors(t)):ownKeys(Object(t)).forEach((function(n){Object.defineProperty(e,n,Object.getOwnPropertyDescriptor(t,n))}))}return e}var ELEMENT_TYPE="card",script={props:{pk:{type:String,required:!0},testMode:{type:Boolean,default:!1},stripeAccount:{type:String,default:void 0},apiVersion:{type:String,default:void 0},locale:{type:String,default:"auto"},elementsOptions:{type:Object,default:function(){return{}}},tokenData:{type:Object,default:function(){return{}}},disableAdvancedFraudDetection:{type:Boolean},classes:{type:Object,default:function(){return{}}},elementStyle:{type:Object,default:function(){return DEFAULT_ELEMENT_STYLE}},value:{type:String,default:void 0},hidePostalCode:Boolean,iconStyle:{type:String,default:"default",validator:function(e){return["solid","default"].includes(e)}},hideIcon:Boolean,disabled:Boolean},data:function(){return{loading:!1,stripe:null,elements:null,element:null,card:null}},computed:{form:function(){return document.getElementById("stripe-element-form")}},mounted:function(){var e,n,t=this;return regenerator.async((function(r){for(;;)switch(r.prev=r.next){case 0:return this.disableAdvancedFraudDetection&&loadStripe.setLoadParameters({advancedFraudSignals:!1}),e={stripeAccount:this.stripeAccount,apiVersion:this.apiVersion,locale:this.locale},n={classes:this.classes,style:this.elementStyle,value:this.value,hidePostalCode:this.hidePostalCode,iconStyle:this.iconStyle,hideIcon:this.hideIcon,disabled:this.disabled},r.next=5,regenerator.awrap(loadStripe(this.pk,e));case 5:this.stripe=r.sent,this.stripe.registerAppInfo(STRIPE_PARTNER_DETAILS),this.elements=this.stripe.elements(this.elementsOptions),this.element=this.elements.create(ELEMENT_TYPE,n),this.element.mount("#stripe-element-mount-point"),this.element.on("change",(function(e){var n=document.getElementById("stripe-element-errors");e.error?n.textContent=e.error.message:n.textContent="",t.onChange(e)})),this.element.on("blur",this.onBlur),this.element.on("click",this.onClick),this.element.on("escape",this.onEscape),this.element.on("focus",this.onFocus),this.element.on("ready",this.onReady),this.form.addEventListener("submit",(function(e){var n,r,i,o;return regenerator.async((function(s){for(;;)switch(s.prev=s.next){case 0:return s.prev=0,t.$emit("loading",!0),e.preventDefault(),n=_objectSpread({},t.element),t.amount&&(n.amount=t.amount),s.next=7,regenerator.awrap(t.stripe.createToken(n,t.tokenData));case 7:if(r=s.sent,i=r.token,!(o=r.error)){s.next=15;break}return document.getElementById("stripe-element-errors").textContent=o.message,t.$emit("error",o),s.abrupt("return");case 15:t.$emit("token",i),s.next=22;break;case 18:s.prev=18,s.t0=s.catch(0),console.error(s.t0),t.$emit("error",s.t0);case 22:return s.prev=22,t.$emit("loading",!1),s.finish(22);case 25:case"end":return s.stop()}}),null,null,[[0,18,22,25]])}));case 17:case"end":return r.stop()}}),null,this)},methods:{submit:function(){this.$refs.submitButtonRef.click()},clear:function(){this.element.clear()},destroy:function(){this.element.destroy()},focus:function(){console.warn("This method will currently not work on iOS 13+ due to a system limitation."),this.element.focus()},unmount:function(){this.element.unmount()},update:function(e){this.element.update(e)},onChange:function(e){this.$emit("element-change",e)},onReady:function(e){this.$emit("element-ready",e)},onFocus:function(e){this.$emit("element-focus",e)},onBlur:function(e){this.$emit("element-blur",e)},onEscape:function(e){this.$emit("element-escape",e)},onClick:function(e){this.$emit("element-click",e)}}};function normalizeComponent(e,n,t,r,i,o,s,a,l,c){"boolean"!=typeof s&&(l=a,a=s,s=!1);const d="function"==typeof t?t.options:t;let p;if(e&&e.render&&(d.render=e.render,d.staticRenderFns=e.staticRenderFns,d._compiled=!0,i&&(d.functional=!0)),r&&(d._scopeId=r),o?(p=function(e){(e=e||this.$vnode&&this.$vnode.ssrContext||this.parent&&this.parent.$vnode&&this.parent.$vnode.ssrContext)||"undefined"==typeof __VUE_SSR_CONTEXT__||(e=__VUE_SSR_CONTEXT__),n&&n.call(this,l(e)),e&&e._registeredComponents&&e._registeredComponents.add(o)},d._ssrRegister=p):n&&(p=s?function(e){n.call(this,c(e,this.$root.$options.shadowRoot))}:function(e){n.call(this,a(e))}),p)if(d.functional){const e=d.render;d.render=function(n,t){return p.call(t),e(n,t)}}else{const e=d.beforeCreate;d.beforeCreate=e?[].concat(e,p):[p]}return t}const isOldIE="undefined"!="undefined"&&/msie [6-9]\\b/.test(navigator.userAgent.toLowerCase());function createInjector(e){return(e,n)=>addStyle(e,n)}let HEAD;const styles={};function addStyle(e,n){const t=isOldIE?n.media||"default":e,r=styles[t]||(styles[t]={ids:new Set,styles:[]});if(!r.ids.has(e)){r.ids.add(e);let t=n.source;if(n.map&&(t+="\n/*# sourceURL="+n.map.sources[0]+" */",t+="\n/*# sourceMappingURL=data:application/json;base64,"+btoa(unescape(encodeURIComponent(JSON.stringify(n.map))))+" */"),r.element||(r.element=document.createElement("style"),r.element.type="text/css",n.media&&r.element.setAttribute("media",n.media),void 0===HEAD&&(HEAD=document.head||document.getElementsByTagName("head")[0]),HEAD.appendChild(r.element)),"styleSheet"in r.element)r.styles.push(t),r.element.styleSheet.cssText=r.styles.filter(Boolean).join("\n");else{const e=r.ids.size-1,n=document.createTextNode(t),i=r.element.childNodes;i[e]&&r.element.removeChild(i[e]),i.length?r.element.insertBefore(n,i[e]):r.element.appendChild(n)}}}const __vue_script__=script;var __vue_render__=function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("form",{attrs:{id:"stripe-element-form"}},[n("div",{attrs:{id:"stripe-element-mount-point"}}),this._v(" "),this._t("stripe-element-errors",[n("div",{attrs:{id:"stripe-element-errors",role:"alert"}})]),this._v(" "),n("button",{ref:"submitButtonRef",staticClass:"hide",attrs:{type:"submit"}})],2)])},__vue_staticRenderFns__=[];__vue_render__._withStripped=!0;const __vue_inject_styles__=function(e){e&&e("data-v-4dd8360e_0",{source:"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/**\n * The CSS shown here will not be introduced in the Quickstart guide, but shows\n * how you can use CSS to style your Element's container.\n */\n.StripeElement[data-v-4dd8360e] {\n  box-sizing: border-box;\n\n  height: 40px;\n\n  padding: 10px 12px;\n\n  border: 1px solid transparent;\n  border-radius: 4px;\n  background-color: white;\n\n  box-shadow: 0 1px 3px 0 #e6ebf1;\n  -webkit-transition: box-shadow 150ms ease;\n  transition: box-shadow 150ms ease;\n}\n.StripeElement--focus[data-v-4dd8360e] {\n  box-shadow: 0 1px 3px 0 #cfd7df;\n}\n.StripeElement--invalid[data-v-4dd8360e] {\n  border-color: #fa755a;\n}\n.StripeElement--webkit-autofill[data-v-4dd8360e] {\n  background-color: #fefde5 !important;\n}\n.hide[data-v-4dd8360e] {\n  display: none;\n}\n",map:{version:3,sources:["/home/runner/work/vue-stripe/vue-stripe/src/elements/Card.vue"],names:[],mappings:";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAsPA;;;EAGA;AACA;EACA,sBAAA;;EAEA,YAAA;;EAEA,kBAAA;;EAEA,6BAAA;EACA,kBAAA;EACA,uBAAA;;EAEA,+BAAA;EACA,yCAAA;EACA,iCAAA;AACA;AAEA;EACA,+BAAA;AACA;AAEA;EACA,qBAAA;AACA;AAEA;EACA,oCAAA;AACA;AAEA;EACA,aAAA;AACA",file:"Card.vue",sourcesContent:["<template>\n  <div>\n    <form id=\"stripe-element-form\">\n      <div id=\"stripe-element-mount-point\" />\n      <slot name=\"stripe-element-errors\">\n        <div\n          id=\"stripe-element-errors\"\n          role=\"alert\"\n        />\n      </slot>\n      <button\n        ref=\"submitButtonRef\"\n        type=\"submit\"\n        class=\"hide\"\n      />\n    </form>\n  </div>\n</template>\n\n<script>\nimport { loadStripe } from '@stripe/stripe-js/dist/pure.esm.js';\n// import { isSecureHost } from '../utils';\nimport {\n  DEFAULT_ELEMENT_STYLE,\n  STRIPE_PARTNER_DETAILS,\n  // INSECURE_HOST_ERROR_MESSAGE,\n} from '../constants';\nconst ELEMENT_TYPE = 'card';\nexport default {\n  props: {\n    pk: {\n      type: String,\n      required: true,\n    },\n    testMode: {\n      type: Boolean,\n      default: false,\n    },\n    stripeAccount: {\n      type: String,\n      default: undefined,\n    },\n    apiVersion: {\n      type: String,\n      default: undefined,\n    },\n    locale: {\n      type: String,\n      default: 'auto',\n    },\n    elementsOptions: {\n      type: Object,\n      default: () => ({}),\n    },\n    tokenData: {\n      type: Object,\n      default: () => ({}),\n    },\n    disableAdvancedFraudDetection: {\n      type: Boolean,\n    },\n    // element specific options\n    classes: {\n      type: Object,\n      default: () => ({}),\n    },\n    elementStyle: {\n      type: Object,\n      default: () => (DEFAULT_ELEMENT_STYLE),\n    },\n    value: {\n      type: String,\n      default: undefined,\n    },\n    hidePostalCode: Boolean,\n    iconStyle: {\n      type: String,\n      default: 'default',\n      validator: value => ['solid', 'default'].includes(value),\n    },\n    hideIcon: Boolean,\n    disabled: Boolean,\n  },\n  data () {\n    return {\n      loading: false,\n      stripe: null,\n      elements: null,\n      element: null,\n      card: null,\n    };\n  },\n  computed: {\n    form () {\n      return document.getElementById('stripe-element-form');\n    },\n  },\n  async mounted () {\n    // FIXME: temporarily remove to avoid problems with remote non-production deployments\n    // if (!isSecureHost(this.testMode)) {\n    //   document.getElementById('stripe-element-mount-point').innerHTML = `<p style=\"color: red\">${INSECURE_HOST_ERROR_MESSAGE}</p>`;\n    //   return;\n    // }\n\n    if (this.disableAdvancedFraudDetection) loadStripe.setLoadParameters({ advancedFraudSignals: false });\n\n    const stripeOptions = {\n      stripeAccount: this.stripeAccount,\n      apiVersion: this.apiVersion,\n      locale: this.locale,\n    };\n    const createOptions = {\n      classes: this.classes,\n      style: this.elementStyle,\n      value: this.value,\n      hidePostalCode: this.hidePostalCode,\n      iconStyle: this.iconStyle,\n      hideIcon: this.hideIcon,\n      disabled: this.disabled,\n    };\n\n    this.stripe = await loadStripe(this.pk, stripeOptions);\n    this.stripe.registerAppInfo(STRIPE_PARTNER_DETAILS);\n    this.elements = this.stripe.elements(this.elementsOptions);\n    this.element = this.elements.create(ELEMENT_TYPE, createOptions);\n    this.element.mount('#stripe-element-mount-point');\n\n    this.element.on('change', (event) => {\n      var displayError = document.getElementById('stripe-element-errors');\n      if (event.error) {\n        displayError.textContent = event.error.message;\n      } else {\n        displayError.textContent = '';\n      }\n      this.onChange(event);\n    });\n\n    this.element.on('blur', this.onBlur);\n    this.element.on('click', this.onClick);\n    this.element.on('escape', this.onEscape);\n    this.element.on('focus', this.onFocus);\n    this.element.on('ready', this.onReady);\n\n    this.form.addEventListener('submit', async (event) => {\n      try {\n        this.$emit('loading', true);\n        event.preventDefault();\n        const data = {\n          ...this.element,\n        };\n        if (this.amount) data.amount = this.amount;\n        const { token, error } = await this.stripe.createToken(data, this.tokenData);\n        if (error) {\n          const errorElement = document.getElementById('stripe-element-errors');\n          errorElement.textContent = error.message;\n          this.$emit('error', error);\n          return;\n        }\n        this.$emit('token', token);\n      } catch (error) {\n        console.error(error);\n        this.$emit('error', error);\n      } finally {\n        this.$emit('loading', false);\n      }\n    });\n  },\n  methods: {\n    /**\n     * Triggers the submission of the form\n     * @return {void}\n     */\n    submit () {\n      this.$refs.submitButtonRef.click();\n    },\n    /**\n     * Clears the element\n     * @return {void}\n     */\n    clear () {\n      this.element.clear();\n    },\n    /**\n     * Destroys the element\n     * @return {void}\n     */\n    destroy () {\n      this.element.destroy();\n    },\n    /**\n     * Focuses on the element\n     * @return {void}\n     */\n    focus () {\n      console.warn('This method will currently not work on iOS 13+ due to a system limitation.');\n      this.element.focus();\n    },\n    /**\n     * Unmounts the element\n     * @return {void}\n     */\n    unmount () {\n      this.element.unmount();\n    },\n    /**\n     * Updates the element\n     * @param {string} opts.classes.base The base class applied to the container. Defaults to StripeElement.\n     * @param {string} opts.classes.complete The class name to apply when the Element is complete. Defaults to StripeElement--complete.\n     * @param {string} opts.classes.empty The class name to apply when the Element is empty. Defaults to StripeElement--empty.\n     * @param {string} opts.classes.focus The class name to apply when the Element is focused. Defaults to StripeElement--focus.\n     * @param {string} opts.classes.invalid The class name to apply when the Element is invalid. Defaults to StripeElement--invalid.\n     * @param {string} opts.classes.webkitAutoFill The class name to apply when the Element has its value autofilled by the browser (only on Chrome and Safari). Defaults to StripeElement--webkit-autofill.\n     * @param {Object} opts.style Customize the appearance of this element using CSS properties passed in a Style object.\n     * @param {string} opts.value A pre-filled set of values to include in the input (e.g., {postalCode: '94110'}). Note that sensitive card information (card number, CVC, and expiration date) cannot be pre-filled\n     * @param {boolean} opts.hidePostalCode Hide the postal code field. Default is false. If you are already collecting a full billing address or postal code elsewhere, set this to true.\n     * @param {string} opts.iconStyle Appearance of the icon in the Element. Either solid or default.\n     * @param {boolean} opts.hideIcon Hides the icon in the Element. Default is false.\n     * @param {boolean} opts.disabled Applies a disabled state to the Element such that user input is not accepted. Default is false.\n     */\n    update (opts) {\n      this.element.update(opts);\n    },\n    // events\n    onChange (e) {\n      this.$emit('element-change', e);\n    },\n    onReady (e) {\n      this.$emit('element-ready', e);\n    },\n    onFocus (e) {\n      this.$emit('element-focus', e);\n    },\n    onBlur (e) {\n      this.$emit('element-blur', e);\n    },\n    onEscape (e) {\n      this.$emit('element-escape', e);\n    },\n    onClick (e) {\n      this.$emit('element-click', e);\n    },\n  },\n};\n<\/script>\n\n<style scoped>\n/**\n * The CSS shown here will not be introduced in the Quickstart guide, but shows\n * how you can use CSS to style your Element's container.\n */\n.StripeElement {\n  box-sizing: border-box;\n\n  height: 40px;\n\n  padding: 10px 12px;\n\n  border: 1px solid transparent;\n  border-radius: 4px;\n  background-color: white;\n\n  box-shadow: 0 1px 3px 0 #e6ebf1;\n  -webkit-transition: box-shadow 150ms ease;\n  transition: box-shadow 150ms ease;\n}\n\n.StripeElement--focus {\n  box-shadow: 0 1px 3px 0 #cfd7df;\n}\n\n.StripeElement--invalid {\n  border-color: #fa755a;\n}\n\n.StripeElement--webkit-autofill {\n  background-color: #fefde5 !important;\n}\n\n.hide {\n  display: none;\n}\n</style>\n"]},media:void 0})},__vue_scope_id__="data-v-4dd8360e",__vue_module_identifier__=void 0,__vue_is_functional_template__=!1,__vue_component__=normalizeComponent({render:__vue_render__,staticRenderFns:__vue_staticRenderFns__},__vue_inject_styles__,__vue_script__,__vue_scope_id__,!1,void 0,!1,createInjector,void 0,void 0);var ELEMENT_TYPE$1="payment",script$1={props:{pk:{type:String,required:!0},testMode:{type:Boolean,default:!1},elementsOptions:{type:Object,required:!0,default:function(){return{}}},confirmParams:{type:Object,required:!0,default:function(){return{}}},redirect:{type:String,default:"always"},createOptions:{type:Object,default:function(){return{}}},stripeAccount:{type:String,default:void 0},apiVersion:{type:String,default:void 0},locale:{type:String,default:"auto"},disableAdvancedFraudDetection:{type:Boolean}},data:function(){return{loading:!1,stripe:null,elements:null,element:null}},computed:{form:function(){return document.getElementById("stripe-payment-element-form")}},mounted:function(){var e,n=this;return regenerator.async((function(t){for(;;)switch(t.prev=t.next){case 0:return this.disableAdvancedFraudDetection&&loadStripe.setLoadParameters({advancedFraudSignals:!1}),e={stripeAccount:this.stripeAccount,apiVersion:this.apiVersion,locale:this.locale},t.next=4,regenerator.awrap(loadStripe(this.pk,e));case 4:this.stripe=t.sent,this.stripe.registerAppInfo(STRIPE_PARTNER_DETAILS),this.elements=this.stripe.elements(this.elementsOptions),this.element=this.elements.create(ELEMENT_TYPE$1,this.createOptions),this.element.mount("#stripe-payment-element-mount-point"),this.element.on("change",(function(e){var t=document.getElementById("stripe-payment-element-errors");e.error?t.textContent=e.error.message:t.textContent="",n.onChange(e)})),this.element.on("blur",this.onBlur),this.element.on("click",this.onClick),this.element.on("escape",this.onEscape),this.element.on("focus",this.onFocus),this.element.on("ready",this.onReady),this.form.addEventListener("submit",(function(e){var t,r;return regenerator.async((function(i){for(;;)switch(i.prev=i.next){case 0:return i.prev=0,n.$emit("loading",!0),e.preventDefault(),i.next=5,regenerator.awrap(n.stripe.confirmPayment({elements:n.elements,confirmParams:n.confirmParams,redirect:n.redirect}));case 5:if(t=i.sent,!(r=t.error)){i.next=12;break}return document.getElementById("stripe-payment-element-errors").textContent=r.message,n.$emit("error",r),i.abrupt("return");case 12:i.next=18;break;case 14:i.prev=14,i.t0=i.catch(0),console.error(i.t0),n.$emit("error",i.t0);case 18:return i.prev=18,n.$emit("loading",!1),i.finish(18);case 21:case"end":return i.stop()}}),null,null,[[0,14,18,21]])}));case 16:case"end":return t.stop()}}),null,this)},methods:{submit:function(){this.$refs.submitButtonRef.click()},clear:function(){this.element.clear()},destroy:function(){this.element.destroy()},focus:function(){console.warn("This method will currently not work on iOS 13+ due to a system limitation."),this.element.focus()},collapse:function(){this.element.collapse()},getElement:function(){this.element.getElement()},unmount:function(){this.element.unmount()},update:function(e){this.element.update(e)},onChange:function(e){this.$emit("element-change",e)},onReady:function(e){this.$emit("element-ready",e)},onFocus:function(e){this.$emit("element-focus",e)},onBlur:function(e){this.$emit("element-blur",e)},onEscape:function(e){this.$emit("element-escape",e)},onClick:function(e){this.$emit("element-click",e)}}};const __vue_script__$1=script$1;var __vue_render__$1=function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("form",{attrs:{id:"stripe-payment-element-form"}},[n("div",{attrs:{id:"stripe-payment-element-mount-point"}}),this._v(" "),this._t("stripe-payment-element-errors",[n("div",{attrs:{id:"stripe-payment-element-errors",role:"alert"}})]),this._v(" "),n("button",{ref:"submitButtonRef",staticClass:"hide",attrs:{type:"submit"}})],2)])},__vue_staticRenderFns__$1=[];__vue_render__$1._withStripped=!0;const __vue_inject_styles__$1=function(e){e&&e("data-v-3329b3f8_0",{source:"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/**\n * The CSS shown here will not be introduced in the Quickstart guide, but shows\n * how you can use CSS to style your Element's container.\n */\n.hide[data-v-3329b3f8] {\n  display: none;\n}\n",map:{version:3,sources:["/home/runner/work/vue-stripe/vue-stripe/src/elements/Payment.vue"],names:[],mappings:";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAmQA;;;EAGA;AACA;EACA,aAAA;AACA",file:"Payment.vue",sourcesContent:["<template>\n  <div>\n    <form id=\"stripe-payment-element-form\">\n      <div id=\"stripe-payment-element-mount-point\" />\n      <slot name=\"stripe-payment-element-errors\">\n        <div\n          id=\"stripe-payment-element-errors\"\n          role=\"alert\"\n        />\n      </slot>\n      <button\n        ref=\"submitButtonRef\"\n        type=\"submit\"\n        class=\"hide\"\n      />\n    </form>\n  </div>\n</template>\n\n<script>\nimport { loadStripe } from '@stripe/stripe-js/dist/pure.esm.js';\n// import { isSecureHost } from '../utils';\nimport {\n  STRIPE_PARTNER_DETAILS,\n  // INSECURE_HOST_ERROR_MESSAGE,\n} from '../constants';\nconst ELEMENT_TYPE = 'payment';\nexport default {\n  props: {\n    pk: {\n      type: String,\n      required: true,\n    },\n    testMode: {\n      type: Boolean,\n      default: false,\n    },\n    elementsOptions: {\n      type: Object,\n      required: true,\n      default: () => ({}),\n    },\n    confirmParams: {\n      type: Object,\n      required: true,\n      default: () => ({}),\n    },\n    redirect: {\n      type: String,\n      default: 'always',\n    },\n    createOptions: {\n      type: Object,\n      default: () => ({}),\n    },\n    stripeAccount: {\n      type: String,\n      default: undefined,\n    },\n    apiVersion: {\n      type: String,\n      default: undefined,\n    },\n    locale: {\n      type: String,\n      default: 'auto',\n    },\n    disableAdvancedFraudDetection: {\n      type: Boolean,\n    },\n  },\n  data () {\n    return {\n      loading: false,\n      stripe: null,\n      elements: null,\n      element: null,\n    };\n  },\n  computed: {\n    form () {\n      return document.getElementById('stripe-payment-element-form');\n    },\n  },\n  async mounted () {\n    // FIXME: temporarily remove to avoid problems with remote non-production deployments\n    // if (!isSecureHost(this.testMode)) {\n    //   document.getElementById(\n    //     'stripe-payment-element-mount-point',\n    //   ).innerHTML = `<p style=\"color: red\">${INSECURE_HOST_ERROR_MESSAGE}</p>`;\n    //   return;\n    // }\n\n    if (this.disableAdvancedFraudDetection) {\n      loadStripe.setLoadParameters({ advancedFraudSignals: false });\n    }\n\n    const stripeOptions = {\n      stripeAccount: this.stripeAccount,\n      apiVersion: this.apiVersion,\n      locale: this.locale,\n    };\n\n    this.stripe = await loadStripe(this.pk, stripeOptions);\n    this.stripe.registerAppInfo(STRIPE_PARTNER_DETAILS);\n\n    this.elements = this.stripe.elements(this.elementsOptions);\n    this.element = this.elements.create(ELEMENT_TYPE, this.createOptions);\n    this.element.mount('#stripe-payment-element-mount-point');\n\n    this.element.on('change', event => {\n      var displayError = document.getElementById(\n        'stripe-payment-element-errors',\n      );\n      if (event.error) {\n        displayError.textContent = event.error.message;\n      } else {\n        displayError.textContent = '';\n      }\n      this.onChange(event);\n    });\n\n    this.element.on('blur', this.onBlur);\n    this.element.on('click', this.onClick);\n    this.element.on('escape', this.onEscape);\n    this.element.on('focus', this.onFocus);\n    this.element.on('ready', this.onReady);\n\n    this.form.addEventListener('submit', async event => {\n      try {\n        this.$emit('loading', true);\n        event.preventDefault();\n        const { error } = await this.stripe.confirmPayment({\n          elements: this.elements,\n          confirmParams: this.confirmParams,\n          redirect: this.redirect,\n        });\n        if (error) {\n          const errorElement = document.getElementById(\n            'stripe-payment-element-errors',\n          );\n          errorElement.textContent = error.message;\n          this.$emit('error', error);\n          return;\n        }\n      } catch (error) {\n        console.error(error);\n        this.$emit('error', error);\n      } finally {\n        this.$emit('loading', false);\n      }\n    });\n  },\n  methods: {\n    /**\n     * Triggers the submission of the form\n     * @return {void}\n     */\n    submit () {\n      this.$refs.submitButtonRef.click();\n    },\n    /**\n     * Clears the element\n     * @return {void}\n     */\n    clear () {\n      this.element.clear();\n    },\n    /**\n     * Destroys the element\n     * @return {void}\n     */\n    destroy () {\n      this.element.destroy();\n    },\n    /**\n     * Focuses on the element\n     * @return {void}\n     */\n    focus () {\n      console.warn(\n        'This method will currently not work on iOS 13+ due to a system limitation.',\n      );\n      this.element.focus();\n    },\n    /**\n     * Collapses the Payment Element into a row of payment method tabs\n     * @return {void}\n     */\n    collapse () {\n      this.element.collapse();\n    },\n    /**\n     * Retrieves a previously created element\n     */\n    getElement () {\n      this.element.getElement();\n    },\n    /**\n     * Unmounts the element\n     * @return {void}\n     */\n    unmount () {\n      this.element.unmount();\n    },\n    /**\n     * Updates the element. See official docs for more detail: https://site-admin.stripe.com/docs/js/elements_object/update_payment_element\n     * @param {string} opts.business.name  Information about your business that will be displayed in the Payment Element. This information will be retrieved from the Stripe account if not provided.\n     * @param {array} opts.paymentMethodOrder Sets order in which payment methods are displayed. Otherwise payment methods are ordered dynamically to optimize for conversion.\n     * @param {string | Object} opts.fields.billingDetails The Payment Element automatically creates input fields to collect required billing information for some payment methods like SEPA debit. Specify 'never' to avoid collecting billing details in the Payment Element if you're collecting them outside of the Payment Element.\n     * @param {string} opts.fields.billingDetails.name Specify 'never' to avoid collecting a name as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.email Specify 'never' to avoid collecting an email address as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.phone Specify 'never' to avoid collecting a phone number as part of the billing details in the Payment Element.\n     * @param {string | Object} opts.fields.billingDetails.address Specify 'never' to avoid collecting an address as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.address.line1 Specify 'never' to avoid collecting an address line1 as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.address.line2 Specify 'never' to avoid collecting an address line2 as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.address.city Specify 'never' to avoid collecting an address city as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.address.state Specify 'never' to avoid collecting an address state as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.address.country Specify 'never' to avoid collecting an address country as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.billingDetails.address.postalCode Specify 'never' to avoid collecting an address postal code as part of the billing details in the Payment Element.\n     * @param {string} opts.fields.terms The Payment Element automatically displays mandates or other legal agreements when required by the payment method, like SEPA debit. Specify 'never' to never show legal agreements.\n     * @param {string} opts.fields.terms.auBecsDebit Specify 'never' to never show legal agreements for the BECS Debit payment method.\n     * @param {string} opts.fields.terms.bancontact Specify 'never' to never show legal agreements for the Bancontact payment method.\n     * @param {string} opts.fields.terms.card Specify 'never' to never show legal agreements for the credit card payment method.\n     * @param {string} opts.fields.terms.ideal Specify 'never' to never show legal agreements for the iDEAL payment method.\n     * @param {string} opts.fields.terms.sepaDebit Specify 'never' to never show legal agreements for the SEPA Debit payment method.\n     * @param {string} opts.fields.terms.sofort Specify 'never' to never show legal agreements for the SOFORT payment method.\n     * @param {string} opts.fields.terms.usBankAccount Specify 'never' to never show legal agreements for the US Bank accounts payment method.\n     * @param {string} opts.wallets Specify 'never' to never show digital wallet payment methods like Apple Pay and Google Pay.\n     * @param {string} opts.wallets.applePay Specify 'never' to never show the Apple Pay digital wallet payment method.\n     * @param {string} opts.wallets.googlePay Specify 'never' to never show the Google Pay digital wallet payment method.\n     */\n    update (opts) {\n      this.element.update(opts);\n    },\n    // events\n    onChange (e) {\n      this.$emit('element-change', e);\n    },\n    onReady (e) {\n      this.$emit('element-ready', e);\n    },\n    onFocus (e) {\n      this.$emit('element-focus', e);\n    },\n    onBlur (e) {\n      this.$emit('element-blur', e);\n    },\n    onEscape (e) {\n      this.$emit('element-escape', e);\n    },\n    onClick (e) {\n      this.$emit('element-click', e);\n    },\n  },\n};\n<\/script>\n\n<style scoped>\n/**\n * The CSS shown here will not be introduced in the Quickstart guide, but shows\n * how you can use CSS to style your Element's container.\n */\n.hide {\n  display: none;\n}\n</style>\n"]},media:void 0})},__vue_scope_id__$1="data-v-3329b3f8",__vue_module_identifier__$1=void 0,__vue_is_functional_template__$1=!1,__vue_component__$1=normalizeComponent({render:__vue_render__$1,staticRenderFns:__vue_staticRenderFns__$1},__vue_inject_styles__$1,__vue_script__$1,"data-v-3329b3f8",!1,void 0,!1,createInjector,void 0,void 0);var index$3={install:function(e,n){var t,r,i,o,s,a,l;return regenerator.async((function(c){for(;;)switch(c.prev=c.next){case 0:t=n.pk,r=n.stripeAccount,i=n.apiVersion,o=n.locale,s=n.elementsOptions,(a=window.Stripe(t,{stripeAccount:r,apiVersion:i,locale:o})).registerAppInfo(STRIPE_PARTNER_DETAILS),l=a.elements(s),e.prototype.$stripe=a,e.prototype.$stripeElements=l;case 6:case"end":return c.stop()}}))}};exports.StripeCheckout=index$2,exports.StripeElementCard=__vue_component__,exports.StripeElementPayment=__vue_component__$1,exports.StripeElementsPlugin=index$3,exports.StripePlugin=index;
-;
 }
 
 
@@ -23160,7 +23187,7 @@ var index$1={beforeCreate:function(){var e=this.$options.props;e&&(this._$coerti
 // --------------------
 const $id_ca1f6238 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_vm._m(0),[_c('div',{staticClass:"mt-4 grid gap-4 mx-4 md:grid-cols-1"},_vm._l((_vm.services),function(account,index){return _c('div',{key:("account-" + index),staticClass:"flex h-full w-full items-center"},[_c('div',{staticClass:"rounded-l bg-gray-200/75 dark:bg-neutral-800/50"},[_c('SmartImage',{staticClass:"light:bg-neutral-300 light:opacity-100 rounded-l opacity-50 h-35 w-55",attrs:{"src":account.image}})],1),_c('div',{staticClass:"rounded-tr rounded-br flex h-full bg-gray-200/50 w-full pl-4 items-center dark:bg-neutral-800/75"},[_c('div',{staticClass:"w-3/5 min-w-30"},[_c('h3',{staticClass:"font-medium text-lg text-gray-900 dark:text-neutral-300"},[_vm._v(" "+_vm._s(account.name)+" ")]),_c('p',{staticClass:"text-sm text-gray-500 dark:text-neutral-400"},[_vm._v(" "+_vm._s(account.describtion)+" ")]),_c('span',{staticClass:"text-gray-800 dark:text-neutral-500"},[_vm._v(" Price: "+_vm._s(account.price)+" ")])]),_c('div',{staticClass:"w-full flex pr-10 gap-5 justify-end items-center"},[_c('Button',{staticClass:"my-2 hover:bg-neutral-500",attrs:{"variant":"github","href":account.buy},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconShoppingCart',{staticClass:"h-5 text-black dark:text-white w-7"})]},proxy:true}],null,true)},[_vm._v(" Buy Now ")]),_c('Button',{staticClass:"my-2 hover:bg-neutral-500",attrs:{"variant":"github","href":account.href},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconSearch',{staticClass:"h-6 text-black dark:text-white w-7"})]},proxy:true}],null,true)},[_vm._v(" More Info ")])],1)])])}),0)]],2)])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_vm._m(0),[_c('div',{staticClass:"mt-4 grid gap-4 mx-4 md:grid-cols-1"},_vm._l((_vm.services),function(account,index){return _c('div',{key:("account-" + index),staticClass:"flex h-full w-full items-center"},[_c('div',{staticClass:"rounded-l bg-gray-200/75 dark:bg-neutral-800/50"},[_c('SmartImage',{staticClass:"light:bg-neutral-300 light:opacity-100 rounded-l opacity-50 h-35 w-55",attrs:{"src":account.image}})],1),_c('div',{staticClass:"rounded-tr rounded-br flex h-full bg-gray-200/50 w-full pl-4 items-center dark:bg-neutral-800/75"},[_c('div',{staticClass:"w-3/5 min-w-30"},[_c('h3',{staticClass:"font-medium text-lg text-gray-900 dark:text-neutral-300"},[_vm._v(" "+_vm._s(account.name)+" ")]),_c('p',{staticClass:"text-sm text-gray-500 dark:text-neutral-400"},[_vm._v(" "+_vm._s(account.describtion)+" ")]),_c('span',{staticClass:"text-gray-800 dark:text-neutral-500"},[_vm._v(" Price: "+_vm._s(account.price)+" ")])]),_c('div',{staticClass:"w-full flex pr-10 gap-5 justify-end items-center"},[_c('Button',{staticClass:"my-2 hover:bg-neutral-500",attrs:{"variant":"github"},nativeOn:{"click":function($event){_vm.setItem(account.name), _vm.setPrice(account.price)}},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconCash',{staticClass:"h-6 text-black dark:text-white w-7"})]},proxy:true}],null,true)},[_vm._v(" Buy Now ")]),_c('Button',{staticClass:"my-2 hover:bg-neutral-500",attrs:{"variant":"github","href":account.href},scopedSlots:_vm._u([{key:"icon",fn:function(){return [_c('IconSearch',{staticClass:"h-6 text-black dark:text-white w-7"})]},proxy:true}],null,true)},[_vm._v(" More Info ")])],1)])])}),0)]],2)])}
 var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300"},[_vm._v("BitStore™ Shop")]),_c('p',{staticClass:"sm:w-9/10"},[_vm._v(" Here you can find all of my products, from Discord bots to Discord Nitro generators. You can also find my Discord server, where you can get support for my products. ")])])}]
 render._withStripped = true
 
@@ -26249,23 +26276,51 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // Parents: 
 // - /.nuxt/router.js ($id_9f5e4b4f)
 // Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/pages/shop/products/bitgen.vue?vue&type=template&lang.js ($id_1a23dd00)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // --------------------
 const $id_94c2f627 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-let __vue2_render, __vue2_staticRenderFns
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  data() {
+    return {};
+  },
+  head() {
+    const title = "BitGen";
+    const description = "BitStore is a website that contains a bunch of tools and projects created by me, Webstax. It's a place where you can find all of my projects in one place.";
+    return {
+      title,
+      meta: this.$prepareMeta({
+        title,
+        description,
+        keywords: "shop, products",
+        url: "https://bitstore.dev/shop/shop/products/bitgen"
+      }),
+      link: [
+        {
+          rel: "canonical",
+          href: "https://bitstore.dev/shop/shop/products/bitgen"
+        }
+      ]
+    };
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/pages/shop/products/bitgen.vue?vue&type=template&lang.js");
+
 const __cssModules = {}
 
 /* normalize component */
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
 
-var __component__ = /*#__PURE__*/__vite_ssr_import_0__.default(
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
   __vue2_script,
-  __vue2_render,
-  __vue2_staticRenderFns,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
   false,
   __vue2_injectStyles,
   null,
@@ -26281,21 +26336,41 @@ function __vue2_injectStyles (context) {
 
 __component__.options.__file = "src/pages/shop/products/bitgen.vue"
 /* hot reload */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
-__vite_ssr_import_1__.default.install(__vite_ssr_import_2__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_1__.default.compatible){
-  if (!__vite_ssr_import_1__.default.isRecorded("5ed46d19")) {
-    __vite_ssr_import_1__.default.createRecord("5ed46d19", __component__.options)
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("5ed46d19")) {
+    __vite_ssr_import_3__.default.createRecord("5ed46d19", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_1__.default.reload("5ed46d19", update.default)
+      __vite_ssr_import_3__.default.reload("5ed46d19", update.default)
    })
-   
+   __vite_ssr_import_meta__.hot.accept("/src/pages/shop/products/bitgen.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("5ed46d19", update)
+   })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/pages/shop/products/bitgen.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/pages/shop/products/bitgen.vue ($id_94c2f627)
+// Dependencies: 
+
+// --------------------
+const $id_1a23dd00 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_vm._m(0),void 0],2)])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300"},[_vm._v("BitBoost Premium")]),_c('p',{staticClass:"sm:w-9/10"},[_vm._v(" Here you can find all of my products, from Discord bots to Discord Nitro generators. You can also find my Discord server, where you can get support for my products. ")])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
 }
 
 
@@ -26304,23 +26379,51 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // Parents: 
 // - /.nuxt/router.js ($id_9f5e4b4f)
 // Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/pages/shop/products/bitraider.vue?vue&type=template&lang.js ($id_e613460e)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // --------------------
 const $id_20031cd0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-let __vue2_render, __vue2_staticRenderFns
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  data() {
+    return {};
+  },
+  head() {
+    const title = "BitRaider";
+    const description = "BitStore is a website that contains a bunch of tools and projects created by me, Webstax. It's a place where you can find all of my projects in one place.";
+    return {
+      title,
+      meta: this.$prepareMeta({
+        title,
+        description,
+        keywords: "shop, products",
+        url: "https://bitstore.dev/shop/shop/products/bitraider"
+      }),
+      link: [
+        {
+          rel: "canonical",
+          href: "https://bitstore.dev/shop/shop/products/bitraider"
+        }
+      ]
+    };
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/pages/shop/products/bitraider.vue?vue&type=template&lang.js");
+
 const __cssModules = {}
 
 /* normalize component */
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
 
-var __component__ = /*#__PURE__*/__vite_ssr_import_0__.default(
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
   __vue2_script,
-  __vue2_render,
-  __vue2_staticRenderFns,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
   false,
   __vue2_injectStyles,
   null,
@@ -26336,21 +26439,41 @@ function __vue2_injectStyles (context) {
 
 __component__.options.__file = "src/pages/shop/products/bitraider.vue"
 /* hot reload */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
-__vite_ssr_import_1__.default.install(__vite_ssr_import_2__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_1__.default.compatible){
-  if (!__vite_ssr_import_1__.default.isRecorded("b77ea004")) {
-    __vite_ssr_import_1__.default.createRecord("b77ea004", __component__.options)
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("b77ea004")) {
+    __vite_ssr_import_3__.default.createRecord("b77ea004", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_1__.default.reload("b77ea004", update.default)
+      __vite_ssr_import_3__.default.reload("b77ea004", update.default)
    })
-   
+   __vite_ssr_import_meta__.hot.accept("/src/pages/shop/products/bitraider.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("b77ea004", update)
+   })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/pages/shop/products/bitraider.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/pages/shop/products/bitraider.vue ($id_20031cd0)
+// Dependencies: 
+
+// --------------------
+const $id_e613460e = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_vm._m(0),void 0],2)])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300"},[_vm._v("BitBoost Premium")]),_c('p',{staticClass:"sm:w-9/10"},[_vm._v(" Here you can find all of my products, from Discord bots to Discord Nitro generators. You can also find my Discord server, where you can get support for my products. ")])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
 }
 
 
@@ -26359,23 +26482,51 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // Parents: 
 // - /.nuxt/router.js ($id_9f5e4b4f)
 // Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/pages/shop/products/bitredeem.vue?vue&type=template&lang.js ($id_0cef8882)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // --------------------
 const $id_9ec5aa02 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-let __vue2_render, __vue2_staticRenderFns
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  data() {
+    return {};
+  },
+  head() {
+    const title = "BitRedeem";
+    const description = "BitStore is a website that contains a bunch of tools and projects created by me, Webstax. It's a place where you can find all of my projects in one place.";
+    return {
+      title,
+      meta: this.$prepareMeta({
+        title,
+        description,
+        keywords: "shop, products",
+        url: "https://bitstore.dev/shop/shop/products/bitredeem"
+      }),
+      link: [
+        {
+          rel: "canonical",
+          href: "https://bitstore.dev/shop/shop/products/bitredeem"
+        }
+      ]
+    };
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/pages/shop/products/bitredeem.vue?vue&type=template&lang.js");
+
 const __cssModules = {}
 
 /* normalize component */
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
 
-var __component__ = /*#__PURE__*/__vite_ssr_import_0__.default(
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
   __vue2_script,
-  __vue2_render,
-  __vue2_staticRenderFns,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
   false,
   __vue2_injectStyles,
   null,
@@ -26391,21 +26542,41 @@ function __vue2_injectStyles (context) {
 
 __component__.options.__file = "src/pages/shop/products/bitredeem.vue"
 /* hot reload */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
-__vite_ssr_import_1__.default.install(__vite_ssr_import_2__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_1__.default.compatible){
-  if (!__vite_ssr_import_1__.default.isRecorded("228c5163")) {
-    __vite_ssr_import_1__.default.createRecord("228c5163", __component__.options)
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("228c5163")) {
+    __vite_ssr_import_3__.default.createRecord("228c5163", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_1__.default.reload("228c5163", update.default)
+      __vite_ssr_import_3__.default.reload("228c5163", update.default)
    })
-   
+   __vite_ssr_import_meta__.hot.accept("/src/pages/shop/products/bitredeem.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("228c5163", update)
+   })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/pages/shop/products/bitredeem.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/pages/shop/products/bitredeem.vue ($id_9ec5aa02)
+// Dependencies: 
+
+// --------------------
+const $id_0cef8882 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_vm._m(0),void 0],2)])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300"},[_vm._v("BitBoost Premium")]),_c('p',{staticClass:"sm:w-9/10"},[_vm._v(" Here you can find all of my products, from Discord bots to Discord Nitro generators. You can also find my Discord server, where you can get support for my products. ")])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
 }
 
 
@@ -26414,23 +26585,51 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // Parents: 
 // - /.nuxt/router.js ($id_9f5e4b4f)
 // Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/pages/shop/products/bittool.vue?vue&type=template&lang.js ($id_a6f022a0)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // --------------------
 const $id_a93c98dd = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-let __vue2_render, __vue2_staticRenderFns
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  data() {
+    return {};
+  },
+  head() {
+    const title = "BitTool";
+    const description = "BitStore is a website that contains a bunch of tools and projects created by me, Webstax. It's a place where you can find all of my projects in one place.";
+    return {
+      title,
+      meta: this.$prepareMeta({
+        title,
+        description,
+        keywords: "shop, products",
+        url: "https://bitstore.dev/shop/shop/products/bittool"
+      }),
+      link: [
+        {
+          rel: "canonical",
+          href: "https://bitstore.dev/shop/shop/products/bittool"
+        }
+      ]
+    };
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/pages/shop/products/bittool.vue?vue&type=template&lang.js");
+
 const __cssModules = {}
 
 /* normalize component */
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
 
-var __component__ = /*#__PURE__*/__vite_ssr_import_0__.default(
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
   __vue2_script,
-  __vue2_render,
-  __vue2_staticRenderFns,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
   false,
   __vue2_injectStyles,
   null,
@@ -26446,21 +26645,41 @@ function __vue2_injectStyles (context) {
 
 __component__.options.__file = "src/pages/shop/products/bittool.vue"
 /* hot reload */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
-__vite_ssr_import_1__.default.install(__vite_ssr_import_2__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_1__.default.compatible){
-  if (!__vite_ssr_import_1__.default.isRecorded("4fb6b9c2")) {
-    __vite_ssr_import_1__.default.createRecord("4fb6b9c2", __component__.options)
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("4fb6b9c2")) {
+    __vite_ssr_import_3__.default.createRecord("4fb6b9c2", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_1__.default.reload("4fb6b9c2", update.default)
+      __vite_ssr_import_3__.default.reload("4fb6b9c2", update.default)
    })
-   
+   __vite_ssr_import_meta__.hot.accept("/src/pages/shop/products/bittool.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("4fb6b9c2", update)
+   })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/pages/shop/products/bittool.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/pages/shop/products/bittool.vue ($id_a93c98dd)
+// Dependencies: 
+
+// --------------------
+const $id_a6f022a0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"py-4"},[_c('div',{staticClass:"space-y-12 text-gray-500 dark:text-neutral-600"},[_vm._m(0),void 0],2)])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('header',{staticClass:"space-y-2 my-12 px-4"},[_c('h1',{staticClass:"text-gray-700 text-4xl font-extrabold dark:text-neutral-300"},[_vm._v("BitBoost Premium")]),_c('p',{staticClass:"sm:w-9/10"},[_vm._v(" Here you can find all of my products, from Discord bots to Discord Nitro generators. You can also find my Discord server, where you can get support for my products. ")])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
 }
 
 
@@ -26719,82 +26938,75 @@ const __vue2_script = __vite_ssr_import_0__.default.extend({
       experiences: {
         jobs: [
           {
-            title: "Sane Lunatics Theater Play",
-            url: "https://delilerkumpanyasi.com",
-            position: "Web Developer & Social Media Manager",
-            date: "2022-"
+            title: "Lilium Aviation",
+            url: "https://lilium.com",
+            position: "Intern - Aircraft Engeneering",
+            date: "2022-2023"
           },
           {
-            title: "Discord Templates",
-            url: "https://discords.com/templates",
-            position: "Web Developer & Co-Founder",
-            date: "2020-2021"
+            title: "WebStax",
+            url: "https://webstax.io",
+            position: "Web Developer & Founder",
+            date: "2021-Now"
           },
           {
-            title: "IZM Game Studios",
-            url: "https://izmgamestudios.com",
-            position: "Solution Partner",
-            date: "2020-2021",
+            title: "BitStore",
+            url: "https://bitstore.dev",
+            position: "Founder & Developer",
+            date: "2020-Now"
+          },
+          {
+            title: "Wix/EditorX",
+            url: "https://editorx.com",
+            position: "Intern - Frontend Developer",
+            date: "2021",
             isHidden: true
           },
           {
-            title: "TruckersMP",
-            url: "https://truckersmp.com/user/1648033",
-            position: "Community Moderator & Translator",
-            date: "2020-2021",
+            title: "Synthesia",
+            url: "https://synthesia.io",
+            position: "Intern - AI Developer",
+            date: "2020",
             isHidden: true
           },
           {
-            title: "WA Web+ Extension",
-            url: "https://wawplus.com",
-            position: "Translator",
-            date: "2020-2021",
-            isHidden: true
-          },
-          {
-            title: "Batakk\xF6yl\xFC D\xFC\u011F\xFCn Salonu",
-            url: "https://batakkoylu.netlify.app",
+            title: "Kronik - Services",
+            url: "https://kronik.pages.dev",
             position: "Web Developer",
-            date: "2020-2020",
+            date: "2020",
             isHidden: true
           },
           {
-            title: "EGGSY's Discord Bot",
-            url: "https://top.gg/bot/eggsy",
-            position: "Creator, Developer and Maintainer",
-            date: "2017-2019"
-          },
-          {
-            title: "Discord Bot List",
-            url: "https://top.gg/user/162969778699501569",
-            position: "Website Moderator",
-            date: "2017-2018"
+            title: "Helmholz Institute",
+            url: "https://www.helmholtz.de",
+            position: "Intern - 3D Printing Technology",
+            date: "2019"
           }
         ],
         education: [
           {
-            title: "Mu\u015F Alparslan University",
-            url: "http://alparslan.edu.tr/",
-            position: "English Language Teaching",
-            date: "2020-"
+            title: "Haileybury College UK",
+            url: "http://haileybury.com",
+            position: "International Baccalaureate Diploma",
+            date: "2022-2024"
           },
           {
-            title: "Goce Delchev University",
-            url: "https://www.ugd.edu.mk/",
-            position: "Erasmus+ Student",
-            date: "2021-2022"
+            title: "Haileybury College UK",
+            url: "http://haileybury.com",
+            position: "IGCSE's",
+            date: "2020-2022"
           },
           {
-            title: "Rotosis Robotics",
-            url: "https://www.rotosis.com/",
-            position: "Intern",
-            date: "2017-2018",
+            title: "Ostsee-Gymnasium",
+            url: "https://www.ostsee-gymnasium.de",
+            position: "Abitur",
+            date: "2018-2020",
             isHidden: true
           },
           {
-            title: "Adil Karaa\u011Fa\xE7 MTAL",
-            url: "https://akatl.meb.k12.tr/",
-            position: "Automation Systems",
+            title: "Emil-von-Behring-Gymnasium",
+            url: "http://www.evbg.de",
+            position: "Abitur",
             date: "2014-2018"
           }
         ]
@@ -26993,7 +27205,7 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // --------------------
 const $id_3c608508 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"space-y-14 mb-10"},[_c('header',{staticClass:"rounded-md flex flex-col-reverse my-16 mx-4 py-10 justify-between md:flex-row md:items-center"},[_c('div',{staticClass:"md:w-8/12"},[_c('div',{staticClass:"space-y-2"},[_c('div',{staticClass:"font-semibold text-xl text-neutral-700 md:text-3xl dark:text-neutral-200"},[_c('h1',[_vm._v("Self taught")]),_c('h1',[_c('SmartLink',{staticClass:"cursor-help border-b-2 border-ambertext-bg-[#FF424D] text-[#FF424D] dark:border-neutral-500 dark:text-neutral-500",attrs:{"href":"https://www.w3schools.com/whatis/whatis_fullstack_js.asp","blank":""}},[_vm._v("Full-stack")]),_vm._v(" web developer ")],1)]),_c('p',{staticClass:"text-neutral-500"},[_vm._v(" Hi there, my name is Daniel and I am a passionate developer from Germany 🇩🇪. I build complex web apps using frameworks such as "),_c('SmartLink',{staticClass:"description-link",attrs:{"href":"https://vuejs.org/","blank":""}},[_vm._v("Vue.js")]),_vm._v(", "),_c('SmartLink',{staticClass:"description-link",attrs:{"href":"https://reactjs.org/","blank":""}},[_vm._v("React.js")]),_vm._v(" "+_vm._s("")+" and "),_c('SmartLink',{staticClass:"description-link",attrs:{"href":"https://tailwindcss.com/","blank":""}},[_vm._v("Tailwind CSS")]),_vm._v(". ")],1)]),_c('Status',{staticClass:"mt-4"})],1),_c('div',{staticClass:"rounded-full mb-4 md:mb-0"},[_c('SmartImage',{staticClass:"rounded-full h-30 w-30 md:h-45 md:w-45",attrs:{"src":"/assets/images/memoji.png"}})],1)]),_c('section',{staticClass:"my-16",attrs:{"id":"pages"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Pages")]),_c('div',{staticClass:"mt-4 grid gap-4 md:grid-cols-2"},_vm._l((_vm.cards.pages),function(card,index){return _c('Card',{key:("card-p-" + index),attrs:{"title":card.title,"href":card.href}},[_vm._v(" "+_vm._s(card.description)+" ")])}),1)],1),_c('section',{staticClass:"my-16",attrs:{"id":"me"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Me")]),_c('div',{staticClass:"mt-4 grid gap-4 md:grid-cols-2"},_vm._l((_vm.cards.me),function(card,index){return _c('Card',{key:("card-m-" + index),attrs:{"title":card.title,"href":card.href}},[_vm._v(" "+_vm._s(card.description)+" ")])}),1)],1),_c('section',{attrs:{"id":"projects"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Projects I currently work on")]),_c('div',{staticClass:"mt-4 grid gap-2 md:gap-4 md:grid-cols-2"},_vm._l((_vm.projects),function(project,index){return _c('Card',{key:("project-" + index),staticClass:"h-full",attrs:{"href":project.to || project.href,"title":project.title,"description":project.description,"blank":!!project.href},scopedSlots:_vm._u([(project.icon)?{key:"icon",fn:function(){return [_c('IconDev',{staticClass:"rounded-full bg-gray-100 h-14 p-2 text-neutral-500 w-14 dark:bg-neutral-800 dark:text-white",attrs:{"brand":project.icon}})]},proxy:true}:null],null,true)},[_vm._v(" "+_vm._s(project.description)+" ")])}),1)],1),_c('section',{staticClass:"mt-4 grid gap-6 sm:mt-6 md:md:mt-10 md:gap-8 md:grid-cols-2",attrs:{"id":"experiences"}},[_c('div',[_c('div',{staticClass:"flex items-center gap-4 justify-between"},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Experience")]),_c('button',{staticClass:"text-gray-400 mr-4 text-sm hover:underline dark:text-neutral-700",on:{"click":function($event){_vm.showExtraExperience = !_vm.showExtraExperience}}},[_vm._v(" "+_vm._s(_vm.showExtraExperience ? "show less" : "show more")+" ")])],1),_c('div',{staticClass:"mt-4 grid gap-2"},_vm._l((_vm.experiences.jobs),function(experience,index){return _c('CardExperience',{directives:[{name:"show",rawName:"v-show",value:(experience.isHidden ? _vm.showExtraExperience : true),expression:"experience.isHidden ? showExtraExperience : true"}],key:("experience-job-" + index),attrs:{"title":experience.title,"url":experience.url,"date":experience.date,"position":experience.position}})}),1)]),_c('div',[_c('div',{staticClass:"flex items-center gap-4 justify-between"},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Education")]),_c('button',{staticClass:"text-gray-400 mr-4 text-sm hover:underline dark:text-neutral-700",on:{"click":function($event){_vm.showExtraExperience = !_vm.showExtraExperience}}},[_vm._v(" "+_vm._s(_vm.showExtraExperience ? "show less" : "show more")+" ")])],1),_c('div',{staticClass:"mt-4 grid gap-2"},_vm._l((_vm.experiences.education),function(experience,index){return _c('CardExperience',{directives:[{name:"show",rawName:"v-show",value:(experience.isHidden ? _vm.showExtraExperience : true),expression:"experience.isHidden ? showExtraExperience : true"}],key:("experience-education-" + index),attrs:{"title":experience.title,"url":experience.url,"date":experience.date,"position":experience.position}})}),1)])]),_c('section',{staticClass:"mt-6",attrs:{"id":"technologies"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Technologies I use")]),_c('div',{staticClass:"flex flex-col space-y-6 mt-8"},_vm._l((_vm.skills),function(category){return _c('section',{key:category.title},[_c('h5',{staticClass:"border-b border-gray-400/10 dark:border-neutral-600/10 text-gray-400 dark:text-neutral-600/70 text-lg mx-4 mb-4 pb-2 font-medium"},[_vm._v(" "+_vm._s(category.title)+" ")]),_c('div',{staticClass:"grid px-4 md:grid-cols-3 grid-cols-1 lg:grid-cols-4 gap-x-2 gap-y-2"},_vm._l((category.items),function(skill,index){return _c('CardSkill',_vm._b({key:("skill-" + index)},'CardSkill',skill,false))}),1)])}),0)],1)])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"space-y-14 mb-10"},[_c('header',{staticClass:"rounded-md flex flex-col-reverse my-16 mx-4 py-10 justify-between md:flex-row md:items-center"},[_c('div',{staticClass:"md:w-8/12"},[_c('div',{staticClass:"space-y-2"},[_c('div',{staticClass:"font-semibold text-xl text-neutral-700 md:text-3xl dark:text-neutral-200"},[_c('h1',[_vm._v("Self taught")]),_c('h1',[_c('SmartLink',{staticClass:"cursor-help border-b-2 border-neutral-500 text-neutral-500 dark:border-neutral-500 dark:text-neutral-500",attrs:{"href":"https://www.w3schools.com/whatis/whatis_fullstack_js.asp","blank":""}},[_vm._v("Full-stack")]),_vm._v(" web developer ")],1)]),_c('p',{staticClass:"text-neutral-500"},[_vm._v(" Hi there, my name is Daniel and I am a passionate Web-developer from Germany 🇩🇪. I build complex web apps using frameworks such as "),_c('SmartLink',{staticClass:"description-link",attrs:{"href":"https://vuejs.org/","blank":""}},[_vm._v("Vue.js")]),_vm._v(", "),_c('SmartLink',{staticClass:"description-link",attrs:{"href":"https://reactjs.org/","blank":""}},[_vm._v("React.js")]),_vm._v(" "+_vm._s("")+" and "),_c('SmartLink',{staticClass:"description-link",attrs:{"href":"https://tailwindcss.com/","blank":""}},[_vm._v("Tailwind CSS")]),_vm._v(". ")],1)]),_c('Status',{staticClass:"mt-4"})],1),_c('div',{staticClass:"rounded-full mb-4 md:mb-0"},[_c('SmartImage',{staticClass:"rounded-full h-30 w-30 md:h-45 md:w-45",attrs:{"src":"/assets/images/memoji.png"}})],1)]),_c('section',{staticClass:"my-16",attrs:{"id":"pages"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Pages")]),_c('div',{staticClass:"mt-4 grid gap-4 md:grid-cols-2"},_vm._l((_vm.cards.pages),function(card,index){return _c('Card',{key:("card-p-" + index),attrs:{"title":card.title,"href":card.href}},[_vm._v(" "+_vm._s(card.description)+" ")])}),1)],1),_c('section',{staticClass:"my-16",attrs:{"id":"me"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Me")]),_c('div',{staticClass:"mt-4 grid gap-4 md:grid-cols-2"},_vm._l((_vm.cards.me),function(card,index){return _c('Card',{key:("card-m-" + index),attrs:{"title":card.title,"href":card.href}},[_vm._v(" "+_vm._s(card.description)+" ")])}),1)],1),_c('section',{attrs:{"id":"projects"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Projects I currently work on")]),_c('div',{staticClass:"mt-4 grid gap-2 md:gap-4 md:grid-cols-2"},_vm._l((_vm.projects),function(project,index){return _c('Card',{key:("project-" + index),staticClass:"h-full",attrs:{"href":project.to || project.href,"title":project.title,"description":project.description,"blank":!!project.href},scopedSlots:_vm._u([(project.icon)?{key:"icon",fn:function(){return [_c('IconDev',{staticClass:"rounded-full bg-gray-100 h-14 p-2 text-neutral-500 w-14 dark:bg-neutral-800 dark:text-white",attrs:{"brand":project.icon}})]},proxy:true}:null],null,true)},[_vm._v(" "+_vm._s(project.description)+" ")])}),1)],1),_c('section',{staticClass:"mt-4 grid gap-6 sm:mt-6 md:md:mt-10 md:gap-8 md:grid-cols-2",attrs:{"id":"experiences"}},[_c('div',[_c('div',{staticClass:"flex items-center gap-4 justify-between"},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Experience")]),_c('button',{staticClass:"text-gray-400 mr-4 text-sm hover:underline dark:text-neutral-700",on:{"click":function($event){_vm.showExtraExperience = !_vm.showExtraExperience}}},[_vm._v(" "+_vm._s(_vm.showExtraExperience ? "show less" : "show more")+" ")])],1),_c('div',{staticClass:"mt-4 grid gap-2"},_vm._l((_vm.experiences.jobs),function(experience,index){return _c('CardExperience',{directives:[{name:"show",rawName:"v-show",value:(experience.isHidden ? _vm.showExtraExperience : true),expression:"experience.isHidden ? showExtraExperience : true"}],key:("experience-job-" + index),attrs:{"title":experience.title,"url":experience.url,"date":experience.date,"position":experience.position}})}),1)]),_c('div',[_c('div',{staticClass:"flex items-center gap-4 justify-between"},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Education")]),_c('button',{staticClass:"text-gray-400 mr-4 text-sm hover:underline dark:text-neutral-700",on:{"click":function($event){_vm.showExtraExperience = !_vm.showExtraExperience}}},[_vm._v(" "+_vm._s(_vm.showExtraExperience ? "show less" : "show more")+" ")])],1),_c('div',{staticClass:"mt-4 grid gap-2"},_vm._l((_vm.experiences.education),function(experience,index){return _c('CardExperience',{directives:[{name:"show",rawName:"v-show",value:(experience.isHidden ? _vm.showExtraExperience : true),expression:"experience.isHidden ? showExtraExperience : true"}],key:("experience-education-" + index),attrs:{"title":experience.title,"url":experience.url,"date":experience.date,"position":experience.position}})}),1)])]),_c('section',{staticClass:"mt-6",attrs:{"id":"technologies"}},[_c('Title',{staticClass:"dark:text-neutral-500"},[_vm._v("Technologies I use")]),_c('div',{staticClass:"flex flex-col space-y-6 mt-8"},_vm._l((_vm.skills),function(category){return _c('section',{key:category.title},[_c('h5',{staticClass:"border-b border-gray-400/10 dark:border-neutral-600/10 text-gray-400 dark:text-neutral-600/70 text-lg mx-4 mb-4 pb-2 font-medium"},[_vm._v(" "+_vm._s(category.title)+" ")]),_c('div',{staticClass:"grid px-4 md:grid-cols-3 grid-cols-1 lg:grid-cols-4 gap-x-2 gap-y-2"},_vm._l((category.items),function(skill,index){return _c('CardSkill',_vm._b({key:("skill-" + index)},'CardSkill',skill,false))}),1)])}),0)],1)])}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -27901,7 +28113,7 @@ __vite_ssr_exports__.default = "\n.nuxt-progress {\n  position: fixed;\n  top: 0
 // --------------------
 const $id_309b5097 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_exports__.default = "/* windicss layer base */\n*, ::before, ::after {\n  box-sizing: border-box;\n  border-width: 0;\n  border-style: solid;\n  border-color: #e5e7eb;\n}\n* {\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgba(59, 130, 246, 0.5);\n  --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0);\n  --tw-ring-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n}\n:root {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n:-moz-focusring {\n  outline: 1px dotted ButtonText;\n}\n:-moz-ui-invalid {\n  box-shadow: none;\n}\n::moz-focus-inner {\n  border-style: none;\n  padding: 0;\n}\n::-webkit-inner-spin-button, ::-webkit-outer-spin-button {\n  height: auto;\n}\n::-webkit-search-decoration {\n  -webkit-appearance: none;\n}\n::-webkit-file-upload-button {\n  -webkit-appearance: button;\n  font: inherit;\n}\n[type='search'] {\n  -webkit-appearance: textfield;\n  outline-offset: -2px;\n}\nabbr[title] {\n  -webkit-text-decoration: underline dotted;\n  text-decoration: underline;\n  -webkit-text-decoration: underline dotted currentColor;\n          text-decoration: underline dotted currentColor;\n}\na {\n  color: inherit;\n  text-decoration: inherit;\n}\nbody {\n  margin: 0;\n  font-family: inherit;\n  line-height: inherit;\n}\nbutton, select {\n  text-transform: none;\n}\nbutton, [type='button'], [type='reset'], [type='submit'] {\n  -webkit-appearance: button;\n}\nbutton {\n  background-color: transparent;\n  background-image: none;\n}\nbutton, [role=\"button\"] {\n  cursor: pointer;\n}\nhtml {\n  -webkit-text-size-adjust: 100%;\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n  line-height: 1.5;\n}\nhr {\n  height: 0;\n  color: inherit;\n  border-top-width: 1px;\n}\nh1, p, h5, h3, h2, hr, pre {\n  margin: 0;\n}\nh1, h5, h3, h2 {\n  font-size: inherit;\n  font-weight: inherit;\n}\ninput, button, select, optgroup {\n  font-family: inherit;\n  font-size: 100%;\n  line-height: 1.15;\n  margin: 0;\n  padding: 0;\n  line-height: inherit;\n  color: inherit;\n}\nimg {\n  border-style: solid;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::webkit-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput:-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\nimg, video {\n  max-width: 100%;\n  height: auto;\n}\nkbd, code, pre {\n  font-size: 1em;\n  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n}\nstrong {\n  font-weight: bolder;\n}\nsvg, iframe, img, video {\n  display: block;\n  vertical-align: middle;\n}\nul {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n/* windicss layer components */\n.focus-ring:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.light .focus-ring {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .focus-ring:focus {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.focus-ring {\n  --tw-ring-offset-width: 2px;\n}\n/* windicss layer utilities */\n.container {\n  width: 100%;\n}\n@media (min-width: 640px) {\n  .container {\n    max-width: 640px;\n  }\n}\n@media (min-width: 768px) {\n  .container {\n    max-width: 768px;\n  }\n}\n@media (min-width: 1024px) {\n  .container {\n    max-width: 1024px;\n  }\n}\n@media (min-width: 1280px) {\n  .container {\n    max-width: 1280px;\n  }\n}\n@media (min-width: 1536px) {\n  .container {\n    max-width: 1536px;\n  }\n}\n.space-y-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));\n}\n.space-y-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.75rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));\n}\n.space-y-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.25rem * var(--tw-space-y-reverse));\n}\n.space-y-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1rem * var(--tw-space-y-reverse));\n}\n.space-y-10 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.5rem * var(--tw-space-y-reverse));\n}\n.space-y-12 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3rem * var(--tw-space-y-reverse));\n}\n.space-y-9 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));\n}\n.space-y-20 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(5rem * var(--tw-space-y-reverse));\n}\n.space-y-px > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1px * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1px * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1px * var(--tw-space-y-reverse));\n}\n.space-y-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));\n}\n.space-y-14 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3.5rem * var(--tw-space-y-reverse));\n}\n.space-y-8 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2rem * var(--tw-space-y-reverse));\n}\n.space-x-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.25rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.25rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.25rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1rem * var(--tw-space-x-reverse));\n  margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.appearance-none {\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n}\n.bg-blue-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(37, 99, 235, var(--tw-bg-opacity));\n}\n.bg-yellow-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(245, 158, 11, var(--tw-bg-opacity));\n}\n.bg-red-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(239, 68, 68, var(--tw-bg-opacity));\n}\n.bg-green-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));\n}\n.bg-black {\n  --tw-bg-opacity: 1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-red-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(220, 38, 38, var(--tw-bg-opacity));\n}\n.bg-blue-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));\n}\n.bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-\\[\\#FF424D\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.hover\\:bg-\\[\\#FF424D\\]:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-\\[\\#6c82cf\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(108, 130, 207, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-transparent {\n  background-color: transparent;\n}\n.focus\\:bg-white:focus {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-100:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.bg-black\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-black\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/50:hover {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-600\\/15:hover {\n  --tw-bg-opacity: 0.15;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-black\\/70 {\n  --tw-bg-opacity: 0.7;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(23, 23, 23, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/60:hover {\n  --tw-bg-opacity: 0.6;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-700:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-black\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-white\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-black\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-white\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(107, 114, 128, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-\\[\\#111111\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(17, 17, 17, var(--tw-bg-opacity));\n}\n.bg-white {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-\\[\\#36393f\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(54, 57, 63, var(--tw-bg-opacity));\n}\n.bg-gray-50 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(249, 250, 251, var(--tw-bg-opacity));\n}\n.bg-blue-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(219, 234, 254, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.light .light\\:bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.light .light\\:bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-500:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(115, 115, 115, var(--tw-bg-opacity));\n}\n.bg-opacity-25 {\n  --tw-bg-opacity: 0.25;\n}\n.bg-opacity-100 {\n  --tw-bg-opacity: 1;\n}\n.hover\\:bg-opacity-75:hover {\n  --tw-bg-opacity: 0.75;\n}\n.hover\\:bg-opacity-60:hover {\n  --tw-bg-opacity: 0.6;\n}\n.focus\\:bg-opacity-10:focus {\n  --tw-bg-opacity: 0.1;\n}\n.dark .dark\\:bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-no-repeat {\n  background-repeat: no-repeat;\n}\n.border-blue-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(59, 130, 246, var(--tw-border-opacity));\n}\n.border-yellow-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(245, 158, 11, var(--tw-border-opacity));\n}\n.border-red-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(239, 68, 68, var(--tw-border-opacity));\n}\n.border-green-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(16, 185, 129, var(--tw-border-opacity));\n}\n.border-gray-300 {\n  --tw-border-opacity: 1;\n  border-color: rgba(209, 213, 219, var(--tw-border-opacity));\n}\n.dark .dark\\:border-gray-700 {\n  --tw-border-opacity: 1;\n  border-color: rgba(55, 65, 81, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-gray-100:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(243, 244, 246, var(--tw-border-opacity));\n}\n.dark .dark\\:border-dark-200 {\n  --tw-border-opacity: 1;\n  border-color: rgba(50, 50, 50, var(--tw-border-opacity));\n}\n.border-white\\/40 {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-white:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-black\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.hover\\:border-black\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-white\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-blue-800:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(30, 64, 175, var(--tw-border-opacity));\n}\n.border-ambertext-bg-\\[\\#FF424D\\] {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 66, 77, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.border-gray-400\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(156, 163, 175, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-600\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(82, 82, 82, var(--tw-border-opacity));\n}\n.border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.border-black\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-opacity-50 {\n  --tw-border-opacity: 0.5;\n}\n.rounded-md {\n  border-radius: 0.375rem;\n}\n.rounded-full {\n  border-radius: 9999px;\n}\n.rounded {\n  border-radius: 0.25rem;\n}\n.rounded-xl {\n  border-radius: 0.75rem;\n}\n.rounded-sm {\n  border-radius: 0.125rem;\n}\n.rounded-lg {\n  border-radius: 0.5rem;\n}\n.\\!rounded-full {\n  border-radius: 9999px !important;\n}\n.rounded-none {\n  border-radius: 0px;\n}\n.rounded-l {\n  border-top-left-radius: 0.25rem;\n  border-bottom-left-radius: 0.25rem;\n}\n.rounded-tl-lg {\n  border-top-left-radius: 0.5rem;\n}\n.rounded-bl-lg {\n  border-bottom-left-radius: 0.5rem;\n}\n.rounded-tr {\n  border-top-right-radius: 0.25rem;\n}\n.rounded-br {\n  border-bottom-right-radius: 0.25rem;\n}\n.rounded-tl-md {\n  border-top-left-radius: 0.375rem;\n}\n.rounded-tr-md {\n  border-top-right-radius: 0.375rem;\n}\n.rounded-bl-md {\n  border-bottom-left-radius: 0.375rem;\n}\n.rounded-br-md {\n  border-bottom-right-radius: 0.375rem;\n}\n.border-dashed {\n  border-style: dashed;\n}\n.border {\n  border-width: 1px;\n}\n.border-l-4 {\n  border-left-width: 4px;\n}\n.border-b {\n  border-bottom-width: 1px;\n}\n.border-b-2 {\n  border-bottom-width: 2px;\n}\n.box-border {\n  box-sizing: border-box;\n}\n.cursor-default {\n  cursor: default;\n}\n.cursor-pointer {\n  cursor: pointer;\n}\n.cursor-help {\n  cursor: help;\n}\n.block {\n  display: block;\n}\n.group:hover .group-hover\\:block {\n  display: block;\n}\n.inline {\n  display: inline;\n}\n.flex {\n  display: flex;\n}\n.grid {\n  display: grid;\n}\n.hidden {\n  display: none;\n}\n.flex-col {\n  flex-direction: column;\n}\n.flex-col-reverse {\n  flex-direction: column-reverse;\n}\n.flex-wrap {\n  flex-wrap: wrap;\n}\n.items-center {\n  align-items: center;\n}\n.justify-end {\n  justify-content: flex-end;\n}\n.justify-center {\n  justify-content: center;\n}\n.justify-between {\n  justify-content: space-between;\n}\n.flex-1 {\n  flex: 1 1 0%;\n}\n.flex-grow {\n  flex-grow: 1;\n}\n.flex-shrink-0 {\n  flex-shrink: 0;\n}\n.float-right {\n  float: right;\n}\n.float-left {\n  float: left;\n}\n.font-sans {\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n}\n.font-semibold {\n  font-weight: 600;\n}\n.font-medium {\n  font-weight: 500;\n}\n.font-light {\n  font-weight: 300;\n}\n.font-bold {\n  font-weight: 700;\n}\n.font-extrabold {\n  font-weight: 800;\n}\n.font-normal {\n  font-weight: 400;\n}\n.h-6 {\n  height: 1.5rem;\n}\n.h-40 {\n  height: 10rem;\n}\n.h-8 {\n  height: 2rem;\n}\n.h-4 {\n  height: 1rem;\n}\n.h-5 {\n  height: 1.25rem;\n}\n.h-32 {\n  height: 8rem;\n}\n.h-9 {\n  height: 2.25rem;\n}\n.h-16 {\n  height: 4rem;\n}\n.h-20 {\n  height: 5rem;\n}\n.h-full {\n  height: 100%;\n}\n.h-10 {\n  height: 2.5rem;\n}\n.h-3 {\n  height: 0.75rem;\n}\n.h-80 {\n  height: 20rem;\n}\n.h-60 {\n  height: 15rem;\n}\n.h-14 {\n  height: 3.5rem;\n}\n.h-7 {\n  height: 1.75rem;\n}\n.h-24 {\n  height: 6rem;\n}\n.h-56 {\n  height: 14rem;\n}\n.h-1\\/5 {\n  height: 20%;\n}\n.h-4\\/5 {\n  height: 80%;\n}\n.h-1\\/3 {\n  height: 33.333333%;\n}\n.h-1\\/2 {\n  height: 50%;\n}\n.h-2\\/3 {\n  height: 66.666667%;\n}\n.h-96 {\n  height: 24rem;\n}\n.h-\\[12\\.5rem\\] {\n  height: 12.5rem;\n}\n.h-110 {\n  height: 27.5rem;\n}\n.h-130 {\n  height: 32.5rem;\n}\n.h-150 {\n  height: 37.5rem;\n}\n.h-160 {\n  height: 40rem;\n}\n.h-120 {\n  height: 30rem;\n}\n.h-140 {\n  height: 35rem;\n}\n.h-\\[500px\\] {\n  height: 500px;\n}\n.h-94 {\n  height: 23.5rem;\n}\n.h-90 {\n  height: 22.5rem;\n}\n.h-\\[30vh\\] {\n  height: 30vh;\n}\n.h-\\[27\\.5vh\\] {\n  height: 27.5vh;\n}\n.h-30 {\n  height: 7.5rem;\n}\n.h-75 {\n  height: 18.75rem;\n}\n.h-35 {\n  height: 8.75rem;\n}\n.text-sm {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n.text-base {\n  font-size: 1rem;\n  line-height: 1.5rem;\n}\n.text-xl {\n  font-size: 1.25rem;\n  line-height: 1.75rem;\n}\n.text-xs {\n  font-size: 0.75rem;\n  line-height: 1rem;\n}\n.text-lg {\n  font-size: 1.125rem;\n  line-height: 1.75rem;\n}\n.text-2xl {\n  font-size: 1.5rem;\n  line-height: 2rem;\n}\n.text-4xl {\n  font-size: 2.25rem;\n  line-height: 2.5rem;\n}\n.leading-tight {\n  line-height: 1.25;\n}\n.leading-relaxed {\n  line-height: 1.625;\n}\n.list-decimal {\n  list-style-type: decimal;\n}\n.list-disc {\n  list-style-type: disc;\n}\n.mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}\n.my-12 {\n  margin-top: 3rem;\n  margin-bottom: 3rem;\n}\n.mx-8 {\n  margin-left: 2rem;\n  margin-right: 2rem;\n}\n.-mx-\\[4\\.25vw\\] {\n  margin-left: -4.25vw;\n  margin-right: -4.25vw;\n}\n.my-8 {\n  margin-top: 2rem;\n  margin-bottom: 2rem;\n}\n.my-10 {\n  margin-top: 2.5rem;\n  margin-bottom: 2.5rem;\n}\n.my-16 {\n  margin-top: 4rem;\n  margin-bottom: 4rem;\n}\n.mx-4 {\n  margin-left: 1rem;\n  margin-right: 1rem;\n}\n.my-2 {\n  margin-top: 0.5rem;\n  margin-bottom: 0.5rem;\n}\n.mb-6 {\n  margin-bottom: 1.5rem;\n}\n.mt-4 {\n  margin-top: 1rem;\n}\n.mt-10 {\n  margin-top: 2.5rem;\n}\n.mb-4 {\n  margin-bottom: 1rem;\n}\n.mb-12 {\n  margin-bottom: 3rem;\n}\n.-ml-20 {\n  margin-left: -5rem;\n}\n.-mr-14 {\n  margin-right: -3.5rem;\n}\n.mb-2 {\n  margin-bottom: 0.5rem;\n}\n.ml-0 {\n  margin-left: 0px;\n}\n.mb-7 {\n  margin-bottom: 1.75rem;\n}\n.mb-5 {\n  margin-bottom: 1.25rem;\n}\n.mt-3 {\n  margin-top: 0.75rem;\n}\n.mr-3 {\n  margin-right: 0.75rem;\n}\n.mt-2 {\n  margin-top: 0.5rem;\n}\n.mt-20 {\n  margin-top: 5rem;\n}\n.mt-16 {\n  margin-top: 4rem;\n}\n.mt-8 {\n  margin-top: 2rem;\n}\n.mb-10 {\n  margin-bottom: 2.5rem;\n}\n.mr-4 {\n  margin-right: 1rem;\n}\n.mt-6 {\n  margin-top: 1.5rem;\n}\n.mt-1 {\n  margin-top: 0.25rem;\n}\n.max-h-full {\n  max-height: 100%;\n}\n.max-h-50vh {\n  max-height: 50vh;\n}\n.max-w-full {\n  max-width: 100%;\n}\n.min-h-screen {\n  min-height: 100vh;\n}\n.min-h-16 {\n  min-height: 4rem;\n}\n.min-h-full {\n  min-height: 100%;\n}\n.min-w-screen {\n  min-width: 100vw;\n}\n.min-w-30 {\n  min-width: 7.5rem;\n}\n.opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-100 {\n  opacity: 1;\n}\n.focus\\:outline-none:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n.overflow-hidden {\n  overflow: hidden;\n}\n.overflow-x-auto {\n  overflow-x: auto;\n}\n.overflow-y-auto {\n  overflow-y: auto;\n}\n.overflow-x-hidden {\n  overflow-x: hidden;\n}\n.overflow-y-hidden {\n  overflow-y: hidden;\n}\n.p-4 {\n  padding: 1rem;\n}\n.p-1 {\n  padding: 0.25rem;\n}\n.p-2 {\n  padding: 0.5rem;\n}\n.p-3 {\n  padding: 0.75rem;\n}\n.px-2 {\n  padding-left: 0.5rem;\n  padding-right: 0.5rem;\n}\n.py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}\n.px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n.py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n.py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}\n.px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}\n.py-1\\.5 {\n  padding-top: 0.375rem;\n  padding-bottom: 0.375rem;\n}\n.px-1\\.5 {\n  padding-left: 0.375rem;\n  padding-right: 0.375rem;\n}\n.py-3 {\n  padding-top: 0.75rem;\n  padding-bottom: 0.75rem;\n}\n.px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}\n.py-8 {\n  padding-top: 2rem;\n  padding-bottom: 2rem;\n}\n.py-px {\n  padding-top: 1px;\n  padding-bottom: 1px;\n}\n.px-1 {\n  padding-left: 0.25rem;\n  padding-right: 0.25rem;\n}\n.py-10 {\n  padding-top: 2.5rem;\n  padding-bottom: 2.5rem;\n}\n.py-6 {\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n}\n.pt-2 {\n  padding-top: 0.5rem;\n}\n.pl-3 {\n  padding-left: 0.75rem;\n}\n.pl-10 {\n  padding-left: 2.5rem;\n}\n.pr-4 {\n  padding-right: 1rem;\n}\n.pt-13 {\n  padding-top: 3.25rem;\n}\n.pb-3\\.5 {\n  padding-bottom: 0.875rem;\n}\n.pt-14 {\n  padding-top: 3.5rem;\n}\n.pr-2 {\n  padding-right: 0.5rem;\n}\n.pt-4 {\n  padding-top: 1rem;\n}\n.pb-8 {\n  padding-bottom: 2rem;\n}\n.pl-0 {\n  padding-left: 0px;\n}\n.pl-2 {\n  padding-left: 0.5rem;\n}\n.pt-6 {\n  padding-top: 1.5rem;\n}\n.pl-4 {\n  padding-left: 1rem;\n}\n.pb-2 {\n  padding-bottom: 0.5rem;\n}\n.pt-0 {\n  padding-top: 0px;\n}\n.pb-4 {\n  padding-bottom: 1rem;\n}\n.pt-10 {\n  padding-top: 2.5rem;\n}\n.pr-10 {\n  padding-right: 2.5rem;\n}\n.placeholder-neutral-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-neutral-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.tab {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n.pointer-events-none {\n  pointer-events: none;\n}\n.static {\n  position: static;\n}\n.fixed {\n  position: fixed;\n}\n.absolute {\n  position: absolute;\n}\n.relative {\n  position: relative;\n}\n.sticky {\n  position: sticky;\n}\n.inset-0 {\n  top: 0px;\n  right: 0px;\n  bottom: 0px;\n  left: 0px;\n}\n.inset-x-0 {\n  right: 0px;\n  left: 0px;\n}\n.bottom-0 {\n  bottom: 0px;\n}\n.-right-2 {\n  right: -0.5rem;\n}\n.-bottom-2 {\n  bottom: -0.5rem;\n}\n.top-0 {\n  top: 0px;\n}\n.right-6 {\n  right: 1.5rem;\n}\n.bottom-4 {\n  bottom: 1rem;\n}\n.-bottom-7 {\n  bottom: -1.75rem;\n}\n.right-0 {\n  right: 0px;\n}\n.bottom-2 {\n  bottom: 0.5rem;\n}\n.left-0 {\n  left: 0px;\n}\n.top-4 {\n  top: 1rem;\n}\n.hover\\:shadow-md:hover {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-md {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-lg {\n  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0,0.1),0 4px 6px -4px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow {\n  --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0,0.1),0 1px 2px -1px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-4 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-1 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-2 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.focus\\:ring-1:focus {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-0 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.\\.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-offset-gray-50 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n}\n.dark .dark\\:ring-offset-neutral-900 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n}\n.ring-offset-gray-100 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(243, 244, 246, var(--tw-ring-offset-opacity));\n}\n.ring-offset-2 {\n  --tw-ring-offset-width: 2px;\n}\n.ring-\\[\\#6c82cf\\] {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(108, 130, 207, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-transparent {\n  --tw-ring-color: transparent;\n}\n.ring-black\\/5 {\n  --tw-ring-opacity: 0.05;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-white\\/10 {\n  --tw-ring-opacity: 0.1;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-gray-300 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-700 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(64, 64, 64, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-white\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-800 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.ring-gray-200 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(229, 231, 235, var(--tw-ring-opacity));\n}\n.ring-opacity-5 {\n  --tw-ring-opacity: 0.05;\n}\n.fill-black\\/75 {\n  --tw-fill-opacity: 0.75;\n  fill: rgba(0, 0, 0, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-gray-500 {\n  --tw-fill-opacity: 1;\n  fill: rgba(107, 114, 128, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white\\/90 {\n  --tw-fill-opacity: 0.9;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white {\n  --tw-fill-opacity: 1;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.fill-\\[\\#888888\\] {\n  --tw-fill-opacity: 1;\n  fill: rgba(136, 136, 136, var(--tw-fill-opacity));\n}\n.text-left {\n  text-align: left;\n}\n.text-center {\n  text-align: center;\n}\n.text-right {\n  text-align: right;\n}\n.text-blue-500 {\n  --tw-text-opacity: 1;\n  color: rgba(59, 130, 246, var(--tw-text-opacity));\n}\n.text-yellow-500 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 158, 11, var(--tw-text-opacity));\n}\n.text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.text-green-500 {\n  --tw-text-opacity: 1;\n  color: rgba(16, 185, 129, var(--tw-text-opacity));\n}\n.text-current {\n  color: currentColor;\n}\n.dark .dark\\:text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-gray-700 {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.text-red-600 {\n  --tw-text-opacity: 1;\n  color: rgba(220, 38, 38, var(--tw-text-opacity));\n}\n.text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-gray-900 {\n  --tw-text-opacity: 1;\n  color: rgba(17, 24, 39, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-\\[\\#1DA1F2\\] {\n  --tw-text-opacity: 1;\n  color: rgba(29, 161, 242, var(--tw-text-opacity));\n}\n.text-\\[\\#2EAADE\\] {\n  --tw-text-opacity: 1;\n  color: rgba(46, 170, 222, var(--tw-text-opacity));\n}\n.text-\\[\\#25D366\\] {\n  --tw-text-opacity: 1;\n  color: rgba(37, 211, 102, var(--tw-text-opacity));\n}\n.text-gray-800 {\n  --tw-text-opacity: 1;\n  color: rgba(31, 41, 55, var(--tw-text-opacity));\n}\n.text-gray-500 {\n  --tw-text-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-text-opacity));\n}\n.dark .dark\\:text-dark-100 {\n  --tw-text-opacity: 1;\n  color: rgba(60, 60, 60, var(--tw-text-opacity));\n}\n.hover\\:text-gray-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/40:hover {\n  --tw-text-opacity: 0.4;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-dark-400 {\n  --tw-text-opacity: 1;\n  color: rgba(34, 34, 34, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/30 {\n  --tw-text-opacity: 0.3;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.hover\\:text-dark-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(27, 27, 27, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/60:hover {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-black {\n  --tw-text-opacity: 1;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.hover\\:text-white:hover {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 229, 229, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-100 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 245, 245, var(--tw-text-opacity));\n}\n.text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.text-yellow-600 {\n  --tw-text-opacity: 1;\n  color: rgba(217, 119, 6, var(--tw-text-opacity));\n}\n.text-black\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-gray-600 {\n  --tw-text-opacity: 1;\n  color: rgba(75, 85, 99, var(--tw-text-opacity));\n}\n.text-neutral-900 {\n  --tw-text-opacity: 1;\n  color: rgba(23, 23, 23, var(--tw-text-opacity));\n}\n.text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/60 {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-blue-600 {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-blue-700 {\n  --tw-text-opacity: 1;\n  color: rgba(29, 78, 216, var(--tw-text-opacity));\n}\n.dark .dark\\:text-blue-400 {\n  --tw-text-opacity: 1;\n  color: rgba(96, 165, 250, var(--tw-text-opacity));\n}\n.text-\\[\\#FF424D\\] {\n  --tw-text-opacity: 1;\n  color: rgba(255, 66, 77, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600\\/70 {\n  --tw-text-opacity: 0.7;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.text-blue-200 {\n  --tw-text-opacity: 1;\n  color: rgba(191, 219, 254, var(--tw-text-opacity));\n}\n.text-neutral-700\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.hover\\:text-blue-600:hover {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-red-700 {\n  --tw-text-opacity: 1;\n  color: rgba(185, 28, 28, var(--tw-text-opacity));\n}\n.dark .dark\\:text-current {\n  color: currentColor;\n}\n.hover\\:text-opacity-100:hover {\n  --tw-text-opacity: 1;\n}\n.truncate {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n.uppercase {\n  text-transform: uppercase;\n}\n.lowercase {\n  text-transform: lowercase;\n}\n.underline {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.hover\\:underline:hover {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.line-through {\n  -webkit-text-decoration-line: line-through;\n  text-decoration-line: line-through;\n}\n.select-none {\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  user-select: none;\n}\n.visible {\n  visibility: visible;\n}\n.invisible {\n  visibility: hidden;\n}\n.whitespace-normal {\n  white-space: normal;\n}\n.whitespace-nowrap {\n  white-space: nowrap;\n}\n.w-6 {\n  width: 1.5rem;\n}\n.w-12 {\n  width: 3rem;\n}\n.w-4 {\n  width: 1rem;\n}\n.w-5 {\n  width: 1.25rem;\n}\n.w-full {\n  width: 100%;\n}\n.w-32 {\n  width: 8rem;\n}\n.w-9 {\n  width: 2.25rem;\n}\n.w-16 {\n  width: 4rem;\n}\n.w-24 {\n  width: 6rem;\n}\n.w-10 {\n  width: 2.5rem;\n}\n.w-11\\/12 {\n  width: 91.666667%;\n}\n.w-1\\/4 {\n  width: 25%;\n}\n.w-1\\/2 {\n  width: 50%;\n}\n.w-8\\/12 {\n  width: 66.666667%;\n}\n.w-1\\/6 {\n  width: 16.666667%;\n}\n.w-4\\/12 {\n  width: 33.333333%;\n}\n.w-3\\/12 {\n  width: 25%;\n}\n.w-1\\/5 {\n  width: 20%;\n}\n.w-1\\/3 {\n  width: 33.333333%;\n}\n.w-2\\/3 {\n  width: 66.666667%;\n}\n.w-3\\/4 {\n  width: 75%;\n}\n.w-2\\/5 {\n  width: 40%;\n}\n.w-7\\/12 {\n  width: 58.333333%;\n}\n.w-2\\/6 {\n  width: 33.333333%;\n}\n.w-8 {\n  width: 2rem;\n}\n.w-3 {\n  width: 0.75rem;\n}\n.w-2\\/4 {\n  width: 50%;\n}\n.w-14 {\n  width: 3.5rem;\n}\n.w-7 {\n  width: 1.75rem;\n}\n.w-3\\/5 {\n  width: 60%;\n}\n.w-30 {\n  width: 7.5rem;\n}\n.w-160 {\n  width: 40rem;\n}\n.w-55 {\n  width: 13.75rem;\n}\n.z-50 {\n  z-index: 50;\n}\n.z-40 {\n  z-index: 40;\n}\n.z-20 {\n  z-index: 20;\n}\n.z-10 {\n  z-index: 10;\n}\n.gap-2 {\n  grid-gap: 0.5rem;\n  gap: 0.5rem;\n}\n.gap-6 {\n  grid-gap: 1.5rem;\n  gap: 1.5rem;\n}\n.gap-4 {\n  grid-gap: 1rem;\n  gap: 1rem;\n}\n.gap-3 {\n  grid-gap: 0.75rem;\n  gap: 0.75rem;\n}\n.gap-1 {\n  grid-gap: 0.25rem;\n  gap: 0.25rem;\n}\n.gap-5 {\n  grid-gap: 1.25rem;\n  gap: 1.25rem;\n}\n.gap-x-0 {\n  -webkit-column-gap: 0px;\n  -moz-column-gap: 0px;\n  grid-column-gap: 0px;\n  column-gap: 0px;\n}\n.gap-x-2 {\n  -webkit-column-gap: 0.5rem;\n  -moz-column-gap: 0.5rem;\n  grid-column-gap: 0.5rem;\n  column-gap: 0.5rem;\n}\n.gap-x-4 {\n  -webkit-column-gap: 1rem;\n  -moz-column-gap: 1rem;\n  grid-column-gap: 1rem;\n  column-gap: 1rem;\n}\n.gap-x-3 {\n  -webkit-column-gap: 0.75rem;\n  -moz-column-gap: 0.75rem;\n  grid-column-gap: 0.75rem;\n  column-gap: 0.75rem;\n}\n.gap-y-4 {\n  -webkit-row-gap: 1rem;\n  -moz-row-gap: 1rem;\n  grid-row-gap: 1rem;\n  row-gap: 1rem;\n}\n.gap-y-2 {\n  -webkit-row-gap: 0.5rem;\n  -moz-row-gap: 0.5rem;\n  grid-row-gap: 0.5rem;\n  row-gap: 0.5rem;\n}\n.gap-y-5 {\n  -webkit-row-gap: 1.25rem;\n  -moz-row-gap: 1.25rem;\n  grid-row-gap: 1.25rem;\n  row-gap: 1.25rem;\n}\n.gap-y-8 {\n  -webkit-row-gap: 2rem;\n  -moz-row-gap: 2rem;\n  grid-row-gap: 2rem;\n  row-gap: 2rem;\n}\n.grid-cols-1 {\n  grid-template-columns: repeat(1, minmax(0, 1fr));\n}\n.grid-cols-2 {\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n}\n.col-span-2 {\n  -ms-grid-column-span: span 2 / span 2;\n  grid-column: span 2 / span 2;\n}\n.transform {\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-translate-z: 0;\n  --tw-rotate: 0;\n  --tw-rotate-x: 0;\n  --tw-rotate-y: 0;\n  --tw-rotate-z: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-scale-z: 1;\n  transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n}\n.hover\\:-rotate-6:hover {\n  --tw-rotate: -6deg;\n}\n.transition-colors {\n  transition-property: background-color, border-color, color, fill, stroke;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.\\<transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-transform {\n  transition-property: transform;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-shadow {\n  transition-property: box-shadow;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-all {\n  transition-property: all;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.duration {\n  transition-duration: 150ms;\n}\n@keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n@-webkit-keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n.animate-pulse {\n  -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n}\n.filter {\n  --tw-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-sepia: var(--tw-empty,/*!*/ /*!*/);\n  --tw-drop-shadow: var(--tw-empty,/*!*/ /*!*/);\n  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);\n}\n.blur\\(\\)\\) {\n  --tw-blur: blur(8px);\n}\n.dark .dark\\:brightness-75 {\n  --tw-brightness: brightness(.75);\n}\n.dark .dark\\:brightness-100 {\n  --tw-brightness: brightness(1);\n}\n.backdrop-filter {\n  --tw-backdrop-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-opacity: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-sepia: var(--tw-empty,/*!*/ /*!*/);\n  -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n}\n.backdrop-blur-md {\n  --tw-backdrop-blur: blur(12px);\n}\n.backdrop-blur-lg {\n  --tw-backdrop-blur: blur(16px);\n}\n.line-clamp-2 {\n  overflow: hidden;\n  display: -webkit-box;\n  -webkit-box-orient: vertical;\n  -webkit-line-clamp: 2;\n}\n@media (min-width: 640px) {\n  .sm\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .sm\\:space-x-6 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:block {\n    display: block;\n  }\n  .sm\\:flex {\n    display: flex;\n  }\n  .sm\\:items-start {\n    align-items: flex-start;\n  }\n  .sm\\:items-center {\n    align-items: center;\n  }\n  .sm\\:justify-start {\n    justify-content: flex-start;\n  }\n  .sm\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .sm\\:mt-6 {\n    margin-top: 1.5rem;\n  }\n  .sm\\:ml-auto {\n    margin-left: auto;\n  }\n  .sm\\:py-10 {\n    padding-top: 2.5rem;\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:px-8 {\n    padding-left: 2rem;\n    padding-right: 2rem;\n  }\n  .sm\\:pb-10 {\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:pr-16 {\n    padding-right: 4rem;\n  }\n  .sm\\:shadow-md {\n    --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n    --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n  }\n  .sm\\:text-left {\n    text-align: left;\n  }\n  .sm\\:truncate {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n  .sm\\:w-9\\/12 {\n    width: 75%;\n  }\n  .sm\\:w-1\\/6 {\n    width: 16.666667%;\n  }\n  .sm\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .sm\\:w-4\\/12 {\n    width: 33.333333%;\n  }\n  .sm\\:w-10\\/12 {\n    width: 83.333333%;\n  }\n  .sm\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .sm\\:w-9\\/10 {\n    width: 90%;\n  }\n  .sm\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .sm\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .sm\\:transform {\n    --tw-translate-x: 0;\n    --tw-translate-y: 0;\n    --tw-translate-z: 0;\n    --tw-rotate: 0;\n    --tw-rotate-x: 0;\n    --tw-rotate-y: 0;\n    --tw-rotate-z: 0;\n    --tw-skew-x: 0;\n    --tw-skew-y: 0;\n    --tw-scale-x: 1;\n    --tw-scale-y: 1;\n    --tw-scale-z: 1;\n    transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n  }\n}\n@media (min-width: 768px) {\n  .md\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .md\\:space-x-3 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-5 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.25rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.25rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:block {\n    display: block;\n  }\n  .md\\:flex {\n    display: flex;\n  }\n  .md\\:grid {\n    display: grid;\n  }\n  .md\\:hidden {\n    display: none;\n  }\n  .md\\:flex-row {\n    flex-direction: row;\n  }\n  .md\\:items-center {\n    align-items: center;\n  }\n  .md\\:h-full {\n    height: 100%;\n  }\n  .md\\:h-50 {\n    height: 12.5rem;\n  }\n  .md\\:h-66\\.8 {\n    height: 16.7rem;\n  }\n  .md\\:h-45 {\n    height: 11.25rem;\n  }\n  .md\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .md\\:text-3xl {\n    font-size: 1.875rem;\n    line-height: 2.25rem;\n  }\n  .md\\:-mx-\\[20\\.75vw\\] {\n    margin-left: -20.75vw;\n    margin-right: -20.75vw;\n  }\n  .md\\:mb-0 {\n    margin-bottom: 0px;\n  }\n  @media (min-width: 768px) {\n    .md\\:md\\:mt-10 {\n      margin-top: 2.5rem;\n    }\n  }\n  .md\\:max-h-full {\n    max-height: 100%;\n  }\n  .md\\:overflow-y-visible {\n    overflow-y: visible;\n  }\n  .md\\:px-3 {\n    padding-left: 0.75rem;\n    padding-right: 0.75rem;\n  }\n  .md\\:py-1 {\n    padding-top: 0.25rem;\n    padding-bottom: 0.25rem;\n  }\n  .md\\:px-4 {\n    padding-left: 1rem;\n    padding-right: 1rem;\n  }\n  .md\\:w-2\\/3 {\n    width: 66.666667%;\n  }\n  .md\\:w-1\\/3 {\n    width: 33.333333%;\n  }\n  .md\\:w-7\\/12 {\n    width: 58.333333%;\n  }\n  .md\\:w-full {\n    width: 100%;\n  }\n  .md\\:w-4\\/6 {\n    width: 66.666667%;\n  }\n  .md\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .md\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .md\\:w-50 {\n    width: 12.5rem;\n  }\n  .md\\:w-45 {\n    width: 11.25rem;\n  }\n  .md\\:gap-4 {\n    grid-gap: 1rem;\n    gap: 1rem;\n  }\n  .md\\:gap-8 {\n    grid-gap: 2rem;\n    gap: 2rem;\n  }\n  .md\\:gap-x-12 {\n    -webkit-column-gap: 3rem;\n    -moz-column-gap: 3rem;\n    grid-column-gap: 3rem;\n    column-gap: 3rem;\n  }\n  .md\\:grid-flow-col {\n    grid-auto-flow: column;\n  }\n  .md\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-1 {\n    grid-template-columns: repeat(1, minmax(0, 1fr));\n  }\n  .md\\:auto-cols-fr {\n    grid-auto-columns: minmax(0, 1fr);\n  }\n}\n@media (min-width: 1024px) {\n  .lg\\:rounded-lg {\n    border-radius: 0.5rem;\n  }\n  .lg\\:rounded-t-lg {\n    border-top-left-radius: 0.5rem;\n    border-top-right-radius: 0.5rem;\n  }\n  .lg\\:h-1\\/2 {\n    height: 50%;\n  }\n  .lg\\:mx-0 {\n    margin-left: 0px;\n    margin-right: 0px;\n  }\n  .lg\\:mt-24 {\n    margin-top: 6rem;\n  }\n  .lg\\:left-4 {\n    left: 1rem;\n  }\n  .lg\\:w-1\\/2 {\n    width: 50%;\n  }\n  .lg\\:w-1\\/4 {\n    width: 25%;\n  }\n  .lg\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .lg\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .lg\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n}";
+__vite_ssr_exports__.default = "/* windicss layer base */\n*, ::before, ::after {\n  box-sizing: border-box;\n  border-width: 0;\n  border-style: solid;\n  border-color: #e5e7eb;\n}\n* {\n  --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);\n  --tw-ring-offset-width: 0px;\n  --tw-ring-offset-color: #fff;\n  --tw-ring-color: rgba(59, 130, 246, 0.5);\n  --tw-ring-offset-shadow: 0 0 rgba(0,0,0,0);\n  --tw-ring-shadow: 0 0 rgba(0,0,0,0);\n  --tw-shadow: 0 0 rgba(0,0,0,0);\n}\n:root {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n:-moz-focusring {\n  outline: 1px dotted ButtonText;\n}\n:-moz-ui-invalid {\n  box-shadow: none;\n}\n::moz-focus-inner {\n  border-style: none;\n  padding: 0;\n}\n::-webkit-inner-spin-button, ::-webkit-outer-spin-button {\n  height: auto;\n}\n::-webkit-search-decoration {\n  -webkit-appearance: none;\n}\n::-webkit-file-upload-button {\n  -webkit-appearance: button;\n  font: inherit;\n}\n[type='search'] {\n  -webkit-appearance: textfield;\n  outline-offset: -2px;\n}\nabbr[title] {\n  -webkit-text-decoration: underline dotted;\n  text-decoration: underline;\n  -webkit-text-decoration: underline dotted currentColor;\n          text-decoration: underline dotted currentColor;\n}\na {\n  color: inherit;\n  text-decoration: inherit;\n}\nbody {\n  margin: 0;\n  font-family: inherit;\n  line-height: inherit;\n}\nbutton, select {\n  text-transform: none;\n}\nbutton, [type='button'], [type='reset'], [type='submit'] {\n  -webkit-appearance: button;\n}\nbutton {\n  background-color: transparent;\n  background-image: none;\n}\nbutton, [role=\"button\"] {\n  cursor: pointer;\n}\nhtml {\n  -webkit-text-size-adjust: 100%;\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n  line-height: 1.5;\n}\nhr {\n  height: 0;\n  color: inherit;\n  border-top-width: 1px;\n}\nh1, p, h5, h3, h2, hr, pre {\n  margin: 0;\n}\nh1, h5, h3, h2 {\n  font-size: inherit;\n  font-weight: inherit;\n}\ninput, button, select, optgroup {\n  font-family: inherit;\n  font-size: 100%;\n  line-height: 1.15;\n  margin: 0;\n  padding: 0;\n  line-height: inherit;\n  color: inherit;\n}\nimg {\n  border-style: solid;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::webkit-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-moz-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput:-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\ninput::-ms-input-placeholder {\n  opacity: 1;\n  color: #9ca3af;\n}\nimg, video {\n  max-width: 100%;\n  height: auto;\n}\nkbd, code, pre {\n  font-size: 1em;\n  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace;\n}\nstrong {\n  font-weight: bolder;\n}\nsvg, iframe, img, video {\n  display: block;\n  vertical-align: middle;\n}\nul {\n  list-style: none;\n  margin: 0;\n  padding: 0;\n}\n/* windicss layer components */\n.focus-ring:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.light .focus-ring {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .focus-ring:focus {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.focus-ring {\n  --tw-ring-offset-width: 2px;\n}\n/* windicss layer utilities */\n.container {\n  width: 100%;\n}\n@media (min-width: 640px) {\n  .container {\n    max-width: 640px;\n  }\n}\n@media (min-width: 768px) {\n  .container {\n    max-width: 768px;\n  }\n}\n@media (min-width: 1024px) {\n  .container {\n    max-width: 1024px;\n  }\n}\n@media (min-width: 1280px) {\n  .container {\n    max-width: 1280px;\n  }\n}\n@media (min-width: 1536px) {\n  .container {\n    max-width: 1536px;\n  }\n}\n.space-y-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.5rem * var(--tw-space-y-reverse));\n}\n.space-y-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.75rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.75rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));\n}\n.space-y-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(0.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(0.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(0.25rem * var(--tw-space-y-reverse));\n}\n.space-y-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1rem * var(--tw-space-y-reverse));\n}\n.space-y-10 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.5rem * var(--tw-space-y-reverse));\n}\n.space-y-12 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3rem * var(--tw-space-y-reverse));\n}\n.space-y-9 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2.25rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));\n}\n.space-y-20 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(5rem * var(--tw-space-y-reverse));\n}\n.space-y-px > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1px * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1px * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1px * var(--tw-space-y-reverse));\n}\n.space-y-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(1.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));\n}\n.space-y-14 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(3.5rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(3.5rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(3.5rem * var(--tw-space-y-reverse));\n}\n.space-y-8 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-y-reverse: 0;\n  margin-top: calc(2rem * (1 - var(--tw-space-y-reverse)));\n  margin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse)));\n  margin-bottom: calc(2rem * var(--tw-space-y-reverse));\n}\n.space-x-2 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-1 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.25rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.25rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.25rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-3 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n  margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-4 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1rem * var(--tw-space-x-reverse));\n  margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.space-x-6 > :not([hidden]) ~ :not([hidden]) {\n  --tw-space-x-reverse: 0;\n  margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n  margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n  margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n}\n.appearance-none {\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n}\n.bg-blue-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(37, 99, 235, var(--tw-bg-opacity));\n}\n.bg-yellow-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(245, 158, 11, var(--tw-bg-opacity));\n}\n.bg-red-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(239, 68, 68, var(--tw-bg-opacity));\n}\n.bg-green-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(16, 185, 129, var(--tw-bg-opacity));\n}\n.bg-black {\n  --tw-bg-opacity: 1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-red-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(220, 38, 38, var(--tw-bg-opacity));\n}\n.bg-blue-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));\n}\n.bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-\\[\\#FF424D\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.hover\\:bg-\\[\\#FF424D\\]:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 66, 77, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/40:hover {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-\\[\\#6c82cf\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(108, 130, 207, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-transparent {\n  background-color: transparent;\n}\n.focus\\:bg-white:focus {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-100:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(243, 244, 246, var(--tw-bg-opacity));\n}\n.bg-black\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-black\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-600\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-200\\/50:hover {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-600\\/15:hover {\n  --tw-bg-opacity: 0.15;\n  background-color: rgba(82, 82, 82, var(--tw-bg-opacity));\n}\n.bg-black\\/70 {\n  --tw-bg-opacity: 0.7;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(23, 23, 23, var(--tw-bg-opacity));\n}\n.hover\\:bg-gray-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(209, 213, 219, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-800\\/60:hover {\n  --tw-bg-opacity: 0.6;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-neutral-700:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-300:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-700\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(64, 64, 64, var(--tw-bg-opacity));\n}\n.hover\\:bg-black\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:hover\\:bg-white\\/20:hover {\n  --tw-bg-opacity: 0.2;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-black\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(0, 0, 0, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-white\\/10 {\n  --tw-bg-opacity: 0.1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-gray-500 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(107, 114, 128, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-gray-200 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-\\[\\#111111\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(17, 17, 17, var(--tw-bg-opacity));\n}\n.bg-white {\n  --tw-bg-opacity: 1;\n  background-color: rgba(255, 255, 255, var(--tw-bg-opacity));\n}\n.bg-\\[\\#36393f\\] {\n  --tw-bg-opacity: 1;\n  background-color: rgba(54, 57, 63, var(--tw-bg-opacity));\n}\n.bg-gray-50 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(249, 250, 251, var(--tw-bg-opacity));\n}\n.bg-blue-100 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(219, 234, 254, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-blue-900 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(30, 58, 138, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/40 {\n  --tw-bg-opacity: 0.4;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.bg-gray-200\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/50 {\n  --tw-bg-opacity: 0.5;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.light .light\\:bg-neutral-400 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(163, 163, 163, var(--tw-bg-opacity));\n}\n.dark .dark\\:bg-neutral-800\\/75 {\n  --tw-bg-opacity: 0.75;\n  background-color: rgba(38, 38, 38, var(--tw-bg-opacity));\n}\n.bg-transparent {\n  background-color: transparent;\n}\n.light .light\\:bg-neutral-300 {\n  --tw-bg-opacity: 1;\n  background-color: rgba(212, 212, 212, var(--tw-bg-opacity));\n}\n.hover\\:bg-neutral-500:hover {\n  --tw-bg-opacity: 1;\n  background-color: rgba(115, 115, 115, var(--tw-bg-opacity));\n}\n.bg-opacity-25 {\n  --tw-bg-opacity: 0.25;\n}\n.bg-opacity-100 {\n  --tw-bg-opacity: 1;\n}\n.hover\\:bg-opacity-75:hover {\n  --tw-bg-opacity: 0.75;\n}\n.hover\\:bg-opacity-60:hover {\n  --tw-bg-opacity: 0.6;\n}\n.focus\\:bg-opacity-10:focus {\n  --tw-bg-opacity: 0.1;\n}\n.dark .dark\\:bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-opacity-50 {\n  --tw-bg-opacity: 0.5;\n}\n.bg-no-repeat {\n  background-repeat: no-repeat;\n}\n.border-blue-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(59, 130, 246, var(--tw-border-opacity));\n}\n.border-yellow-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(245, 158, 11, var(--tw-border-opacity));\n}\n.border-red-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(239, 68, 68, var(--tw-border-opacity));\n}\n.border-green-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(16, 185, 129, var(--tw-border-opacity));\n}\n.border-gray-300 {\n  --tw-border-opacity: 1;\n  border-color: rgba(209, 213, 219, var(--tw-border-opacity));\n}\n.dark .dark\\:border-gray-700 {\n  --tw-border-opacity: 1;\n  border-color: rgba(55, 65, 81, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-gray-100:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(243, 244, 246, var(--tw-border-opacity));\n}\n.dark .dark\\:border-dark-200 {\n  --tw-border-opacity: 1;\n  border-color: rgba(50, 50, 50, var(--tw-border-opacity));\n}\n.border-white\\/40 {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-white:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-black\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.hover\\:border-black\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:hover\\:border-white\\/40:hover {\n  --tw-border-opacity: 0.4;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/20 {\n  --tw-border-opacity: 0.2;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.hover\\:border-blue-800:hover {\n  --tw-border-opacity: 1;\n  border-color: rgba(30, 64, 175, var(--tw-border-opacity));\n}\n.border-ambertext-bg-\\[\\#FF424D\\] {\n  --tw-border-opacity: 1;\n  border-color: rgba(255, 66, 77, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.border-gray-400\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(156, 163, 175, var(--tw-border-opacity));\n}\n.dark .dark\\:border-neutral-600\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(82, 82, 82, var(--tw-border-opacity));\n}\n.border-neutral-500 {\n  --tw-border-opacity: 1;\n  border-color: rgba(115, 115, 115, var(--tw-border-opacity));\n}\n.border-black\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(0, 0, 0, var(--tw-border-opacity));\n}\n.dark .dark\\:border-white\\/10 {\n  --tw-border-opacity: 0.1;\n  border-color: rgba(255, 255, 255, var(--tw-border-opacity));\n}\n.border-opacity-50 {\n  --tw-border-opacity: 0.5;\n}\n.rounded-md {\n  border-radius: 0.375rem;\n}\n.rounded-full {\n  border-radius: 9999px;\n}\n.rounded {\n  border-radius: 0.25rem;\n}\n.rounded-xl {\n  border-radius: 0.75rem;\n}\n.rounded-sm {\n  border-radius: 0.125rem;\n}\n.rounded-lg {\n  border-radius: 0.5rem;\n}\n.\\!rounded-full {\n  border-radius: 9999px !important;\n}\n.rounded-none {\n  border-radius: 0px;\n}\n.rounded-l {\n  border-top-left-radius: 0.25rem;\n  border-bottom-left-radius: 0.25rem;\n}\n.rounded-tl-lg {\n  border-top-left-radius: 0.5rem;\n}\n.rounded-bl-lg {\n  border-bottom-left-radius: 0.5rem;\n}\n.rounded-tr {\n  border-top-right-radius: 0.25rem;\n}\n.rounded-br {\n  border-bottom-right-radius: 0.25rem;\n}\n.rounded-tl-md {\n  border-top-left-radius: 0.375rem;\n}\n.rounded-tr-md {\n  border-top-right-radius: 0.375rem;\n}\n.rounded-bl-md {\n  border-bottom-left-radius: 0.375rem;\n}\n.rounded-br-md {\n  border-bottom-right-radius: 0.375rem;\n}\n.border-dashed {\n  border-style: dashed;\n}\n.border {\n  border-width: 1px;\n}\n.border-l-4 {\n  border-left-width: 4px;\n}\n.border-b {\n  border-bottom-width: 1px;\n}\n.border-b-2 {\n  border-bottom-width: 2px;\n}\n.box-border {\n  box-sizing: border-box;\n}\n.cursor-default {\n  cursor: default;\n}\n.cursor-pointer {\n  cursor: pointer;\n}\n.cursor-help {\n  cursor: help;\n}\n.block {\n  display: block;\n}\n.group:hover .group-hover\\:block {\n  display: block;\n}\n.inline {\n  display: inline;\n}\n.flex {\n  display: flex;\n}\n.grid {\n  display: grid;\n}\n.hidden {\n  display: none;\n}\n.flex-col {\n  flex-direction: column;\n}\n.flex-col-reverse {\n  flex-direction: column-reverse;\n}\n.flex-wrap {\n  flex-wrap: wrap;\n}\n.items-center {\n  align-items: center;\n}\n.justify-end {\n  justify-content: flex-end;\n}\n.justify-center {\n  justify-content: center;\n}\n.justify-between {\n  justify-content: space-between;\n}\n.flex-1 {\n  flex: 1 1 0%;\n}\n.flex-grow {\n  flex-grow: 1;\n}\n.flex-shrink-0 {\n  flex-shrink: 0;\n}\n.float-right {\n  float: right;\n}\n.float-left {\n  float: left;\n}\n.font-sans {\n  font-family: Inter,ui-sans-serif,system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";\n}\n.font-semibold {\n  font-weight: 600;\n}\n.font-medium {\n  font-weight: 500;\n}\n.font-light {\n  font-weight: 300;\n}\n.font-bold {\n  font-weight: 700;\n}\n.font-extrabold {\n  font-weight: 800;\n}\n.font-normal {\n  font-weight: 400;\n}\n.h-6 {\n  height: 1.5rem;\n}\n.h-40 {\n  height: 10rem;\n}\n.h-8 {\n  height: 2rem;\n}\n.h-4 {\n  height: 1rem;\n}\n.h-5 {\n  height: 1.25rem;\n}\n.h-32 {\n  height: 8rem;\n}\n.h-9 {\n  height: 2.25rem;\n}\n.h-16 {\n  height: 4rem;\n}\n.h-20 {\n  height: 5rem;\n}\n.h-full {\n  height: 100%;\n}\n.h-10 {\n  height: 2.5rem;\n}\n.h-3 {\n  height: 0.75rem;\n}\n.h-80 {\n  height: 20rem;\n}\n.h-60 {\n  height: 15rem;\n}\n.h-14 {\n  height: 3.5rem;\n}\n.h-7 {\n  height: 1.75rem;\n}\n.h-24 {\n  height: 6rem;\n}\n.h-56 {\n  height: 14rem;\n}\n.h-1\\/5 {\n  height: 20%;\n}\n.h-4\\/5 {\n  height: 80%;\n}\n.h-1\\/3 {\n  height: 33.333333%;\n}\n.h-1\\/2 {\n  height: 50%;\n}\n.h-2\\/3 {\n  height: 66.666667%;\n}\n.h-96 {\n  height: 24rem;\n}\n.h-\\[12\\.5rem\\] {\n  height: 12.5rem;\n}\n.h-110 {\n  height: 27.5rem;\n}\n.h-130 {\n  height: 32.5rem;\n}\n.h-150 {\n  height: 37.5rem;\n}\n.h-160 {\n  height: 40rem;\n}\n.h-120 {\n  height: 30rem;\n}\n.h-140 {\n  height: 35rem;\n}\n.h-\\[500px\\] {\n  height: 500px;\n}\n.h-94 {\n  height: 23.5rem;\n}\n.h-90 {\n  height: 22.5rem;\n}\n.h-\\[30vh\\] {\n  height: 30vh;\n}\n.h-\\[27\\.5vh\\] {\n  height: 27.5vh;\n}\n.h-30 {\n  height: 7.5rem;\n}\n.h-75 {\n  height: 18.75rem;\n}\n.h-35 {\n  height: 8.75rem;\n}\n.text-sm {\n  font-size: 0.875rem;\n  line-height: 1.25rem;\n}\n.text-base {\n  font-size: 1rem;\n  line-height: 1.5rem;\n}\n.text-xl {\n  font-size: 1.25rem;\n  line-height: 1.75rem;\n}\n.text-xs {\n  font-size: 0.75rem;\n  line-height: 1rem;\n}\n.text-lg {\n  font-size: 1.125rem;\n  line-height: 1.75rem;\n}\n.text-2xl {\n  font-size: 1.5rem;\n  line-height: 2rem;\n}\n.text-4xl {\n  font-size: 2.25rem;\n  line-height: 2.5rem;\n}\n.leading-tight {\n  line-height: 1.25;\n}\n.leading-relaxed {\n  line-height: 1.625;\n}\n.list-decimal {\n  list-style-type: decimal;\n}\n.list-disc {\n  list-style-type: disc;\n}\n.mx-auto {\n  margin-left: auto;\n  margin-right: auto;\n}\n.my-12 {\n  margin-top: 3rem;\n  margin-bottom: 3rem;\n}\n.mx-8 {\n  margin-left: 2rem;\n  margin-right: 2rem;\n}\n.-mx-\\[4\\.25vw\\] {\n  margin-left: -4.25vw;\n  margin-right: -4.25vw;\n}\n.my-8 {\n  margin-top: 2rem;\n  margin-bottom: 2rem;\n}\n.my-10 {\n  margin-top: 2.5rem;\n  margin-bottom: 2.5rem;\n}\n.my-16 {\n  margin-top: 4rem;\n  margin-bottom: 4rem;\n}\n.mx-4 {\n  margin-left: 1rem;\n  margin-right: 1rem;\n}\n.my-2 {\n  margin-top: 0.5rem;\n  margin-bottom: 0.5rem;\n}\n.mb-6 {\n  margin-bottom: 1.5rem;\n}\n.mt-4 {\n  margin-top: 1rem;\n}\n.mt-10 {\n  margin-top: 2.5rem;\n}\n.mb-4 {\n  margin-bottom: 1rem;\n}\n.mb-12 {\n  margin-bottom: 3rem;\n}\n.-ml-20 {\n  margin-left: -5rem;\n}\n.-mr-14 {\n  margin-right: -3.5rem;\n}\n.mb-2 {\n  margin-bottom: 0.5rem;\n}\n.ml-0 {\n  margin-left: 0px;\n}\n.mb-7 {\n  margin-bottom: 1.75rem;\n}\n.mb-5 {\n  margin-bottom: 1.25rem;\n}\n.mt-3 {\n  margin-top: 0.75rem;\n}\n.mr-3 {\n  margin-right: 0.75rem;\n}\n.mt-2 {\n  margin-top: 0.5rem;\n}\n.mt-20 {\n  margin-top: 5rem;\n}\n.mt-16 {\n  margin-top: 4rem;\n}\n.mt-8 {\n  margin-top: 2rem;\n}\n.mb-10 {\n  margin-bottom: 2.5rem;\n}\n.mr-4 {\n  margin-right: 1rem;\n}\n.mt-6 {\n  margin-top: 1.5rem;\n}\n.mt-1 {\n  margin-top: 0.25rem;\n}\n.max-h-full {\n  max-height: 100%;\n}\n.max-h-50vh {\n  max-height: 50vh;\n}\n.max-w-full {\n  max-width: 100%;\n}\n.min-h-screen {\n  min-height: 100vh;\n}\n.min-h-16 {\n  min-height: 4rem;\n}\n.min-h-full {\n  min-height: 100%;\n}\n.min-w-screen {\n  min-width: 100vw;\n}\n.min-w-30 {\n  min-width: 7.5rem;\n}\n.opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-50 {\n  opacity: 0.5;\n}\n.light .light\\:opacity-100 {\n  opacity: 1;\n}\n.focus\\:outline-none:focus {\n  outline: 2px solid transparent;\n  outline-offset: 2px;\n}\n.overflow-hidden {\n  overflow: hidden;\n}\n.overflow-x-auto {\n  overflow-x: auto;\n}\n.overflow-y-auto {\n  overflow-y: auto;\n}\n.overflow-x-hidden {\n  overflow-x: hidden;\n}\n.overflow-y-hidden {\n  overflow-y: hidden;\n}\n.p-4 {\n  padding: 1rem;\n}\n.p-1 {\n  padding: 0.25rem;\n}\n.p-2 {\n  padding: 0.5rem;\n}\n.p-3 {\n  padding: 0.75rem;\n}\n.px-2 {\n  padding-left: 0.5rem;\n  padding-right: 0.5rem;\n}\n.py-1 {\n  padding-top: 0.25rem;\n  padding-bottom: 0.25rem;\n}\n.px-4 {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n.py-2 {\n  padding-top: 0.5rem;\n  padding-bottom: 0.5rem;\n}\n.py-4 {\n  padding-top: 1rem;\n  padding-bottom: 1rem;\n}\n.px-6 {\n  padding-left: 1.5rem;\n  padding-right: 1.5rem;\n}\n.py-1\\.5 {\n  padding-top: 0.375rem;\n  padding-bottom: 0.375rem;\n}\n.px-1\\.5 {\n  padding-left: 0.375rem;\n  padding-right: 0.375rem;\n}\n.py-3 {\n  padding-top: 0.75rem;\n  padding-bottom: 0.75rem;\n}\n.px-3 {\n  padding-left: 0.75rem;\n  padding-right: 0.75rem;\n}\n.py-8 {\n  padding-top: 2rem;\n  padding-bottom: 2rem;\n}\n.py-px {\n  padding-top: 1px;\n  padding-bottom: 1px;\n}\n.px-1 {\n  padding-left: 0.25rem;\n  padding-right: 0.25rem;\n}\n.py-10 {\n  padding-top: 2.5rem;\n  padding-bottom: 2.5rem;\n}\n.py-6 {\n  padding-top: 1.5rem;\n  padding-bottom: 1.5rem;\n}\n.pt-2 {\n  padding-top: 0.5rem;\n}\n.pl-3 {\n  padding-left: 0.75rem;\n}\n.pl-10 {\n  padding-left: 2.5rem;\n}\n.pr-4 {\n  padding-right: 1rem;\n}\n.pt-13 {\n  padding-top: 3.25rem;\n}\n.pb-3\\.5 {\n  padding-bottom: 0.875rem;\n}\n.pt-14 {\n  padding-top: 3.5rem;\n}\n.pr-2 {\n  padding-right: 0.5rem;\n}\n.pt-4 {\n  padding-top: 1rem;\n}\n.pb-8 {\n  padding-bottom: 2rem;\n}\n.pl-0 {\n  padding-left: 0px;\n}\n.pl-2 {\n  padding-left: 0.5rem;\n}\n.pt-6 {\n  padding-top: 1.5rem;\n}\n.pl-4 {\n  padding-left: 1rem;\n}\n.pb-2 {\n  padding-bottom: 0.5rem;\n}\n.pt-0 {\n  padding-top: 0px;\n}\n.pb-4 {\n  padding-bottom: 1rem;\n}\n.pt-10 {\n  padding-top: 2.5rem;\n}\n.pr-10 {\n  padding-right: 2.5rem;\n}\n.placeholder-neutral-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-neutral-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::-moz-placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.placeholder-gray-500::placeholder {\n  --tw-placeholder-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-placeholder-opacity));\n}\n.tab {\n  -moz-tab-size: 4;\n  -o-tab-size: 4;\n  tab-size: 4;\n}\n.pointer-events-none {\n  pointer-events: none;\n}\n.static {\n  position: static;\n}\n.fixed {\n  position: fixed;\n}\n.absolute {\n  position: absolute;\n}\n.relative {\n  position: relative;\n}\n.sticky {\n  position: sticky;\n}\n.inset-0 {\n  top: 0px;\n  right: 0px;\n  bottom: 0px;\n  left: 0px;\n}\n.inset-x-0 {\n  right: 0px;\n  left: 0px;\n}\n.bottom-0 {\n  bottom: 0px;\n}\n.-right-2 {\n  right: -0.5rem;\n}\n.-bottom-2 {\n  bottom: -0.5rem;\n}\n.top-0 {\n  top: 0px;\n}\n.right-6 {\n  right: 1.5rem;\n}\n.bottom-4 {\n  bottom: 1rem;\n}\n.-bottom-7 {\n  bottom: -1.75rem;\n}\n.right-0 {\n  right: 0px;\n}\n.bottom-2 {\n  bottom: 0.5rem;\n}\n.left-0 {\n  left: 0px;\n}\n.top-4 {\n  top: 1rem;\n}\n.hover\\:shadow-md:hover {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-md {\n  --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow-lg {\n  --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0,0.1),0 4px 6px -4px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color),0 4px 6px -4px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.shadow {\n  --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0,0.1),0 1px 2px -1px rgba(0, 0, 0,0.1);\n  --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw-shadow-color);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n  box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n}\n.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-4 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(4px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-1 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-2 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.focus\\:ring-1:focus {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-0 {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(0px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.\\.ring {\n  --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);\n  --tw-ring-shadow: var(--tw-ring-inset) 0 0 0 calc(3px + var(--tw-ring-offset-width)) var(--tw-ring-color);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), 0 0 rgba(0,0,0,0);\n  box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 rgba(0,0,0,0));\n}\n.ring-offset-gray-50 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(249, 250, 251, var(--tw-ring-offset-opacity));\n}\n.dark .dark\\:ring-offset-neutral-900 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(23, 23, 23, var(--tw-ring-offset-opacity));\n}\n.ring-offset-gray-100 {\n  --tw-ring-offset-opacity: 1;\n  --tw-ring-offset-color: rgba(243, 244, 246, var(--tw-ring-offset-opacity));\n}\n.ring-offset-2 {\n  --tw-ring-offset-width: 2px;\n}\n.ring-\\[\\#6c82cf\\] {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(108, 130, 207, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-transparent {\n  --tw-ring-color: transparent;\n}\n.ring-black\\/5 {\n  --tw-ring-opacity: 0.05;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-white\\/10 {\n  --tw-ring-opacity: 0.1;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.ring-gray-300 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(209, 213, 219, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-700 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(64, 64, 64, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-white\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(255, 255, 255, var(--tw-ring-opacity));\n}\n.ring-black\\/20 {\n  --tw-ring-opacity: 0.2;\n  --tw-ring-color: rgba(0, 0, 0, var(--tw-ring-opacity));\n}\n.dark .dark\\:ring-neutral-800 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(38, 38, 38, var(--tw-ring-opacity));\n}\n.ring-gray-200 {\n  --tw-ring-opacity: 1;\n  --tw-ring-color: rgba(229, 231, 235, var(--tw-ring-opacity));\n}\n.ring-opacity-5 {\n  --tw-ring-opacity: 0.05;\n}\n.fill-black\\/75 {\n  --tw-fill-opacity: 0.75;\n  fill: rgba(0, 0, 0, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-gray-500 {\n  --tw-fill-opacity: 1;\n  fill: rgba(107, 114, 128, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white\\/90 {\n  --tw-fill-opacity: 0.9;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.dark .dark\\:fill-white {\n  --tw-fill-opacity: 1;\n  fill: rgba(255, 255, 255, var(--tw-fill-opacity));\n}\n.fill-\\[\\#888888\\] {\n  --tw-fill-opacity: 1;\n  fill: rgba(136, 136, 136, var(--tw-fill-opacity));\n}\n.text-left {\n  text-align: left;\n}\n.text-center {\n  text-align: center;\n}\n.text-right {\n  text-align: right;\n}\n.text-blue-500 {\n  --tw-text-opacity: 1;\n  color: rgba(59, 130, 246, var(--tw-text-opacity));\n}\n.text-yellow-500 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 158, 11, var(--tw-text-opacity));\n}\n.text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.text-green-500 {\n  --tw-text-opacity: 1;\n  color: rgba(16, 185, 129, var(--tw-text-opacity));\n}\n.text-current {\n  color: currentColor;\n}\n.dark .dark\\:text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-gray-700 {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.text-red-600 {\n  --tw-text-opacity: 1;\n  color: rgba(220, 38, 38, var(--tw-text-opacity));\n}\n.text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-gray-900 {\n  --tw-text-opacity: 1;\n  color: rgba(17, 24, 39, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100 {\n  --tw-text-opacity: 1;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.text-\\[\\#1DA1F2\\] {\n  --tw-text-opacity: 1;\n  color: rgba(29, 161, 242, var(--tw-text-opacity));\n}\n.text-\\[\\#2EAADE\\] {\n  --tw-text-opacity: 1;\n  color: rgba(46, 170, 222, var(--tw-text-opacity));\n}\n.text-\\[\\#25D366\\] {\n  --tw-text-opacity: 1;\n  color: rgba(37, 211, 102, var(--tw-text-opacity));\n}\n.text-gray-800 {\n  --tw-text-opacity: 1;\n  color: rgba(31, 41, 55, var(--tw-text-opacity));\n}\n.text-gray-500 {\n  --tw-text-opacity: 1;\n  color: rgba(107, 114, 128, var(--tw-text-opacity));\n}\n.dark .dark\\:text-dark-100 {\n  --tw-text-opacity: 1;\n  color: rgba(60, 60, 60, var(--tw-text-opacity));\n}\n.hover\\:text-gray-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(55, 65, 81, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/40:hover {\n  --tw-text-opacity: 0.4;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-dark-400 {\n  --tw-text-opacity: 1;\n  color: rgba(34, 34, 34, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/30 {\n  --tw-text-opacity: 0.3;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.hover\\:text-dark-700:hover {\n  --tw-text-opacity: 1;\n  color: rgba(27, 27, 27, var(--tw-text-opacity));\n}\n.dark .dark\\:hover\\:text-white\\/60:hover {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-black {\n  --tw-text-opacity: 1;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.hover\\:text-white:hover {\n  --tw-text-opacity: 1;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 229, 229, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-100 {\n  --tw-text-opacity: 1;\n  color: rgba(245, 245, 245, var(--tw-text-opacity));\n}\n.text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-red-500 {\n  --tw-text-opacity: 1;\n  color: rgba(239, 68, 68, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-500 {\n  --tw-text-opacity: 1;\n  color: rgba(115, 115, 115, var(--tw-text-opacity));\n}\n.text-gray-400 {\n  --tw-text-opacity: 1;\n  color: rgba(156, 163, 175, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-700 {\n  --tw-text-opacity: 1;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.text-yellow-600 {\n  --tw-text-opacity: 1;\n  color: rgba(217, 119, 6, var(--tw-text-opacity));\n}\n.text-black\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(0, 0, 0, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-300 {\n  --tw-text-opacity: 1;\n  color: rgba(212, 212, 212, var(--tw-text-opacity));\n}\n.text-gray-600 {\n  --tw-text-opacity: 1;\n  color: rgba(75, 85, 99, var(--tw-text-opacity));\n}\n.text-neutral-900 {\n  --tw-text-opacity: 1;\n  color: rgba(23, 23, 23, var(--tw-text-opacity));\n}\n.text-neutral-600 {\n  --tw-text-opacity: 1;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/60 {\n  --tw-text-opacity: 0.6;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-300 {\n  --tw-text-opacity: 1;\n  color: rgba(209, 213, 219, var(--tw-text-opacity));\n}\n.text-gray-200 {\n  --tw-text-opacity: 1;\n  color: rgba(229, 231, 235, var(--tw-text-opacity));\n}\n.text-neutral-400 {\n  --tw-text-opacity: 1;\n  color: rgba(163, 163, 163, var(--tw-text-opacity));\n}\n.dark .dark\\:text-white\\/50 {\n  --tw-text-opacity: 0.5;\n  color: rgba(255, 255, 255, var(--tw-text-opacity));\n}\n.text-blue-600 {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-blue-700 {\n  --tw-text-opacity: 1;\n  color: rgba(29, 78, 216, var(--tw-text-opacity));\n}\n.dark .dark\\:text-blue-400 {\n  --tw-text-opacity: 1;\n  color: rgba(96, 165, 250, var(--tw-text-opacity));\n}\n.text-\\[\\#FF424D\\] {\n  --tw-text-opacity: 1;\n  color: rgba(255, 66, 77, var(--tw-text-opacity));\n}\n.dark .dark\\:text-neutral-600\\/70 {\n  --tw-text-opacity: 0.7;\n  color: rgba(82, 82, 82, var(--tw-text-opacity));\n}\n.text-blue-200 {\n  --tw-text-opacity: 1;\n  color: rgba(191, 219, 254, var(--tw-text-opacity));\n}\n.text-neutral-700\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(64, 64, 64, var(--tw-text-opacity));\n}\n.dark .dark\\:text-gray-100\\/40 {\n  --tw-text-opacity: 0.4;\n  color: rgba(243, 244, 246, var(--tw-text-opacity));\n}\n.hover\\:text-blue-600:hover {\n  --tw-text-opacity: 1;\n  color: rgba(37, 99, 235, var(--tw-text-opacity));\n}\n.text-red-700 {\n  --tw-text-opacity: 1;\n  color: rgba(185, 28, 28, var(--tw-text-opacity));\n}\n.dark .dark\\:text-current {\n  color: currentColor;\n}\n.hover\\:text-opacity-100:hover {\n  --tw-text-opacity: 1;\n}\n.truncate {\n  overflow: hidden;\n  text-overflow: ellipsis;\n  white-space: nowrap;\n}\n.uppercase {\n  text-transform: uppercase;\n}\n.lowercase {\n  text-transform: lowercase;\n}\n.underline {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.hover\\:underline:hover {\n  -webkit-text-decoration-line: underline;\n  text-decoration-line: underline;\n}\n.line-through {\n  -webkit-text-decoration-line: line-through;\n  text-decoration-line: line-through;\n}\n.select-none {\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  user-select: none;\n}\n.visible {\n  visibility: visible;\n}\n.invisible {\n  visibility: hidden;\n}\n.whitespace-normal {\n  white-space: normal;\n}\n.whitespace-nowrap {\n  white-space: nowrap;\n}\n.w-6 {\n  width: 1.5rem;\n}\n.w-12 {\n  width: 3rem;\n}\n.w-4 {\n  width: 1rem;\n}\n.w-5 {\n  width: 1.25rem;\n}\n.w-full {\n  width: 100%;\n}\n.w-32 {\n  width: 8rem;\n}\n.w-9 {\n  width: 2.25rem;\n}\n.w-16 {\n  width: 4rem;\n}\n.w-24 {\n  width: 6rem;\n}\n.w-10 {\n  width: 2.5rem;\n}\n.w-11\\/12 {\n  width: 91.666667%;\n}\n.w-1\\/4 {\n  width: 25%;\n}\n.w-1\\/2 {\n  width: 50%;\n}\n.w-8\\/12 {\n  width: 66.666667%;\n}\n.w-1\\/6 {\n  width: 16.666667%;\n}\n.w-4\\/12 {\n  width: 33.333333%;\n}\n.w-3\\/12 {\n  width: 25%;\n}\n.w-1\\/5 {\n  width: 20%;\n}\n.w-1\\/3 {\n  width: 33.333333%;\n}\n.w-2\\/3 {\n  width: 66.666667%;\n}\n.w-3\\/4 {\n  width: 75%;\n}\n.w-2\\/5 {\n  width: 40%;\n}\n.w-7\\/12 {\n  width: 58.333333%;\n}\n.w-2\\/6 {\n  width: 33.333333%;\n}\n.w-8 {\n  width: 2rem;\n}\n.w-3 {\n  width: 0.75rem;\n}\n.w-2\\/4 {\n  width: 50%;\n}\n.w-14 {\n  width: 3.5rem;\n}\n.w-7 {\n  width: 1.75rem;\n}\n.w-3\\/5 {\n  width: 60%;\n}\n.w-30 {\n  width: 7.5rem;\n}\n.w-160 {\n  width: 40rem;\n}\n.w-55 {\n  width: 13.75rem;\n}\n.z-50 {\n  z-index: 50;\n}\n.z-40 {\n  z-index: 40;\n}\n.z-20 {\n  z-index: 20;\n}\n.z-10 {\n  z-index: 10;\n}\n.gap-2 {\n  grid-gap: 0.5rem;\n  gap: 0.5rem;\n}\n.gap-6 {\n  grid-gap: 1.5rem;\n  gap: 1.5rem;\n}\n.gap-4 {\n  grid-gap: 1rem;\n  gap: 1rem;\n}\n.gap-3 {\n  grid-gap: 0.75rem;\n  gap: 0.75rem;\n}\n.gap-1 {\n  grid-gap: 0.25rem;\n  gap: 0.25rem;\n}\n.gap-5 {\n  grid-gap: 1.25rem;\n  gap: 1.25rem;\n}\n.gap-x-0 {\n  -webkit-column-gap: 0px;\n  -moz-column-gap: 0px;\n  grid-column-gap: 0px;\n  column-gap: 0px;\n}\n.gap-x-2 {\n  -webkit-column-gap: 0.5rem;\n  -moz-column-gap: 0.5rem;\n  grid-column-gap: 0.5rem;\n  column-gap: 0.5rem;\n}\n.gap-x-4 {\n  -webkit-column-gap: 1rem;\n  -moz-column-gap: 1rem;\n  grid-column-gap: 1rem;\n  column-gap: 1rem;\n}\n.gap-x-3 {\n  -webkit-column-gap: 0.75rem;\n  -moz-column-gap: 0.75rem;\n  grid-column-gap: 0.75rem;\n  column-gap: 0.75rem;\n}\n.gap-y-4 {\n  -webkit-row-gap: 1rem;\n  -moz-row-gap: 1rem;\n  grid-row-gap: 1rem;\n  row-gap: 1rem;\n}\n.gap-y-2 {\n  -webkit-row-gap: 0.5rem;\n  -moz-row-gap: 0.5rem;\n  grid-row-gap: 0.5rem;\n  row-gap: 0.5rem;\n}\n.gap-y-5 {\n  -webkit-row-gap: 1.25rem;\n  -moz-row-gap: 1.25rem;\n  grid-row-gap: 1.25rem;\n  row-gap: 1.25rem;\n}\n.gap-y-8 {\n  -webkit-row-gap: 2rem;\n  -moz-row-gap: 2rem;\n  grid-row-gap: 2rem;\n  row-gap: 2rem;\n}\n.grid-cols-1 {\n  grid-template-columns: repeat(1, minmax(0, 1fr));\n}\n.grid-cols-2 {\n  grid-template-columns: repeat(2, minmax(0, 1fr));\n}\n.col-span-2 {\n  -ms-grid-column-span: span 2 / span 2;\n  grid-column: span 2 / span 2;\n}\n.col-span-3 {\n  -ms-grid-column-span: span 3 / span 3;\n  grid-column: span 3 / span 3;\n}\n.transform {\n  --tw-translate-x: 0;\n  --tw-translate-y: 0;\n  --tw-translate-z: 0;\n  --tw-rotate: 0;\n  --tw-rotate-x: 0;\n  --tw-rotate-y: 0;\n  --tw-rotate-z: 0;\n  --tw-skew-x: 0;\n  --tw-skew-y: 0;\n  --tw-scale-x: 1;\n  --tw-scale-y: 1;\n  --tw-scale-z: 1;\n  transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n}\n.hover\\:-rotate-6:hover {\n  --tw-rotate: -6deg;\n}\n.transition-colors {\n  transition-property: background-color, border-color, color, fill, stroke;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.\\<transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition {\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;\n  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-transform {\n  transition-property: transform;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-shadow {\n  transition-property: box-shadow;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.transition-all {\n  transition-property: all;\n  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);\n  transition-duration: 150ms;\n}\n.duration {\n  transition-duration: 150ms;\n}\n@keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n@-webkit-keyframes pulse {\n  0%, 100% {\n    opacity: 1;\n  }\n  50% {\n    opacity: .5;\n  }\n}\n.animate-pulse {\n  -webkit-animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;\n}\n.filter {\n  --tw-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-sepia: var(--tw-empty,/*!*/ /*!*/);\n  --tw-drop-shadow: var(--tw-empty,/*!*/ /*!*/);\n  filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);\n}\n.blur\\(\\)\\) {\n  --tw-blur: blur(8px);\n}\n.dark .dark\\:brightness-75 {\n  --tw-brightness: brightness(.75);\n}\n.dark .dark\\:brightness-100 {\n  --tw-brightness: brightness(1);\n}\n.backdrop-filter {\n  --tw-backdrop-blur: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-brightness: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-contrast: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-grayscale: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-hue-rotate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-invert: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-opacity: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-saturate: var(--tw-empty,/*!*/ /*!*/);\n  --tw-backdrop-sepia: var(--tw-empty,/*!*/ /*!*/);\n  -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n  backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);\n}\n.backdrop-blur-md {\n  --tw-backdrop-blur: blur(12px);\n}\n.backdrop-blur-lg {\n  --tw-backdrop-blur: blur(16px);\n}\n.line-clamp-2 {\n  overflow: hidden;\n  display: -webkit-box;\n  -webkit-box-orient: vertical;\n  -webkit-line-clamp: 2;\n}\n@media (min-width: 640px) {\n  .sm\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .sm\\:space-x-6 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .sm\\:block {\n    display: block;\n  }\n  .sm\\:flex {\n    display: flex;\n  }\n  .sm\\:items-start {\n    align-items: flex-start;\n  }\n  .sm\\:items-center {\n    align-items: center;\n  }\n  .sm\\:justify-start {\n    justify-content: flex-start;\n  }\n  .sm\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .sm\\:mt-6 {\n    margin-top: 1.5rem;\n  }\n  .sm\\:ml-auto {\n    margin-left: auto;\n  }\n  .sm\\:py-10 {\n    padding-top: 2.5rem;\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:px-8 {\n    padding-left: 2rem;\n    padding-right: 2rem;\n  }\n  .sm\\:pb-10 {\n    padding-bottom: 2.5rem;\n  }\n  .sm\\:pr-16 {\n    padding-right: 4rem;\n  }\n  .sm\\:shadow-md {\n    --tw-shadow: 0 4px 6px -1px rgba(0, 0, 0,0.1),0 2px 4px -2px rgba(0, 0, 0,0.1);\n    --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color),0 2px 4px -2px var(--tw-shadow-color);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: 0 0 rgba(0,0,0,0),0 0 rgba(0,0,0,0),var(--tw-shadow);\n    box-shadow: var(--tw-ring-offset-shadow,0 0 rgba(0,0,0,0)),var(--tw-ring-shadow,0 0 rgba(0,0,0,0)),var(--tw-shadow);\n  }\n  .sm\\:text-left {\n    text-align: left;\n  }\n  .sm\\:truncate {\n    overflow: hidden;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n  }\n  .sm\\:w-9\\/12 {\n    width: 75%;\n  }\n  .sm\\:w-1\\/6 {\n    width: 16.666667%;\n  }\n  .sm\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .sm\\:w-4\\/12 {\n    width: 33.333333%;\n  }\n  .sm\\:w-10\\/12 {\n    width: 83.333333%;\n  }\n  .sm\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .sm\\:w-9\\/10 {\n    width: 90%;\n  }\n  .sm\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .sm\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .sm\\:transform {\n    --tw-translate-x: 0;\n    --tw-translate-y: 0;\n    --tw-translate-z: 0;\n    --tw-rotate: 0;\n    --tw-rotate-x: 0;\n    --tw-rotate-y: 0;\n    --tw-rotate-z: 0;\n    --tw-skew-x: 0;\n    --tw-skew-y: 0;\n    --tw-scale-x: 1;\n    --tw-scale-y: 1;\n    --tw-scale-z: 1;\n    transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) translateZ(var(--tw-translate-z)) rotate(var(--tw-rotate)) rotateX(var(--tw-rotate-x)) rotateY(var(--tw-rotate-y)) rotateZ(var(--tw-rotate-z)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) scaleZ(var(--tw-scale-z));\n  }\n}\n@media (min-width: 768px) {\n  .md\\:space-y-0 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-y-reverse: 0;\n    margin-top: calc(0px * (1 - var(--tw-space-y-reverse)));\n    margin-top: calc(0px * calc(1 - var(--tw-space-y-reverse)));\n    margin-bottom: calc(0px * var(--tw-space-y-reverse));\n  }\n  .md\\:space-x-3 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.75rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.75rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.75rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-5 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1.25rem * var(--tw-space-x-reverse));\n    margin-left: calc(1.25rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1.25rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-2 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(0.5rem * var(--tw-space-x-reverse));\n    margin-left: calc(0.5rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:space-x-4 > :not([hidden]) ~ :not([hidden]) {\n    --tw-space-x-reverse: 0;\n    margin-right: calc(1rem * var(--tw-space-x-reverse));\n    margin-left: calc(1rem * (1 - var(--tw-space-x-reverse)));\n    margin-left: calc(1rem * calc(1 - var(--tw-space-x-reverse)));\n  }\n  .md\\:block {\n    display: block;\n  }\n  .md\\:flex {\n    display: flex;\n  }\n  .md\\:grid {\n    display: grid;\n  }\n  .md\\:hidden {\n    display: none;\n  }\n  .md\\:flex-row {\n    flex-direction: row;\n  }\n  .md\\:items-center {\n    align-items: center;\n  }\n  .md\\:h-full {\n    height: 100%;\n  }\n  .md\\:h-50 {\n    height: 12.5rem;\n  }\n  .md\\:h-66\\.8 {\n    height: 16.7rem;\n  }\n  .md\\:h-45 {\n    height: 11.25rem;\n  }\n  .md\\:text-4xl {\n    font-size: 2.25rem;\n    line-height: 2.5rem;\n  }\n  .md\\:text-3xl {\n    font-size: 1.875rem;\n    line-height: 2.25rem;\n  }\n  .md\\:-mx-\\[20\\.75vw\\] {\n    margin-left: -20.75vw;\n    margin-right: -20.75vw;\n  }\n  .md\\:mb-0 {\n    margin-bottom: 0px;\n  }\n  @media (min-width: 768px) {\n    .md\\:md\\:mt-10 {\n      margin-top: 2.5rem;\n    }\n  }\n  .md\\:max-h-full {\n    max-height: 100%;\n  }\n  .md\\:overflow-y-visible {\n    overflow-y: visible;\n  }\n  .md\\:px-3 {\n    padding-left: 0.75rem;\n    padding-right: 0.75rem;\n  }\n  .md\\:py-1 {\n    padding-top: 0.25rem;\n    padding-bottom: 0.25rem;\n  }\n  .md\\:px-4 {\n    padding-left: 1rem;\n    padding-right: 1rem;\n  }\n  .md\\:w-2\\/3 {\n    width: 66.666667%;\n  }\n  .md\\:w-1\\/3 {\n    width: 33.333333%;\n  }\n  .md\\:w-7\\/12 {\n    width: 58.333333%;\n  }\n  .md\\:w-full {\n    width: 100%;\n  }\n  .md\\:w-4\\/6 {\n    width: 66.666667%;\n  }\n  .md\\:w-8\\/12 {\n    width: 66.666667%;\n  }\n  .md\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .md\\:w-50 {\n    width: 12.5rem;\n  }\n  .md\\:w-45 {\n    width: 11.25rem;\n  }\n  .md\\:gap-4 {\n    grid-gap: 1rem;\n    gap: 1rem;\n  }\n  .md\\:gap-8 {\n    grid-gap: 2rem;\n    gap: 2rem;\n  }\n  .md\\:gap-x-12 {\n    -webkit-column-gap: 3rem;\n    -moz-column-gap: 3rem;\n    grid-column-gap: 3rem;\n    column-gap: 3rem;\n  }\n  .md\\:grid-flow-col {\n    grid-auto-flow: column;\n  }\n  .md\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-3 {\n    grid-template-columns: repeat(3, minmax(0, 1fr));\n  }\n  .md\\:grid-cols-1 {\n    grid-template-columns: repeat(1, minmax(0, 1fr));\n  }\n  .md\\:auto-cols-fr {\n    grid-auto-columns: minmax(0, 1fr);\n  }\n}\n@media (min-width: 1024px) {\n  .lg\\:rounded-lg {\n    border-radius: 0.5rem;\n  }\n  .lg\\:rounded-t-lg {\n    border-top-left-radius: 0.5rem;\n    border-top-right-radius: 0.5rem;\n  }\n  .lg\\:h-1\\/2 {\n    height: 50%;\n  }\n  .lg\\:mx-0 {\n    margin-left: 0px;\n    margin-right: 0px;\n  }\n  .lg\\:mt-24 {\n    margin-top: 6rem;\n  }\n  .lg\\:left-4 {\n    left: 1rem;\n  }\n  .lg\\:w-1\\/2 {\n    width: 50%;\n  }\n  .lg\\:w-1\\/4 {\n    width: 25%;\n  }\n  .lg\\:w-max {\n    width: -webkit-max-content;\n    width: -moz-max-content;\n    width: max-content;\n  }\n  .lg\\:grid-cols-2 {\n    grid-template-columns: repeat(2, minmax(0, 1fr));\n  }\n  .lg\\:grid-cols-4 {\n    grid-template-columns: repeat(4, minmax(0, 1fr));\n  }\n}";
 }
 
 
@@ -28026,7 +28238,7 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 // --------------------
 const $id_6dcf7f5e = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"min-h-screen bg-gray-50 dark:bg-neutral-900"},[_c('div',{staticClass:"bg-[#FF424D] w-full py-1 dark:bg-neutral-700"}),_c('transition',{attrs:{"name":"fade","mode":"out-in"}},[(_vm.routeIsBlog)?_c('NavbarBlog',{staticClass:"pt-4"}):_c('NavbarDefault',{staticClass:"pt-4"})],1),_c('Nuxt',{staticClass:"container mx-auto min-h-screen pb-8 w-11/12 sm:pb-10 sm:w-9/12 md:w-7/12"}),_c('Footer'),_c('div',{staticClass:"bg-[#FF424D] w-full py-1 dark:bg-neutral-700"}),_c('CommandPalette'),_c('GoTop'),_c('SponsorPopup')],1)}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"min-h-screen bg-gray-50 dark:bg-neutral-900"},[_c('div',{staticClass:"bg-neutral-500 w-full py-1 dark:bg-neutral-700"}),_c('transition',{attrs:{"name":"fade","mode":"out-in"}},[(_vm.routeIsBlog)?_c('NavbarBlog',{staticClass:"pt-4"}):_c('NavbarDefault',{staticClass:"pt-4"})],1),_c('Nuxt',{staticClass:"container mx-auto min-h-screen pb-8 w-11/12 sm:pb-10 sm:w-9/12 md:w-7/12"}),_c('Footer'),_c('div',{staticClass:"bg-neutral-500 w-full py-1 dark:bg-neutral-700"}),_c('CommandPalette'),_c('GoTop'),_c('SponsorPopup')],1)}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -28043,6 +28255,7 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // - /node_modules/vuex/dist/vuex.esm.js ($id_40f8342a)
 // - /src/store/palette.ts ($id_3e33c731)
+// - /src/store/shop.ts ($id_67b966d0)
 // --------------------
 const $id_ef05a845 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
@@ -28054,13 +28267,16 @@ const __vite_ssr_import_1__ = await __vite_ssr_import__("/node_modules/vuex/dist
 
 const __vite_ssr_import_2__ = await __vite_ssr_import__("/src/store/palette.ts");
 
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/src/store/shop.ts");
+
 
 __vite_ssr_import_0__.default.use(__vite_ssr_import_1__.default)
 
 const VUEX_PROPERTIES = ['state', 'getters', 'actions', 'mutations']
 
 const storeModules = {
-  ['palette']: __vite_ssr_import_2__
+  ['palette']: __vite_ssr_import_2__,
+  ['shop']: __vite_ssr_import_3__
 }
 
 function createStore() {
@@ -28210,6 +28426,7 @@ __vite_ssr_exports__.default = Palette;
 // Request: /node_modules/vuex-module-decorators/dist/esm/index.js
 // Parents: 
 // - /src/store/palette.ts ($id_3e33c731)
+// - /src/store/shop.ts ($id_67b966d0)
 // Dependencies: 
 
 // --------------------
@@ -28661,14 +28878,67 @@ Object.defineProperty(__vite_ssr_exports__, "getModule", { enumerable: true, con
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/components/plugin.js
+// Request: /src/store/shop.ts
+// Parents: 
+// - /.nuxt/store.js ($id_ef05a845)
+// Dependencies: 
+// - /node_modules/vuex-module-decorators/dist/esm/index.js ($id_2c72883d)
+// --------------------
+const $id_67b966d0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var __defProp = Object.defineProperty;
+var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+var __decorateClass = (decorators, target, key, kind) => {
+  var result = kind > 1 ? void 0 : kind ? __getOwnPropDesc(target, key) : target;
+  for (var i = decorators.length - 1, decorator; i >= 0; i--)
+    if (decorator = decorators[i])
+      result = (kind ? decorator(target, key, result) : decorator(result)) || result;
+  if (kind && result)
+    __defProp(target, key, result);
+  return result;
+};
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vuex-module-decorators/dist/esm/index.js");
+
+let Shop = class extends __vite_ssr_import_0__.VuexModule {
+  constructor() {
+    super(...arguments);
+    this.price2 = "--";
+    this.item2 = "Error";
+  }
+  setPrice(price) {
+    this.price2 = price;
+  }
+  setItem(item) {
+    this.item2 = item;
+  }
+};
+__decorateClass([
+  __vite_ssr_import_0__.Mutation
+], Shop.prototype, "setPrice", 1);
+__decorateClass([
+  __vite_ssr_import_0__.Mutation
+], Shop.prototype, "setItem", 1);
+Shop = __decorateClass([
+  __vite_ssr_import_0__.Module({
+    name: "shop",
+    stateFactory: true,
+    namespaced: true
+  })
+], Shop);
+__vite_ssr_exports__.default = Shop;
+;
+}
+
+
+// --------------------
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/components/plugin.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // - /.nuxt/components/index.js ($id_d9abe5b7)
 // --------------------
-const $id_a11c6e71 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_49d9fa0e = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
@@ -28688,7 +28958,7 @@ __vite_ssr_exports__.default = () => {};
 // --------------------
 // Request: /.nuxt/components/index.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/components/plugin.js ($id_a11c6e71)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/components/plugin.js ($id_49d9fa0e)
 // Dependencies: 
 // - /src/components/Button.vue ($id_b04721bd)
 // - /src/components/ColorSwitcher.vue ($id_6ba21301)
@@ -28721,11 +28991,13 @@ __vite_ssr_exports__.default = () => {};
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
 // - /src/components/Icon/Brand.vue ($id_67588ddc)
 // - /src/components/Icon/Calendar.vue ($id_edab98b0)
+// - /src/components/Icon/Cash.vue ($id_308eed36)
 // - /src/components/Icon/Channel.vue ($id_47045b0f)
 // - /src/components/Icon/Check.vue ($id_a6c38858)
 // - /src/components/Icon/Chevron.vue ($id_c1155e7e)
 // - /src/components/Icon/Clock.vue ($id_6045d666)
 // - /src/components/Icon/Cog.vue ($id_312658f3)
+// - /src/components/Icon/Creditcard.vue ($id_365173c5)
 // - /src/components/Icon/Dev.vue ($id_87d22b1e)
 // - /src/components/Icon/Document.vue ($id_6da4b6a5)
 // - /src/components/Icon/Dollar.vue ($id_6bdd4710)
@@ -28748,27 +29020,27 @@ __vite_ssr_exports__.default = () => {};
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Smart/Image.vue ($id_d0f3ca05)
-// - /src/components/Smart/Link.vue ($id_55692ed2)
-// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
 // - /src/components/Loaders/Content.vue ($id_9b9aa532)
 // - /src/components/Loaders/Goals.vue ($id_c361c855)
 // - /src/components/Loaders/Songs.vue ($id_5d24790d)
+// - /src/components/Navbar/Blog.vue ($id_e8935662)
+// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
 // - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
 // - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
 // - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
 // - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
 // - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// - /src/components/Navbar/Blog.vue ($id_e8935662)
-// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Smart/Image.vue ($id_d0f3ca05)
+// - /src/components/Smart/Link.vue ($id_55692ed2)
+// - /src/components/Blog/Sections/Ratings.vue ($id_e7ce980f)
+// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
+// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
+// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // - /src/components/Card/Post/Index.vue ($id_97d79fd7)
 // - /src/components/Card/Post/Normal.vue ($id_73191fe5)
 // - /src/components/Card/Post/Text.vue ($id_8df57aa7)
 // - /src/components/Card/Post/TextTitle.vue ($id_c37377d1)
-// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
-// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
-// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // --------------------
 const $id_d9abe5b7 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
@@ -28865,150 +29137,156 @@ Object.defineProperty(__vite_ssr_exports__, "IconBrand", { enumerable: true, con
 const __vite_ssr_import_30__ = await __vite_ssr_import__("/src/components/Icon/Calendar.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "IconCalendar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_30__.default }});
-const __vite_ssr_import_31__ = await __vite_ssr_import__("/src/components/Icon/Channel.vue");
+const __vite_ssr_import_31__ = await __vite_ssr_import__("/src/components/Icon/Cash.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconChannel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_31__.default }});
-const __vite_ssr_import_32__ = await __vite_ssr_import__("/src/components/Icon/Check.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCash", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_31__.default }});
+const __vite_ssr_import_32__ = await __vite_ssr_import__("/src/components/Icon/Channel.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconCheck", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_32__.default }});
-const __vite_ssr_import_33__ = await __vite_ssr_import__("/src/components/Icon/Chevron.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconChannel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_32__.default }});
+const __vite_ssr_import_33__ = await __vite_ssr_import__("/src/components/Icon/Check.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconChevron", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_33__.default }});
-const __vite_ssr_import_34__ = await __vite_ssr_import__("/src/components/Icon/Clock.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCheck", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_33__.default }});
+const __vite_ssr_import_34__ = await __vite_ssr_import__("/src/components/Icon/Chevron.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconClock", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_34__.default }});
-const __vite_ssr_import_35__ = await __vite_ssr_import__("/src/components/Icon/Cog.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconChevron", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_34__.default }});
+const __vite_ssr_import_35__ = await __vite_ssr_import__("/src/components/Icon/Clock.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconCog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_35__.default }});
-const __vite_ssr_import_36__ = await __vite_ssr_import__("/src/components/Icon/Dev.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconClock", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_35__.default }});
+const __vite_ssr_import_36__ = await __vite_ssr_import__("/src/components/Icon/Cog.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconDev", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_36__.default }});
-const __vite_ssr_import_37__ = await __vite_ssr_import__("/src/components/Icon/Document.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_36__.default }});
+const __vite_ssr_import_37__ = await __vite_ssr_import__("/src/components/Icon/Creditcard.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconDocument", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_37__.default }});
-const __vite_ssr_import_38__ = await __vite_ssr_import__("/src/components/Icon/Dollar.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCreditcard", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_37__.default }});
+const __vite_ssr_import_38__ = await __vite_ssr_import__("/src/components/Icon/Dev.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconDollar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_38__.default }});
-const __vite_ssr_import_39__ = await __vite_ssr_import__("/src/components/Icon/Exclamation.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconDev", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_38__.default }});
+const __vite_ssr_import_39__ = await __vite_ssr_import__("/src/components/Icon/Document.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconExclamation", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_39__.default }});
-const __vite_ssr_import_40__ = await __vite_ssr_import__("/src/components/Icon/Fire.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconDocument", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_39__.default }});
+const __vite_ssr_import_40__ = await __vite_ssr_import__("/src/components/Icon/Dollar.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconFire", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_40__.default }});
-const __vite_ssr_import_41__ = await __vite_ssr_import__("/src/components/Icon/Fork.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconDollar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_40__.default }});
+const __vite_ssr_import_41__ = await __vite_ssr_import__("/src/components/Icon/Exclamation.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconFork", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_41__.default }});
-const __vite_ssr_import_42__ = await __vite_ssr_import__("/src/components/Icon/Home.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconExclamation", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_41__.default }});
+const __vite_ssr_import_42__ = await __vite_ssr_import__("/src/components/Icon/Fire.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconHome", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_42__.default }});
-const __vite_ssr_import_43__ = await __vite_ssr_import__("/src/components/Icon/Inbox.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconFire", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_42__.default }});
+const __vite_ssr_import_43__ = await __vite_ssr_import__("/src/components/Icon/Fork.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconInbox", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_43__.default }});
-const __vite_ssr_import_44__ = await __vite_ssr_import__("/src/components/Icon/Link.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconFork", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_43__.default }});
+const __vite_ssr_import_44__ = await __vite_ssr_import__("/src/components/Icon/Home.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_44__.default }});
-const __vite_ssr_import_45__ = await __vite_ssr_import__("/src/components/Icon/Menu.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconHome", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_44__.default }});
+const __vite_ssr_import_45__ = await __vite_ssr_import__("/src/components/Icon/Inbox.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconMenu", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_45__.default }});
-const __vite_ssr_import_46__ = await __vite_ssr_import__("/src/components/Icon/Moon.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconInbox", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_45__.default }});
+const __vite_ssr_import_46__ = await __vite_ssr_import__("/src/components/Icon/Link.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconMoon", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_46__.default }});
-const __vite_ssr_import_47__ = await __vite_ssr_import__("/src/components/Icon/MusicNote.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_46__.default }});
+const __vite_ssr_import_47__ = await __vite_ssr_import__("/src/components/Icon/Menu.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconMusicNote", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_47__.default }});
-const __vite_ssr_import_48__ = await __vite_ssr_import__("/src/components/Icon/Play.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconMenu", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_47__.default }});
+const __vite_ssr_import_48__ = await __vite_ssr_import__("/src/components/Icon/Moon.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconPlay", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_48__.default }});
-const __vite_ssr_import_49__ = await __vite_ssr_import__("/src/components/Icon/Question.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconMoon", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_48__.default }});
+const __vite_ssr_import_49__ = await __vite_ssr_import__("/src/components/Icon/MusicNote.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconQuestion", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_49__.default }});
-const __vite_ssr_import_50__ = await __vite_ssr_import__("/src/components/Icon/Search.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconMusicNote", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_49__.default }});
+const __vite_ssr_import_50__ = await __vite_ssr_import__("/src/components/Icon/Play.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconSearch", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_50__.default }});
-const __vite_ssr_import_51__ = await __vite_ssr_import__("/src/components/Icon/ShoppingCart.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconPlay", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_50__.default }});
+const __vite_ssr_import_51__ = await __vite_ssr_import__("/src/components/Icon/Question.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconShoppingCart", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_51__.default }});
-const __vite_ssr_import_52__ = await __vite_ssr_import__("/src/components/Icon/Star.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconQuestion", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_51__.default }});
+const __vite_ssr_import_52__ = await __vite_ssr_import__("/src/components/Icon/Search.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconStar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_52__.default }});
-const __vite_ssr_import_53__ = await __vite_ssr_import__("/src/components/Icon/Stop.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconSearch", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_52__.default }});
+const __vite_ssr_import_53__ = await __vite_ssr_import__("/src/components/Icon/ShoppingCart.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconStop", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_53__.default }});
-const __vite_ssr_import_54__ = await __vite_ssr_import__("/src/components/Icon/Sun.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconShoppingCart", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_53__.default }});
+const __vite_ssr_import_54__ = await __vite_ssr_import__("/src/components/Icon/Star.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconSun", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_54__.default }});
-const __vite_ssr_import_55__ = await __vite_ssr_import__("/src/components/Icon/Sync.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconStar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_54__.default }});
+const __vite_ssr_import_55__ = await __vite_ssr_import__("/src/components/Icon/Stop.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconSync", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_55__.default }});
-const __vite_ssr_import_56__ = await __vite_ssr_import__("/src/components/Icon/Times.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconStop", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_55__.default }});
+const __vite_ssr_import_56__ = await __vite_ssr_import__("/src/components/Icon/Sun.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconTimes", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_56__.default }});
-const __vite_ssr_import_57__ = await __vite_ssr_import__("/src/components/Icon/X.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconSun", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_56__.default }});
+const __vite_ssr_import_57__ = await __vite_ssr_import__("/src/components/Icon/Sync.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconX", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_57__.default }});
-const __vite_ssr_import_58__ = await __vite_ssr_import__("/src/components/Smart/Image.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconSync", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_57__.default }});
+const __vite_ssr_import_58__ = await __vite_ssr_import__("/src/components/Icon/Times.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SmartImage", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_58__.default }});
-const __vite_ssr_import_59__ = await __vite_ssr_import__("/src/components/Smart/Link.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconTimes", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_58__.default }});
+const __vite_ssr_import_59__ = await __vite_ssr_import__("/src/components/Icon/X.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SmartLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_59__.default }});
-const __vite_ssr_import_60__ = await __vite_ssr_import__("/src/components/Blog/Sections/Ratings.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconX", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_59__.default }});
+const __vite_ssr_import_60__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "BlogSectionsRatings", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_60__.default }});
-const __vite_ssr_import_61__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue");
+Object.defineProperty(__vite_ssr_exports__, "LoadersContent", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_60__.default }});
+const __vite_ssr_import_61__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "LoadersContent", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_61__.default }});
-const __vite_ssr_import_62__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue");
+Object.defineProperty(__vite_ssr_exports__, "LoadersGoals", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_61__.default }});
+const __vite_ssr_import_62__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "LoadersGoals", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_62__.default }});
-const __vite_ssr_import_63__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue");
+Object.defineProperty(__vite_ssr_exports__, "LoadersSongs", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_62__.default }});
+const __vite_ssr_import_63__ = await __vite_ssr_import__("/src/components/Navbar/Blog.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "LoadersSongs", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_63__.default }});
-const __vite_ssr_import_64__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Iframe.vue");
+Object.defineProperty(__vite_ssr_exports__, "NavbarBlog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_63__.default }});
+const __vite_ssr_import_64__ = await __vite_ssr_import__("/src/components/Navbar/Default.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderIframe", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_64__.default }});
-const __vite_ssr_import_65__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Index.vue");
+Object.defineProperty(__vite_ssr_exports__, "NavbarDefault", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_64__.default }});
+const __vite_ssr_import_65__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Iframe.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoader", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_65__.default }});
-const __vite_ssr_import_66__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Lastfm.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderIframe", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_65__.default }});
+const __vite_ssr_import_66__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Index.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderLastfm", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_66__.default }});
-const __vite_ssr_import_67__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Repository.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoader", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_66__.default }});
+const __vite_ssr_import_67__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Lastfm.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderRepository", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_67__.default }});
-const __vite_ssr_import_68__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Song.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderLastfm", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_67__.default }});
+const __vite_ssr_import_68__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Repository.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSong", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_68__.default }});
-const __vite_ssr_import_69__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Spinner.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderRepository", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_68__.default }});
+const __vite_ssr_import_69__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Song.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSpinner", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_69__.default }});
-const __vite_ssr_import_70__ = await __vite_ssr_import__("/src/components/Navbar/Blog.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSong", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_69__.default }});
+const __vite_ssr_import_70__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Spinner.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "NavbarBlog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_70__.default }});
-const __vite_ssr_import_71__ = await __vite_ssr_import__("/src/components/Navbar/Default.vue");
+Object.defineProperty(__vite_ssr_exports__, "SkeletonLoaderSpinner", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_70__.default }});
+const __vite_ssr_import_71__ = await __vite_ssr_import__("/src/components/Smart/Image.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "NavbarDefault", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_71__.default }});
-const __vite_ssr_import_72__ = await __vite_ssr_import__("/src/components/Card/Post/Index.vue");
+Object.defineProperty(__vite_ssr_exports__, "SmartImage", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_71__.default }});
+const __vite_ssr_import_72__ = await __vite_ssr_import__("/src/components/Smart/Link.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "CardPost", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_72__.default }});
-const __vite_ssr_import_73__ = await __vite_ssr_import__("/src/components/Card/Post/Normal.vue");
+Object.defineProperty(__vite_ssr_exports__, "SmartLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_72__.default }});
+const __vite_ssr_import_73__ = await __vite_ssr_import__("/src/components/Blog/Sections/Ratings.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "CardPostNormal", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_73__.default }});
-const __vite_ssr_import_74__ = await __vite_ssr_import__("/src/components/Card/Post/Text.vue");
+Object.defineProperty(__vite_ssr_exports__, "BlogSectionsRatings", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_73__.default }});
+const __vite_ssr_import_74__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Index.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "CardPostText", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_74__.default }});
-const __vite_ssr_import_75__ = await __vite_ssr_import__("/src/components/Card/Post/TextTitle.vue");
+Object.defineProperty(__vite_ssr_exports__, "CardPortfolio", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_74__.default }});
+const __vite_ssr_import_75__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Normal.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "CardPostTextTitle", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_75__.default }});
-const __vite_ssr_import_76__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Index.vue");
+Object.defineProperty(__vite_ssr_exports__, "CardPortfolioNormal", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_75__.default }});
+const __vite_ssr_import_76__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Shop.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "CardPortfolio", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_76__.default }});
-const __vite_ssr_import_77__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Normal.vue");
+Object.defineProperty(__vite_ssr_exports__, "CardPortfolioShop", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_76__.default }});
+const __vite_ssr_import_77__ = await __vite_ssr_import__("/src/components/Card/Post/Index.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "CardPortfolioNormal", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_77__.default }});
-const __vite_ssr_import_78__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Shop.vue");
+Object.defineProperty(__vite_ssr_exports__, "CardPost", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_77__.default }});
+const __vite_ssr_import_78__ = await __vite_ssr_import__("/src/components/Card/Post/Normal.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "CardPortfolioShop", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_78__.default }});
+Object.defineProperty(__vite_ssr_exports__, "CardPostNormal", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_78__.default }});
+const __vite_ssr_import_79__ = await __vite_ssr_import__("/src/components/Card/Post/Text.vue");
+
+Object.defineProperty(__vite_ssr_exports__, "CardPostText", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_79__.default }});
+const __vite_ssr_import_80__ = await __vite_ssr_import__("/src/components/Card/Post/TextTitle.vue");
+
+Object.defineProperty(__vite_ssr_exports__, "CardPostTextTitle", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_80__.default }});
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
@@ -32678,6 +32956,83 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
+// Request: /src/components/Icon/Cash.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/Icon/Cash.vue?vue&type=template&lang.js ($id_fd480684)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_308eed36 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Icon/Cash.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Icon/Cash.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("663e22a9")) {
+    __vite_ssr_import_2__.default.createRecord("663e22a9", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("663e22a9", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Icon/Cash.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("663e22a9", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Icon/Cash.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Icon/Cash.vue ($id_308eed36)
+// Dependencies: 
+
+// --------------------
+const $id_fd480684 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{staticClass:"bi bi-cash",attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"currentColor","viewBox":"0 0 16 16"}},[_c('path',{attrs:{"d":"M8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4z"}}),_c('path',{attrs:{"d":"M0 4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V4zm3 0a2 2 0 0 1-2 2v4a2 2 0 0 1 2 2h10a2 2 0 0 1 2-2V6a2 2 0 0 1-2-2H3z"}})])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
 // Request: /src/components/Icon/Channel.vue
 // Parents: 
 // - /.nuxt/components/index.js ($id_d9abe5b7)
@@ -33101,6 +33456,83 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 const $id_bdec175c = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor"}},[_c('path',{attrs:{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"}}),_c('path',{attrs:{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M15 12a3 3 0 11-6 0 3 3 0 016 0z"}})])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Icon/Creditcard.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/Icon/Creditcard.vue?vue&type=template&lang.js ($id_d713b56f)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_365173c5 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Icon/Creditcard.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Icon/Creditcard.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("bbcc6102")) {
+    __vite_ssr_import_2__.default.createRecord("bbcc6102", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("bbcc6102", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Icon/Creditcard.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("bbcc6102", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Icon/Creditcard.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Icon/Creditcard.vue ($id_365173c5)
+// Dependencies: 
+
+// --------------------
+const $id_d713b56f = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{staticClass:"bi bi-credit-card",attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"currentColor","viewBox":"0 0 16 16"}},[_c('path',{attrs:{"d":"M0 4a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V4zm2-1a1 1 0 0 0-1 1v1h14V4a1 1 0 0 0-1-1H2zm13 4H1v5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V7z"}}),_c('path',{attrs:{"d":"M2 10a1 1 0 0 1 1-1h1a1 1 0 0 1 1 1v1a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-1z"}})])}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -34831,6 +35263,974 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
+// Request: /src/components/Loaders/Content.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/Loaders/Content.vue?vue&type=template&lang.js ($id_4d909489)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_9b9aa532 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  props: {
+    error: {
+      type: Boolean,
+      required: false,
+      default: false
+    }
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Loaders/Content.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("f3895dec")) {
+    __vite_ssr_import_3__.default.createRecord("f3895dec", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("f3895dec", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Content.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("f3895dec", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Content.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Loaders/Content.vue ($id_9b9aa532)
+// Dependencies: 
+
+// --------------------
+const $id_4d909489 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.error === false)?_c('div',{staticClass:"w-full pt-14"},[_vm._m(0),_c('div',{staticClass:"space-y-10 mt-10 w-full"},[_c('div',{staticClass:"space-y-1"},_vm._l((6),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 6 ? 'w-full' : 'w-8/12'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((4),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 4 ? 'w-full' : 'w-1/2'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((24),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 24 ? 'w-full' : 'w-1/2'})}),0)])]):_c('div',{staticClass:"space-y-4 px-4 pt-14"},[_c('h1',{staticClass:"font-semibold text-2xl text-gray-900 dark:text-gray-100"},[_vm._v(" The page you're looking for doesn't exist. ")]),_c('p',{staticClass:"text-gray-700 dark:text-gray-300"},[_vm._v(" The blog post could not be found. Please try to use the search bar. If you are sure that the blog post exists, please contact the administrator. ")])])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"space-y-4"},[_c('div',{staticClass:"flex space-x-2 justify-center sm:justify-start"},[_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"})]),_c('div',{staticClass:"bg-gray-200 h-10 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"flex flex-col space-y-2 items-center justify-center sm:items-start"},[_c('div',{staticClass:"bg-gray-200 h-4 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/2 sm:w-4/12 dark:bg-neutral-700"})])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Goals.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/Loaders/Goals.vue?vue&type=template&lang.js ($id_65a54acf)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_c361c855 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Loaders/Goals.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("18c061de")) {
+    __vite_ssr_import_2__.default.createRecord("18c061de", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("18c061de", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Goals.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("18c061de", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Goals.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Loaders/Goals.vue ($id_c361c855)
+// Dependencies: 
+
+// --------------------
+const $id_65a54acf = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"space-y-12 px-4 text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12"},[_c('SkeletonLoader',{staticClass:"h-10 w-1/6"}),_c('SkeletonLoader',{staticClass:"h-5 w-4/12"}),_c('SkeletonLoader',{staticClass:"h-4 w-1/6"})],1),_c('div',{staticClass:"space-y-9"},_vm._l((6),function(item){return _c('div',{key:item,staticClass:"space-y-4"},[_c('SkeletonLoader',{staticClass:"h-6 w-1/6"}),_c('div',{staticClass:"space-y-2"},_vm._l((3),function(inline){return _c('div',{key:("inline-" + inline),staticClass:"flex space-x-2 items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-5"}),_c('SkeletonLoader',{staticClass:"h-5",class:inline % 2 === 0 ? 'w-3/12' : 'w-1/5'})],1)}),0)],1)}),0)])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Songs.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/Loaders/Songs.vue?vue&type=template&lang.js ($id_6eef9244)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_5d24790d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Loaders/Songs.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("e4046b62")) {
+    __vite_ssr_import_2__.default.createRecord("e4046b62", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("e4046b62", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Songs.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("e4046b62", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Songs.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Loaders/Songs.vue ($id_5d24790d)
+// Dependencies: 
+
+// --------------------
+const $id_6eef9244 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('main',{staticClass:"space-y-20"},[_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Details")]),_c('div',{staticClass:"grid px-4 gap-x-0 gap-y-4 md:gap-x-12 md:grid-cols-2"},[_c('div',{staticClass:"flex space-x-4 items-center"},[_c('span',[_vm._v("Profile")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/2"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Total Plays")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/3"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Account Age")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/4"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)])])],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Recent Songs")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((15),function(recent){return _c('SkeletonLoader',{key:recent,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Songs (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((6),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Artists (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((4),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1)])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Navbar/Blog.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/Navbar/Blog.vue?vue&type=template&lang.js ($id_446fef12)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_e8935662 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  data() {
+    return {
+      input: "",
+      inputFocused: false
+    };
+  },
+  computed: {
+    getTargetRoute() {
+      if (this.$route.name === "blog" && !this.isSearching)
+        return {
+          title: "Website Homepage",
+          name: "index"
+        };
+      else
+        return {
+          title: "Blog Homepage",
+          name: "blog"
+        };
+    },
+    isSearching() {
+      const { q, search, query, ara, sorgu, etiket } = this.$route.query;
+      return !!q || !!search || !!query || !!ara || !!sorgu || !!etiket;
+    }
+  },
+  watch: {
+    "$route.path": "routeChange"
+  },
+  methods: {
+    search() {
+      if (this.input)
+        this.$router.push({ name: "blog", query: { q: this.input } });
+    },
+    routeChange() {
+      this.input = "";
+    }
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Navbar/Blog.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Navbar/Blog.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("4e4f07e1")) {
+    __vite_ssr_import_3__.default.createRecord("4e4f07e1", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("4e4f07e1", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Navbar/Blog.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("4e4f07e1", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Navbar/Blog.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Navbar/Blog.vue ($id_e8935662)
+// Dependencies: 
+
+// --------------------
+const $id_446fef12 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('nav',{staticClass:"w-full z-40"},[_c('div',{staticClass:"container flex mx-auto space-x-4 px-4 text-gray-200 w-11/12 items-center justify-between sm:w-9/12 md:w-7/12"},[_c('SmartLink',{staticClass:"flex-shrink-0 h-10 w-10",attrs:{"href":{ name: _vm.getTargetRoute.name }}},[_c('SmartImage',{staticClass:"rounded-md bg-gray-100 ring-black transition-transform ring-2 ring-opacity-5 sm:transform hover:-rotate-6",attrs:{"src":"/assets/icons/icon.svg","width":"100","height":"100","title":_vm.getTargetRoute.title}})],1),_c('div',{staticClass:"flex space-x-2 items-center justify-end sm:space-x-4"},[_c('div',{staticClass:"rounded-lg flex space-x-2 bg-gray-100 text-gray-500 w-2/3 items-center md:w-full dark:bg-neutral-800",class:{
+          'ring-1 ring-offset-2 ring-offset-gray-50 ring-gray-300 dark:ring-offset-neutral-900 dark:ring-neutral-700':
+            _vm.inputFocused === true,
+        }},[_c('input',{directives:[{name:"model",rawName:"v-model",value:(_vm.input),expression:"input"}],staticClass:"rounded-tl-lg rounded-bl-lg bg-gray-100 w-full py-1.5 px-3 placeholder-gray-500 appearance-none dark:bg-neutral-800 focus:outline-none",attrs:{"id":"search","placeholder":"Search ..."},domProps:{"value":(_vm.input)},on:{"focus":function($event){_vm.inputFocused = true},"blur":function($event){_vm.inputFocused = false},"keydown":function($event){if(!$event.type.indexOf('key')&&_vm._k($event.keyCode,"enter",13,$event.key,"Enter")){ return null; }return _vm.search.apply(null, arguments)},"input":function($event){if($event.target.composing){ return; }_vm.input=$event.target.value}}}),_c('label',{staticClass:"cursor-pointer pr-2",attrs:{"for":"search"},on:{"click":_vm.search}},[_c('IconSearch',{staticClass:"h-4 w-4"})],1)]),_c('ColorSwitcher')],1)],1)])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Navbar/Default.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/Navbar/Default.vue?vue&type=template&lang.js ($id_9d23d6c5)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_bb8b54fd = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  computed: {
+    getTargetLink() {
+      const path = this.$route.path;
+      if (path !== "/projects/webstax" && path.startsWith("/projects/webstax"))
+        return "/projects/webstax";
+      if (path !== "/shop" && path.startsWith("/shop"))
+        return "/shop";
+      if (path !== "/portfolio" && path.startsWith("/portfolio"))
+        return "/portfolio";
+      else
+        return "/";
+    }
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Navbar/Default.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Navbar/Default.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("4fa2e452")) {
+    __vite_ssr_import_3__.default.createRecord("4fa2e452", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("4fa2e452", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Navbar/Default.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("4fa2e452", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Navbar/Default.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// Dependencies: 
+
+// --------------------
+const $id_9d23d6c5 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('nav',{staticClass:"w-full"},[_c('div',{staticClass:"container mx-auto px-4 w-11/12 relative sm:w-9/12 md:w-7/12"},[_c('div',{staticClass:"flex items-center justify-between"},[_c('SmartLink',{staticClass:"flex-shrink-0 h-10 w-10",attrs:{"href":_vm.getTargetLink}},[_c('SmartImage',{staticClass:"rounded-md bg-gray-100 ring-black transition-transform ring-2 ring-opacity-5 sm:transform hover:-rotate-6",attrs:{"src":"/assets/icons/icon.svg","width":"100","height":"100","title":"Dani's Website"}})],1),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('CommandPaletteButton'),_c('ColorSwitcher')],1)],1)])])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Iframe.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js ($id_afa803af)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_3d5c34ad = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {
+  props: {
+    iframeUrl: {
+      type: [String, Boolean],
+      required: false,
+      default: null,
+    },
+  },
+  data() {
+    return {
+      itemLoaded: false,
+    }
+  },
+}
+
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/SkeletonLoader/Iframe.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("1914891a")) {
+    __vite_ssr_import_2__.default.createRecord("1914891a", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("1914891a", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("1914891a", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
+// Dependencies: 
+
+// --------------------
+const $id_afa803af = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{class:{
+    'bg-gray-100 dark:bg-neutral-800 rounded animate-pulse':
+      _vm.itemLoaded === false,
+  }},[(_vm.iframeUrl)?_c('iframe',{class:{
+      'w-full h-full rounded': true,
+      invisible: _vm.itemLoaded === false,
+    },attrs:{"src":_vm.iframeUrl},on:{"load":function($event){_vm.itemLoaded = true}}}):_vm._e()])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Index.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js ($id_bf5ed4ca)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_cb358c47 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  props: {
+    type: {
+      type: String,
+      required: false,
+      default: "block"
+    },
+    iframeUrl: {
+      type: [String, Boolean],
+      required: false,
+      default: null
+    }
+  },
+  data() {
+    return {
+      itemLoaded: false
+    };
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/SkeletonLoader/Index.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("036f715a")) {
+    __vite_ssr_import_3__.default.createRecord("036f715a", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("036f715a", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("036f715a", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
+// Dependencies: 
+
+// --------------------
+const $id_bf5ed4ca = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.type === 'repository')?_c('SkeletonLoaderRepository'):(_vm.type === 'iframe')?_c('SkeletonLoaderIframe',{attrs:{"iframe-url":_vm.iframeUrl}}):(_vm.type === 'song')?_c('SkeletonLoaderSong'):(_vm.type === 'lastfm')?_c('SkeletonLoaderLastfm'):(_vm.type === 'spinner')?_c('SkeletonLoaderSpinner'):(_vm.type === 'block')?_c('div',{staticClass:"bg-gray-100 rounded animate-pulse dark:bg-neutral-800"}):(_vm.type === 'rounded')?_c('div',{staticClass:"bg-gray-100 rounded-full animate-pulse dark:bg-neutral-800"}):_vm._e()}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Lastfm.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js ($id_831b4760)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_bcd7b964 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  computed: {
+    getRandomItem() {
+      return ["w-2/3", "w-3/4", "w-2/5"][Math.floor(Math.random() * 3)];
+    }
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/SkeletonLoader/Lastfm.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("3472462c")) {
+    __vite_ssr_import_3__.default.createRecord("3472462c", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("3472462c", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("3472462c", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
+// Dependencies: 
+
+// --------------------
+const $id_831b4760 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"rounded-md flex space-x-4 p-4 transition-colors focus-ring overflow-x-hidden items-center"},[_c('div',{staticClass:"flex space-x-4 w-full items-center"},[_c('SkeletonLoader',{staticClass:"rounded-md flex-shrink-0 h-16 w-16"}),_c('div',{staticClass:"flex flex-col space-y-1 w-full"},[_c('SkeletonLoader',{staticClass:"h-5",class:_vm.getRandomItem}),_c('SkeletonLoader',{staticClass:"h-5 w-1/3"})],1)],1)])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Repository.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js ($id_c1e717e6)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_805bac6e = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/SkeletonLoader/Repository.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("d40144ce")) {
+    __vite_ssr_import_2__.default.createRecord("d40144ce", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("d40144ce", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("d40144ce", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
+// Dependencies: 
+
+// --------------------
+const $id_c1e717e6 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _vm._m(0)}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"rounded-md space-y-4 p-4"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-5 animate-pulse w-7/12 dark:bg-neutral-700/40"}),_c('div',{staticClass:"space-y-2"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 w-full animate-pulse dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-4/12 dark:bg-neutral-700/40"})]),_c('div',{staticClass:"space-y-2"},[_c('div',{staticClass:"flex items-center justify-between"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"})]),_c('div',{staticClass:"flex items-center justify-between"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-2/6 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"})]),_c('div',{staticClass:"flex items-center justify-between"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"})])])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Song.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js ($id_76017f13)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_770d901b = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/SkeletonLoader/Song.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("7dfa2f24")) {
+    __vite_ssr_import_2__.default.createRecord("7dfa2f24", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("7dfa2f24", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("7dfa2f24", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
+// Dependencies: 
+
+// --------------------
+const $id_76017f13 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _vm._m(0)}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"rounded-lg cursor-pointer flex space-x-2 p-2 transition-shadow items-center select-none hover:shadow-md"},[_c('div',{staticClass:"rounded-md bg-gray-200 flex-shrink-0 h-16 animate-pulse w-16 dark:bg-neutral-700/40"}),_c('div',{staticClass:"flex-grow space-y-1"},[_c('div',{staticClass:"rounded bg-gray-200 h-4 animate-pulse w-2/3 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded bg-gray-200 h-4 animate-pulse w-1/3 dark:bg-neutral-700/40"})])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Spinner.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js ($id_12a00ff9)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_f51081b0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/SkeletonLoader/Spinner.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("1f9a3eda")) {
+    __vite_ssr_import_2__.default.createRecord("1f9a3eda", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("1f9a3eda", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("1f9a3eda", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
+// Dependencies: 
+
+// --------------------
+const $id_12a00ff9 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex items-center justify-center"},[_c('svg',{staticClass:"w-8 h-8",attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24"}},[_c('path',{staticClass:"fill-[#888888] dark:fill-white",attrs:{"d":"M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2Zm0 18a8 8 0 1 1 8-8A8 8 0 0 1 12 20Z","opacity":".5"}}),_c('path',{attrs:{"fill":"currentColor","d":"M20 12h2A10 10 0 0 0 12 2V4A8 8 0 0 1 20 12Z"}},[_c('animateTransform',{attrs:{"attributeName":"transform","dur":"1s","from":"0 12 12","repeatCount":"indefinite","to":"360 12 12","type":"rotate"}})],1)])])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
 // Request: /src/components/Smart/Image.vue
 // Parents: 
 // - /.nuxt/components/index.js ($id_d9abe5b7)
@@ -35443,465 +36843,54 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
-// Request: /src/components/Loaders/Content.vue
+// Request: /src/components/Card/Portfolio/Index.vue
 // Parents: 
 // - /.nuxt/components/index.js ($id_d9abe5b7)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Loaders/Content.vue?vue&type=template&lang.js ($id_4d909489)
+// - /src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js ($id_d7dab732)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
 // --------------------
-const $id_9b9aa532 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_b2f830ba = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 __vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
 const __vue2_script = __vite_ssr_import_0__.default.extend({
   props: {
-    error: {
-      type: Boolean,
-      required: false,
-      default: false
-    }
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Loaders/Content.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("f3895dec")) {
-    __vite_ssr_import_3__.default.createRecord("f3895dec", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("f3895dec", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Content.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("f3895dec", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Content.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Loaders/Content.vue ($id_9b9aa532)
-// Dependencies: 
-
-// --------------------
-const $id_4d909489 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.error === false)?_c('div',{staticClass:"w-full pt-14"},[_vm._m(0),_c('div',{staticClass:"space-y-10 mt-10 w-full"},[_c('div',{staticClass:"space-y-1"},_vm._l((6),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 6 ? 'w-full' : 'w-8/12'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((4),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 4 ? 'w-full' : 'w-1/2'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((24),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 24 ? 'w-full' : 'w-1/2'})}),0)])]):_c('div',{staticClass:"space-y-4 px-4 pt-14"},[_c('h1',{staticClass:"font-semibold text-2xl text-gray-900 dark:text-gray-100"},[_vm._v(" The page you're looking for doesn't exist. ")]),_c('p',{staticClass:"text-gray-700 dark:text-gray-300"},[_vm._v(" The blog post could not be found. Please try to use the search bar. If you are sure that the blog post exists, please contact the administrator. ")])])}
-var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"space-y-4"},[_c('div',{staticClass:"flex space-x-2 justify-center sm:justify-start"},[_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"})]),_c('div',{staticClass:"bg-gray-200 h-10 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"flex flex-col space-y-2 items-center justify-center sm:items-start"},[_c('div',{staticClass:"bg-gray-200 h-4 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/2 sm:w-4/12 dark:bg-neutral-700"})])])}]
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Goals.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/Loaders/Goals.vue?vue&type=template&lang.js ($id_65a54acf)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_c361c855 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Loaders/Goals.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("18c061de")) {
-    __vite_ssr_import_2__.default.createRecord("18c061de", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("18c061de", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Goals.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("18c061de", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Goals.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Loaders/Goals.vue ($id_c361c855)
-// Dependencies: 
-
-// --------------------
-const $id_65a54acf = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"space-y-12 px-4 text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12"},[_c('SkeletonLoader',{staticClass:"h-10 w-1/6"}),_c('SkeletonLoader',{staticClass:"h-5 w-4/12"}),_c('SkeletonLoader',{staticClass:"h-4 w-1/6"})],1),_c('div',{staticClass:"space-y-9"},_vm._l((6),function(item){return _c('div',{key:item,staticClass:"space-y-4"},[_c('SkeletonLoader',{staticClass:"h-6 w-1/6"}),_c('div',{staticClass:"space-y-2"},_vm._l((3),function(inline){return _c('div',{key:("inline-" + inline),staticClass:"flex space-x-2 items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-5"}),_c('SkeletonLoader',{staticClass:"h-5",class:inline % 2 === 0 ? 'w-3/12' : 'w-1/5'})],1)}),0)],1)}),0)])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Songs.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/Loaders/Songs.vue?vue&type=template&lang.js ($id_6eef9244)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_5d24790d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Loaders/Songs.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("e4046b62")) {
-    __vite_ssr_import_2__.default.createRecord("e4046b62", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("e4046b62", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Songs.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("e4046b62", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Songs.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Loaders/Songs.vue ($id_5d24790d)
-// Dependencies: 
-
-// --------------------
-const $id_6eef9244 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('main',{staticClass:"space-y-20"},[_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Details")]),_c('div',{staticClass:"grid px-4 gap-x-0 gap-y-4 md:gap-x-12 md:grid-cols-2"},[_c('div',{staticClass:"flex space-x-4 items-center"},[_c('span',[_vm._v("Profile")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/2"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Total Plays")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/3"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Account Age")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/4"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)])])],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Recent Songs")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((15),function(recent){return _c('SkeletonLoader',{key:recent,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Songs (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((6),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Artists (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((4),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1)])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Iframe.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js ($id_afa803af)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_3d5c34ad = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {
-  props: {
-    iframeUrl: {
-      type: [String, Boolean],
-      required: false,
-      default: null,
+    Portfolio: {
+      type: Object,
+      required: true,
+      default: () => {
+      }
     },
-  },
-  data() {
-    return {
-      itemLoaded: false,
-    }
-  },
-}
-
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/SkeletonLoader/Iframe.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("1914891a")) {
-    __vite_ssr_import_2__.default.createRecord("1914891a", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("1914891a", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("1914891a", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
-// Dependencies: 
-
-// --------------------
-const $id_afa803af = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{class:{
-    'bg-gray-100 dark:bg-neutral-800 rounded animate-pulse':
-      _vm.itemLoaded === false,
-  }},[(_vm.iframeUrl)?_c('iframe',{class:{
-      'w-full h-full rounded': true,
-      invisible: _vm.itemLoaded === false,
-    },attrs:{"src":_vm.iframeUrl},on:{"load":function($event){_vm.itemLoaded = true}}}):_vm._e()])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Index.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js ($id_bf5ed4ca)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_cb358c47 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  props: {
     type: {
       type: String,
       required: false,
-      default: "block"
-    },
-    iframeUrl: {
-      type: [String, Boolean],
-      required: false,
-      default: null
+      default: "normal"
     }
   },
   data() {
     return {
-      itemLoaded: false
+      hovered: false
     };
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/SkeletonLoader/Index.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("036f715a")) {
-    __vite_ssr_import_3__.default.createRecord("036f715a", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("036f715a", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("036f715a", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Index.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/SkeletonLoader/Index.vue ($id_cb358c47)
-// Dependencies: 
-
-// --------------------
-const $id_bf5ed4ca = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.type === 'repository')?_c('SkeletonLoaderRepository'):(_vm.type === 'iframe')?_c('SkeletonLoaderIframe',{attrs:{"iframe-url":_vm.iframeUrl}}):(_vm.type === 'song')?_c('SkeletonLoaderSong'):(_vm.type === 'lastfm')?_c('SkeletonLoaderLastfm'):(_vm.type === 'spinner')?_c('SkeletonLoaderSpinner'):(_vm.type === 'block')?_c('div',{staticClass:"bg-gray-100 rounded animate-pulse dark:bg-neutral-800"}):(_vm.type === 'rounded')?_c('div',{staticClass:"bg-gray-100 rounded-full animate-pulse dark:bg-neutral-800"}):_vm._e()}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Lastfm.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js ($id_831b4760)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_bcd7b964 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
+  },
   computed: {
-    getRandomItem() {
-      return ["w-2/3", "w-3/4", "w-2/5"][Math.floor(Math.random() * 3)];
+    getPortfolioMeta() {
+      if (!this.Portfolio)
+        return {};
+      const image = this.Portfolio?.image;
+      return {
+        title: this.Portfolio.title || "",
+        description: this.Portfolio.description || "",
+        href: this.Portfolio.href || "",
+        image
+      };
     }
   }
 });
 
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js");
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js");
 
 const __cssModules = {}
 
@@ -35925,7 +36914,7 @@ function __vue2_injectStyles (context) {
   }
 }
 
-__component__.options.__file = "src/components/SkeletonLoader/Lastfm.vue"
+__component__.options.__file = "src/components/Card/Portfolio/Index.vue"
 /* hot reload */
 const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
@@ -35933,14 +36922,14 @@ const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/
 
 __vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
 if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("3472462c")) {
-    __vite_ssr_import_3__.default.createRecord("3472462c", __component__.options)
+  if (!__vite_ssr_import_3__.default.isRecorded("f1935b88")) {
+    __vite_ssr_import_3__.default.createRecord("f1935b88", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("3472462c", update.default)
+      __vite_ssr_import_3__.default.reload("f1935b88", update.default)
    })
-   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("3472462c", update)
+   __vite_ssr_import_meta__.hot.accept("/src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("f1935b88", update)
    })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
@@ -35948,15 +36937,15 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 
 
 // --------------------
-// Request: /src/components/SkeletonLoader/Lastfm.vue?vue&type=template&lang.js
+// Request: /src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js
 // Parents: 
-// - /src/components/SkeletonLoader/Lastfm.vue ($id_bcd7b964)
+// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
 // Dependencies: 
 
 // --------------------
-const $id_831b4760 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_d7dab732 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"rounded-md flex space-x-4 p-4 transition-colors focus-ring overflow-x-hidden items-center"},[_c('div',{staticClass:"flex space-x-4 w-full items-center"},[_c('SkeletonLoader',{staticClass:"rounded-md flex-shrink-0 h-16 w-16"}),_c('div',{staticClass:"flex flex-col space-y-1 w-full"},[_c('SkeletonLoader',{staticClass:"h-5",class:_vm.getRandomItem}),_c('SkeletonLoader',{staticClass:"h-5 w-1/3"})],1)],1)])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.type === 'normal')?_c('CardPortfolioNormal',{attrs:{"meta":_vm.getPortfolioMeta}}):(_vm.type === 'shop')?_c('CardPortfolioShop',{attrs:{"meta":_vm.getPortfolioMeta}}):(_vm.type === 'text-only-title')?_c('CardPortfolioTextTitle',{attrs:{"meta":_vm.getPortfolioMeta}}):_vm._e()}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -35966,290 +36955,36 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
-// Request: /src/components/SkeletonLoader/Repository.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js ($id_c1e717e6)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_805bac6e = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/SkeletonLoader/Repository.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("d40144ce")) {
-    __vite_ssr_import_2__.default.createRecord("d40144ce", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("d40144ce", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("d40144ce", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Repository.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/SkeletonLoader/Repository.vue ($id_805bac6e)
-// Dependencies: 
-
-// --------------------
-const $id_c1e717e6 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _vm._m(0)}
-var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"rounded-md space-y-4 p-4"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-5 animate-pulse w-7/12 dark:bg-neutral-700/40"}),_c('div',{staticClass:"space-y-2"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 w-full animate-pulse dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-4/12 dark:bg-neutral-700/40"})]),_c('div',{staticClass:"space-y-2"},[_c('div',{staticClass:"flex items-center justify-between"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"})]),_c('div',{staticClass:"flex items-center justify-between"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-2/6 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"})]),_c('div',{staticClass:"flex items-center justify-between"},[_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded-md bg-gray-300 h-4 animate-pulse w-1/6 dark:bg-neutral-700/40"})])])])}]
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Song.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js ($id_76017f13)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_770d901b = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/SkeletonLoader/Song.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("7dfa2f24")) {
-    __vite_ssr_import_2__.default.createRecord("7dfa2f24", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("7dfa2f24", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("7dfa2f24", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/SkeletonLoader/Song.vue ($id_770d901b)
-// Dependencies: 
-
-// --------------------
-const $id_76017f13 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _vm._m(0)}
-var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"rounded-lg cursor-pointer flex space-x-2 p-2 transition-shadow items-center select-none hover:shadow-md"},[_c('div',{staticClass:"rounded-md bg-gray-200 flex-shrink-0 h-16 animate-pulse w-16 dark:bg-neutral-700/40"}),_c('div',{staticClass:"flex-grow space-y-1"},[_c('div',{staticClass:"rounded bg-gray-200 h-4 animate-pulse w-2/3 dark:bg-neutral-700/40"}),_c('div',{staticClass:"rounded bg-gray-200 h-4 animate-pulse w-1/3 dark:bg-neutral-700/40"})])])}]
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Spinner.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js ($id_12a00ff9)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_f51081b0 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/SkeletonLoader/Spinner.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("1f9a3eda")) {
-    __vite_ssr_import_2__.default.createRecord("1f9a3eda", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("1f9a3eda", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("1f9a3eda", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/SkeletonLoader/Spinner.vue ($id_f51081b0)
-// Dependencies: 
-
-// --------------------
-const $id_12a00ff9 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"flex items-center justify-center"},[_c('svg',{staticClass:"w-8 h-8",attrs:{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24"}},[_c('path',{staticClass:"fill-[#888888] dark:fill-white",attrs:{"d":"M12 2A10 10 0 1 0 22 12A10 10 0 0 0 12 2Zm0 18a8 8 0 1 1 8-8A8 8 0 0 1 12 20Z","opacity":".5"}}),_c('path',{attrs:{"fill":"currentColor","d":"M20 12h2A10 10 0 0 0 12 2V4A8 8 0 0 1 20 12Z"}},[_c('animateTransform',{attrs:{"attributeName":"transform","dur":"1s","from":"0 12 12","repeatCount":"indefinite","to":"360 12 12","type":"rotate"}})],1)])])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Navbar/Blog.vue
+// Request: /src/components/Card/Portfolio/Normal.vue
 // Parents: 
 // - /.nuxt/components/index.js ($id_d9abe5b7)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Navbar/Blog.vue?vue&type=template&lang.js ($id_446fef12)
+// - /src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js ($id_00473b06)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
 // --------------------
-const $id_e8935662 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_90dabcc6 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 __vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
 const __vue2_script = __vite_ssr_import_0__.default.extend({
+  props: {
+    meta: {
+      type: Object,
+      required: true,
+      default: () => {
+      }
+    }
+  },
   data() {
     return {
-      input: "",
-      inputFocused: false
+      hovered: false
     };
-  },
-  computed: {
-    getTargetRoute() {
-      if (this.$route.name === "blog" && !this.isSearching)
-        return {
-          title: "Website Homepage",
-          name: "index"
-        };
-      else
-        return {
-          title: "Blog Homepage",
-          name: "blog"
-        };
-    },
-    isSearching() {
-      const { q, search, query, ara, sorgu, etiket } = this.$route.query;
-      return !!q || !!search || !!query || !!ara || !!sorgu || !!etiket;
-    }
-  },
-  watch: {
-    "$route.path": "routeChange"
-  },
-  methods: {
-    search() {
-      if (this.input)
-        this.$router.push({ name: "blog", query: { q: this.input } });
-    },
-    routeChange() {
-      this.input = "";
-    }
   }
 });
 
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Navbar/Blog.vue?vue&type=template&lang.js");
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js");
 
 const __cssModules = {}
 
@@ -36273,7 +37008,7 @@ function __vue2_injectStyles (context) {
   }
 }
 
-__component__.options.__file = "src/components/Navbar/Blog.vue"
+__component__.options.__file = "src/components/Card/Portfolio/Normal.vue"
 /* hot reload */
 const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
@@ -36281,14 +37016,14 @@ const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/
 
 __vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
 if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("4e4f07e1")) {
-    __vite_ssr_import_3__.default.createRecord("4e4f07e1", __component__.options)
+  if (!__vite_ssr_import_3__.default.isRecorded("2a592326")) {
+    __vite_ssr_import_3__.default.createRecord("2a592326", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("4e4f07e1", update.default)
+      __vite_ssr_import_3__.default.reload("2a592326", update.default)
    })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Navbar/Blog.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("4e4f07e1", update)
+   __vite_ssr_import_meta__.hot.accept("/src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("2a592326", update)
    })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
@@ -36296,18 +37031,15 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 
 
 // --------------------
-// Request: /src/components/Navbar/Blog.vue?vue&type=template&lang.js
+// Request: /src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js
 // Parents: 
-// - /src/components/Navbar/Blog.vue ($id_e8935662)
+// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
 // Dependencies: 
 
 // --------------------
-const $id_446fef12 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_00473b06 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('nav',{staticClass:"w-full z-40"},[_c('div',{staticClass:"container flex mx-auto space-x-4 px-4 text-gray-200 w-11/12 items-center justify-between sm:w-9/12 md:w-7/12"},[_c('SmartLink',{staticClass:"flex-shrink-0 h-10 w-10",attrs:{"href":{ name: _vm.getTargetRoute.name }}},[_c('SmartImage',{staticClass:"rounded-md bg-gray-100 ring-black transition-transform ring-2 ring-opacity-5 sm:transform hover:-rotate-6",attrs:{"src":"/assets/icons/icon.svg","width":"100","height":"100","title":_vm.getTargetRoute.title}})],1),_c('div',{staticClass:"flex space-x-2 items-center justify-end sm:space-x-4"},[_c('div',{staticClass:"rounded-lg flex space-x-2 bg-gray-100 text-gray-500 w-2/3 items-center md:w-full dark:bg-neutral-800",class:{
-          'ring-1 ring-offset-2 ring-offset-gray-50 ring-gray-300 dark:ring-offset-neutral-900 dark:ring-neutral-700':
-            _vm.inputFocused === true,
-        }},[_c('input',{directives:[{name:"model",rawName:"v-model",value:(_vm.input),expression:"input"}],staticClass:"rounded-tl-lg rounded-bl-lg bg-gray-100 w-full py-1.5 px-3 placeholder-gray-500 appearance-none dark:bg-neutral-800 focus:outline-none",attrs:{"id":"search","placeholder":"Search ..."},domProps:{"value":(_vm.input)},on:{"focus":function($event){_vm.inputFocused = true},"blur":function($event){_vm.inputFocused = false},"keydown":function($event){if(!$event.type.indexOf('key')&&_vm._k($event.keyCode,"enter",13,$event.key,"Enter")){ return null; }return _vm.search.apply(null, arguments)},"input":function($event){if($event.target.composing){ return; }_vm.input=$event.target.value}}}),_c('label',{staticClass:"cursor-pointer pr-2",attrs:{"for":"search"},on:{"click":_vm.search}},[_c('IconSearch',{staticClass:"h-4 w-4"})],1)]),_c('ColorSwitcher')],1)],1)])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.meta)?_c('div',{staticClass:"overflow-hidden",on:{"mouseover":function($event){_vm.hovered = true},"mouseleave":function($event){_vm.hovered = false}}},[_c('SmartLink',{staticClass:"rounded-lg cursor-pointer space-y-2 focus-ring",attrs:{"title":_vm.meta.title,"href":_vm.meta.href}},[_c('div',{staticClass:"relative"},[_c('SmartImage',{staticClass:"rounded h-40 w-full flex filter dark:brightness-75",attrs:{"src":_vm.meta.image}}),_c('transition',{attrs:{"name":"fade","mode":"out-in"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.hovered),expression:"hovered"}],staticClass:"flex bg-black/50 inset-0 absolute items-center justify-center"},[_c('IconLink',{staticClass:"h-6 text-white w-6"})],1)])],1),_c('div',{staticClass:"flex flex-col space-y-1"},[_c('h2',{staticClass:"font-medium text-lg leading-tight text-gray-700 truncate dark:text-gray-200 hover:underline"},[_vm._v(" "+_vm._s(_vm.meta.title)+" ")]),_c('p',{staticClass:"text-neutral-500 line-clamp-2"},[_vm._v(" "+_vm._s(_vm.meta.description)+" ")])])])],1):_vm._e()}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -36317,36 +37049,36 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
-// Request: /src/components/Navbar/Default.vue
+// Request: /src/components/Card/Portfolio/Shop.vue
 // Parents: 
 // - /.nuxt/components/index.js ($id_d9abe5b7)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Navbar/Default.vue?vue&type=template&lang.js ($id_9d23d6c5)
+// - /src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js ($id_32e9b538)
 // - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
 // - /@id/__x00__/vite/vueHotReload ($id_d549985b)
 // --------------------
-const $id_bb8b54fd = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_98273508 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 __vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
 const __vue2_script = __vite_ssr_import_0__.default.extend({
-  computed: {
-    getTargetLink() {
-      const path = this.$route.path;
-      if (path !== "/projects/webstax" && path.startsWith("/projects/webstax"))
-        return "/projects/webstax";
-      if (path !== "/shop" && path.startsWith("/shop"))
-        return "/shop";
-      if (path !== "/portfolio" && path.startsWith("/portfolio"))
-        return "/portfolio";
-      else
-        return "/";
+  props: {
+    meta: {
+      type: Object,
+      required: true,
+      default: () => {
+      }
     }
+  },
+  data() {
+    return {
+      hovered: false
+    };
   }
 });
 
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Navbar/Default.vue?vue&type=template&lang.js");
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js");
 
 const __cssModules = {}
 
@@ -36370,7 +37102,7 @@ function __vue2_injectStyles (context) {
   }
 }
 
-__component__.options.__file = "src/components/Navbar/Default.vue"
+__component__.options.__file = "src/components/Card/Portfolio/Shop.vue"
 /* hot reload */
 const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
 
@@ -36378,14 +37110,14 @@ const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/
 
 __vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
 if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("4fa2e452")) {
-    __vite_ssr_import_3__.default.createRecord("4fa2e452", __component__.options)
+  if (!__vite_ssr_import_3__.default.isRecorded("2dfa9f08")) {
+    __vite_ssr_import_3__.default.createRecord("2dfa9f08", __component__.options)
   }
    __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("4fa2e452", update.default)
+      __vite_ssr_import_3__.default.reload("2dfa9f08", update.default)
    })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Navbar/Default.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("4fa2e452", update)
+   __vite_ssr_import_meta__.hot.accept("/src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("2dfa9f08", update)
    })
 }
 __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
@@ -36393,15 +37125,15 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 
 
 // --------------------
-// Request: /src/components/Navbar/Default.vue?vue&type=template&lang.js
+// Request: /src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js
 // Parents: 
-// - /src/components/Navbar/Default.vue ($id_bb8b54fd)
+// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
 // Dependencies: 
 
 // --------------------
-const $id_9d23d6c5 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_32e9b538 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('nav',{staticClass:"w-full"},[_c('div',{staticClass:"container mx-auto px-4 w-11/12 relative sm:w-9/12 md:w-7/12"},[_c('div',{staticClass:"flex items-center justify-between"},[_c('SmartLink',{staticClass:"flex-shrink-0 h-10 w-10",attrs:{"href":_vm.getTargetLink}},[_c('SmartImage',{staticClass:"rounded-md bg-gray-100 ring-black transition-transform ring-2 ring-opacity-5 sm:transform hover:-rotate-6",attrs:{"src":"/assets/icons/icon.svg","width":"100","height":"100","title":"Dani's Website"}})],1),_c('div',{staticClass:"flex space-x-2 items-center"},[_c('CommandPaletteButton'),_c('ColorSwitcher')],1)],1)])])}
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.meta)?_c('div',{staticClass:"overflow-hidden",on:{"mouseover":function($event){_vm.hovered = true},"mouseleave":function($event){_vm.hovered = false}}},[_c('SmartLink',{staticClass:"rounded-lg cursor-pointer space-y-2 focus-ring",attrs:{"title":_vm.meta.title,"href":_vm.meta.href}},[_c('div',{staticClass:"relative"},[_c('SmartImage',{staticClass:"rounded h-40 w-full flex filter bg-neutral-300 dark:bg-neutral-800 dark:brightness-100 rounded-xl",attrs:{"src":_vm.meta.image}}),_c('transition',{attrs:{"name":"fade","mode":"out-in"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.hovered),expression:"hovered"}],staticClass:"flex bg-black/50 inset-0 absolute items-center justify-center rounded-xl"},[_c('IconShoppingCart',{staticClass:"h-6 text-white w-6"})],1)])],1),_c('div',{staticClass:"flex flex-col space-y-1 items-center"},[_c('h2',{staticClass:"font-medium text-lg leading-tight text-gray-700 truncate dark:text-gray-200"},[_vm._v(" "+_vm._s(_vm.meta.title)+" ")]),_c('p',{staticClass:"text-neutral-500 line-clamp-2 flex items-center"},[_vm._v(" "+_vm._s(_vm.meta.description)+" ")])])])],1):_vm._e()}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -36817,313 +37549,13 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
-// Request: /src/components/Card/Portfolio/Index.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js ($id_d7dab732)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_b2f830ba = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  props: {
-    Portfolio: {
-      type: Object,
-      required: true,
-      default: () => {
-      }
-    },
-    type: {
-      type: String,
-      required: false,
-      default: "normal"
-    }
-  },
-  data() {
-    return {
-      hovered: false
-    };
-  },
-  computed: {
-    getPortfolioMeta() {
-      if (!this.Portfolio)
-        return {};
-      const image = this.Portfolio?.image;
-      return {
-        title: this.Portfolio.title || "",
-        description: this.Portfolio.description || "",
-        href: this.Portfolio.href || "",
-        image
-      };
-    }
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Card/Portfolio/Index.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("f1935b88")) {
-    __vite_ssr_import_3__.default.createRecord("f1935b88", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("f1935b88", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("f1935b88", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Card/Portfolio/Index.vue ($id_b2f830ba)
-// Dependencies: 
-
-// --------------------
-const $id_d7dab732 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.type === 'normal')?_c('CardPortfolioNormal',{attrs:{"meta":_vm.getPortfolioMeta}}):(_vm.type === 'shop')?_c('CardPortfolioShop',{attrs:{"meta":_vm.getPortfolioMeta}}):(_vm.type === 'text-only-title')?_c('CardPortfolioTextTitle',{attrs:{"meta":_vm.getPortfolioMeta}}):_vm._e()}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Card/Portfolio/Normal.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js ($id_00473b06)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_90dabcc6 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  props: {
-    meta: {
-      type: Object,
-      required: true,
-      default: () => {
-      }
-    }
-  },
-  data() {
-    return {
-      hovered: false
-    };
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Card/Portfolio/Normal.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("2a592326")) {
-    __vite_ssr_import_3__.default.createRecord("2a592326", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("2a592326", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("2a592326", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Card/Portfolio/Normal.vue ($id_90dabcc6)
-// Dependencies: 
-
-// --------------------
-const $id_00473b06 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.meta)?_c('div',{staticClass:"overflow-hidden",on:{"mouseover":function($event){_vm.hovered = true},"mouseleave":function($event){_vm.hovered = false}}},[_c('SmartLink',{staticClass:"rounded-lg cursor-pointer space-y-2 focus-ring",attrs:{"title":_vm.meta.title,"href":_vm.meta.href}},[_c('div',{staticClass:"relative"},[_c('SmartImage',{staticClass:"rounded h-40 w-full flex filter dark:brightness-75",attrs:{"src":_vm.meta.image}}),_c('transition',{attrs:{"name":"fade","mode":"out-in"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.hovered),expression:"hovered"}],staticClass:"flex bg-black/50 inset-0 absolute items-center justify-center"},[_c('IconLink',{staticClass:"h-6 text-white w-6"})],1)])],1),_c('div',{staticClass:"flex flex-col space-y-1"},[_c('h2',{staticClass:"font-medium text-lg leading-tight text-gray-700 truncate dark:text-gray-200 hover:underline"},[_vm._v(" "+_vm._s(_vm.meta.title)+" ")]),_c('p',{staticClass:"text-neutral-500 line-clamp-2"},[_vm._v(" "+_vm._s(_vm.meta.description)+" ")])])])],1):_vm._e()}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Card/Portfolio/Shop.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js ($id_32e9b538)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_98273508 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  props: {
-    meta: {
-      type: Object,
-      required: true,
-      default: () => {
-      }
-    }
-  },
-  data() {
-    return {
-      hovered: false
-    };
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Card/Portfolio/Shop.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("2dfa9f08")) {
-    __vite_ssr_import_3__.default.createRecord("2dfa9f08", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("2dfa9f08", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("2dfa9f08", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Card/Portfolio/Shop.vue ($id_98273508)
-// Dependencies: 
-
-// --------------------
-const $id_32e9b538 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.meta)?_c('div',{staticClass:"overflow-hidden",on:{"mouseover":function($event){_vm.hovered = true},"mouseleave":function($event){_vm.hovered = false}}},[_c('SmartLink',{staticClass:"rounded-lg cursor-pointer space-y-2 focus-ring",attrs:{"title":_vm.meta.title,"href":_vm.meta.href}},[_c('div',{staticClass:"relative"},[_c('SmartImage',{staticClass:"rounded h-40 w-full flex filter bg-neutral-300 dark:bg-neutral-800 dark:brightness-100 rounded-xl",attrs:{"src":_vm.meta.image}}),_c('transition',{attrs:{"name":"fade","mode":"out-in"}},[_c('div',{directives:[{name:"show",rawName:"v-show",value:(_vm.hovered),expression:"hovered"}],staticClass:"flex bg-black/50 inset-0 absolute items-center justify-center rounded-xl"},[_c('IconShoppingCart',{staticClass:"h-6 text-white w-6"})],1)])],1),_c('div',{staticClass:"flex flex-col space-y-1 items-center"},[_c('h2',{staticClass:"font-medium text-lg leading-tight text-gray-700 truncate dark:text-gray-200"},[_vm._v(" "+_vm._s(_vm.meta.title)+" ")]),_c('p',{staticClass:"text-neutral-500 line-clamp-2 flex items-center"},[_vm._v(" "+_vm._s(_vm.meta.description)+" ")])])])],1):_vm._e()}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 
 // --------------------
-const $id_c3952f5e = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_1c84b102 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 // This file is intentionally left empty for noop aliases
 
@@ -37133,14 +37565,14 @@ __vite_ssr_exports__.default = () => {};
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/content/plugin.server.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/content/plugin.server.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // - /.nuxt/content/nuxt-content.js ($id_1aea1528)
 // --------------------
-const $id_65289a8f = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_337a9e53 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
@@ -37162,7 +37594,7 @@ __vite_ssr_exports__.default = (ctx, inject) => {
 // --------------------
 // Request: /.nuxt/content/nuxt-content.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/content/plugin.server.js ($id_65289a8f)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/content/plugin.server.js ($id_337a9e53)
 // Dependencies: 
 // - /node_modules/property-information/index.js ($id_882dd793)
 // --------------------
@@ -37353,14 +37785,14 @@ exports.find = require('./find')
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/meta.plugin.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/meta.plugin.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 // - /.nuxt/pwa/meta.utils.js ($id_14039dce)
 // - /.nuxt/pwa/meta.json ($id_c5e65813)
 // --------------------
-const $id_cd932039 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_66e9dba7 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/.nuxt/pwa/meta.utils.js");
 
@@ -37377,7 +37809,7 @@ __vite_ssr_exports__.default = function ({ app }) {
 // --------------------
 // Request: /.nuxt/pwa/meta.utils.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/meta.plugin.js ($id_cd932039)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/meta.plugin.js ($id_66e9dba7)
 // Dependencies: 
 
 // --------------------
@@ -37427,7 +37859,7 @@ function hasMeta (arr, key, val) {
 // --------------------
 // Request: /.nuxt/pwa/meta.json
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/meta.plugin.js ($id_cd932039)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/meta.plugin.js ($id_66e9dba7)
 // Dependencies: 
 
 // --------------------
@@ -37519,13 +37951,13 @@ __vite_ssr_exports__.default = {
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/icon.plugin.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/icon.plugin.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 
 // --------------------
-const $id_894bc1e5 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_12f6d708 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 __vite_ssr_exports__.default = async function (ctx, inject) {
   const icons = {"64x64":"/_nuxt/icons/icon_64x64.34cc01.png","120x120":"/_nuxt/icons/icon_120x120.34cc01.png","144x144":"/_nuxt/icons/icon_144x144.34cc01.png","152x152":"/_nuxt/icons/icon_152x152.34cc01.png","192x192":"/_nuxt/icons/icon_192x192.34cc01.png","384x384":"/_nuxt/icons/icon_384x384.34cc01.png","512x512":"/_nuxt/icons/icon_512x512.34cc01.png","ipad_1536x2048":"/_nuxt/icons/splash_ipad_1536x2048.34cc01.png","ipadpro9_1536x2048":"/_nuxt/icons/splash_ipadpro9_1536x2048.34cc01.png","ipadpro10_1668x2224":"/_nuxt/icons/splash_ipadpro10_1668x2224.34cc01.png","ipadpro12_2048x2732":"/_nuxt/icons/splash_ipadpro12_2048x2732.34cc01.png","iphonese_640x1136":"/_nuxt/icons/splash_iphonese_640x1136.34cc01.png","iphone6_50x1334":"/_nuxt/icons/splash_iphone6_50x1334.34cc01.png","iphoneplus_1080x1920":"/_nuxt/icons/splash_iphoneplus_1080x1920.34cc01.png","iphonex_1125x2436":"/_nuxt/icons/splash_iphonex_1125x2436.34cc01.png","iphonexr_828x1792":"/_nuxt/icons/splash_iphonexr_828x1792.34cc01.png","iphonexsmax_1242x2688":"/_nuxt/icons/splash_iphonexsmax_1242x2688.34cc01.png"}
@@ -37537,14 +37969,14 @@ __vite_ssr_exports__.default = async function (ctx, inject) {
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/axios.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/axios.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 // - /node_modules/axios/index.js ($id_9a0dac16)
 // - /node_modules/defu/dist/defu.mjs ($id_d7afab65)
 // --------------------
-const $id_c9b1b777 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_40d84d0a = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/axios/index.js");
 
@@ -37748,7 +38180,7 @@ __vite_ssr_exports__.default = (ctx, inject) => {
 // --------------------
 // Request: /node_modules/axios/index.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/axios.js ($id_c9b1b777)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/axios.js ($id_40d84d0a)
 // Dependencies: 
 
 // --------------------
@@ -37761,7 +38193,7 @@ module.exports = require('./lib/axios');;
 // --------------------
 // Request: /node_modules/defu/dist/defu.mjs
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/axios.js ($id_c9b1b777)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/axios.js ($id_40d84d0a)
 // - /node_modules/@nuxt/image/dist/runtime/image.js ($id_3ab500b1)
 // Dependencies: 
 
@@ -37825,14 +38257,14 @@ Object.defineProperty(__vite_ssr_exports__, "defuFn", { enumerable: true, config
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/color-mode/plugin.server.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/color-mode/plugin.server.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 // - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
 // - /.nuxt/color-mode/color-scheme.js ($id_a671aeb1)
 // --------------------
-const $id_691c3ca3 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_06e5ef66 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
@@ -37902,7 +38334,7 @@ __vite_ssr_exports__.default = function (ctx, inject) {
 // --------------------
 // Request: /.nuxt/color-mode/color-scheme.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/color-mode/plugin.server.js ($id_691c3ca3)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/color-mode/plugin.server.js ($id_06e5ef66)
 // Dependencies: 
 
 // --------------------
@@ -37933,7 +38365,7 @@ __vite_ssr_exports__.default = {
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
@@ -37943,7 +38375,7 @@ __vite_ssr_exports__.default = {
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-picture.vue ($id_99ffd925)
 // - /node_modules/@nuxt/image/dist/runtime/providers/static.js ($id_5c7486f3)
 // --------------------
-const $id_6b78668a = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_0b9c235d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
 
@@ -38009,7 +38441,7 @@ __vite_ssr_exports__.default = function (nuxtContext, inject) {
 // --------------------
 // Request: /node_modules/@nuxt/image/dist/runtime/index.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js ($id_6b78668a)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js ($id_0b9c235d)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-img.vue ($id_e7521e84)
 // - /node_modules/@nuxt/image/dist/runtime/components/nuxt-picture.vue ($id_99ffd925)
 // - /node_modules/@nuxt/image/dist/runtime/providers/ipx.js ($id_493ccf2e)
@@ -39635,7 +40067,7 @@ Object.defineProperty(__vite_ssr_exports__, "useStaticImageMap", { enumerable: t
 // --------------------
 // Request: /node_modules/@nuxt/image/dist/runtime/components/nuxt-img.vue
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js ($id_6b78668a)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js ($id_0b9c235d)
 // Dependencies: 
 // - /node_modules/@nuxt/image/dist/runtime/components/image.mixin.js ($id_1d9436f5)
 // - /node_modules/@nuxt/image/dist/runtime/index.js ($id_76fd2c1e)
@@ -39882,7 +40314,7 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // --------------------
 // Request: /node_modules/@nuxt/image/dist/runtime/components/nuxt-picture.vue
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js ($id_6b78668a)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js ($id_0b9c235d)
 // Dependencies: 
 // - /node_modules/@nuxt/image/dist/runtime/components/image.mixin.js ($id_1d9436f5)
 // - /node_modules/@nuxt/image/dist/runtime/index.js ($id_76fd2c1e)
@@ -40067,7 +40499,7 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // --------------------
 // Request: /node_modules/@nuxt/image/dist/runtime/providers/static.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js ($id_6b78668a)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js ($id_0b9c235d)
 // Dependencies: 
 // - /node_modules/@nuxt/image/dist/runtime/providers/ipx.js ($id_493ccf2e)
 // --------------------
@@ -40137,13 +40569,13 @@ Object.defineProperty(__vite_ssr_exports__, "supportsAlias", { enumerable: true,
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/moment.js
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/moment.js
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 // - /node_modules/moment/dist/moment.js ($id_5205654f)
 // --------------------
-const $id_8e921b0f = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_6fd1e986 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/moment/dist/moment.js");
 
@@ -40159,7 +40591,7 @@ __vite_ssr_exports__.default = (ctx, inject) => {
 // --------------------
 // Request: /node_modules/moment/dist/moment.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/moment.js ($id_8e921b0f)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/moment.js ($id_6fd1e986)
 // - /src/plugins/Utils/getReadableDate.ts ($id_47fdc4af)
 // Dependencies: 
 
@@ -45848,7 +46280,7 @@ __vite_ssr_exports__.default = hooks;
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
@@ -45857,7 +46289,7 @@ __vite_ssr_exports__.default = hooks;
 // - /src/plugins/Utils/getTurkeyTime.ts ($id_3fec4f59)
 // - /src/plugins/Utils/prepareMeta.ts ($id_86f9e449)
 // --------------------
-const $id_88480871 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_e0999506 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/plugins/Utils/getReadableDate.ts");
 
@@ -45881,7 +46313,7 @@ __vite_ssr_exports__.default = Util;
 // --------------------
 // Request: /src/plugins/Utils/getReadableDate.ts
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts ($id_88480871)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts ($id_e0999506)
 // Dependencies: 
 // - /node_modules/moment/dist/moment.js ($id_5205654f)
 // --------------------
@@ -45912,7 +46344,7 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // --------------------
 // Request: /src/plugins/Utils/getReadingTime.ts
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts ($id_88480871)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts ($id_e0999506)
 // Dependencies: 
 
 // --------------------
@@ -45930,7 +46362,7 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // --------------------
 // Request: /src/plugins/Utils/getTurkeyTime.ts
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts ($id_88480871)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts ($id_e0999506)
 // Dependencies: 
 
 // --------------------
@@ -45951,7 +46383,7 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // --------------------
 // Request: /src/plugins/Utils/prepareMeta.ts
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts ($id_88480871)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts ($id_e0999506)
 // Dependencies: 
 
 // --------------------
@@ -46042,13 +46474,13 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Types.ts
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Types.ts
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 
 // --------------------
-const $id_8b437dc3 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_0d39fe18 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 __vite_ssr_exports__.default = () => {
 };
@@ -46057,13 +46489,13 @@ __vite_ssr_exports__.default = () => {
 
 
 // --------------------
-// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/MomentTimezone.ts
+// Request: /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/MomentTimezone.ts
 // Parents: 
 // - /.nuxt/index.js ($id_d8486045)
 // Dependencies: 
 // - /node_modules/moment-timezone/index.js ($id_f88df922)
 // --------------------
-const $id_344ae7b4 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const $id_f807e70b = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/moment-timezone/index.js");
 
@@ -46078,7 +46510,7 @@ __vite_ssr_exports__.default = MomentTimezone;
 // --------------------
 // Request: /node_modules/moment-timezone/index.js
 // Parents: 
-// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/MomentTimezone.ts ($id_344ae7b4)
+// - /@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/MomentTimezone.ts ($id_f807e70b)
 // Dependencies: 
 
 // --------------------
@@ -46187,8 +46619,8 @@ const __modules__ = {
  '/src/pages/projects/webstax/index.vue?vue&type=template&lang.js': $id_5838d853,
  '/src/pages/shop/checkout.vue': $id_9eab4447,
  '/src/pages/shop/checkout.vue?vue&type=template&lang.js': $id_677d0362,
+ '/src/pages/shop/checkout.vue?vue&type=style&index=0&scoped=true&lang.scss': $id_61d54b4c,
  '/src/pages/shop/shop.vue': $id_78b5d8ec,
- '/node_modules/@vue-stripe/vue-stripe/dist/index.js': $id_9ac82bea,
  '/src/pages/shop/shop.vue?vue&type=template&lang.js': $id_ca1f6238,
  '/src/pages/projects/webstax/custom-status.vue': $id_4705e29f,
  '/src/assets/files/premid/largeImages.ts': $id_c0d4e000,
@@ -46203,9 +46635,13 @@ const __modules__ = {
  '/src/pages/shop/products/bitboost.vue': $id_7cc43a7a,
  '/src/pages/shop/products/bitboost.vue?vue&type=template&lang.js': $id_d4ca2ba6,
  '/src/pages/shop/products/bitgen.vue': $id_94c2f627,
+ '/src/pages/shop/products/bitgen.vue?vue&type=template&lang.js': $id_1a23dd00,
  '/src/pages/shop/products/bitraider.vue': $id_20031cd0,
+ '/src/pages/shop/products/bitraider.vue?vue&type=template&lang.js': $id_e613460e,
  '/src/pages/shop/products/bitredeem.vue': $id_9ec5aa02,
+ '/src/pages/shop/products/bitredeem.vue?vue&type=template&lang.js': $id_0cef8882,
  '/src/pages/shop/products/bittool.vue': $id_a93c98dd,
+ '/src/pages/shop/products/bittool.vue?vue&type=template&lang.js': $id_a6f022a0,
  '/src/pages/blog/_slug.vue': $id_82b71af3,
  '/src/pages/blog/_slug.vue?vue&type=template&lang.js': $id_f1e17ed9,
  '/src/pages/blog/_slug.vue?vue&type=style&index=0&lang.scss': $id_d129508d,
@@ -46228,7 +46664,8 @@ const __modules__ = {
  '/.nuxt/store.js': $id_ef05a845,
  '/src/store/palette.ts': $id_3e33c731,
  '/node_modules/vuex-module-decorators/dist/esm/index.js': $id_2c72883d,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/components/plugin.js': $id_a11c6e71,
+ '/src/store/shop.ts': $id_67b966d0,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/components/plugin.js': $id_49d9fa0e,
  '/.nuxt/components/index.js': $id_d9abe5b7,
  '/src/components/Button.vue': $id_b04721bd,
  '/src/components/Button.vue?vue&type=template&lang.js': $id_08c6c64d,
@@ -46297,6 +46734,8 @@ const __modules__ = {
  '/src/components/Icon/Brand.vue?vue&type=template&lang.js': $id_0e4c3f05,
  '/src/components/Icon/Calendar.vue': $id_edab98b0,
  '/src/components/Icon/Calendar.vue?vue&type=template&lang.js': $id_eed7716d,
+ '/src/components/Icon/Cash.vue': $id_308eed36,
+ '/src/components/Icon/Cash.vue?vue&type=template&lang.js': $id_fd480684,
  '/src/components/Icon/Channel.vue': $id_47045b0f,
  '/src/components/Icon/Channel.vue?vue&type=template&lang.js': $id_f5223cd9,
  '/src/components/Icon/Check.vue': $id_a6c38858,
@@ -46307,6 +46746,8 @@ const __modules__ = {
  '/src/components/Icon/Clock.vue?vue&type=template&lang.js': $id_2cc54b96,
  '/src/components/Icon/Cog.vue': $id_312658f3,
  '/src/components/Icon/Cog.vue?vue&type=template&lang.js': $id_bdec175c,
+ '/src/components/Icon/Creditcard.vue': $id_365173c5,
+ '/src/components/Icon/Creditcard.vue?vue&type=template&lang.js': $id_d713b56f,
  '/src/components/Icon/Dev.vue': $id_87d22b1e,
  '/src/components/Icon/Dev.vue?vue&type=template&lang.js': $id_5941e555,
  '/src/components/Icon/Document.vue': $id_6da4b6a5,
@@ -46351,18 +46792,16 @@ const __modules__ = {
  '/src/components/Icon/Times.vue?vue&type=template&lang.js': $id_92102da9,
  '/src/components/Icon/X.vue': $id_b1755d2e,
  '/src/components/Icon/X.vue?vue&type=template&lang.js': $id_8f27ca2c,
- '/src/components/Smart/Image.vue': $id_d0f3ca05,
- '/src/components/Smart/Image.vue?vue&type=template&lang.js': $id_e631b4b4,
- '/src/components/Smart/Link.vue': $id_55692ed2,
- '/src/components/Smart/Link.vue?vue&type=template&lang.js': $id_29abb1b0,
- '/src/components/Blog/Sections/Ratings.vue': $id_e7ce980f,
- '/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js': $id_77585aaa,
  '/src/components/Loaders/Content.vue': $id_9b9aa532,
  '/src/components/Loaders/Content.vue?vue&type=template&lang.js': $id_4d909489,
  '/src/components/Loaders/Goals.vue': $id_c361c855,
  '/src/components/Loaders/Goals.vue?vue&type=template&lang.js': $id_65a54acf,
  '/src/components/Loaders/Songs.vue': $id_5d24790d,
  '/src/components/Loaders/Songs.vue?vue&type=template&lang.js': $id_6eef9244,
+ '/src/components/Navbar/Blog.vue': $id_e8935662,
+ '/src/components/Navbar/Blog.vue?vue&type=template&lang.js': $id_446fef12,
+ '/src/components/Navbar/Default.vue': $id_bb8b54fd,
+ '/src/components/Navbar/Default.vue?vue&type=template&lang.js': $id_9d23d6c5,
  '/src/components/SkeletonLoader/Iframe.vue': $id_3d5c34ad,
  '/src/components/SkeletonLoader/Iframe.vue?vue&type=template&lang.js': $id_afa803af,
  '/src/components/SkeletonLoader/Index.vue': $id_cb358c47,
@@ -46375,10 +46814,18 @@ const __modules__ = {
  '/src/components/SkeletonLoader/Song.vue?vue&type=template&lang.js': $id_76017f13,
  '/src/components/SkeletonLoader/Spinner.vue': $id_f51081b0,
  '/src/components/SkeletonLoader/Spinner.vue?vue&type=template&lang.js': $id_12a00ff9,
- '/src/components/Navbar/Blog.vue': $id_e8935662,
- '/src/components/Navbar/Blog.vue?vue&type=template&lang.js': $id_446fef12,
- '/src/components/Navbar/Default.vue': $id_bb8b54fd,
- '/src/components/Navbar/Default.vue?vue&type=template&lang.js': $id_9d23d6c5,
+ '/src/components/Smart/Image.vue': $id_d0f3ca05,
+ '/src/components/Smart/Image.vue?vue&type=template&lang.js': $id_e631b4b4,
+ '/src/components/Smart/Link.vue': $id_55692ed2,
+ '/src/components/Smart/Link.vue?vue&type=template&lang.js': $id_29abb1b0,
+ '/src/components/Blog/Sections/Ratings.vue': $id_e7ce980f,
+ '/src/components/Blog/Sections/Ratings.vue?vue&type=template&lang.js': $id_77585aaa,
+ '/src/components/Card/Portfolio/Index.vue': $id_b2f830ba,
+ '/src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js': $id_d7dab732,
+ '/src/components/Card/Portfolio/Normal.vue': $id_90dabcc6,
+ '/src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js': $id_00473b06,
+ '/src/components/Card/Portfolio/Shop.vue': $id_98273508,
+ '/src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js': $id_32e9b538,
  '/src/components/Card/Post/Index.vue': $id_97d79fd7,
  '/src/components/Card/Post/Index.vue?vue&type=template&lang.js': $id_e23fa4ed,
  '/src/components/Card/Post/Normal.vue': $id_73191fe5,
@@ -46387,26 +46834,20 @@ const __modules__ = {
  '/src/components/Card/Post/Text.vue?vue&type=template&lang.js': $id_ebae5a9b,
  '/src/components/Card/Post/TextTitle.vue': $id_c37377d1,
  '/src/components/Card/Post/TextTitle.vue?vue&type=template&lang.js': $id_5cffba0a,
- '/src/components/Card/Portfolio/Index.vue': $id_b2f830ba,
- '/src/components/Card/Portfolio/Index.vue?vue&type=template&lang.js': $id_d7dab732,
- '/src/components/Card/Portfolio/Normal.vue': $id_90dabcc6,
- '/src/components/Card/Portfolio/Normal.vue?vue&type=template&lang.js': $id_00473b06,
- '/src/components/Card/Portfolio/Shop.vue': $id_98273508,
- '/src/components/Card/Portfolio/Shop.vue?vue&type=template&lang.js': $id_32e9b538,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/empty.js': $id_c3952f5e,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/content/plugin.server.js': $id_65289a8f,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/empty.js': $id_1c84b102,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/content/plugin.server.js': $id_337a9e53,
  '/.nuxt/content/nuxt-content.js': $id_1aea1528,
  '/node_modules/property-information/index.js': $id_882dd793,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/meta.plugin.js': $id_cd932039,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/meta.plugin.js': $id_66e9dba7,
  '/.nuxt/pwa/meta.utils.js': $id_14039dce,
  '/.nuxt/pwa/meta.json': $id_c5e65813,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/pwa/icon.plugin.js': $id_894bc1e5,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/axios.js': $id_c9b1b777,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/pwa/icon.plugin.js': $id_12f6d708,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/axios.js': $id_40d84d0a,
  '/node_modules/axios/index.js': $id_9a0dac16,
  '/node_modules/defu/dist/defu.mjs': $id_d7afab65,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/color-mode/plugin.server.js': $id_691c3ca3,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/color-mode/plugin.server.js': $id_06e5ef66,
  '/.nuxt/color-mode/color-scheme.js': $id_a671aeb1,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/image.js': $id_6b78668a,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/image.js': $id_0b9c235d,
  '/node_modules/@nuxt/image/dist/runtime/index.js': $id_76fd2c1e,
  '/node_modules/@nuxt/image/dist/runtime/image.js': $id_3ab500b1,
  '/node_modules/@nuxt/image/node_modules/ufo/dist/index.mjs': $id_ab566734,
@@ -46421,15 +46862,15 @@ const __modules__ = {
  '/node_modules/@nuxt/image/dist/runtime/components/nuxt-picture.vue?vue&type=template&lang.js': $id_52e7927d,
  '/node_modules/@nuxt/image/dist/runtime/providers/static.js': $id_5c7486f3,
  '/node_modules/@nuxt/image/dist/runtime/providers/ipx.js': $id_493ccf2e,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/.nuxt/moment.js': $id_8e921b0f,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/.nuxt/moment.js': $id_6fd1e986,
  '/node_modules/moment/dist/moment.js': $id_5205654f,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Util.ts': $id_88480871,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Util.ts': $id_e0999506,
  '/src/plugins/Utils/getReadableDate.ts': $id_47fdc4af,
  '/src/plugins/Utils/getReadingTime.ts': $id_0bb7d8fc,
  '/src/plugins/Utils/getTurkeyTime.ts': $id_3fec4f59,
  '/src/plugins/Utils/prepareMeta.ts': $id_86f9e449,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/Types.ts': $id_8b437dc3,
- '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V2/src/plugins/MomentTimezone.ts': $id_344ae7b4,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/Types.ts': $id_0d39fe18,
+ '/@id/defaultexport:/Users/dan/Documents/Coding/Website-V3/src/plugins/MomentTimezone.ts': $id_f807e70b,
  '/node_modules/moment-timezone/index.js': $id_f88df922,
  '/.nuxt/components/nuxt-link.server.js': $id_136473b2
 }

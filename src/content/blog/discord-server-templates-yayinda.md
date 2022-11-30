@@ -7,7 +7,7 @@ tags:
   - templates
 createdAt: 2020-07-10T14:11:42.334Z
 related:
-  - discord-sunucum-yenilendi
+  - discord-main
 ---
 
 <blog-notification>Discord Server Templates projesi, [Discords.com](https://discords.com/templates) projesi ile birleşmiş ve tüm sorumluluk karşı tarafın yönetici ekibine devredilmiştir.</blog-notification>

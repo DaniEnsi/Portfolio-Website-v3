@@ -35,7 +35,7 @@ export default Vue.extend({
 <template>
   <div class="min-h-screen bg-gray-50 dark:bg-neutral-900">
     <!-- Colored top bar -->
-    <div class="bg-[#FF424D] w-full py-1 dark:bg-neutral-700" />
+    <div class="bg-neutral-500 w-full py-1 dark:bg-neutral-700" />
 
     <!-- Navbar -->
     <transition name="fade" mode="out-in">
@@ -52,7 +52,7 @@ export default Vue.extend({
     <Footer />
 
     <!-- Colored bottom bar -->
-    <div class="bg-[#FF424D] w-full py-1 dark:bg-neutral-700" />
+    <div class="bg-neutral-500 w-full py-1 dark:bg-neutral-700" />
 
     <!-- Command Palette -->
     <CommandPalette />

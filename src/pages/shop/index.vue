@@ -9,19 +9,19 @@ export default Vue.extend({
           image: "https://i.vgy.me/vtpWBl.png",
           title: "BitGen Premium",
           description: "Discord Nitro Generator",
-          href: "/portfolio/portfolio1",
+          href: "/shop/products/bitgen",
         },
         {
           image: "https://i.vgy.me/Qqlhuv.png",
           title: "BitBoost Premium",
           description: "Server Boosting Script",
-          href: "/portfolio/portfolio2",
+          href: "/shop/products/bitboost",
         },
         {
           image: "https://i.vgy.me/LqnvOD.png",
           title: "BitRedeem Premium",
           description: "Nitro Token Generator",
-          href: "/portfolio/portfolio3",
+          href: "/shop/products/bitredeem",
         },
       ],
     }
@@ -58,7 +58,7 @@ export default Vue.extend({
         <h1 class="text-gray-700 text-4xl font-extrabold dark:text-neutral-300">BitStore™ Shop</h1>
 
         <p class="sm:w-9/10">
-          This is the BitStore™ where you can buy my projects and tools. All of my projects are made using the latest technologies and are very easy to use. If you are looking for the free version of my projects, you can find them on my <SmartLink class="text-center sm:truncate hover:underline text-neutral-500" href="">Portfolio</SmartLink>.
+          This is the BitStore™ where you can buy my projects and tools. All of my projects are made using the latest technologies and are very easy to use. If you are looking for the free version of my projects, you can find them on my <SmartLink class="text-center sm:truncate hover:underline text-neutral-500" href="/portfolio">Portfolio</SmartLink>.
         </p>
         <SmartImage
           src="https://i.vgy.me/xtTWgH.png"
@@ -77,10 +77,12 @@ export default Vue.extend({
           </div>
           <div class="flex flex-wrap gap-x-4 gap-y-2 mx-4 pt-10 items-center justify-center">
             <Button variant="github" class="w-full lg:w-max" href="/shop/shop" >
+              <template #icon>
+                <IconSearch class="h-6 text-black dark:text-white w-7 " />
+              </template>
 
               Show all Products
             </Button>
-            <checkout/>
           </div>
         </div>
       </template>

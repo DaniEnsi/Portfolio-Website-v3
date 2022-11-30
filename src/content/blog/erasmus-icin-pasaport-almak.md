@@ -4,7 +4,7 @@ description: Erasmus+ adaylarının kafasını kurcalayan en büyük sorulardan 
 header: https://i.imgur.com/D4VQPhP.jpg
 tags:
   - okul
-  - education
+  - artificial intelligence
   - erasmus
 createdAt: 2021-04-09T17:54:57.008Z
 related:

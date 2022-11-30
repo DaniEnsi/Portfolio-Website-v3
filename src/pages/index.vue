@@ -64,82 +64,75 @@ export default Vue.extend({
       experiences: {
         jobs: [
           {
-            title: "Sane Lunatics Theater Play",
-            url: "https://delilerkumpanyasi.com",
-            position: "Web Developer & Social Media Manager",
-            date: "2022-",
+            title: "Lilium Aviation",
+            url: "https://lilium.com",
+            position: "Intern - Aircraft Engeneering",
+            date: "2022-2023",
           },
           {
-            title: "Discord Templates",
-            url: "https://discords.com/templates",
-            position: "Web Developer & Co-Founder",
-            date: "2020-2021",
+            title: "WebStax",
+            url: "https://webstax.io",
+            position: "Web Developer & Founder",
+            date: "2021-Now",
           },
           {
-            title: "IZM Game Studios",
-            url: "https://izmgamestudios.com",
-            position: "Solution Partner",
-            date: "2020-2021",
+            title: "BitStore",
+            url: "https://bitstore.dev",
+            position: "Founder & Developer",
+            date: "2020-Now",
+          },
+          {
+            title: "Wix/EditorX",
+            url: "https://editorx.com",
+            position: "Intern - Frontend Developer",
+            date: "2021",
             isHidden: true,
           },
           {
-            title: "TruckersMP",
-            url: "https://truckersmp.com/user/1648033",
-            position: "Community Moderator & Translator",
-            date: "2020-2021",
+            title: "Synthesia",
+            url: "https://synthesia.io",
+            position: "Intern - AI Developer",
+            date: "2020",
             isHidden: true,
           },
           {
-            title: "WA Web+ Extension",
-            url: "https://wawplus.com",
-            position: "Translator",
-            date: "2020-2021",
-            isHidden: true,
-          },
-          {
-            title: "Batakköylü Düğün Salonu",
-            url: "https://batakkoylu.netlify.app",
+            title: "Kronik - Services",
+            url: "https://kronik.pages.dev",
             position: "Web Developer",
-            date: "2020-2020",
+            date: "2020",
             isHidden: true,
           },
           {
-            title: "EGGSY's Discord Bot",
-            url: "https://top.gg/bot/eggsy",
-            position: "Creator, Developer and Maintainer",
-            date: "2017-2019",
-          },
-          {
-            title: "Discord Bot List",
-            url: "https://top.gg/user/162969778699501569",
-            position: "Website Moderator",
-            date: "2017-2018",
+            title: "Helmholz Institute",
+            url: "https://www.helmholtz.de",
+            position: "Intern - 3D Printing Technology",
+            date: "2019",
           },
         ],
         education: [
           {
-            title: "Muş Alparslan University",
-            url: "http://alparslan.edu.tr/",
-            position: "English Language Teaching",
-            date: "2020-",
+            title: "Haileybury College UK",
+            url: "http://haileybury.com",
+            position: "International Baccalaureate Diploma",
+            date: "2022-2024",
           },
           {
-            title: "Goce Delchev University",
-            url: "https://www.ugd.edu.mk/",
-            position: "Erasmus+ Student",
-            date: "2021-2022",
+            title: "Haileybury College UK",
+            url: "http://haileybury.com",
+            position: "IGCSE's",
+            date: "2020-2022",
           },
           {
-            title: "Rotosis Robotics",
-            url: "https://www.rotosis.com/",
-            position: "Intern",
-            date: "2017-2018",
+            title: "Ostsee-Gymnasium",
+            url: "https://www.ostsee-gymnasium.de",
+            position: "Abitur",
+            date: "2018-2020",
             isHidden: true,
           },
           {
-            title: "Adil Karaağaç MTAL",
-            url: "https://akatl.meb.k12.tr/",
-            position: "Automation Systems",
+            title: "Emil-von-Behring-Gymnasium",
+            url: "http://www.evbg.de",
+            position: "Abitur",
             date: "2014-2018",
           },
         ],
@@ -305,7 +298,7 @@ export default Vue.extend({
             <h1>
               <SmartLink
                 href="https://www.w3schools.com/whatis/whatis_fullstack_js.asp"
-                class="cursor-help border-b-2 border-ambertext-bg-[#FF424D] text-[#FF424D] dark:border-neutral-500 dark:text-neutral-500"
+                class="cursor-help border-b-2 border-neutral-500 text-neutral-500 dark:border-neutral-500 dark:text-neutral-500"
                 blank
                 >Full-stack</SmartLink
               >
@@ -314,7 +307,7 @@ export default Vue.extend({
           </div>
 
           <p class="text-neutral-500">
-            Hi there, my name is Daniel and I am a passionate developer from Germany 🇩🇪. I build complex web apps using frameworks such
+            Hi there, my name is Daniel and I am a passionate Web-developer from Germany 🇩🇪. I build complex web apps using frameworks such
             as
             <SmartLink href="https://vuejs.org/" class="description-link" blank
               >Vue.js</SmartLink

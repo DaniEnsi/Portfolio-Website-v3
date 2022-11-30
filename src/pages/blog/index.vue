@@ -15,8 +15,8 @@ export default Vue.extend({
         linux: [] as Post[],
         rest: [] as Post[],
       },
-      categories: ["Discord", "Linux", "Education", "Frontend", "Site"],
-      selectedCategory: "Discord",
+      categories: ["Discord", "MacOS", "Artificial Intelligence", "Frontend", "Site"],
+      selectedCategory: "MacOS",
     }
   },
   async fetch() {
@@ -34,7 +34,7 @@ export default Vue.extend({
       .fetch()
 
     const linuxPosts: Post[] = await this.$content("blog")
-      .where({ tags: { $contains: "linux" } })
+      .where({ tags: { $contains: "MacOS" } })
       .sortBy("createdAt", "desc")
       .limit(3)
       .without(["body"])

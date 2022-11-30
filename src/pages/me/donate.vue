@@ -20,14 +20,14 @@ export default Vue.extend({
         {
           image: "https://i.vgy.me/Qez9an.png",
           name: "Bitcoin",
-          iban: "bc1qupstg2fur0am69h308f0eg6hz6203st9gj4uz4",
+          iban: "bc1qupstg2fur0am69h308 f0eg6hz6203st9gj4uz4",
           link: "#",
           revealed: false,
         },
         {
           image: "https://i.vgy.me/qbi9rX.png",
           name: "Ethereum",
-          iban: "0xAf814E2F4263234BA8eF0B97028fB148d2c33626",
+          iban: "0xAf814E2F4263234BA8e F0B97028fB148d2c33626",
           link: "#",
           revealed: false,
         },
@@ -149,7 +149,7 @@ export default Vue.extend({
           >
             <template #icon>
               <SmartImage
-                src="https://i.vgy.me/qxpY9T.png"
+                src="https://i.vgy.me/w3N0Ef.png"
                 class="rounded h-7 w-7"
               />
             </template>
@@ -186,7 +186,7 @@ export default Vue.extend({
 
                 <SmartLink
                   v-if="account.revealed == true"
-                  class="text-gray-800 dark:text-neutral-500" :href="account.link "
+                  class="text-gray-800 dark:text-neutral-500 overflow-hidden" :href="account.link "
                 >
                   {{ account.iban }}
               </SmartLink>

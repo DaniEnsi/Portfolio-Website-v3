@@ -3,13 +3,15 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
 import * as $388c6c76 from '../src/store/palette.ts'
+import * as $2d297bec from '../src/store/shop.ts'
 
 Vue.use(Vuex)
 
 const VUEX_PROPERTIES = ['state', 'getters', 'actions', 'mutations']
 
 const storeModules = {
-  ['palette']: $388c6c76
+  ['palette']: $388c6c76,
+  ['shop']: $2d297bec
 }
 
 export function createStore() {

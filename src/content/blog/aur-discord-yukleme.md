@@ -3,7 +3,7 @@ title: Installing Discord from AUR
 description: In this shipment, you can learn how Discord can install from AUR used by Manjaro and Arch -based Linux distributions.
 tags:
   - discord
-  - linux
+  - macos
   - manjaro
   - arch
 createdAt: 2020-02-01T11:58:45.357Z

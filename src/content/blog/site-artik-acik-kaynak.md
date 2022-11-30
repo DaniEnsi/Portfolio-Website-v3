@@ -4,7 +4,7 @@ description: Yaklaşık bir buçuk yıldır yönettiğim ve içerik girdiğim, s
 createdAt: 2020-11-01T18:08:08.507Z
 header: https://i.imgur.com/Rmslq6B.jpg
 tags:
-  - haber
+  - artificial intelligence
   - site
 related:
   - blog-yenilendi
