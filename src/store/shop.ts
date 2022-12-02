@@ -15,7 +15,7 @@ class Shop extends VuexModule {
   }
 
   @Mutation
-  setPrice(price: string) {
+  setPrice(price:  string) {
     this.price2 = price
   }
 }

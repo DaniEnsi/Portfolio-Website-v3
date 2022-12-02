@@ -3,7 +3,7 @@ export default {
     discord: "https://discord.gg/uHQFuekVun", //done
     twitter: "https://twitter.com/dani_duese/", // done
     github: "https://github.com/daniensi/", // done
-    linkedIn: "https://linkedin.com/in/daniduese", // missing
+    linkedIn: "https://linkedin.com/in/daniduese", // done
     instagram: "https://instagram.com/densminger23/", //done
     trello: "https://trello.com/", // missing
     email: "daniensi@bitstore.dev", // done

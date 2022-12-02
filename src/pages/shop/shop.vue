@@ -11,35 +11,35 @@ export default Vue.extend({
           image: "https://i.vgy.me/vtpWBl.png",
           name: "BitGen Premium",
           describtion: "Discord Nitro Generator",
-          price: "50€",
+          price: 9.99,
           href: "/shop/products/bitgen",
         },
         {
           image: "https://i.vgy.me/Qqlhuv.png",
           name: "BitBoost Premium",
           describtion: "Discord Nitro Generator",
-          price: "100€",
+          price: 19.99,
           href: "/shop/products/bitboost",
         },
         {
           image: "https://i.vgy.me/LqnvOD.png",
           name: "BitRedeem Premium",
           describtion: "Discord Nitro Generator",
-          price: "50€",
+          price: 9.99,
           href: "/shop/products/bitredeem",
         },
         {
           image: "https://i.vgy.me/KthxwR.png",
           name: "BitTool Premium",
           describtion: "Discord Nitro Generator",
-          price: "100€",
+          price: 19.99,
           href: "/shop/products/bittool",
         },
         {
           image: "https://i.vgy.me/yqhsH6.png",
           name: "BitRaider Premium",
           describtion: "Discord Nitro Generator",
-          price: "25€",
+          price: 14.99,
           href: "/shop/products/bitraider",
         },
       ],
@@ -113,11 +113,11 @@ export default Vue.extend({
 
 
                 <span class="text-gray-800 dark:text-neutral-500">
-                  Price: {{ account.price }}
+                  Price: {{ String(account.price) }}$
                 </span>
               </div>
               <div class="w-full flex pr-10 gap-5 justify-end items-center">
-                <Button variant="github" class="my-2  hover:bg-neutral-500" @click.native="setItem(account.name), setPrice(account.price)">
+                <Button variant="github" class="my-2  hover:bg-neutral-500" @click.native="setItem(account.name), setPrice(String(account.price))">
                   <template #icon>
                     <IconCash class="h-6 text-black dark:text-white w-7 " />
                   </template>

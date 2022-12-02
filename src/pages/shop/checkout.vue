@@ -1,10 +1,10 @@
 <script lang="ts">
 import Vue from 'vue';
-import { defineComponent, ref, onBeforeMount } from 'vue'
 
-export default defineComponent({
+export default Vue.extend({
   data() {
     return {
+      pricenum : 0,
       price: "error",
       item: "Error",
       creditCardNumber: "",
@@ -20,7 +20,11 @@ export default defineComponent({
   mounted() {
     // get price and item in from vuex storage
     this.price = this.$store.state?.shop?.price2
+    this.pricenum = Number(this.price)
     this.item = this.$store.state?.shop?.item2
+    if (this.price == "error" || this.item == "error") {
+      this.$router.push("/shop/shop")
+    }
     
   },
   watch: {
@@ -131,8 +135,13 @@ export default defineComponent({
                 <IconCash class="h-6 text-black dark:text-white w-6 " />
               </template>
             
-              Pay {{price}} with Stripe
+              Pay {{price}}$ with Stripe
             </Button>
+          </div>
+          <div class="pt-10 flex">
+          <a>
+            By clicking the button above, you agree to our <SmartLink href="/terms" class="text-blue-500 hover:text-blue-600">Terms of Service</SmartLink>.
+          </a>
           </div>
         </div>
       </div>

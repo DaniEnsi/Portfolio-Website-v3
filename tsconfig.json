@@ -17,6 +17,7 @@
     },
     "types": [
       "@types/node",
+      "vite/client",
       /* Nuxt types */
       "@nuxt/types",
       "@nuxt/content",
@@ -31,5 +32,13 @@
     ],
     "typeRoots": ["./@types"]
   },
-  "exclude": ["node_modules"]
+  "exclude": ["node_modules"],
+  "include": [
+    "stories/**/*.vue",
+    "src/**/*.js",
+    "src/**/*.ts",
+    "src/**/*.d.ts",
+    "src/**/*.vue"
+  ]
+  
 }

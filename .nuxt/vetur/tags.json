@@ -77,6 +77,15 @@
   "CommandPaletteItem": {
     "description": "Auto imported from components/CommandPalette/Item.vue"
   },
+  "LoadersContent": {
+    "description": "Auto imported from components/Loaders/Content.vue"
+  },
+  "LoadersGoals": {
+    "description": "Auto imported from components/Loaders/Goals.vue"
+  },
+  "LoadersSongs": {
+    "description": "Auto imported from components/Loaders/Songs.vue"
+  },
   "IconAcademicHat": {
     "description": "Auto imported from components/Icon/AcademicHat.vue"
   },
@@ -179,14 +188,11 @@
   "IconX": {
     "description": "Auto imported from components/Icon/X.vue"
   },
-  "LoadersContent": {
-    "description": "Auto imported from components/Loaders/Content.vue"
+  "SmartImage": {
+    "description": "Auto imported from components/Smart/Image.vue"
   },
-  "LoadersGoals": {
-    "description": "Auto imported from components/Loaders/Goals.vue"
-  },
-  "LoadersSongs": {
-    "description": "Auto imported from components/Loaders/Songs.vue"
+  "SmartLink": {
+    "description": "Auto imported from components/Smart/Link.vue"
   },
   "NavbarBlog": {
     "description": "Auto imported from components/Navbar/Blog.vue"
@@ -196,12 +202,6 @@
   },
   "BlogSectionsRatings": {
     "description": "Auto imported from components/Blog/Sections/Ratings.vue"
-  },
-  "SmartImage": {
-    "description": "Auto imported from components/Smart/Image.vue"
-  },
-  "SmartLink": {
-    "description": "Auto imported from components/Smart/Link.vue"
   },
   "SkeletonLoaderIframe": {
     "description": "Auto imported from components/SkeletonLoader/Iframe.vue"

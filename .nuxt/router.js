@@ -9,6 +9,7 @@ const _2a75f972 = () => interopDefault(import('../src/pages/daily-song.vue' /* w
 const _57a9953d = () => interopDefault(import('../src/pages/portfolio/index.vue' /* webpackChunkName: "pages/portfolio/index" */))
 const _15a2f912 = () => interopDefault(import('../src/pages/shop/index.vue' /* webpackChunkName: "pages/shop/index" */))
 const _3a7abcf0 = () => interopDefault(import('../src/pages/songs.vue' /* webpackChunkName: "pages/songs" */))
+const _c46d280e = () => interopDefault(import('../src/pages/terms.vue' /* webpackChunkName: "pages/terms" */))
 const _271109a7 = () => interopDefault(import('../src/pages/me/contact.vue' /* webpackChunkName: "pages/me/contact" */))
 const _84f75e90 = () => interopDefault(import('../src/pages/me/donate.vue' /* webpackChunkName: "pages/me/donate" */))
 const _7c3b2f55 = () => interopDefault(import('../src/pages/me/hireme.vue' /* webpackChunkName: "pages/me/hireme" */))
@@ -67,6 +68,10 @@ export const routerOptions = {
     path: "/songs",
     component: _3a7abcf0,
     name: "songs"
+  }, {
+    path: "/terms",
+    component: _c46d280e,
+    name: "terms"
   }, {
     path: "/me/contact",
     component: _271109a7,
