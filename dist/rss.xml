@@ -4,7 +4,7 @@
         <title>Dani's Blog</title>
         <link>https://bitstore.dev/blog</link>
         <description>Dani's blog page in which he talks about daily life, experience, holds what he wants to show or tell what he wants to show in a more organized and professional way.</description>
-        <lastBuildDate>Wed, 30 Nov 2022 17:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 00:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Discord Sunucum Yenilendi!]]></title>
+            <link>https://bitstore.dev/blog/discord-sunucum-yenilendi</link>
+            <guid>https://bitstore.dev/blog/discord-sunucum-yenilendi</guid>
+            <pubDate>Fri, 10 Jul 2020 14:38:39 GMT</pubDate>
+            <description><![CDATA[Discord botum kapandıktan beri eski hâliyle boş bir şekilde duran sunucumu, aynı bu site gibi projelerimi ve projelerim hakkındaki bilgileri paylaştığım bir sunucuya çevirdim.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/discord-sunucum-yenilendi.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Botlaştırılmış Kullanıcı Hesapları Neden Yasak?]]></title>
             <link>https://bitstore.dev/blog/botlastirilmis-kullanici-hesaplari-neden-yasak</link>
             <guid>https://bitstore.dev/blog/botlastirilmis-kullanici-hesaplari-neden-yasak</guid>
@@ -48,14 +56,6 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/discord-server-templates-yayinda.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Discord Sunucum Yenilendi!]]></title>
-            <link>https://bitstore.dev/blog/discord-sunucum-yenilendi</link>
-            <guid>https://bitstore.dev/blog/discord-sunucum-yenilendi</guid>
-            <pubDate>Fri, 10 Jul 2020 14:38:39 GMT</pubDate>
-            <description><![CDATA[Discord botum kapandıktan beri eski hâliyle boş bir şekilde duran sunucumu, aynı bu site gibi projelerimi ve projelerim hakkındaki bilgileri paylaştığım bir sunucuya çevirdim.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/discord-sunucum-yenilendi.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Dizi Önerilerim]]></title>
             <link>https://bitstore.dev/blog/dizi-onerilerim</link>
             <guid>https://bitstore.dev/blog/dizi-onerilerim</guid>
@@ -64,12 +64,12 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/dizi-onerilerim.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Erasmus+ İçin Pasaport Almak]]></title>
-            <link>https://bitstore.dev/blog/erasmus-icin-pasaport-almak</link>
-            <guid>https://bitstore.dev/blog/erasmus-icin-pasaport-almak</guid>
-            <pubDate>Fri, 09 Apr 2021 17:54:57 GMT</pubDate>
-            <description><![CDATA[Erasmus+ adaylarının kafasını kurcalayan en büyük sorulardan biri pasaport almayı bu yazımda anlatacağım.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/erasmus-icin-pasaport-almak.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Unblock Please'e Merhaba Deyin!]]></title>
+            <link>https://bitstore.dev/blog/imgur-please-artik-unblock-please</link>
+            <guid>https://bitstore.dev/blog/imgur-please-artik-unblock-please</guid>
+            <pubDate>Wed, 02 Sep 2020 17:00:12 GMT</pubDate>
+            <description><![CDATA[Imgur Please projem, adı değişerek artık sadece Imgur engelini kaldırmaya değil, aynı zamanda Pastebin engelini de kaldırmaya yarıyor!]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/imgur-please-artik-unblock-please.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[New Impoertant Test]]></title>
@@ -80,12 +80,12 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/iki-turk-uc-yabanci-bes-gun.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Unblock Please'e Merhaba Deyin!]]></title>
-            <link>https://bitstore.dev/blog/imgur-please-artik-unblock-please</link>
-            <guid>https://bitstore.dev/blog/imgur-please-artik-unblock-please</guid>
-            <pubDate>Wed, 02 Sep 2020 17:00:12 GMT</pubDate>
-            <description><![CDATA[Imgur Please projem, adı değişerek artık sadece Imgur engelini kaldırmaya değil, aynı zamanda Pastebin engelini de kaldırmaya yarıyor!]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/imgur-please-artik-unblock-please.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Erasmus+ İçin Pasaport Almak]]></title>
+            <link>https://bitstore.dev/blog/erasmus-icin-pasaport-almak</link>
+            <guid>https://bitstore.dev/blog/erasmus-icin-pasaport-almak</guid>
+            <pubDate>Fri, 09 Apr 2021 17:54:57 GMT</pubDate>
+            <description><![CDATA[Erasmus+ adaylarının kafasını kurcalayan en büyük sorulardan biri pasaport almayı bu yazımda anlatacağım.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/erasmus-icin-pasaport-almak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Imgur Please Nedir?]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/manjaro-nedir.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Main Page 1]]></title>
-            <link>https://bitstore.dev/blog/musta-okumak</link>
-            <guid>https://bitstore.dev/blog/musta-okumak</guid>
-            <pubDate>Wed, 13 Apr 2022 23:00:00 GMT</pubDate>
-            <description><![CDATA[This is an example post about Main Page 1]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/musta-okumak.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Must: Ne İzlediğinizi Bilin]]></title>
             <link>https://bitstore.dev/blog/must-ne-izlediginizi-bilin</link>
             <guid>https://bitstore.dev/blog/must-ne-izlediginizi-bilin</guid>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 09 Jan 2020 00:28:41 GMT</pubDate>
             <description><![CDATA[Bundan sonra gönderilerimi paylaşacağım blogumun hayata geliş hikâyesi. Oldukça zorlu bir yoldan geçti ancak sonunda her şeyiyle servise hazır! Yeni blogumuzu siz de inceleyin!]]></description>
             <enclosure url="https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Main Page 1]]></title>
+            <link>https://bitstore.dev/blog/musta-okumak</link>
+            <guid>https://bitstore.dev/blog/musta-okumak</guid>
+            <pubDate>Wed, 13 Apr 2022 23:00:00 GMT</pubDate>
+            <description><![CDATA[This is an example post about Main Page 1]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/musta-okumak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Neler Dönüyor?]]></title>
@@ -160,14 +160,6 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/okul-gunlukleri-podcast.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Okul Günlükleri: Giriş]]></title>
-            <link>https://bitstore.dev/blog/okul-gunlukleri</link>
-            <guid>https://bitstore.dev/blog/okul-gunlukleri</guid>
-            <pubDate>Thu, 18 Mar 2021 22:02:56 GMT</pubDate>
-            <description><![CDATA[Education gördüğüm okulda aldığımız derslerde ilgimi çeken konuları, kullanılan yöntemleri detaylarıyla paylaşacağım serinin giriş bölümü.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/okul-gunlukleri.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?]]></title>
             <link>https://bitstore.dev/blog/on-gun-dort-farkli-ulke</link>
             <guid>https://bitstore.dev/blog/on-gun-dort-farkli-ulke</guid>
@@ -176,12 +168,12 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/on-gun-dort-farkli-ulke.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Raycast: Geliştiriciler İçin Üretkenlik Aracı]]></title>
-            <link>https://bitstore.dev/blog/raycast-uretkenlik-araci</link>
-            <guid>https://bitstore.dev/blog/raycast-uretkenlik-araci</guid>
-            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Mac kullanıcıları ve özellikle geliştiriciler için Spotlight'ınızın yerini alacak ve her işleminizi hızlandıracak bir alternatif olan Raycast ile işlerinizi kolaylaştırın.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/raycast-uretkenlik-araci.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Okul Günlükleri: Giriş]]></title>
+            <link>https://bitstore.dev/blog/okul-gunlukleri</link>
+            <guid>https://bitstore.dev/blog/okul-gunlukleri</guid>
+            <pubDate>Thu, 18 Mar 2021 22:02:56 GMT</pubDate>
+            <description><![CDATA[Education gördüğüm okulda aldığımız derslerde ilgimi çeken konuları, kullanılan yöntemleri detaylarıyla paylaşacağım serinin giriş bölümü.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/okul-gunlukleri.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PreMiD Nasıl Kullanılır?]]></title>
@@ -192,12 +184,12 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/premid-nasil-kullanilir.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sürekli Renk Değiştiren Roller Neden Yasak?]]></title>
-            <link>https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak</link>
-            <guid>https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak</guid>
-            <pubDate>Thu, 09 Jan 2020 00:59:03 GMT</pubDate>
-            <description><![CDATA[Bu gönderi ile Discord botlarında neden "sürekli renk değiştiren" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Raycast: Geliştiriciler İçin Üretkenlik Aracı]]></title>
+            <link>https://bitstore.dev/blog/raycast-uretkenlik-araci</link>
+            <guid>https://bitstore.dev/blog/raycast-uretkenlik-araci</guid>
+            <pubDate>Wed, 19 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Mac kullanıcıları ve özellikle geliştiriciler için Spotlight'ınızın yerini alacak ve her işleminizi hızlandıracak bir alternatif olan Raycast ile işlerinizi kolaylaştırın.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/raycast-uretkenlik-araci.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sitem Artık Açık Kaynak!]]></title>
@@ -208,20 +200,20 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/site-artik-acik-kaynak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sürekli Renk Değiştiren Roller Neden Yasak?]]></title>
+            <link>https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak</link>
+            <guid>https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak</guid>
+            <pubDate>Thu, 09 Jan 2020 00:59:03 GMT</pubDate>
+            <description><![CDATA[Bu gönderi ile Discord botlarında neden "sürekli renk değiştiren" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[SLOWLY: Yeni Köye Eski Adet?]]></title>
             <link>https://bitstore.dev/blog/slowly-yeni-koye-eski-adet</link>
             <guid>https://bitstore.dev/blog/slowly-yeni-koye-eski-adet</guid>
             <pubDate>Wed, 19 May 2021 22:12:47 GMT</pubDate>
             <description><![CDATA[Holla kolay, zahmetsiz, eğlenceli ve heyecanlı yapan uygulama SLOWLY hakkında kendi görüşlerim ve fikirlerim!]]></description>
             <enclosure url="https://bitstore.dev/assets/images/posts/slowly-yeni-koye-eski-adet.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bot Kullanarak Sunucudaki Herkese DM Atmak Neden Yasak?]]></title>
-            <link>https://bitstore.dev/blog/sunucudaki-herkese-dm-atmak-neden-yasak</link>
-            <guid>https://bitstore.dev/blog/sunucudaki-herkese-dm-atmak-neden-yasak</guid>
-            <pubDate>Thu, 09 Jan 2020 01:01:31 GMT</pubDate>
-            <description><![CDATA[Evet, botlar kullanılarak bir veya botun olduğu tüm sunuculardaki kullanıcılara bir anda mesaj gönderilebilir. Bu hoş bir şey mi? Hayır. Bunu yapmak yasak mı? Evet!]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Spotify Bağlantısından YouTube Videosu Bulma (Node)]]></title>
@@ -232,12 +224,12 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/spotify-baglantisindan-youtube-videosu-bulma.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yeni Alan Adı!]]></title>
-            <link>https://bitstore.dev/blog/yeni-alan-adi</link>
-            <guid>https://bitstore.dev/blog/yeni-alan-adi</guid>
-            <pubDate>Wed, 22 Jul 2020 14:03:24 GMT</pubDate>
-            <description><![CDATA[Eski alan adının yenileme ücretinin aşırılığı dolayısıyla, yeni bir alan adı alarak sitenin tamamını oraya taşıma kararı aldım. Eski alan adı, kalan süresi boyunca otomatik olarak tüm istekleri yeni alan adına yönlendirecek, o yüzden endişe etmenize gerek yok.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/yeni-alan-adi.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Bot Kullanarak Sunucudaki Herkese DM Atmak Neden Yasak?]]></title>
+            <link>https://bitstore.dev/blog/sunucudaki-herkese-dm-atmak-neden-yasak</link>
+            <guid>https://bitstore.dev/blog/sunucudaki-herkese-dm-atmak-neden-yasak</guid>
+            <pubDate>Thu, 09 Jan 2020 01:01:31 GMT</pubDate>
+            <description><![CDATA[Evet, botlar kullanılarak bir veya botun olduğu tüm sunuculardaki kullanıcılara bir anda mesaj gönderilebilir. Bu hoş bir şey mi? Hayır. Bunu yapmak yasak mı? Evet!]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vue ve Nuxt Nedir? Ne İşe Yarar?]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 04 May 2020 21:37:39 GMT</pubDate>
             <description><![CDATA[Kendi internet sitemin ve katkıda bulunduğum tüm projelerinde kullandığı Nuxt'un temeli Vue nedir, ikisi arasındaki farklılıklar nelerdir, bunlarla ne tür şeyler yapılır?]]></description>
             <enclosure url="https://bitstore.dev/assets/images/posts/vue-nuxt-nedir.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yeni Alan Adı!]]></title>
+            <link>https://bitstore.dev/blog/yeni-alan-adi</link>
+            <guid>https://bitstore.dev/blog/yeni-alan-adi</guid>
+            <pubDate>Wed, 22 Jul 2020 14:03:24 GMT</pubDate>
+            <description><![CDATA[Eski alan adının yenileme ücretinin aşırılığı dolayısıyla, yeni bir alan adı alarak sitenin tamamını oraya taşıma kararı aldım. Eski alan adı, kalan süresi boyunca otomatik olarak tüm istekleri yeni alan adına yönlendirecek, o yüzden endişe etmenize gerek yok.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/yeni-alan-adi.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

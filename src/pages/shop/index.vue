@@ -1,31 +1,8 @@
 <script lang="ts">
 import Vue from "vue"
 
+// set $fetchState to true untill all the pictures are loaded in the page
 export default Vue.extend({
-  data() {
-    return {
-      shop: [
-        {
-          image: "https://i.vgy.me/vtpWBl.png",
-          title: "BitGen Premium",
-          description: "Discord Nitro Generator",
-          href: "/shop/products/bitgen",
-        },
-        {
-          image: "https://i.vgy.me/Qqlhuv.png",
-          title: "BitBoost Premium",
-          description: "Server Boosting Script",
-          href: "/shop/products/bitboost",
-        },
-        {
-          image: "https://i.vgy.me/LqnvOD.png",
-          title: "BitRedeem Premium",
-          description: "Nitro Token Generator",
-          href: "/shop/products/bitredeem",
-        },
-      ],
-    }
-  },
   head() {
     const title = "BitStore"
     const description =
@@ -47,6 +24,54 @@ export default Vue.extend({
       ],
     }
   },
+  data() {
+    return {
+      $fetchState: {
+        pending: true,
+      },
+        shop: [
+          {
+            image: "https://i.vgy.me/vtpWBl.png",
+            title: "BitGen Premium",
+            description: "Discord Nitro Generator",
+            href: "/shop/products/bitgen",
+          },
+          {
+            image: "https://i.vgy.me/Qqlhuv.png",
+            title: "BitBoost Premium",
+            description: "Server Boosting Script",
+            href: "/shop/products/bitboost",
+          },
+          {
+            image: "https://i.vgy.me/LqnvOD.png",
+            title: "BitRedeem Premium",
+            description: "Nitro Token Generator",
+            href: "/shop/products/bitredeem",
+          },
+        ],
+    }
+  },
+  // wait for this image https://i.vgy.me/xtTWgH.png to load before setting $fetchState to false
+  async fetch()  {
+    const image = new Image()
+    image.src = "https://i.vgy.me/xtTWgH.png"
+    await new Promise((resolve, reject) => {
+      // figure out if image is cached or not, if it is cached then set $fetchState to false and if it isn't cached then set $fetchState to false after 2 seconds
+      if (image.complete) {
+        this.$fetchState.pending = false
+        resolve
+      } else {
+        image.onload = () => {
+          this.$fetchState.pending = false
+          setTimeout(() => {
+            resolve
+          }, 1000)
+        }
+        }
+        image.onerror = reject
+      }
+    )
+  },
 })
 
 </script>
@@ -60,11 +85,13 @@ export default Vue.extend({
         <p class="sm:w-9/10">
           This is the BitStore™ where you can buy my projects and tools. All of my projects are made using the latest technologies and are very easy to use. If you are looking for the free version of my projects, you can find them on my <SmartLink class="text-center sm:truncate hover:underline text-neutral-500" href="/portfolio">Portfolio</SmartLink>.
         </p>
-        <SmartImage
+        <SkeletonLoader v-if="$fetchState.pending" class="rounded-lg test bg-gray-300 animate-pulse dark:bg-neutral-700/40" />
+        <SmartImage v-else
           src="https://i.vgy.me/xtTWgH.png"
-          alt="BitStore"
+          alt="BitStore" class="main"
         />
       </header>
+      
       <template>
         <div class="pt-0">
           <Title>Featured Products</Title>
@@ -91,3 +118,11 @@ export default Vue.extend({
 
 </template>
 
+
+<style lang="scss" scoped>
+.test {
+  height: 100%;
+  aspect-ratio: 16/9;
+}
+
+</style>

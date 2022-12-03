@@ -26,6 +26,13 @@
             "date_modified": "2020-01-09T03:26:00.000Z"
         },
         {
+            "url": "https://bitstore.dev/blog/discord-sunucum-yenilendi",
+            "title": "Discord Sunucum Yenilendi!",
+            "summary": "Discord botum kapandıktan beri eski hâliyle boş bir şekilde duran sunucumu, aynı bu site gibi projelerimi ve projelerim hakkındaki bilgileri paylaştığım bir sunucuya çevirdim.",
+            "image": "https://bitstore.dev/assets/images/posts/discord-sunucum-yenilendi.jpg",
+            "date_modified": "2020-07-10T14:38:39.506Z"
+        },
+        {
             "url": "https://bitstore.dev/blog/botlastirilmis-kullanici-hesaplari-neden-yasak",
             "title": "Botlaştırılmış Kullanıcı Hesapları Neden Yasak?",
             "summary": "Bu gönderi ile Discord hesaplarını \"bot\"a çeviren kullanıcıların neden bunu yapmaması gerektiğini ve bunun neden yasak olduğunu öğrenebilirsiniz.",
@@ -40,13 +47,6 @@
             "date_modified": "2020-07-10T14:11:42.334Z"
         },
         {
-            "url": "https://bitstore.dev/blog/discord-sunucum-yenilendi",
-            "title": "Discord Sunucum Yenilendi!",
-            "summary": "Discord botum kapandıktan beri eski hâliyle boş bir şekilde duran sunucumu, aynı bu site gibi projelerimi ve projelerim hakkındaki bilgileri paylaştığım bir sunucuya çevirdim.",
-            "image": "https://bitstore.dev/assets/images/posts/discord-sunucum-yenilendi.jpg",
-            "date_modified": "2020-07-10T14:38:39.506Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/dizi-onerilerim",
             "title": "Dizi Önerilerim",
             "summary": "Son 2 yılda izlediğim tüm yabancı dizileri, kısa açıklamaları ve 10 üzerinden puanlamalarıyla birlikte sizlerle paylaştığım gönderi. Ayrıca, her yeni dizi bitirdiğimde, bu listeyi de güncelleyeceğim.",
@@ -54,11 +54,11 @@
             "date_modified": "2020-02-14T14:40:38.470Z"
         },
         {
-            "url": "https://bitstore.dev/blog/erasmus-icin-pasaport-almak",
-            "title": "Erasmus+ İçin Pasaport Almak",
-            "summary": "Erasmus+ adaylarının kafasını kurcalayan en büyük sorulardan biri pasaport almayı bu yazımda anlatacağım.",
-            "image": "https://bitstore.dev/assets/images/posts/erasmus-icin-pasaport-almak.jpg",
-            "date_modified": "2021-04-09T17:54:57.008Z"
+            "url": "https://bitstore.dev/blog/imgur-please-artik-unblock-please",
+            "title": "Unblock Please'e Merhaba Deyin!",
+            "summary": "Imgur Please projem, adı değişerek artık sadece Imgur engelini kaldırmaya değil, aynı zamanda Pastebin engelini de kaldırmaya yarıyor!",
+            "image": "https://bitstore.dev/assets/images/posts/imgur-please-artik-unblock-please.jpg",
+            "date_modified": "2020-09-02T17:00:12.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/iki-turk-uc-yabanci-bes-gun",
@@ -68,11 +68,11 @@
             "date_modified": "2021-12-26T22:54:00.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/imgur-please-artik-unblock-please",
-            "title": "Unblock Please'e Merhaba Deyin!",
-            "summary": "Imgur Please projem, adı değişerek artık sadece Imgur engelini kaldırmaya değil, aynı zamanda Pastebin engelini de kaldırmaya yarıyor!",
-            "image": "https://bitstore.dev/assets/images/posts/imgur-please-artik-unblock-please.jpg",
-            "date_modified": "2020-09-02T17:00:12.000Z"
+            "url": "https://bitstore.dev/blog/erasmus-icin-pasaport-almak",
+            "title": "Erasmus+ İçin Pasaport Almak",
+            "summary": "Erasmus+ adaylarının kafasını kurcalayan en büyük sorulardan biri pasaport almayı bu yazımda anlatacağım.",
+            "image": "https://bitstore.dev/assets/images/posts/erasmus-icin-pasaport-almak.jpg",
+            "date_modified": "2021-04-09T17:54:57.008Z"
         },
         {
             "url": "https://bitstore.dev/blog/imgur-please-nedir",
@@ -96,13 +96,6 @@
             "date_modified": "2020-01-09T01:35:56.645Z"
         },
         {
-            "url": "https://bitstore.dev/blog/musta-okumak",
-            "title": "Main Page 1",
-            "summary": "This is an example post about Main Page 1",
-            "image": "https://bitstore.dev/assets/images/posts/musta-okumak.jpg",
-            "date_modified": "2022-04-13T23:00:00.000Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/must-ne-izlediginizi-bilin",
             "title": "Must: Ne İzlediğinizi Bilin",
             "summary": "Must film ve dizi takip uygulaması ile ne izlediğinizi kaydedin, arkadaşlarınızla bağlantı kurun, izleyecek yeni şeyler ve çok daha fazlasını bulun!",
@@ -115,6 +108,13 @@
             "summary": "Bundan sonra gönderilerimi paylaşacağım blogumun hayata geliş hikâyesi. Oldukça zorlu bir yoldan geçti ancak sonunda her şeyiyle servise hazır! Yeni blogumuzu siz de inceleyin!",
             "image": "https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg",
             "date_modified": "2020-01-09T00:28:41.545Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/musta-okumak",
+            "title": "Main Page 1",
+            "summary": "This is an example post about Main Page 1",
+            "image": "https://bitstore.dev/assets/images/posts/musta-okumak.jpg",
+            "date_modified": "2022-04-13T23:00:00.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/neler-donuyor",
@@ -138,13 +138,6 @@
             "date_modified": "2021-03-18T22:36:17.792Z"
         },
         {
-            "url": "https://bitstore.dev/blog/okul-gunlukleri",
-            "title": "Okul Günlükleri: Giriş",
-            "summary": "Education gördüğüm okulda aldığımız derslerde ilgimi çeken konuları, kullanılan yöntemleri detaylarıyla paylaşacağım serinin giriş bölümü.",
-            "image": "https://bitstore.dev/assets/images/posts/okul-gunlukleri.jpg",
-            "date_modified": "2021-03-18T22:02:56.602Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/on-gun-dort-farkli-ulke",
             "title": "10 Gün, 4 Ülke: Hangi Balkan Ülkesi Daha İyi?",
             "summary": "Geçen hafta çıktığımız Balkan turunda ziyaret ettiğimiz Arnavutluk, Karadağ, Kosova ve Makedonya'da yaşadığımız maceraları anlatıyor ve bunları birbiriyle karşılaştırıyorum.",
@@ -152,11 +145,11 @@
             "date_modified": "2021-12-13T21:52:00.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/raycast-uretkenlik-araci",
-            "title": "Raycast: Geliştiriciler İçin Üretkenlik Aracı",
-            "summary": "Mac kullanıcıları ve özellikle geliştiriciler için Spotlight'ınızın yerini alacak ve her işleminizi hızlandıracak bir alternatif olan Raycast ile işlerinizi kolaylaştırın.",
-            "image": "https://bitstore.dev/assets/images/posts/raycast-uretkenlik-araci.jpg",
-            "date_modified": "2022-01-19T00:00:00.000Z"
+            "url": "https://bitstore.dev/blog/okul-gunlukleri",
+            "title": "Okul Günlükleri: Giriş",
+            "summary": "Education gördüğüm okulda aldığımız derslerde ilgimi çeken konuları, kullanılan yöntemleri detaylarıyla paylaşacağım serinin giriş bölümü.",
+            "image": "https://bitstore.dev/assets/images/posts/okul-gunlukleri.jpg",
+            "date_modified": "2021-03-18T22:02:56.602Z"
         },
         {
             "url": "https://bitstore.dev/blog/premid-nasil-kullanilir",
@@ -166,11 +159,11 @@
             "date_modified": "2021-05-16T19:55:27.440Z"
         },
         {
-            "url": "https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak",
-            "title": "Sürekli Renk Değiştiren Roller Neden Yasak?",
-            "summary": "Bu gönderi ile Discord botlarında neden \"sürekli renk değiştiren\" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.",
-            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
-            "date_modified": "2020-01-09T00:59:03.605Z"
+            "url": "https://bitstore.dev/blog/raycast-uretkenlik-araci",
+            "title": "Raycast: Geliştiriciler İçin Üretkenlik Aracı",
+            "summary": "Mac kullanıcıları ve özellikle geliştiriciler için Spotlight'ınızın yerini alacak ve her işleminizi hızlandıracak bir alternatif olan Raycast ile işlerinizi kolaylaştırın.",
+            "image": "https://bitstore.dev/assets/images/posts/raycast-uretkenlik-araci.jpg",
+            "date_modified": "2022-01-19T00:00:00.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/site-artik-acik-kaynak",
@@ -180,18 +173,18 @@
             "date_modified": "2020-11-01T18:08:08.507Z"
         },
         {
+            "url": "https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak",
+            "title": "Sürekli Renk Değiştiren Roller Neden Yasak?",
+            "summary": "Bu gönderi ile Discord botlarında neden \"sürekli renk değiştiren\" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.",
+            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
+            "date_modified": "2020-01-09T00:59:03.605Z"
+        },
+        {
             "url": "https://bitstore.dev/blog/slowly-yeni-koye-eski-adet",
             "title": "SLOWLY: Yeni Köye Eski Adet?",
             "summary": "Holla kolay, zahmetsiz, eğlenceli ve heyecanlı yapan uygulama SLOWLY hakkında kendi görüşlerim ve fikirlerim!",
             "image": "https://bitstore.dev/assets/images/posts/slowly-yeni-koye-eski-adet.jpg",
             "date_modified": "2021-05-19T22:12:47.939Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/sunucudaki-herkese-dm-atmak-neden-yasak",
-            "title": "Bot Kullanarak Sunucudaki Herkese DM Atmak Neden Yasak?",
-            "summary": "Evet, botlar kullanılarak bir veya botun olduğu tüm sunuculardaki kullanıcılara bir anda mesaj gönderilebilir. Bu hoş bir şey mi? Hayır. Bunu yapmak yasak mı? Evet!",
-            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
-            "date_modified": "2020-01-09T01:01:31.423Z"
         },
         {
             "url": "https://bitstore.dev/blog/spotify-baglantisindan-youtube-videosu-bulma",
@@ -201,11 +194,11 @@
             "date_modified": "2021-11-22T00:00:00.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/yeni-alan-adi",
-            "title": "Yeni Alan Adı!",
-            "summary": "Eski alan adının yenileme ücretinin aşırılığı dolayısıyla, yeni bir alan adı alarak sitenin tamamını oraya taşıma kararı aldım. Eski alan adı, kalan süresi boyunca otomatik olarak tüm istekleri yeni alan adına yönlendirecek, o yüzden endişe etmenize gerek yok.",
-            "image": "https://bitstore.dev/assets/images/posts/yeni-alan-adi.jpg",
-            "date_modified": "2020-07-22T14:03:24.368Z"
+            "url": "https://bitstore.dev/blog/sunucudaki-herkese-dm-atmak-neden-yasak",
+            "title": "Bot Kullanarak Sunucudaki Herkese DM Atmak Neden Yasak?",
+            "summary": "Evet, botlar kullanılarak bir veya botun olduğu tüm sunuculardaki kullanıcılara bir anda mesaj gönderilebilir. Bu hoş bir şey mi? Hayır. Bunu yapmak yasak mı? Evet!",
+            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
+            "date_modified": "2020-01-09T01:01:31.423Z"
         },
         {
             "url": "https://bitstore.dev/blog/vue-nuxt-nedir",
@@ -213,6 +206,13 @@
             "summary": "Kendi internet sitemin ve katkıda bulunduğum tüm projelerinde kullandığı Nuxt'un temeli Vue nedir, ikisi arasındaki farklılıklar nelerdir, bunlarla ne tür şeyler yapılır?",
             "image": "https://bitstore.dev/assets/images/posts/vue-nuxt-nedir.jpg",
             "date_modified": "2020-05-04T21:37:39.798Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/yeni-alan-adi",
+            "title": "Yeni Alan Adı!",
+            "summary": "Eski alan adının yenileme ücretinin aşırılığı dolayısıyla, yeni bir alan adı alarak sitenin tamamını oraya taşıma kararı aldım. Eski alan adı, kalan süresi boyunca otomatik olarak tüm istekleri yeni alan adına yönlendirecek, o yüzden endişe etmenize gerek yok.",
+            "image": "https://bitstore.dev/assets/images/posts/yeni-alan-adi.jpg",
+            "date_modified": "2020-07-22T14:03:24.368Z"
         }
     ]
 }

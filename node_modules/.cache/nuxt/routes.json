@@ -40,6 +40,14 @@
     "_name": "_3a7abcf0"
   },
   {
+    "name": "terms",
+    "path": "/terms",
+    "component": "/Users/dan/Documents/Coding/Website-V3/src/pages/terms.vue",
+    "chunkName": "pages/terms",
+    "url": "/terms",
+    "_name": "_c46d280e"
+  },
+  {
     "name": "me-contact",
     "path": "/me/contact",
     "component": "/Users/dan/Documents/Coding/Website-V3/src/pages/me/contact.vue",

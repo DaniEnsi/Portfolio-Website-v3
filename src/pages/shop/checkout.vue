@@ -70,6 +70,7 @@ export default Vue.extend({
             Checkout to buy the the Premium version of BitBoost. You will get access to all of the features of BitBoost, including the ability to use the BitBoost API. You will also get access to the BitBoost Discord server, where you can get support for BitBoost.
           </p>
       </header>
+      
       <div class="space-y-12 mt-2">
         <!-- Author Information -->
         <div class="px-4">
