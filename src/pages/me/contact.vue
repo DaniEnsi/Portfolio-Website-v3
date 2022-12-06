@@ -100,5 +100,21 @@ export default Vue.extend({
         Send me an email!
       </Card>
     </div>
+    <div class="space-y-2 my-12 ">
+      <Title>Featured Products</Title>
+      <div class="grid gap-4 md:grid-cols-2">
+        <Card
+          title="Request CV"
+          subtitle="Get my CV"
+          href="/requestcv"
+        >
+          <template #icon>
+            <IconAcademicHat class="h-10 w-10" />
+          </template>
+
+          Reqest my Curriculum Vitae (CV)
+        </Card>
+      </div>
+    </div>
   </div>
 </template>
