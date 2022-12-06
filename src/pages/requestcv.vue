@@ -125,7 +125,7 @@ export default Vue.extend({
             <h1 class="text-gray-900 text-4xl dark:text-neutral-300">Curriculum Vitae</h1>
             <p>If you are interested in my CV, you can request it from here.</p>
         </header>
-        <form name="CV Requests" method="post" netlify>
+        <form name="Request" method="post" netlify>
             <div class="flex flex-col space-y-2 my-12 px-4">
                 <div class="flex flex-col space-y-2">
                     <label for="name" class="text-gray-900 dark:text-neutral-300">Name</label>
