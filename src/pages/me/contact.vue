@@ -101,12 +101,22 @@ export default Vue.extend({
       </Card>
     </div>
     <div class="space-y-2 my-12 ">
-      <Title>Featured Products</Title>
+      <Title>Contact Forms</Title>
       <div class="grid gap-4 md:grid-cols-2">
         <Card
-          title="Request CV"
+        title="Contact Form"
+        href="/me/contact-form"
+      >
+        <template #icon>
+          <IconInbox class="h-8 w-8" />
+        </template>
+
+        Feeling lazy? Fill out this Form then!
+      </Card>
+        <Card
+          title="Curriculum Vitae"
           subtitle="Get my CV"
-          href="/requestcv"
+          href="/me/requestcv"
         >
           <template #icon>
             <IconAcademicHat class="h-10 w-10" />

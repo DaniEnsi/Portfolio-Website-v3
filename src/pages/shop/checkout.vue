@@ -156,8 +156,6 @@ export default Vue.extend({
 
 
 <style lang="scss" scoped>
-p,
-
 
 .control-button {
   @apply rounded py-2 px-4 transition-colors text-gray-900 select-none dark: text-gray-100;

@@ -52,6 +52,7 @@
     "@types/prismjs": "^1.26.0",
     "@vue-stripe/vue-stripe": "^4.4.4",
     "@vue/runtime-dom": "^3.2.38",
+    "cloudmailin": "^0.0.3",
     "core-js": "^3.25.0",
     "lastfm-typed": "^2.0.2",
     "moment-timezone": "^0.5.37",

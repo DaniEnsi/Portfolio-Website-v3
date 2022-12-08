@@ -55,13 +55,10 @@ export default Vue.extend({
       ],
     }
   },
-  fetchOnServer: false,
-  async fetch() {
-    const { data } = await this.$axios.get(
-      "https://raw.githubusercontent.com/DaniEnsi/.github/main/sponsors.json"
-    )
-
-    this.sponsors = data
+  methods: {
+    contactForm() {
+      this.$router.push({ path: "/me/hireme-form" })
+    },
   },
   head() {
     const title = "Hire Me"
@@ -142,17 +139,16 @@ export default Vue.extend({
             }"
             variant="github"
             class="w-full lg:w-max"
-            :href="getSocial.discord"
-            blank
+            href="/me/hireme-form"
+            
           >
             <template #icon>
-              <IconBrand
-                brand="discord"
+              <IconDocument
                 class="h-7 text-black dark:text-white w-7"
               />
             </template>
 
-            Discord
+            Submit Form  
           </Button>
 
           <Button
@@ -165,7 +161,7 @@ export default Vue.extend({
             <IconSearch class="h-7 text-white w-7" />
           </template>
 
-            View all Contact Methods
+            View other Contact Methods
           </Button>
         </div>
       </section>
@@ -173,7 +169,7 @@ export default Vue.extend({
       <section class="space-y-4">
         <Title>Estimated Prices</Title>
 
-        <div class="mt-4 grid gap-4 mx-4 md:grid-cols-2">
+        <div class="mt-4 grid gap-4 mx-4 md:grid-cols-2" @click="contactForm" >
           <div
             v-for="(account, index) in services"
             :key="`account-${index}`"
@@ -202,7 +198,7 @@ export default Vue.extend({
 
                 <span
                   v-else
-                  class="cursor-pointer text-gray-800 dark:text-neutral-500 hover:underline"
+                  class="cursor-pointer text-gray-800 dark:text-neutral-500 hover:underline overflow-hidden"
                   @click="account.revealed = true"
                 >
                   Click to reveal
