@@ -67,7 +67,7 @@ export default Vue.extend({
   head() {
     const title = "Dani's Blog"
     const description =
-      "Dani's blog page in which Eggsy talks about daily life, experience, holds what he wants to show or tell what he wants to show in a more organized and professional way."
+      "Dani's blog page in which he talks about daily life, experience, holds what he wants to show or tell what he wants to show in a more organized and professional way."
 
     return {
       title: "Blog",

@@ -40,18 +40,6 @@ export default Vue.extend({
           price: "approx. 25$",
           revealed: false,
         },
-
-        /*
-          Disabling this since my PayPal account
-          is not accepting payments as of now.
-
-          {
-            image: "https://i.vgy.me/UCiozk.png",
-            name: "PayPal",
-            price: "@eggsydev",
-            revealed: false,
-          },
-        */
       ],
     }
   },
