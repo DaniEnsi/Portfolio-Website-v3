@@ -12,18 +12,18 @@
             "date_modified": "2020-02-01T11:58:45.357Z"
         },
         {
+            "url": "https://bitstore.dev/blog/blog-yenilendi",
+            "title": "Blog Yenilendi!",
+            "summary": "Gönderilerime daha rahat ve hızlı ulaşabilesiniz diye blogumu baştan aşağıya yeniledim ve seveceğiniz birkaç özellik ekledim!",
+            "image": "https://bitstore.dev/assets/images/posts/blog-yenilendi.jpg",
+            "date_modified": "2020-09-02T17:13:12.000Z"
+        },
+        {
             "url": "https://bitstore.dev/blog/blogun-baslica-ozellikleri",
             "title": "Blogun Başlıca Özellikleri",
             "summary": "Tamamen sıfırdan hazırlanan, EGGSY'nin gönderilerini tutacağı ve paylaşımlar yapacağı yep yeni blogunun öne çıkan ilginç özellikleri ve blogun genel tanıtımı için bu gönderiyi okuyabilirsiniz.",
             "image": "https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg",
             "date_modified": "2020-01-09T03:26:00.000Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/botlastirilmis-kullanici-hesaplari-neden-yasak",
-            "title": "Botlaştırılmış Kullanıcı Hesapları Neden Yasak?",
-            "summary": "Bu gönderi ile Discord hesaplarını \"bot\"a çeviren kullanıcıların neden bunu yapmaması gerektiğini ve bunun neden yasak olduğunu öğrenebilirsiniz.",
-            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
-            "date_modified": "2020-01-09T00:44:29.193Z"
         },
         {
             "url": "https://bitstore.dev/blog/discord-server-templates-yayinda",
@@ -33,13 +33,6 @@
             "date_modified": "2020-07-10T14:11:42.334Z"
         },
         {
-            "url": "https://bitstore.dev/blog/blog-yenilendi",
-            "title": "Blog Yenilendi!",
-            "summary": "Gönderilerime daha rahat ve hızlı ulaşabilesiniz diye blogumu baştan aşağıya yeniledim ve seveceğiniz birkaç özellik ekledim!",
-            "image": "https://bitstore.dev/assets/images/posts/blog-yenilendi.jpg",
-            "date_modified": "2020-09-02T17:13:12.000Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/dizi-onerilerim",
             "title": "Dizi Önerilerim",
             "summary": "Son 2 yılda izlediğim tüm yabancı dizileri, kısa açıklamaları ve 10 üzerinden puanlamalarıyla birlikte sizlerle paylaştığım gönderi. Ayrıca, her yeni dizi bitirdiğimde, bu listeyi de güncelleyeceğim.",
@@ -47,11 +40,18 @@
             "date_modified": "2020-02-14T14:40:38.470Z"
         },
         {
-            "url": "https://bitstore.dev/blog/imgur-please-artik-unblock-please",
-            "title": "Unblock Please'e Merhaba Deyin!",
-            "summary": "Imgur Please projem, adı değişerek artık sadece Imgur engelini kaldırmaya değil, aynı zamanda Pastebin engelini de kaldırmaya yarıyor!",
-            "image": "https://bitstore.dev/assets/images/posts/imgur-please-artik-unblock-please.jpg",
-            "date_modified": "2020-09-02T17:00:12.000Z"
+            "url": "https://bitstore.dev/blog/botlastirilmis-kullanici-hesaplari-neden-yasak",
+            "title": "Botlaştırılmış Kullanıcı Hesapları Neden Yasak?",
+            "summary": "Bu gönderi ile Discord hesaplarını \"bot\"a çeviren kullanıcıların neden bunu yapmaması gerektiğini ve bunun neden yasak olduğunu öğrenebilirsiniz.",
+            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
+            "date_modified": "2020-01-09T00:44:29.193Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/discord-sunucum-yenilendi",
+            "title": "Discord Sunucum Yenilendi!",
+            "summary": "Discord botum kapandıktan beri eski hâliyle boş bir şekilde duran sunucumu, aynı bu site gibi projelerimi ve projelerim hakkındaki bilgileri paylaştığım bir sunucuya çevirdim.",
+            "image": "https://bitstore.dev/assets/images/posts/discord-sunucum-yenilendi.jpg",
+            "date_modified": "2020-07-10T14:38:39.506Z"
         },
         {
             "url": "https://bitstore.dev/blog/erasmus-icin-pasaport-almak",
@@ -59,6 +59,20 @@
             "summary": "Erasmus+ adaylarının kafasını kurcalayan en büyük sorulardan biri pasaport almayı bu yazımda anlatacağım.",
             "image": "https://bitstore.dev/assets/images/posts/erasmus-icin-pasaport-almak.jpg",
             "date_modified": "2021-04-09T17:54:57.008Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/iki-turk-uc-yabanci-bes-gun",
+            "title": "New Impoertant Test",
+            "summary": "Erasmus+ sürecinde tanıştığımız üç yabancı arkadaşımızı Türkiye'de ağırlayıp, onlara İstanbul'u tanıtırken yaşadığımız maceralar ve deneyimler.",
+            "image": "https://bitstore.dev/assets/images/posts/iki-turk-uc-yabanci-bes-gun.jpg",
+            "date_modified": "2021-12-26T22:54:00.000Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/imgur-please-artik-unblock-please",
+            "title": "Unblock Please'e Merhaba Deyin!",
+            "summary": "Imgur Please projem, adı değişerek artık sadece Imgur engelini kaldırmaya değil, aynı zamanda Pastebin engelini de kaldırmaya yarıyor!",
+            "image": "https://bitstore.dev/assets/images/posts/imgur-please-artik-unblock-please.jpg",
+            "date_modified": "2020-09-02T17:00:12.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/imgur-please-nedir",
@@ -75,32 +89,11 @@
             "date_modified": "2020-01-09T02:23:59.638Z"
         },
         {
-            "url": "https://bitstore.dev/blog/iki-turk-uc-yabanci-bes-gun",
-            "title": "New Impoertant Test",
-            "summary": "Erasmus+ sürecinde tanıştığımız üç yabancı arkadaşımızı Türkiye'de ağırlayıp, onlara İstanbul'u tanıtırken yaşadığımız maceralar ve deneyimler.",
-            "image": "https://bitstore.dev/assets/images/posts/iki-turk-uc-yabanci-bes-gun.jpg",
-            "date_modified": "2021-12-26T22:54:00.000Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/manjaro-nedir",
             "title": "Manjaro Nedir?",
             "summary": "Bu gönderide en popüler Linux dağıtımlarından biri olan Manjaro Linux'un basit anlatımını ve birkaç ekstra bilgiyi bulabilirsiniz.",
             "image": "https://bitstore.dev/assets/images/posts/manjaro-nedir.jpg",
             "date_modified": "2020-01-09T01:35:56.645Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/nedir-bu-blog",
-            "title": "Nedir Bu Blog? Nereden Çıktı Şimdi?",
-            "summary": "Bundan sonra gönderilerimi paylaşacağım blogumun hayata geliş hikâyesi. Oldukça zorlu bir yoldan geçti ancak sonunda her şeyiyle servise hazır! Yeni blogumuzu siz de inceleyin!",
-            "image": "https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg",
-            "date_modified": "2020-01-09T00:28:41.545Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/discord-sunucum-yenilendi",
-            "title": "Discord Sunucum Yenilendi!",
-            "summary": "Discord botum kapandıktan beri eski hâliyle boş bir şekilde duran sunucumu, aynı bu site gibi projelerimi ve projelerim hakkındaki bilgileri paylaştığım bir sunucuya çevirdim.",
-            "image": "https://bitstore.dev/assets/images/posts/discord-sunucum-yenilendi.jpg",
-            "date_modified": "2020-07-10T14:38:39.506Z"
         },
         {
             "url": "https://bitstore.dev/blog/must-ne-izlediginizi-bilin",
@@ -117,18 +110,18 @@
             "date_modified": "2022-04-13T23:00:00.000Z"
         },
         {
+            "url": "https://bitstore.dev/blog/nedir-bu-blog",
+            "title": "Nedir Bu Blog? Nereden Çıktı Şimdi?",
+            "summary": "Bundan sonra gönderilerimi paylaşacağım blogumun hayata geliş hikâyesi. Oldukça zorlu bir yoldan geçti ancak sonunda her şeyiyle servise hazır! Yeni blogumuzu siz de inceleyin!",
+            "image": "https://bitstore.dev/assets/images/posts/nedir-bu-blog.jpg",
+            "date_modified": "2020-01-09T00:28:41.545Z"
+        },
+        {
             "url": "https://bitstore.dev/blog/octopi-aur-destegi-nasil-aktiflestirilir",
             "title": "Octopi AUR Desteği Nasıl Aktifleştirilir?",
             "summary": "Bu gönderide Manjaro'nun grafiksel paket yöneticisi Octopi'de nasıl AUR (Arch User Repository) aktif edileceğini anlatacağım. Bu sayede aklınıza gelebilecek her türlü uygulamayı yükleyebileceksiniz!",
             "image": "https://bitstore.dev/assets/images/posts/octopi-aur-destegi-nasil-aktiflestirilir.jpg",
             "date_modified": "2020-01-09T01:57:28.803Z"
-        },
-        {
-            "url": "https://bitstore.dev/blog/neler-donuyor",
-            "title": "Neler Dönüyor?",
-            "summary": "Bu site ne? Neden yeni bir site yapıyorum? Sitemin geleceği için ne gibi kararlar alacağım? Hepsini bu yazıda açıklıyorum!",
-            "image": "https://bitstore.dev/assets/images/posts/neler-donuyor.jpg",
-            "date_modified": "2021-01-02T20:00:00.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/okul-gunlukleri-podcast",
@@ -145,11 +138,25 @@
             "date_modified": "2021-03-18T22:02:56.602Z"
         },
         {
+            "url": "https://bitstore.dev/blog/neler-donuyor",
+            "title": "Neler Dönüyor?",
+            "summary": "Bu site ne? Neden yeni bir site yapıyorum? Sitemin geleceği için ne gibi kararlar alacağım? Hepsini bu yazıda açıklıyorum!",
+            "image": "https://bitstore.dev/assets/images/posts/neler-donuyor.jpg",
+            "date_modified": "2021-01-02T20:00:00.000Z"
+        },
+        {
             "url": "https://bitstore.dev/blog/premid-nasil-kullanilir",
             "title": "PreMiD Nasıl Kullanılır?",
             "summary": "İnternet sitelerinde yaptığınız, izlediğiniz veya dinlediğiniz aktiviteleri Discord profilinize yansıtan PreMiD nasıl kullanılır?",
             "image": "https://bitstore.dev/assets/images/posts/premid-nasil-kullanilir.jpg",
             "date_modified": "2021-05-16T19:55:27.440Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/site-artik-acik-kaynak",
+            "title": "Sitem Artık Açık Kaynak!",
+            "summary": "Yaklaşık bir buçuk yıldır yönettiğim ve içerik girdiğim, sürekli geliştirip bir süre önce Vue'ya geçirdiğim sitemi açık kaynak olarak GitHub üzerinde paylaştım!",
+            "image": "https://bitstore.dev/assets/images/posts/site-artik-acik-kaynak.jpg",
+            "date_modified": "2020-11-01T18:08:08.507Z"
         },
         {
             "url": "https://bitstore.dev/blog/on-gun-dort-farkli-ulke",
@@ -159,13 +166,6 @@
             "date_modified": "2021-12-13T21:52:00.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak",
-            "title": "Sürekli Renk Değiştiren Roller Neden Yasak?",
-            "summary": "Bu gönderi ile Discord botlarında neden \"sürekli renk değiştiren\" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.",
-            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
-            "date_modified": "2020-01-09T00:59:03.605Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/raycast-uretkenlik-araci",
             "title": "Raycast: Geliştiriciler İçin Üretkenlik Aracı",
             "summary": "Mac kullanıcıları ve özellikle geliştiriciler için Spotlight'ınızın yerini alacak ve her işleminizi hızlandıracak bir alternatif olan Raycast ile işlerinizi kolaylaştırın.",
@@ -173,11 +173,11 @@
             "date_modified": "2022-01-19T00:00:00.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/site-artik-acik-kaynak",
-            "title": "Sitem Artık Açık Kaynak!",
-            "summary": "Yaklaşık bir buçuk yıldır yönettiğim ve içerik girdiğim, sürekli geliştirip bir süre önce Vue'ya geçirdiğim sitemi açık kaynak olarak GitHub üzerinde paylaştım!",
-            "image": "https://bitstore.dev/assets/images/posts/site-artik-acik-kaynak.jpg",
-            "date_modified": "2020-11-01T18:08:08.507Z"
+            "url": "https://bitstore.dev/blog/renk-degistiren-roller-neden-yasak",
+            "title": "Sürekli Renk Değiştiren Roller Neden Yasak?",
+            "summary": "Bu gönderi ile Discord botlarında neden \"sürekli renk değiştiren\" roller veya diğer bir tabir ile gökkuşağı rollerin neden yasak olduğunu öğrenebilirsiniz.",
+            "image": "https://bitstore.dev/assets/images/posts/discord-neden-yasak.jpg",
+            "date_modified": "2020-01-09T00:59:03.605Z"
         },
         {
             "url": "https://bitstore.dev/blog/slowly-yeni-koye-eski-adet",
