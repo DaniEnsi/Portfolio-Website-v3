@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projects/webstax/custom-status", {data:[{_img:{}}],fetch:{},mutations:[]});
