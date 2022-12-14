@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/discord-server-templates-yayinda", {data:[{_img:{"/_ipx/f_webp,fit_cover,s_100x100/assets/icons/icon.svg":"\u002F_nuxt\u002Fimage\u002F078985.webp"}}],fetch:{"0":{_error:{message:"\u002Fblog\u002Fdiscord-main not found",statusCode:500}}},mutations:[]});

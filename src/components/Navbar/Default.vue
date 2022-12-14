@@ -37,6 +37,7 @@ export default Vue.extend({
 
         <div class="flex space-x-2 items-center">
           <CommandPaletteButton />
+          <Button icon="ShoppingCart" class="focus:outline-none" href="/shop" rounded elevated />
           <ColorSwitcher />
         </div>
       </div>

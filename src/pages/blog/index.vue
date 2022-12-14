@@ -15,7 +15,7 @@ export default Vue.extend({
         linux: [] as Post[],
         rest: [] as Post[],
       },
-      categories: ["Discord", "MacOS", "Artificial Intelligence", "Frontend", "Site"],
+      categories: ["Discord", "MacOS", "AI", "Frontend", "Site"],
       selectedCategory: "MacOS",
     }
   },

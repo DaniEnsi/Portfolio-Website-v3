@@ -369,7 +369,6 @@ export default Vue.extend({
   /* Pre and code block filenames */
 
   .nuxt-content-highlight {
-    box-shadow: 0 0 0 100vmax #282c34;
     clip-path: inset(0 -100vmax);
     @apply mb-5 relative text-sm;
 
@@ -378,7 +377,8 @@ export default Vue.extend({
     }
 
     pre {
-      @apply rounded-none py-4 px-0;
+      @apply rounded-none py-4 px-4;
+      @apply rounded-md
     }
   }
 
