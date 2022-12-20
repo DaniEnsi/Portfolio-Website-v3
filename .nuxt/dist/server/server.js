@@ -407,6 +407,9 @@ __vite_ssr_exports__.default = async (ssrContext) => {
 // - /src/components/CommandPalette/Button.vue ($id_0cac2785)
 // - /src/components/CommandPalette/Index.vue ($id_4fb89057)
 // - /src/components/CommandPalette/Item.vue ($id_820a383b)
+// - /src/components/Loaders/Content.vue ($id_9b9aa532)
+// - /src/components/Loaders/Goals.vue ($id_c361c855)
+// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Icon/AcademicHat.vue ($id_76b3bc7c)
 // - /src/components/Icon/At.vue ($id_68c282a1)
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
@@ -441,9 +444,6 @@ __vite_ssr_exports__.default = async (ssrContext) => {
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Loaders/Content.vue ($id_9b9aa532)
-// - /src/components/Loaders/Goals.vue ($id_c361c855)
-// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
@@ -20119,6 +20119,9 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // - /src/components/CommandPalette/Button.vue ($id_0cac2785)
 // - /src/components/CommandPalette/Index.vue ($id_4fb89057)
 // - /src/components/CommandPalette/Item.vue ($id_820a383b)
+// - /src/components/Loaders/Content.vue ($id_9b9aa532)
+// - /src/components/Loaders/Goals.vue ($id_c361c855)
+// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Icon/AcademicHat.vue ($id_76b3bc7c)
 // - /src/components/Icon/At.vue ($id_68c282a1)
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
@@ -20153,9 +20156,6 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Loaders/Content.vue ($id_9b9aa532)
-// - /src/components/Loaders/Goals.vue ($id_c361c855)
-// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
@@ -20343,6 +20343,9 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // - /src/components/CommandPalette/Button.vue ($id_0cac2785)
 // - /src/components/CommandPalette/Index.vue ($id_4fb89057)
 // - /src/components/CommandPalette/Item.vue ($id_820a383b)
+// - /src/components/Loaders/Content.vue ($id_9b9aa532)
+// - /src/components/Loaders/Goals.vue ($id_c361c855)
+// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Icon/AcademicHat.vue ($id_76b3bc7c)
 // - /src/components/Icon/At.vue ($id_68c282a1)
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
@@ -20377,9 +20380,6 @@ Object.defineProperty(__vite_ssr_exports__, "default", { enumerable: true, value
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Loaders/Content.vue ($id_9b9aa532)
-// - /src/components/Loaders/Goals.vue ($id_c361c855)
-// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
@@ -24806,12 +24806,6 @@ const __vue2_script = __vite_ssr_import_0__.default.extend({
       experiences: {
         jobs: [
           {
-            title: "Lilium Aviation",
-            url: "https://lilium.com",
-            position: "Intern - Aircraft Engeneering",
-            date: "2022-2023"
-          },
-          {
             title: "WebStax",
             url: "https://webstax.io",
             position: "Web Developer & Founder",
@@ -26854,6 +26848,9 @@ __vite_ssr_exports__.default = () => {};
 // - /src/components/CommandPalette/Button.vue ($id_0cac2785)
 // - /src/components/CommandPalette/Index.vue ($id_4fb89057)
 // - /src/components/CommandPalette/Item.vue ($id_820a383b)
+// - /src/components/Loaders/Content.vue ($id_9b9aa532)
+// - /src/components/Loaders/Goals.vue ($id_c361c855)
+// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Icon/AcademicHat.vue ($id_76b3bc7c)
 // - /src/components/Icon/At.vue ($id_68c282a1)
 // - /src/components/Icon/Branch.vue ($id_5a05cda4)
@@ -26888,9 +26885,6 @@ __vite_ssr_exports__.default = () => {};
 // - /src/components/Icon/Sync.vue ($id_4fd693c4)
 // - /src/components/Icon/Times.vue ($id_824a570d)
 // - /src/components/Icon/X.vue ($id_b1755d2e)
-// - /src/components/Loaders/Content.vue ($id_9b9aa532)
-// - /src/components/Loaders/Goals.vue ($id_c361c855)
-// - /src/components/Loaders/Songs.vue ($id_5d24790d)
 // - /src/components/Navbar/Blog.vue ($id_e8935662)
 // - /src/components/Navbar/Default.vue ($id_bb8b54fd)
 // - /src/components/SkeletonLoader/Iframe.vue ($id_3d5c34ad)
@@ -26990,117 +26984,117 @@ Object.defineProperty(__vite_ssr_exports__, "CommandPalette", { enumerable: true
 const __vite_ssr_import_25__ = await __vite_ssr_import__("/src/components/CommandPalette/Item.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "CommandPaletteItem", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_25__.default }});
-const __vite_ssr_import_26__ = await __vite_ssr_import__("/src/components/Icon/AcademicHat.vue");
+const __vite_ssr_import_26__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconAcademicHat", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_26__.default }});
-const __vite_ssr_import_27__ = await __vite_ssr_import__("/src/components/Icon/At.vue");
+Object.defineProperty(__vite_ssr_exports__, "LoadersContent", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_26__.default }});
+const __vite_ssr_import_27__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconAt", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_27__.default }});
-const __vite_ssr_import_28__ = await __vite_ssr_import__("/src/components/Icon/Branch.vue");
+Object.defineProperty(__vite_ssr_exports__, "LoadersGoals", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_27__.default }});
+const __vite_ssr_import_28__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconBranch", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_28__.default }});
-const __vite_ssr_import_29__ = await __vite_ssr_import__("/src/components/Icon/Brand.vue");
+Object.defineProperty(__vite_ssr_exports__, "LoadersSongs", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_28__.default }});
+const __vite_ssr_import_29__ = await __vite_ssr_import__("/src/components/Icon/AcademicHat.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconBrand", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_29__.default }});
-const __vite_ssr_import_30__ = await __vite_ssr_import__("/src/components/Icon/Calendar.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconAcademicHat", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_29__.default }});
+const __vite_ssr_import_30__ = await __vite_ssr_import__("/src/components/Icon/At.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconCalendar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_30__.default }});
-const __vite_ssr_import_31__ = await __vite_ssr_import__("/src/components/Icon/Cash.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconAt", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_30__.default }});
+const __vite_ssr_import_31__ = await __vite_ssr_import__("/src/components/Icon/Branch.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconCash", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_31__.default }});
-const __vite_ssr_import_32__ = await __vite_ssr_import__("/src/components/Icon/Channel.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconBranch", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_31__.default }});
+const __vite_ssr_import_32__ = await __vite_ssr_import__("/src/components/Icon/Brand.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconChannel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_32__.default }});
-const __vite_ssr_import_33__ = await __vite_ssr_import__("/src/components/Icon/Check.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconBrand", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_32__.default }});
+const __vite_ssr_import_33__ = await __vite_ssr_import__("/src/components/Icon/Calendar.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconCheck", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_33__.default }});
-const __vite_ssr_import_34__ = await __vite_ssr_import__("/src/components/Icon/Chevron.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCalendar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_33__.default }});
+const __vite_ssr_import_34__ = await __vite_ssr_import__("/src/components/Icon/Cash.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconChevron", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_34__.default }});
-const __vite_ssr_import_35__ = await __vite_ssr_import__("/src/components/Icon/Clock.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCash", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_34__.default }});
+const __vite_ssr_import_35__ = await __vite_ssr_import__("/src/components/Icon/Channel.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconClock", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_35__.default }});
-const __vite_ssr_import_36__ = await __vite_ssr_import__("/src/components/Icon/Cog.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconChannel", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_35__.default }});
+const __vite_ssr_import_36__ = await __vite_ssr_import__("/src/components/Icon/Check.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconCog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_36__.default }});
-const __vite_ssr_import_37__ = await __vite_ssr_import__("/src/components/Icon/Creditcard.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCheck", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_36__.default }});
+const __vite_ssr_import_37__ = await __vite_ssr_import__("/src/components/Icon/Chevron.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconCreditcard", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_37__.default }});
-const __vite_ssr_import_38__ = await __vite_ssr_import__("/src/components/Icon/Dev.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconChevron", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_37__.default }});
+const __vite_ssr_import_38__ = await __vite_ssr_import__("/src/components/Icon/Clock.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconDev", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_38__.default }});
-const __vite_ssr_import_39__ = await __vite_ssr_import__("/src/components/Icon/Document.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconClock", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_38__.default }});
+const __vite_ssr_import_39__ = await __vite_ssr_import__("/src/components/Icon/Cog.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconDocument", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_39__.default }});
-const __vite_ssr_import_40__ = await __vite_ssr_import__("/src/components/Icon/Dollar.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_39__.default }});
+const __vite_ssr_import_40__ = await __vite_ssr_import__("/src/components/Icon/Creditcard.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconDollar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_40__.default }});
-const __vite_ssr_import_41__ = await __vite_ssr_import__("/src/components/Icon/Exclamation.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconCreditcard", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_40__.default }});
+const __vite_ssr_import_41__ = await __vite_ssr_import__("/src/components/Icon/Dev.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconExclamation", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_41__.default }});
-const __vite_ssr_import_42__ = await __vite_ssr_import__("/src/components/Icon/Fire.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconDev", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_41__.default }});
+const __vite_ssr_import_42__ = await __vite_ssr_import__("/src/components/Icon/Document.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconFire", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_42__.default }});
-const __vite_ssr_import_43__ = await __vite_ssr_import__("/src/components/Icon/Fork.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconDocument", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_42__.default }});
+const __vite_ssr_import_43__ = await __vite_ssr_import__("/src/components/Icon/Dollar.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconFork", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_43__.default }});
-const __vite_ssr_import_44__ = await __vite_ssr_import__("/src/components/Icon/Home.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconDollar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_43__.default }});
+const __vite_ssr_import_44__ = await __vite_ssr_import__("/src/components/Icon/Exclamation.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconHome", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_44__.default }});
-const __vite_ssr_import_45__ = await __vite_ssr_import__("/src/components/Icon/Inbox.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconExclamation", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_44__.default }});
+const __vite_ssr_import_45__ = await __vite_ssr_import__("/src/components/Icon/Fire.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconInbox", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_45__.default }});
-const __vite_ssr_import_46__ = await __vite_ssr_import__("/src/components/Icon/Link.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconFire", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_45__.default }});
+const __vite_ssr_import_46__ = await __vite_ssr_import__("/src/components/Icon/Fork.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_46__.default }});
-const __vite_ssr_import_47__ = await __vite_ssr_import__("/src/components/Icon/Menu.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconFork", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_46__.default }});
+const __vite_ssr_import_47__ = await __vite_ssr_import__("/src/components/Icon/Home.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconMenu", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_47__.default }});
-const __vite_ssr_import_48__ = await __vite_ssr_import__("/src/components/Icon/Moon.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconHome", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_47__.default }});
+const __vite_ssr_import_48__ = await __vite_ssr_import__("/src/components/Icon/Inbox.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconMoon", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_48__.default }});
-const __vite_ssr_import_49__ = await __vite_ssr_import__("/src/components/Icon/MusicNote.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconInbox", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_48__.default }});
+const __vite_ssr_import_49__ = await __vite_ssr_import__("/src/components/Icon/Link.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconMusicNote", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_49__.default }});
-const __vite_ssr_import_50__ = await __vite_ssr_import__("/src/components/Icon/Play.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconLink", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_49__.default }});
+const __vite_ssr_import_50__ = await __vite_ssr_import__("/src/components/Icon/Menu.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconPlay", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_50__.default }});
-const __vite_ssr_import_51__ = await __vite_ssr_import__("/src/components/Icon/Question.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconMenu", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_50__.default }});
+const __vite_ssr_import_51__ = await __vite_ssr_import__("/src/components/Icon/Moon.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconQuestion", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_51__.default }});
-const __vite_ssr_import_52__ = await __vite_ssr_import__("/src/components/Icon/Search.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconMoon", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_51__.default }});
+const __vite_ssr_import_52__ = await __vite_ssr_import__("/src/components/Icon/MusicNote.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconSearch", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_52__.default }});
-const __vite_ssr_import_53__ = await __vite_ssr_import__("/src/components/Icon/ShoppingCart.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconMusicNote", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_52__.default }});
+const __vite_ssr_import_53__ = await __vite_ssr_import__("/src/components/Icon/Play.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconShoppingCart", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_53__.default }});
-const __vite_ssr_import_54__ = await __vite_ssr_import__("/src/components/Icon/Star.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconPlay", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_53__.default }});
+const __vite_ssr_import_54__ = await __vite_ssr_import__("/src/components/Icon/Question.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconStar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_54__.default }});
-const __vite_ssr_import_55__ = await __vite_ssr_import__("/src/components/Icon/Stop.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconQuestion", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_54__.default }});
+const __vite_ssr_import_55__ = await __vite_ssr_import__("/src/components/Icon/Search.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconStop", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_55__.default }});
-const __vite_ssr_import_56__ = await __vite_ssr_import__("/src/components/Icon/Sun.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconSearch", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_55__.default }});
+const __vite_ssr_import_56__ = await __vite_ssr_import__("/src/components/Icon/ShoppingCart.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconSun", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_56__.default }});
-const __vite_ssr_import_57__ = await __vite_ssr_import__("/src/components/Icon/Sync.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconShoppingCart", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_56__.default }});
+const __vite_ssr_import_57__ = await __vite_ssr_import__("/src/components/Icon/Star.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconSync", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_57__.default }});
-const __vite_ssr_import_58__ = await __vite_ssr_import__("/src/components/Icon/Times.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconStar", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_57__.default }});
+const __vite_ssr_import_58__ = await __vite_ssr_import__("/src/components/Icon/Stop.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconTimes", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_58__.default }});
-const __vite_ssr_import_59__ = await __vite_ssr_import__("/src/components/Icon/X.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconStop", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_58__.default }});
+const __vite_ssr_import_59__ = await __vite_ssr_import__("/src/components/Icon/Sun.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "IconX", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_59__.default }});
-const __vite_ssr_import_60__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconSun", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_59__.default }});
+const __vite_ssr_import_60__ = await __vite_ssr_import__("/src/components/Icon/Sync.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "LoadersContent", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_60__.default }});
-const __vite_ssr_import_61__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconSync", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_60__.default }});
+const __vite_ssr_import_61__ = await __vite_ssr_import__("/src/components/Icon/Times.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "LoadersGoals", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_61__.default }});
-const __vite_ssr_import_62__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue");
+Object.defineProperty(__vite_ssr_exports__, "IconTimes", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_61__.default }});
+const __vite_ssr_import_62__ = await __vite_ssr_import__("/src/components/Icon/X.vue");
 
-Object.defineProperty(__vite_ssr_exports__, "LoadersSongs", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_62__.default }});
+Object.defineProperty(__vite_ssr_exports__, "IconX", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_62__.default }});
 const __vite_ssr_import_63__ = await __vite_ssr_import__("/src/components/Navbar/Blog.vue");
 
 Object.defineProperty(__vite_ssr_exports__, "NavbarBlog", { enumerable: true, configurable: true, get(){ return __vite_ssr_import_63__.default }});
@@ -30561,6 +30555,248 @@ Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: tru
 
 
 // --------------------
+// Request: /src/components/Loaders/Content.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// - /src/components/Loaders/Content.vue?vue&type=template&lang.js ($id_4d909489)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// --------------------
+const $id_9b9aa532 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+const __vue2_script = __vite_ssr_import_0__.default.extend({
+  props: {
+    error: {
+      type: Boolean,
+      required: false,
+      default: false
+    }
+  }
+});
+
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
+  __vue2_script,
+  __vite_ssr_import_1__.render,
+  __vite_ssr_import_1__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Loaders/Content.vue"
+/* hot reload */
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
+  if (!__vite_ssr_import_3__.default.isRecorded("f3895dec")) {
+    __vite_ssr_import_3__.default.createRecord("f3895dec", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_3__.default.reload("f3895dec", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Content.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_3__.default.rerender("f3895dec", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Content.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Loaders/Content.vue ($id_9b9aa532)
+// Dependencies: 
+
+// --------------------
+const $id_4d909489 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.error === false)?_c('div',{staticClass:"w-full pt-14"},[_vm._m(0),_c('div',{staticClass:"space-y-10 mt-10 w-full"},[_c('div',{staticClass:"space-y-1"},_vm._l((6),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 6 ? 'w-full' : 'w-8/12'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((4),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 4 ? 'w-full' : 'w-1/2'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((24),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 24 ? 'w-full' : 'w-1/2'})}),0)])]):_c('div',{staticClass:"space-y-4 px-4 pt-14"},[_c('h1',{staticClass:"font-semibold text-2xl text-gray-900 dark:text-gray-100"},[_vm._v(" The page you're looking for doesn't exist. ")]),_c('p',{staticClass:"text-gray-700 dark:text-gray-300"},[_vm._v(" The blog post could not be found. Please try to use the search bar. If you are sure that the blog post exists, please contact the administrator. ")])])}
+var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"space-y-4"},[_c('div',{staticClass:"flex space-x-2 justify-center sm:justify-start"},[_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"})]),_c('div',{staticClass:"bg-gray-200 h-10 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"flex flex-col space-y-2 items-center justify-center sm:items-start"},[_c('div',{staticClass:"bg-gray-200 h-4 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/2 sm:w-4/12 dark:bg-neutral-700"})])])}]
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Goals.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/Loaders/Goals.vue?vue&type=template&lang.js ($id_65a54acf)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_c361c855 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Loaders/Goals.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("18c061de")) {
+    __vite_ssr_import_2__.default.createRecord("18c061de", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("18c061de", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Goals.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("18c061de", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Goals.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Loaders/Goals.vue ($id_c361c855)
+// Dependencies: 
+
+// --------------------
+const $id_65a54acf = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"space-y-12 px-4 text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12"},[_c('SkeletonLoader',{staticClass:"h-10 w-1/6"}),_c('SkeletonLoader',{staticClass:"h-5 w-4/12"}),_c('SkeletonLoader',{staticClass:"h-4 w-1/6"})],1),_c('div',{staticClass:"space-y-9"},_vm._l((6),function(item){return _c('div',{key:item,staticClass:"space-y-4"},[_c('SkeletonLoader',{staticClass:"h-6 w-1/6"}),_c('div',{staticClass:"space-y-2"},_vm._l((3),function(inline){return _c('div',{key:("inline-" + inline),staticClass:"flex space-x-2 items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-5"}),_c('SkeletonLoader',{staticClass:"h-5",class:inline % 2 === 0 ? 'w-3/12' : 'w-1/5'})],1)}),0)],1)}),0)])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Songs.vue
+// Parents: 
+// - /.nuxt/components/index.js ($id_d9abe5b7)
+// Dependencies: 
+// - /src/components/Loaders/Songs.vue?vue&type=template&lang.js ($id_6eef9244)
+// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
+// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
+// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
+// --------------------
+const $id_5d24790d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
+const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue?vue&type=template&lang.js");
+
+const __cssModules = {}
+
+/* normalize component */
+const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
+
+var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
+  __vue2_script,
+  __vite_ssr_import_0__.render,
+  __vite_ssr_import_0__.staticRenderFns,
+  false,
+  __vue2_injectStyles,
+  null,
+  null,
+  null
+)
+
+function __vue2_injectStyles (context) {
+  for(let o in __cssModules){
+    this[o] = __cssModules[o]
+  }
+}
+
+__component__.options.__file = "src/components/Loaders/Songs.vue"
+/* hot reload */
+const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
+
+const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
+
+__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
+if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
+  if (!__vite_ssr_import_2__.default.isRecorded("e4046b62")) {
+    __vite_ssr_import_2__.default.createRecord("e4046b62", __component__.options)
+  }
+   __vite_ssr_import_meta__.hot.accept((update) => {
+      __vite_ssr_import_2__.default.reload("e4046b62", update.default)
+   })
+   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Songs.vue?vue&type=template&lang.js", (update) => {
+      __vite_ssr_import_2__.default.rerender("e4046b62", update)
+   })
+}
+__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
+}
+
+
+// --------------------
+// Request: /src/components/Loaders/Songs.vue?vue&type=template&lang.js
+// Parents: 
+// - /src/components/Loaders/Songs.vue ($id_5d24790d)
+// Dependencies: 
+
+// --------------------
+const $id_6eef9244 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
+const module = __createCJSModule__(__vite_ssr_exports__)
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('main',{staticClass:"space-y-20"},[_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Details")]),_c('div',{staticClass:"grid px-4 gap-x-0 gap-y-4 md:gap-x-12 md:grid-cols-2"},[_c('div',{staticClass:"flex space-x-4 items-center"},[_c('span',[_vm._v("Profile")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/2"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Total Plays")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/3"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Account Age")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/4"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)])])],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Recent Songs")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((15),function(recent){return _c('SkeletonLoader',{key:recent,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Songs (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((6),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Artists (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((4),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1)])}
+var staticRenderFns = []
+render._withStripped = true
+
+Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
+Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
+}
+
+
+// --------------------
 // Request: /src/components/Icon/AcademicHat.vue
 // Parents: 
 // - /.nuxt/components/index.js ($id_d9abe5b7)
@@ -33260,248 +33496,6 @@ __vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.
 const $id_8f27ca2c = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
 const module = __createCJSModule__(__vite_ssr_exports__)
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('svg',{attrs:{"xmlns":"http://www.w3.org/2000/svg","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor"}},[_c('path',{attrs:{"stroke-linecap":"round","stroke-linejoin":"round","stroke-width":"2","d":"M6 18L18 6M6 6l12 12"}})])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Content.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// - /src/components/Loaders/Content.vue?vue&type=template&lang.js ($id_4d909489)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// --------------------
-const $id_9b9aa532 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vite_ssr_import_0__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-const __vue2_script = __vite_ssr_import_0__.default.extend({
-  props: {
-    error: {
-      type: Boolean,
-      required: false,
-      default: false
-    }
-  }
-});
-
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/src/components/Loaders/Content.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_2__.default(
-  __vue2_script,
-  __vite_ssr_import_1__.render,
-  __vite_ssr_import_1__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Loaders/Content.vue"
-/* hot reload */
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_4__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_3__.default.install(__vite_ssr_import_4__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_3__.default.compatible){
-  if (!__vite_ssr_import_3__.default.isRecorded("f3895dec")) {
-    __vite_ssr_import_3__.default.createRecord("f3895dec", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_3__.default.reload("f3895dec", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Content.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_3__.default.rerender("f3895dec", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Content.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Loaders/Content.vue ($id_9b9aa532)
-// Dependencies: 
-
-// --------------------
-const $id_4d909489 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.error === false)?_c('div',{staticClass:"w-full pt-14"},[_vm._m(0),_c('div',{staticClass:"space-y-10 mt-10 w-full"},[_c('div',{staticClass:"space-y-1"},_vm._l((6),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 6 ? 'w-full' : 'w-8/12'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((4),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 4 ? 'w-full' : 'w-1/2'})}),0),_c('div',{staticClass:"space-y-1"},_vm._l((24),function(_){return _c('div',{key:_,staticClass:"bg-gray-200 h-4 animate-pulse dark:bg-neutral-700",class:_ !== 24 ? 'w-full' : 'w-1/2'})}),0)])]):_c('div',{staticClass:"space-y-4 px-4 pt-14"},[_c('h1',{staticClass:"font-semibold text-2xl text-gray-900 dark:text-gray-100"},[_vm._v(" The page you're looking for doesn't exist. ")]),_c('p',{staticClass:"text-gray-700 dark:text-gray-300"},[_vm._v(" The blog post could not be found. Please try to use the search bar. If you are sure that the blog post exists, please contact the administrator. ")])])}
-var staticRenderFns = [function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('section',{staticClass:"space-y-4"},[_c('div',{staticClass:"flex space-x-2 justify-center sm:justify-start"},[_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/4 sm:w-1/6 dark:bg-neutral-700"})]),_c('div',{staticClass:"bg-gray-200 h-10 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"flex flex-col space-y-2 items-center justify-center sm:items-start"},[_c('div',{staticClass:"bg-gray-200 h-4 w-full animate-pulse sm:w-8/12 dark:bg-neutral-700"}),_c('div',{staticClass:"bg-gray-200 h-4 animate-pulse w-1/2 sm:w-4/12 dark:bg-neutral-700"})])])}]
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Goals.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/Loaders/Goals.vue?vue&type=template&lang.js ($id_65a54acf)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_c361c855 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Goals.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Loaders/Goals.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("18c061de")) {
-    __vite_ssr_import_2__.default.createRecord("18c061de", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("18c061de", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Goals.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("18c061de", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Goals.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Loaders/Goals.vue ($id_c361c855)
-// Dependencies: 
-
-// --------------------
-const $id_65a54acf = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"space-y-12 px-4 text-gray-500 dark:text-neutral-600"},[_c('header',{staticClass:"space-y-2 my-12"},[_c('SkeletonLoader',{staticClass:"h-10 w-1/6"}),_c('SkeletonLoader',{staticClass:"h-5 w-4/12"}),_c('SkeletonLoader',{staticClass:"h-4 w-1/6"})],1),_c('div',{staticClass:"space-y-9"},_vm._l((6),function(item){return _c('div',{key:item,staticClass:"space-y-4"},[_c('SkeletonLoader',{staticClass:"h-6 w-1/6"}),_c('div',{staticClass:"space-y-2"},_vm._l((3),function(inline){return _c('div',{key:("inline-" + inline),staticClass:"flex space-x-2 items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-5"}),_c('SkeletonLoader',{staticClass:"h-5",class:inline % 2 === 0 ? 'w-3/12' : 'w-1/5'})],1)}),0)],1)}),0)])}
-var staticRenderFns = []
-render._withStripped = true
-
-Object.defineProperty(__vite_ssr_exports__, "render", { enumerable: true, configurable: true, get(){ return render }});
-Object.defineProperty(__vite_ssr_exports__, "staticRenderFns", { enumerable: true, configurable: true, get(){ return staticRenderFns }});;
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Songs.vue
-// Parents: 
-// - /.nuxt/components/index.js ($id_d9abe5b7)
-// Dependencies: 
-// - /src/components/Loaders/Songs.vue?vue&type=template&lang.js ($id_6eef9244)
-// - /@id/__x00__/vite/vueComponentNormalizer ($id_65ae079e)
-// - /@id/__x00__/vite/vueHotReload ($id_d549985b)
-// - /node_modules/vue/dist/vue.runtime.esm.js ($id_0198ff0f)
-// --------------------
-const $id_5d24790d = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-__vite_ssr_import_meta__.env = {"BASE_URL":"/","MODE":"development","DEV":true,"PROD":false,"SSR":true};const __vue2_script = {}
-const __vite_ssr_import_0__ = await __vite_ssr_import__("/src/components/Loaders/Songs.vue?vue&type=template&lang.js");
-
-const __cssModules = {}
-
-/* normalize component */
-const __vite_ssr_import_1__ = await __vite_ssr_import__("/@id/__x00__/vite/vueComponentNormalizer");
-
-var __component__ = /*#__PURE__*/__vite_ssr_import_1__.default(
-  __vue2_script,
-  __vite_ssr_import_0__.render,
-  __vite_ssr_import_0__.staticRenderFns,
-  false,
-  __vue2_injectStyles,
-  null,
-  null,
-  null
-)
-
-function __vue2_injectStyles (context) {
-  for(let o in __cssModules){
-    this[o] = __cssModules[o]
-  }
-}
-
-__component__.options.__file = "src/components/Loaders/Songs.vue"
-/* hot reload */
-const __vite_ssr_import_2__ = await __vite_ssr_import__("/@id/__x00__/vite/vueHotReload");
-
-const __vite_ssr_import_3__ = await __vite_ssr_import__("/node_modules/vue/dist/vue.runtime.esm.js");
-
-__vite_ssr_import_2__.default.install(__vite_ssr_import_3__.default)
-if(!__vite_ssr_import_meta__.env.SSR && __vite_ssr_import_2__.default.compatible){
-  if (!__vite_ssr_import_2__.default.isRecorded("e4046b62")) {
-    __vite_ssr_import_2__.default.createRecord("e4046b62", __component__.options)
-  }
-   __vite_ssr_import_meta__.hot.accept((update) => {
-      __vite_ssr_import_2__.default.reload("e4046b62", update.default)
-   })
-   __vite_ssr_import_meta__.hot.accept("/src/components/Loaders/Songs.vue?vue&type=template&lang.js", (update) => {
-      __vite_ssr_import_2__.default.rerender("e4046b62", update)
-   })
-}
-__vite_ssr_exports__.default = /*#__PURE__*/(function () { return __component__.exports })();
-}
-
-
-// --------------------
-// Request: /src/components/Loaders/Songs.vue?vue&type=template&lang.js
-// Parents: 
-// - /src/components/Loaders/Songs.vue ($id_5d24790d)
-// Dependencies: 
-
-// --------------------
-const $id_6eef9244 = async function (global, __vite_ssr_exports__, __vite_ssr_import_meta__, __vite_ssr_import__, __vite_ssr_dynamic_import__, __vite_ssr_exportAll__) {
-const module = __createCJSModule__(__vite_ssr_exports__)
-var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('main',{staticClass:"space-y-20"},[_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Details")]),_c('div',{staticClass:"grid px-4 gap-x-0 gap-y-4 md:gap-x-12 md:grid-cols-2"},[_c('div',{staticClass:"flex space-x-4 items-center"},[_c('span',[_vm._v("Profile")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/2"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Total Plays")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/3"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)]),_c('div',{staticClass:"flex space-x-4 items-center justify-between"},[_c('span',{staticClass:"flex-shrink-0"},[_vm._v("Account Age")]),_c('div',{staticClass:"flex space-x-2 w-full justify-end items-center"},[_c('SkeletonLoader',{staticClass:"h-5 w-1/4"}),_c('SkeletonLoader',{staticClass:"h-6 w-6 !rounded-full"})],1)])])],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Recent Songs")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((15),function(recent){return _c('SkeletonLoader',{key:recent,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Songs (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((6),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1),_c('div',[_c('Title',{staticClass:"mb-4"},[_vm._v("Top Artists (last 7 days)")]),_c('div',{staticClass:"grid gap-2 md:grid-cols-2"},_vm._l((4),function(top){return _c('SkeletonLoader',{key:top,attrs:{"type":"lastfm"}})}),1)],1)])}
 var staticRenderFns = []
 render._withStripped = true
 
@@ -44736,6 +44730,12 @@ const __modules__ = {
  '/src/components/CommandPalette/Index.vue?vue&type=template&lang.js': $id_f71ec1b2,
  '/src/components/CommandPalette/Item.vue': $id_820a383b,
  '/src/components/CommandPalette/Item.vue?vue&type=template&lang.js': $id_eadab412,
+ '/src/components/Loaders/Content.vue': $id_9b9aa532,
+ '/src/components/Loaders/Content.vue?vue&type=template&lang.js': $id_4d909489,
+ '/src/components/Loaders/Goals.vue': $id_c361c855,
+ '/src/components/Loaders/Goals.vue?vue&type=template&lang.js': $id_65a54acf,
+ '/src/components/Loaders/Songs.vue': $id_5d24790d,
+ '/src/components/Loaders/Songs.vue?vue&type=template&lang.js': $id_6eef9244,
  '/src/components/Icon/AcademicHat.vue': $id_76b3bc7c,
  '/src/components/Icon/AcademicHat.vue?vue&type=template&lang.js': $id_555f5da8,
  '/src/components/Icon/At.vue': $id_68c282a1,
@@ -44804,12 +44804,6 @@ const __modules__ = {
  '/src/components/Icon/Times.vue?vue&type=template&lang.js': $id_92102da9,
  '/src/components/Icon/X.vue': $id_b1755d2e,
  '/src/components/Icon/X.vue?vue&type=template&lang.js': $id_8f27ca2c,
- '/src/components/Loaders/Content.vue': $id_9b9aa532,
- '/src/components/Loaders/Content.vue?vue&type=template&lang.js': $id_4d909489,
- '/src/components/Loaders/Goals.vue': $id_c361c855,
- '/src/components/Loaders/Goals.vue?vue&type=template&lang.js': $id_65a54acf,
- '/src/components/Loaders/Songs.vue': $id_5d24790d,
- '/src/components/Loaders/Songs.vue?vue&type=template&lang.js': $id_6eef9244,
  '/src/components/Navbar/Blog.vue': $id_e8935662,
  '/src/components/Navbar/Blog.vue?vue&type=template&lang.js': $id_446fef12,
  '/src/components/Navbar/Default.vue': $id_bb8b54fd,

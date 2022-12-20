@@ -63,12 +63,7 @@ export default Vue.extend({
       ] as Project[],
       experiences: {
         jobs: [
-          {
-            title: "Lilium Aviation",
-            url: "https://lilium.com",
-            position: "Intern - Aircraft Engeneering",
-            date: "2022-2023",
-          },
+          
           {
             title: "WebStax",
             url: "https://webstax.io",

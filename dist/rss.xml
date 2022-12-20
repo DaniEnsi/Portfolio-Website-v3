@@ -4,7 +4,7 @@
         <title>Dani's Blog</title>
         <link>https://bitstore.dev/blog</link>
         <description>Dani's blog page in which he talks about daily life, experience, holds what he wants to show or tell what he wants to show in a more organized and professional way.</description>
-        <lastBuildDate>Wed, 14 Dec 2022 18:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 21:39:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/nuxt-community/feed-module</generator>
         <item>
@@ -16,12 +16,12 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/blog-renewed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[What's going on?]]></title>
-            <link>https://bitstore.dev/blog/page-changes</link>
-            <guid>https://bitstore.dev/blog/page-changes</guid>
-            <pubDate>Sat, 02 Jan 2021 19:00:00 GMT</pubDate>
-            <description><![CDATA[What is this site? Why am I making a new site? What decisions will I make for the future of my site? I explain them all in this article!]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/page-changes.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[OpenAI announces ChatGPT]]></title>
+            <link>https://bitstore.dev/blog/openai-gpt3</link>
+            <guid>https://bitstore.dev/blog/openai-gpt3</guid>
+            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[OpenAI has just annouced a new language model,  which interacts in a more conversational way.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/openai-gpt3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[This site is now open source!]]></title>
@@ -32,12 +32,20 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/open-source.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OpenAI announces ChatGPT]]></title>
-            <link>https://bitstore.dev/blog/openai-gpt3</link>
-            <guid>https://bitstore.dev/blog/openai-gpt3</guid>
-            <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[OpenAI has just annouced a new language model,  which interacts in a more conversational way.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/openai-gpt3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[What's going on?]]></title>
+            <link>https://bitstore.dev/blog/page-changes</link>
+            <guid>https://bitstore.dev/blog/page-changes</guid>
+            <pubDate>Sat, 02 Jan 2021 19:00:00 GMT</pubDate>
+            <description><![CDATA[What is this site? Why am I making a new site? What decisions will I make for the future of my site? I explain them all in this article!]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/page-changes.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nuxt 3 State Management in Vue]]></title>
+            <link>https://bitstore.dev/blog/vue-nuxt-stagemanagement</link>
+            <guid>https://bitstore.dev/blog/vue-nuxt-stagemanagement</guid>
+            <pubDate>Mon, 04 May 2020 21:37:39 GMT</pubDate>
+            <description><![CDATA[Nuxt 3 is coming with a new state management system. Let's take a look at how it works.]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/vue-nuxt-stagemanagement.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vue Dark Mode]]></title>
@@ -48,14 +56,6 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/vue-dark-mode.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vue’s watch vs watchEffect, which should I use?]]></title>
-            <link>https://bitstore.dev/blog/vue-watch-vs-watcheffect</link>
-            <guid>https://bitstore.dev/blog/vue-watch-vs-watcheffect</guid>
-            <pubDate>Fri, 06 Dec 2019 17:13:12 GMT</pubDate>
-            <description><![CDATA[The core differences between the two so that you can use the best tool for the job in your day-to-day code]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/vue-watch-vs-watcheffect.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Best VueUse Composables]]></title>
             <link>https://bitstore.dev/blog/vue-use-composables</link>
             <guid>https://bitstore.dev/blog/vue-use-composables</guid>
@@ -64,12 +64,12 @@
             <enclosure url="https://bitstore.dev/assets/images/posts/vue-use-composables.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nuxt 3 State Management in Vue]]></title>
-            <link>https://bitstore.dev/blog/vue-nuxt-stagemanagement</link>
-            <guid>https://bitstore.dev/blog/vue-nuxt-stagemanagement</guid>
-            <pubDate>Mon, 04 May 2020 21:37:39 GMT</pubDate>
-            <description><![CDATA[Nuxt 3 is coming with a new state management system. Let's take a look at how it works.]]></description>
-            <enclosure url="https://bitstore.dev/assets/images/posts/vue-nuxt-stagemanagement.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Vue’s watch vs watchEffect, which should I use?]]></title>
+            <link>https://bitstore.dev/blog/vue-watch-vs-watcheffect</link>
+            <guid>https://bitstore.dev/blog/vue-watch-vs-watcheffect</guid>
+            <pubDate>Fri, 06 Dec 2019 17:13:12 GMT</pubDate>
+            <description><![CDATA[The core differences between the two so that you can use the best tool for the job in your day-to-day code]]></description>
+            <enclosure url="https://bitstore.dev/assets/images/posts/vue-watch-vs-watcheffect.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

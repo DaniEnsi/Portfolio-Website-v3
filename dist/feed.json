@@ -12,11 +12,11 @@
             "date_modified": "2020-09-02T17:13:12.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/page-changes",
-            "title": "What's going on?",
-            "summary": "What is this site? Why am I making a new site? What decisions will I make for the future of my site? I explain them all in this article!",
-            "image": "https://bitstore.dev/assets/images/posts/page-changes.jpg",
-            "date_modified": "2021-01-02T19:00:00.000Z"
+            "url": "https://bitstore.dev/blog/openai-gpt3",
+            "title": "OpenAI announces ChatGPT",
+            "summary": "OpenAI has just annouced a new language model,  which interacts in a more conversational way.",
+            "image": "https://bitstore.dev/assets/images/posts/openai-gpt3.jpg",
+            "date_modified": "2022-01-14T00:00:00.000Z"
         },
         {
             "url": "https://bitstore.dev/blog/open-source",
@@ -26,11 +26,18 @@
             "date_modified": "2020-11-01T18:08:08.507Z"
         },
         {
-            "url": "https://bitstore.dev/blog/openai-gpt3",
-            "title": "OpenAI announces ChatGPT",
-            "summary": "OpenAI has just annouced a new language model,  which interacts in a more conversational way.",
-            "image": "https://bitstore.dev/assets/images/posts/openai-gpt3.jpg",
-            "date_modified": "2022-01-14T00:00:00.000Z"
+            "url": "https://bitstore.dev/blog/page-changes",
+            "title": "What's going on?",
+            "summary": "What is this site? Why am I making a new site? What decisions will I make for the future of my site? I explain them all in this article!",
+            "image": "https://bitstore.dev/assets/images/posts/page-changes.jpg",
+            "date_modified": "2021-01-02T19:00:00.000Z"
+        },
+        {
+            "url": "https://bitstore.dev/blog/vue-nuxt-stagemanagement",
+            "title": "Nuxt 3 State Management in Vue",
+            "summary": "Nuxt 3 is coming with a new state management system. Let's take a look at how it works.",
+            "image": "https://bitstore.dev/assets/images/posts/vue-nuxt-stagemanagement.jpg",
+            "date_modified": "2020-05-04T21:37:39.798Z"
         },
         {
             "url": "https://bitstore.dev/blog/vue-dark-mode",
@@ -40,13 +47,6 @@
             "date_modified": "2019-12-07T17:13:12.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/vue-watch-vs-watcheffect",
-            "title": "Vue’s watch vs watchEffect, which should I use?",
-            "summary": "The core differences between the two so that you can use the best tool for the job in your day-to-day code",
-            "image": "https://bitstore.dev/assets/images/posts/vue-watch-vs-watcheffect.jpg",
-            "date_modified": "2019-12-06T17:13:12.000Z"
-        },
-        {
             "url": "https://bitstore.dev/blog/vue-use-composables",
             "title": "Best VueUse Composables",
             "summary": "The best vueuse compsables to use with Vue3 and Vite",
@@ -54,11 +54,11 @@
             "date_modified": "2019-12-07T17:13:12.000Z"
         },
         {
-            "url": "https://bitstore.dev/blog/vue-nuxt-stagemanagement",
-            "title": "Nuxt 3 State Management in Vue",
-            "summary": "Nuxt 3 is coming with a new state management system. Let's take a look at how it works.",
-            "image": "https://bitstore.dev/assets/images/posts/vue-nuxt-stagemanagement.jpg",
-            "date_modified": "2020-05-04T21:37:39.798Z"
+            "url": "https://bitstore.dev/blog/vue-watch-vs-watcheffect",
+            "title": "Vue’s watch vs watchEffect, which should I use?",
+            "summary": "The core differences between the two so that you can use the best tool for the job in your day-to-day code",
+            "image": "https://bitstore.dev/assets/images/posts/vue-watch-vs-watcheffect.jpg",
+            "date_modified": "2019-12-06T17:13:12.000Z"
         }
     ]
 }
